@@ -1,7 +1,7 @@
 ---
 title: Fixing Hybrid Card Problem for Switchable Graphics
-date: 2025-01-04T21:44:58.602Z
-updated: 2025-01-10T00:13:01.399Z
+date: 2025-01-12T01:47:12.403Z
+updated: 2025-01-16T02:28:30.823Z
 tags:
   - win11
   - win10
@@ -37,19 +37,23 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -81,6 +85,10 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -88,11 +96,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -112,16 +116,12 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
@@ -142,24 +142,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-achieve-perfection-on-instagram-with-right-video-dimensions/"><u>[New] 2024 Approved Achieve Perfection on Instagram with Right Video Dimensions</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-free-professional-youtuber-backgrounds-for-2024/"><u>[Updated] Free Professional YouTuber Backgrounds for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-mastering-color-grading-with-gopro-studio-for-2024/"><u>[Updated] Mastering Color Grading with GoPro Studio for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boost-your-pc-with-updated-intel-hd-graphics-driver/"><u>Boost Your PC with Updated Intel HD Graphics Driver</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cured-fixing-nvidia-install-problems/"><u>Cured: Fixing NVIDIA Install Problems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/displaying-non-fullscreen-on-monitors-with-win10/"><u>Displaying Non-Fullscreen on Monitors with Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enabling-amd-freesync-with-incompatible-drivers/"><u>Enabling AMD FreeSync with Incompatible Drivers</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-charting-a-course-for-cash-flows-the-3-step-methodology-for-measuring-youtube-earnings/"><u>In 2024, Charting a Course for Cash Flows The 3-Step Methodology for Measuring YouTube Earnings</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-how-to-revert-macos-from-latest-to-classic-el-capitan/"><u>In 2024, How to Revert MacOS From Latest to Classic - El Capitan</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Realme C33 2023? | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209933425-9781913479138-lightworkers-gotta-work/"><u>Lightworkers Gotta Work | Free Book</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-tech-landscape-with-toms-hardware-expertise/"><u>Navigating the Tech Landscape with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://network-issues.techidaily.com/remedying-gpu-fan-non-operational-state/"><u>Remedying GPU Fan Non-Operational State</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/snapchat-my-ai-vs-microsofts-bing-chat-on-skype-breakdown-of-8-essential-disparities/"><u>Snapchat My AI Vs. Microsoft's Bing Chat on Skype – Breakdown of 8 Essential Disparities</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-system-freeze-repair-wdf-api-crashes-in-winos/"><u>Stop System Freeze: Repair WDF API Crashes in WinOS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlock-high-dpi-settings-on-latest-window-11-update/"><u>Unlock High-DPI Settings on Latest Window 11 Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unveiled-the-concealed-direct-x-flaw-in-gameplay-lol/"><u>Unveiled the Concealed Direct X Flaw in Gameplay LoL</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/upgrading-msdn-drivers-for-faster-results/"><u>Upgrading MSDN Drivers for Faster Results</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zero-hassle-fix-laptops-horizontal-borders/"><u>Zero Hassle: Fix Laptop's Horizontal Borders</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicated-error-12-hunt-masters-graphics-wofixed/"><u>[Eradicated] Error 12 - Hunt Master's Graphics WoFixed</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-a-meticulous-review-the-complete-guide-to-androids-lightroom/"><u>[New] A Meticulous Review The Complete Guide to Android's Lightroom</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamline-your-video-experience-with-advanced-vlc-techniques-macos/"><u>[New] Streamline Your Video Experience with Advanced VLC Techniques (macOS)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818085821-fast-track-to-flawless-apex-playtime/"><u>Fast Track to Flawless Apex Playtime!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-monitor-flickering-issues/"><u>How to Fix Monitor Flickering Issues</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-y28-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo Y28 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-social-media-insta-to-tiksync/"><u>In 2024, Mastering Social Media Insta-To-TikSync</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-premier-voice-command-conversion-apps-for-windows-users-for-2024/"><u>New Premier Voice Command Conversion Apps for Windows Users for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-error-correction-display-operational/"><u>Nvidia Error Correction: Display Operational</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimize-your-vr-experience-with-new-gpu-drivers/"><u>Optimize Your VR Experience with New GPU Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-windows-11-installation-error-code-c1900101/"><u>Overcoming Windows 11 Installation Error Code C1900101</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-visual-experience-post-dell-display-fixes/"><u>Smooth Visual Experience Post-Dell Display Fixes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/solutions-to-mitigate-vibrational-jello-in-uav-recordings/"><u>Solutions to Mitigate Vibrational Jello in UAV Recordings</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1728504533721-toshiba/"><u>Toshiba硬碟不能被閱讀 - 問題解決技巧解密</u></a></li>
 </ul></div>
 

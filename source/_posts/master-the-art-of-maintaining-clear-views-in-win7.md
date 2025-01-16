@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Maintaining Clear Views in Win7
-date: 2025-01-05T08:10:34.177Z
-updated: 2025-01-10T04:57:56.185Z
+date: 2025-01-09T00:39:49.321Z
+updated: 2025-01-16T00:06:27.685Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
 3. **[If you use Adobe Flash and Java, uninstall them](#f3)**
 4. **[Update your BIOS](#f4)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your drivers
 
  The screen of your Windows computer may flicker or blink frequently if your device drivers are faulty or outdated. You can update your device drivers, especially your graphics and chipset drivers, and see if this fixes your problem.
@@ -44,18 +48,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a90d9e8d.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a7534153.jpg)
 4. Restart your Windows 7 computer and check if your screen now works properly. If it doesn’t, contact Driver Easy’s**support team at <support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Check for hardware issues
 
@@ -77,11 +73,15 @@ To troubleshoot these hardware issues:
 2. In the view of**Category** , under**Programs** , click**Uninstall a program** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27f88435f4.jpg)
 3. Select the app you want to uninstall.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your Windows 7 computer and check if your screen flickering problem is resolved. If not, try Fix 4, below.
 
@@ -104,25 +104,25 @@ To troubleshoot these hardware issues:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** If there’re any instructions available in the downloaded file, make sure you follow the instructions strictly to update your BIOS. Or you can visit your BIOS manufacturer’s support site for a direct explanation of how to do so.
 6. Transfer the BIOS update file to a USB drive and keep the drive connected to your computer.
 7. Click the**Start** button > **power icon** \>**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92199f274f4.png)
 8. As soon as your computer shuts down, press repeatedly a specific key to enter BIOS. The key may vary, depending on your computer’s manufacturer.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re using**DELL** , press**F2** on your keyboard to access BIOS;  
  If you’re using**HP** , press**F10** or**F1** ;  
@@ -157,20 +157,24 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-social-synergy-connecting-the-two-giants/"><u>[New] 2024 Approved Social Synergy Connecting the Two Giants</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-littlecapture-reviews-on-small-recorder-apps/"><u>[New] In 2024, LittleCapture Reviews on Small Recorder Apps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-windows-11-display-too-big/"><u>[SOLVED] Windows 11 Display Too Big</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-transform-concepts-to-successful-youtube-titles/"><u>[Updated] In 2024, Transform Concepts to Successful YouTube Titles</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-ace-the-green-screen-scene-with-these-tips/"><u>2024 Approved Ace the Green Screen Scene with These Tips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cryptic-code-deciphered-direct-x-error-eradicated-in-league/"><u>Cryptic Code Deciphered: Direct X Error Eradicated in League</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/download-the-enhanced-nvidia-1060-drivers/"><u>Download the Enhanced Nvidia 1060 Drivers</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-nubia-z50-ultra-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Nubia Z50 Ultra Location Settings | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-laptop-display-on-tv-via-hdmi-pathway-restoration/"><u>Fixing Laptop Display on TV via HDMI Pathway Restoration</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-health-restored-after-detected-tdr/"><u>GPU Health Restored After Detected TDR</u></a></li>
-<li><a href="https://win-premium.techidaily.com/high-resolution-rwby-blake-character-wallpapers-and-visuals-download-now-on-yl-software/"><u>High-Resolution RWBY Blake Character Wallpapers & Visuals - Download Now on YL Software</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-the-c1900101-issue-during-windows-11-installation-process/"><u>Resolving the C1900101 Issue During Windows 11 Installation Process</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/saving-screen-configuration-job-well-done/"><u>Saving Screen Configuration, Job Well Done!</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/syncing-messages-between-iphones-seamlessly-no-backup-required/"><u>Syncing Messages Between iPhones Seamlessly, No Backup Required</u></a></li>
-<li><a href="https://program-issues.techidaily.com/why-isnt-my-cortana-responding-and-how-to-resolve-it/"><u>Why Isn't My Cortana Responding and How to Resolve It?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-deciphering-instagrams-video-snippet-size/"><u>[New] 2024 Approved Deciphering Instagram's Video Snippet Size</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-essential-recorder-applications-for-educators-for-2024/"><u>[New] Essential Recorder Applications for Educators for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gmail-to-zoom-tips-for-smooth-virtual-meeting-transitions/"><u>[New] Gmail to Zoom Tips for Smooth Virtual Meeting Transitions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-unleash-creativity-on-snapchat-with-immersive-boomerangs/"><u>[Updated] 2024 Approved Unleash Creativity on Snapchat with Immersive Boomerangs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/4k-uxga-gaming-the-asus-mg28uq-explained-for-2024/"><u>4K UXGA Gaming - The ASUS MG28UQ Explained for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/950-code-43-issue-in-windows-11-complete-guide/"><u>950 'Code 43' Issue in Windows 11 - Complete Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-graphics-card-unrecognized-on-windows-10-how-to-fix/"><u>AMD Graphics Card Unrecognized on Windows 10 - How to Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-radeon-gpu-unrecognized-in-windows-11-troubleshooting-steps/"><u>AMD Radeon GPU Unrecognized in Windows 11: Troubleshooting Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970964289-arbitration-proceedings-are-private-and-confidential-unlike-court-cases-they-do-not-become-part-of-the-public-record/"><u>Arbitration Proceedings Are Private and Confidential; Unlike Court Cases, They Do Not Become Part of the Public Record</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-your-fps-game-top-6-expert-strategies/"><u>Boost Your FPS Game: Top 6 Expert Strategies</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-flashfreeze-video-interruption-tip/"><u>In 2024, FlashFreeze Video Interruption Tip</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/reviewing-the-future-moto-z2s-intelligent-features-for-2024/"><u>Reviewing The Future Moto Z2's Intelligent Features for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/scriptwriting-for-sound-a-step-by-step-guide-with-examples-for-2024/"><u>Scriptwriting for Sound A Step-by-Step Guide with Examples for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-logitech-g-pro-x-solving-common-sound-problems/"><u>Troubleshooting Your Logitech G Pro X: Solving Common Sound Problems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/understanding-vulkan-runtime-libraries-exploring-functionality-and-troubleshooting/"><u>Understanding Vulkan Runtime Libraries – Exploring Functionality & Troubleshooting</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1724467299742-vulkan-runtime-libraries-what-is-it-and-what-to-do-about-it/"><u>Vulkan RunTime Libraries - What Is It and What to Do About It?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/what-is-my-screen-resolution-one-step-to-find-out/"><u>What Is My Screen Resolution? One Step to Find Out!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/youtube-troubleshooting-fixes-for-non-loading-videos/"><u>YouTube Troubleshooting: Fixes for Non-Loading Videos</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/youtube-video-not-showing-fixed/"><u>YouTube Video Not Showing [FIXED]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Techniques to Recover From GPU Faults with System Uptime
-date: 2025-01-07T17:46:08.769Z
-updated: 2025-01-09T16:38:28.680Z
+date: 2025-01-11T17:28:54.647Z
+updated: 2025-01-16T00:37:41.959Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes for the GPU crashes but PC stays on problem
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 7. **[Try a new GPU](#m7)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Stop overclocking your GPU
 
@@ -66,18 +62,22 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Repeat the same to remove the driver for your other display card if you have one.
 
 5. Then update your graphics card driver.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -111,10 +111,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Repair corrupted system files
 
  Corrupted or damaged system files can also cause problems like GPU crashing while the PC remains on. This is because the integrity of Windows system files is essential for proper operation and stability of the overall computer, while errors in critical system files can cause crashes, freezes, and problems that affect PC performance.
@@ -138,6 +134,10 @@ To use Fortect:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Check the GPU temperature
 
  It’s slightly mentioned above that overclocking GPU can produce more heat, but it’s also true that even if you’re not overclocking your GPU, it can also run hot when resource-intensive programs like games are running. When the GPU runs overheated, it crashes to protect itself and other PC hardware components from further damage.
@@ -150,19 +150,15 @@ To use Fortect:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
 3. Select **Performance** (the second icon).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-19.png)
 4. Select your**GPU** on the middle panel, then scroll down a bit to check the**GPU temperature** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-20.png)
 5. If you have a second GPU, do the same to check its temperture as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Even though the GPU temperatures differ for differet manufacturers and models, your GPU tempertures should be in the range from**65 to 85°C** (149° to 185°F) under normal usage.
 
@@ -182,6 +178,10 @@ To use Fortect:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-22.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don’t have the time or the energy to run such tests yourself, we also recommend that you seek help from a hardware technician instead, as such tests also require certain knowledge of computer hardware.
 
 ---
@@ -195,7 +195,7 @@ To use Fortect:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Try a new GPU
@@ -225,20 +225,22 @@ To use Fortect:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-quick-methods-syncing-ios-images-and-movies-to-windows/"><u>[New] Quick Methods Syncing iOS Images & Movies to Windows</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-maximizing-visual-storytelling-with-b-roll-integration-for-2024/"><u>[Updated] Maximizing Visual Storytelling with B Roll Integration for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/anticipate-these-top-3-groundbreaking-iphone-16-functions-and-why-they-warrant-an-immediate-upgrade-insights/"><u>Anticipate These Top 3 Groundbreaking iPhone 16 Functions & Why They Warrant an Immediate Upgrade! - Insights</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/assessing-the-value-of-4-second-rapid-subscriptions-on-youtube-for-2024/"><u>Assessing the Value of 4-Second Rapid Subscriptions on Youtube for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clear-sims-4-blackout-glitch/"><u>Clear Sims 4 Blackout Glitch</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-crashing-minecraft-on-pc-with-bad-cards/"><u>Fix Crashing Minecraft on PC with Bad Cards</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-vertical-lines-on-laptop-screen-easily/"><u>Fix Vertical Lines on Laptop Screen. Easily</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixed-monitor-not-displaying-full-screen-windows-10/"><u>Fixed: Monitor Not Displaying Full Screen Windows 10</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptops-graphics-performance-enhanced-in-windows-11/"><u>Laptop's Graphics Performance Enhanced in Windows 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/master-video-editing-turn-your-avis-into-stylish-shareable-gifs-with-filmora/"><u>Master Video Editing Turn Your AVIs Into Stylish, Shareable GIFs with Filmora</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-oscillating-on-screen-oracles/"><u>Overcoming Oscillating On-Screen Oracles</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-and-simple-fix-laptop-display-vertical-alignment/"><u>Quick & Simple Fix: Laptop Display Vertical Alignment</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-guide-obtain-and-set-up-your-intel-82579v-video-card-drivers-at-zero-expense/"><u>Quick Guide: Obtain & Set Up Your Intel 82579V Video Card Drivers at Zero Expense</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/understanding-and-uphold-points-in-tiktok-copyright-law/"><u>Understanding and Uphold Points in TikTok Copyright Law</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-dawn-of-a-new-era-key-fb-ad-trends-arriving/"><u>[New] In 2024, The Dawn of a New Era Key FB Ad Trends Arriving</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-transform-your-photos-removing-backdrops-with-ease-for-2024/"><u>[New] Transform Your Photos Removing Backdrops with Ease for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-freedom-from-popups-discover-the-top-7-android-adblock-apps/"><u>[Updated] Freedom From Popups? Discover the Top 7 Android AdBlock Apps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-how-to-host-an-engaging-online-livestream-event/"><u>[Updated] In 2024, How to Host an Engaging Online Livestream Event</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-riseabovemycam-cameras-of-tomorrow-for-2024/"><u>[Updated] RiseAboveMyCam Cameras of Tomorrow for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-potential-the-best-10-motivational-movies/"><u>[Updated] Unleash Potential The Best 10 Motivational Movies</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-driven-solutions-optimized-site-engagement-and-personalization/"><u>Cookiebot-Driven Solutions: Optimized Site Engagement and Personalization</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ending-lenovo-screen-flicker-phenomenon/"><u>Ending Lenovo Screen Flicker Phenomenon</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-youtube-playback-on-newly-upgraded-windows-11/"><u>Enhancing YouTube Playback on Newly Upgraded Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-rectify-unrecognized-video-cards/"><u>How to Rectify Unrecognized Video Cards</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-driver-available-windows-and-amd-graphics-card/"><u>No Driver Available: Windows & AMD Graphics Card</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/proven-strategies-for-saving-your-digital-discussions-google-meets/"><u>Proven Strategies for Saving Your Digital Discussions (Google Meets)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/repairing-flickering-lcd-issues-on-computers/"><u>Repairing Flickering LCD Issues on Computers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/setting-save-successful-after-glitch-fix/"><u>Setting Save Successful After Glitch Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shadows-lifted-direct-x-error-exposed-and-eliminated-from-lol/"><u>Shadows Lifted: Direct X Error Exposed & Eliminated From LoL</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/cketing-traffic-with-these-top-12-youtube-optimization-techniques-for-2024/"><u>Skyrocketing Traffic with These Top 12 YouTube Optimization Techniques for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-gameplay-quick-cure-for-amd-and-tarkov-gaffe/"><u>Smooth Gameplay: Quick Cure for AMD & Tarkov Gaffe</u></a></li>
 </ul></div>
 

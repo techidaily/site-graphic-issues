@@ -1,7 +1,7 @@
 ---
 title: Resolve Sims' White Screens Quickly
-date: 2025-01-04T05:46:33.060Z
-updated: 2025-01-10T08:30:37.612Z
+date: 2025-01-10T18:00:14.687Z
+updated: 2025-01-15T17:14:58.449Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/1a7d3ca8fe6d970809b1b434e9e4a753777f17419
 
  Trying to play**The Sims 4** but all it loads is a**white screen** ? You’re not alone. But don’t worry, it’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes for The Sims 4 White Screen
 
  Here are six fixes that have helped other users resolve the The Sims 4 white screen problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -32,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/1a7d3ca8fe6d970809b1b434e9e4a753777f17419
 4. **[Disable Origin in game](#F4)**
 5. **[Reinstall Origin and The Sims 4](#F5)**
 6. **[Does your PC meet the requirements?](#F6)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your device driver
 
@@ -89,10 +89,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Run the game and check if the white screen error is fixed.
 
  Still no joy? Please try **Fix 4** , below.
@@ -100,7 +96,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable Origin in game
@@ -113,6 +109,10 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-292.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**ORIGIN-IN-GAME** then turn_off_ the toggle for**Enable Origin in-Game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
@@ -122,7 +122,7 @@ Here are the steps:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and The Sims 4
@@ -135,13 +135,13 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Locate **The Sims 4** and uninstall it too.
 
@@ -154,6 +154,10 @@ Here are the steps:
  8) Run The Sims 4 and see if it plays smoothly.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Does your PC meet the requirements?
 
@@ -173,10 +177,6 @@ Here is how to check if your computer spec has met the requirements:
 **1)**  On your keyboard, press the **Windows logo**  key and **R** at the same time, then type **dxdiag** and press **Enter** to bring up DirectX Diagnostic Tool.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-957.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Check your **operating system, processor and memory** .
 
@@ -211,22 +211,20 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-the-commerce-catalyst-strategic-growth-on-tiktok-platforms/"><u>[New] 2024 Approved The Commerce Catalyst Strategic Growth on TikTok Platforms</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-unveiling-top-7-tiktok-devices-for-peak-performance/"><u>[New] 2024 Approved Unveiling Top 7 TikTok Devices for Peak Performance</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-expert-endorsed-asmr-microphones-unveiled/"><u>[New] In 2024, Expert-Endorsed ASMR Microphones Unveiled</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/asterclass-on-minimizing-video-footage-in-youtube-for-2024/"><u>[New] Masterclass on Minimizing Video Footage in YouTube for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-windows-10-display-too-big/"><u>[SOLVED] Windows 10 Display Too Big</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-tiktok-malfunctions-resetting-or-repairing-for-2024/"><u>[Updated] TikTok Malfunctions Resetting or Repairing for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-behind-the-mascara-youtubes-top-makeup-artists-unveiled/"><u>2024 Approved Behind the Mascara YouTube's Top Makeup Artists Unveiled</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-demystifying-youtube-analytics-views-subscriptions-and-profits/"><u>2024 Approved Demystifying YouTube Analytics Views, Subscriptions & Profits</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/end-pc-freezes-enjoy-uninterrupted-fallout-4-play/"><u>End PC Freezes, Enjoy Uninterrupted Fallout 4 Play</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhance-performance-install-new-gpu-drivers/"><u>Enhance Performance: Install New GPU Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-upside-down-screen-on-windows-11/"><u>Fixing Upside Down Screen on Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-address-gpu-anomalies-in-pcs/"><u>How to Address GPU Anomalies in PCs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-motorola-moto-g24-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Motorola Moto G24 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lenovo-shadows-be-gone/"><u>Lenovo Shadows Be Gone!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-graphic-support-detected/"><u>No Graphic Support Detected</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-screen-flashing-or-flickering-solved/"><u>Windows 10 Screen Flashing Or Flickering [SOLVED]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/god-of-war-enhancing-action-sequences/"><u>'God of War': Enhancing Action Sequences</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/it-explanation-of-dxgkrnlsys-bluescreen/"><u>[IT] Explanation of dxgkrnl.sys BlueScreen</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-enhance-visibility-a-comprehensive-guide-to-video-tagging/"><u>[New] 2024 Approved Enhance Visibility A Comprehensive Guide to Video Tagging</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-future-earning-potential-in-gaming-videos/"><u>[Updated] 2024 Approved Future Earning Potential in Gaming Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-strategizing-visibility-for-podcasts-through-design/"><u>[Updated] 2024 Approved Strategizing Visibility for Podcasts Through Design</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-arcade-affordability-index/"><u>[Updated] In 2024, ARCADE AFFORDABILITY INDEX</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-budget-friendly-4k-imaging-sources/"><u>[Updated] In 2024, Budget-Friendly 4K Imaging Sources</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/breaking-barriers-strategies-to-enhance-multicultural-communication/"><u>Breaking Barriers: Strategies to Enhance Multicultural Communication</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-eye-exhaustion-cure-for-monitor-flickering/"><u>Eliminate Eye Exhaustion: Cure for Monitor Flickering</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improving-screen-extension-on-windows-10-systems/"><u>Improving Screen Extension on Windows 10 Systems</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/joke-jamboree-twitters-10-best-comedy-threads/"><u>Joke Jamboree Twitter's 10 Best Comedy Threads</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/opengl-and-tdr-alert-overcome-thanks-to-nvidia/"><u>OpenGL & TDR Alert Overcome - Thanks to NVIDIA!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-screen-shape-in-win11/"><u>Resolved Screen Shape in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-rtx-3080-crashes-with-ease/"><u>Stop RTX 3080 Crashes with Ease</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-s18-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo S18 Pro | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Reversing High-DPI Lockup: Windows 11'S Fix"
-date: 2025-01-06T17:22:19.751Z
-updated: 2025-01-10T02:25:13.652Z
+date: 2025-01-13T23:57:16.574Z
+updated: 2025-01-15T19:23:38.659Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
  Can’t change the screen resolution on Windows 10 and now everything looks so blurry? You’re not alone – many Windows users have also been in the same situation. But don’t worry, it’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix can’t change resolution on Windows 10
 
  Here are three fixes that have helped other users resolve the_can’t change resolution on Windows 10_ problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -29,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 1. **[Update your graphics driver](#F1)**
 2. **[Uninstall graphics driver and reinstall](#F2)**
 3. **[Turn on GPU Scaling](#F3)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -54,11 +46,19 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if you can adjust the screen resolution properly. If yes, then great! If the issue remains, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Uninstall graphics driver and reinstall
 
@@ -74,12 +74,16 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -87,10 +91,6 @@ Here is how to do it:
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3:**Turn on GPU Scaling**
 
@@ -106,15 +106,15 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
@@ -148,17 +148,21 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-prime-10-editors-seamless-image-transformation-pro/"><u>[New] Prime 10 Editors Seamless Image Transformation Pro</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-shoot-with-confidence-the-beginners-guide-to-cameras/"><u>[New] Shoot with Confidence - The Beginner's Guide to Cameras</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-optimize-your-brand-presence-on-youtube-with-video-embellishments/"><u>[Updated] Optimize Your Brand Presence on YouTube with Video Embellishments</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adjusting-display-edges-vertically/"><u>Adjusting Display Edges Vertically</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-dilemma-resolved-settings-saved/"><u>Display Dilemma Resolved, Settings Saved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphic-set-up-not-functioning-properly/"><u>Graphic Set Up: Not Functioning Properly</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-craft-your-own-story-10-best-cost-free-ios-photo-collage-tools/"><u>In 2024, Craft Your Own Story 10 Best, Cost-Free iOS Photo Collage Tools</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-utilizing-zooms-snap-functionality/"><u>In 2024, Utilizing Zoom's Snap Functionality</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/masterpieces-without-barriers-publicly-available-artwork-for-2024/"><u>Masterpieces Without Barriers Publicly Available Artwork for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-misbehaving-cant-show-full-screen-11-windows/"><u>Monitor Misbehaving: Can't Show Full Screen 11 Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-size-control-achieved-in-new-version-of-windows-11/"><u>Screen Size Control Achieved in New Version of Windows 11</u></a></li>
-<li><a href="https://win-tips.techidaily.com/step-by-step-guide-capturing-a-screenshot-on-your-mac/"><u>Step-by-Step Guide: Capturing a Screenshot on Your Mac</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-accessing-global-hitters-the-1-6-short-video-downloaders/"><u>[New] In 2024, Accessing Global Hitters The #1-#6 Short Video Downloaders</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-expand-your-reach-top-tactics-to-amplify-fb-clout/"><u>[Updated] 2024 Approved Expand Your Reach Top Tactics to Amplify FB Clout</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-intro-magic-unmatched-editors-across-all-tech/"><u>[Updated] Intro Magic Unmatched Editors Across All Tech</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-efficient-media-transformation-with-actionable-steps-from-xml/"><u>2024 Approved Efficient Media Transformation with Actionable Steps From XML</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjust-monitor-edges-achieve-clarity-and-comfort/"><u>Adjust Monitor Edges, Achieve Clarity & Comfort</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-screen-resolution-adjustment-in-win11/"><u>Enhanced Screen Resolution Adjustment in Win11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-6-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 6 Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-iphone-7-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, iPhone 7 Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/innovative-fixes-for-streamlining-your-youtube-background-effects/"><u>Innovative Fixes for Streamlining Your YouTube Background Effects</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/masterful-guide-to-win8s-protective-measures-and-gpu-drivers-elimination/"><u>Masterful Guide to WIN8's Protective Measures and GPU Drivers Elimination</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/neural-plasticity-is-the-brains-ability-to-change-structurally-and-functionally-in-response-to-experiences-learning-or-injury/"><u>Neural Plasticity Is the Brain's Ability to Change Structurally and Functionally in Response to Experiences, Learning, or Injury.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-images-new-gpu/"><u>No Images - New GPU?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolvingscreenreversal-problems/"><u>ResolvingScreenReversal Problems</u></a></li>
+<li><a href="https://discover-great.techidaily.com/transfer-contact-list-from-android-device-to-iphone-with-these-5-simple-methods/"><u>Transfer Contact List From Android Device to iPhone with These 5 Simple Methods</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-unavailable-display-modes/"><u>Troubleshooting Unavailable Display Modes</u></a></li>
+<li><a href="https://facebook.techidaily.com/world-cup-fans-turn-away-from-snapchat-and-facebook-over-online-insults/"><u>World Cup Fans Turn Away From Snapchat and Facebook Over Online Insults</u></a></li>
 </ul></div>
 

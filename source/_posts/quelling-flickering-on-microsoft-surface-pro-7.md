@@ -1,7 +1,7 @@
 ---
 title: Quelling Flickering on Microsoft Surface Pro 7
-date: 2025-01-06T04:32:54.833Z
-updated: 2025-01-09T16:57:26.578Z
+date: 2025-01-13T01:30:01.753Z
+updated: 2025-01-15T19:48:31.429Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 4. **[Change the refresh rate](#h4)**
 5. **[Run the System File Checker](#h5)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Disable adaptive brightness
 
  This is the first thing you should try because it’s simple and effective. Many users find turning off**Change brightness automatically when lighting changes** helps them solve the flickering issue.
@@ -66,10 +62,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The MSI file allows you to selectively install or deploy individual drivers, or the MSI will install all relevant drivers automatically.
 
 **Automatically (recommended) –** If you are not familiar with installing drivers, and if you don’t have the time to update your graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -84,13 +76,13 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/update-all.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
@@ -98,10 +90,6 @@ Here’s how you can update your drivers with Driver Easy:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  After updating your drivers, restart your computer and check if your screen flickering has been resolved by now. If not, you can contact our support team for further assistance or request a refund (if you’re using the Pro Version).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Close unnecessary apps
 
@@ -117,6 +105,10 @@ Here’s how you can update your drivers with Driver Easy:
 
  If there’s a problem with one of your favorite applications, you can try [**performing a clean boot**](https://support.microsoft.com/en-us/topic/how-to-perform-a-clean-boot-in-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Change the refresh rate
 
  The refresh rate of your Surface Pro 7’s display can cause some input lag, therefore you can notice some screen flickering. To fix it, here’s what you need to do:
@@ -124,6 +116,10 @@ Here’s how you can update your drivers with Driver Easy:
  1) Right-click on the**Start Men** u of your desktop screen and click **Display settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Within settings, select**System** .
 
@@ -141,11 +137,11 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now check if the screen of your Surface Pro 7 stops flickering. If the flickering persists, you can try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Run the System File Checker
 
@@ -161,6 +157,10 @@ Here’s how you can update your drivers with Driver Easy:
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) is a computer repair software that can diagnose problems on your computer and fix them immediately.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
@@ -183,7 +183,7 @@ Now check your screen to see if the flickering issue is resolved by now.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) When prompted for permission to make changes to your device, click**Yes** .
@@ -217,18 +217,20 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-ace-the-sky-best-drones-and-their-precision-editing-companions-for-2024/"><u>[New] Ace the Sky Best Drones & Their Precision Editing Companions for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ree-online-offer-enjoy-a-gallery-of-50-youtube-banners-now-for-2024/"><u>[New] Free Online Offer Enjoy a Gallery of 50 YouTube Banners Now for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-light-shadow-and-subtlety-in-film-coloring-for-2024/"><u>[New] Light, Shadow & Subtlety in Film Coloring for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-turn-back-the-tape-on-twitch-broadcasting/"><u>[Updated] Turn Back the Tape on Twitch Broadcasting</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-youtube-video-shooting-equipment-list-what-you-need-to-start-recording-videos/"><u>[Updated] YouTube Video Shooting Equipment List What You Need to Start Recording Videos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/achieving-compatibility-with-minimal-hardware/"><u>Achieving Compatibility with Minimal Hardware</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/code-assistants-clash-github-copilot-vs-chatgpt-battle/"><u>Code Assistants Clash: GitHub Copilot Vs. ChatGPT Battle</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/final-cut-face-off-what-sets-pro-apart-from-express/"><u>Final Cut Face-Off What Sets Pro Apart From Express</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/focused-repairs-nvidia-cards-sans-displays/"><u>Focused Repairs: NVIDIA Cards Sans Displays</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/geforce-experience-not-working-solved/"><u>GeForce Experience Not Working [SOLVED]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlock-potential-intel-graphics-on-underpowered-devices/"><u>Unlock Potential: Intel Graphics on Underpowered Devices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlocking-smooth-streaming-post-upgrade-win11/"><u>Unlocking Smooth Streaming Post-Upgrade Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlocking-system-safety-access-to-safe-mode-and-gpu-driver-removal-guide/"><u>Unlocking System Safety: Access to Safe Mode & GPU Driver Removal Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-top-5-cutting-edge-capture-apps-for-macos-users-for-2024/"><u>[New] Top 5 Cutting-Edge Capture Apps for macOS Users for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/recovered-nvidia-display-issue-settled/"><u>[Recovered] Nvidia Display Issue Settled</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-seamless-fb-content-to-mp3-transfer/"><u>[Updated] Seamless FB Content-to-MP3 Transfer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-achieve-peak-editing-quality-top-tier-luts-for-adobes-lightroom-users/"><u>2024 Approved Achieve Peak Editing Quality Top-Tier LUTs For Adobe's Lightroom Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-civ-5-failures-on-pc/"><u>Addressing CIV 5 Failures on PC</u></a></li>
+<li><a href="https://facebook.techidaily.com/building-a-noteworthy-and-authentic-online-self-image-on-fb/"><u>Building a Noteworthy and Authentic Online Self-Image on FB</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-driver-restorative-action-by-nvidia/"><u>Display Driver Restorative Action by Nvidia</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/diy-guide-to-repair-disk-drive-problems-for-better-performance-advice-by-yl-software-experts/"><u>DIY Guide to Repair Disk Drive Problems for Better Performance - Advice by YL Software Experts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/experience-customizable-music-coding-on-a-budget-the-tulip-creative-machine-runs-micropython-at-just-59/"><u>Experience Customizable Music Coding on a Budget – The Tulip Creative Machine Runs MicroPython at Just $59</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-decoding-the-secrets-to-efficient-cd-ripping-via-wmp/"><u>In 2024, Decoding the Secrets to Efficient Cd Ripping via WMP</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-scripting-journalisms-closing-statements/"><u>In 2024, Scripting Journalism's Closing Statements</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-faulty-display-resolved-solution/"><u>Lenovo Faulty Display, Resolved Solution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectified-graphical-glitch-nvidia-leads-the-way/"><u>Rectified Graphical Glitch - NVIDIA Leads the Way</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818203752-saving-screen-setup-finally-successful/"><u>Saving Screen Setup Finally Successful</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-screenshake-problem-solved/"><u>Windows 10 Screenshake - Problem Solved</u></a></li>
 </ul></div>
 

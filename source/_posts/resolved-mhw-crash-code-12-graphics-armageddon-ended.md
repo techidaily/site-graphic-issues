@@ -1,7 +1,7 @@
 ---
 title: "[Resolved] MHW Crash Code 12 - Graphics Armageddon Ended"
-date: 2025-01-09T04:37:18.177Z
-updated: 2025-01-10T03:52:31.500Z
+date: 2025-01-11T00:12:25.750Z
+updated: 2025-01-15T21:11:57.437Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-218.png)
 
  If you keep getting the**Err 12: Graphics device crashed** while playing**Monster Hunter World** , you’re certainly not alone. While this can be quite irritating, most of the time it is only a driver issue that can be fixes pretty easily…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes for err12: Graphics Device Crashed error
 
@@ -44,12 +40,16 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -68,23 +68,19 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-215.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Double-click on**Display adapters** (aka.**Graphics card** , **Video card**). Then double-click on**your graphics card** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-216.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the **Driver** tab > **Roll Back Driver** \> **OK** .
 
  4) Click **Yes** once asked to confirm the driver rollback.
 
  5) Restart your computer, then play a game again and see if the error in Monster Hunter World has been resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Repair system files
 
@@ -109,10 +105,6 @@ Here’s how to use Fortect to repair system files on your PC:
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [the Fortect support team](https://www.fortect.com/support/) .
 
 5) Restart your computer for the changes to take effect.
@@ -127,11 +119,19 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -163,20 +163,19 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/fixed-pubg-voice-chat-not-working-issues-easily/"><u>[FIXED] PUBG Voice Chat Not Working Issues Easily</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-crafting-visuals-in-ae-selecting-excellent-plugin-choices/"><u>[New] 2024 Approved Crafting Visuals in AE Selecting Excellent Plugin Choices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-elevate-presents-prime-online-retailers-for-personalized-wrapped-goodies/"><u>[New] Elevate Presents Prime Online Retailers for Personalized Wrapped Goodies</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-secrets-unveiled-creating-standout-tiktok-intros-on-mac-for-2024/"><u>[New] Secrets Unveiled Creating Standout TikTok Intros on Mac for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-5-recorder-picks-to-freeze-your-web-wanderings-in-time/"><u>[Updated] In 2024, Top 5 Recorder Picks to Freeze Your Web Wanderings in Time</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correct-misalignment-in-laptop-viewing-area/"><u>Correct Misalignment in Laptop Viewing Area</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correct-screen-misalignment-for-sharper-viewing/"><u>Correct Screen Misalignment for Sharper Viewing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/directx12-roadblock-halo-infinite-not-starting-up/"><u>DirectX12 Roadblock: Halo Infinite Not Starting Up</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-low-brightness-lenovo-monitors/"><u>Fixing Low-Brightness Lenovo Monitors</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/flicker-free-zone-swift-solution-to-monitor-failure/"><u>Flicker Free Zone: Swift Solution to Monitor Failure</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-xs-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone XS to Windows PC With Ease? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-y100i-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo Y100i Location Settings | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-error-corrected-display-fully-operational/"><u>Nvidia Error Corrected, Display Fully Operational</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-renaming-hurdles-in-file-management-for-windows-11-users/"><u>Overcoming Renaming Hurdles in File Management for Windows 11 Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/streamlining-intel-graphics-in-windows/"><u>Streamlining Intel Graphics in Windows</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-engaging-audiences-in-real-time-periscope-tips-for-2024/"><u>[New] Engaging Audiences in Real-Time Periscope Tips for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-maximizing-efficiency-video-capturing-in-adobe-presenter-for-2024/"><u>[New] Maximizing Efficiency Video Capturing in Adobe Presenter for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-enhance-video-quality-by-cutting-out-background-sounds-for-2024/"><u>[Updated] Enhance Video Quality by Cutting Out Background Sounds for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-six-simple-ways-to-ease-vr-headset-nausea/"><u>[Updated] Six Simple Ways to Ease VR Headset Nausea</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-balancing-main-footage-with-b-roll-to-avoid-overkill/"><u>2024 Approved Balancing Main Footage with B-Roll to Avoid Overkill</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-the-social-network-crossroad-instagram-and-tiktok/"><u>2024 Approved Navigating the Social Network Crossroad Instagram & TikTok</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-outputs-in-devices-with-realtek-sound-cards/"><u>Fixing Silent Outputs in Devices with Realtek Sound Cards</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/game-freeze-identify-incorrect-video-drivers/"><u>Game Freeze? Identify Incorrect Video Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/managing-oversized-windows-11-resolution/"><u>Managing Oversized Windows 11 Resolution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-sims-screen-blankness/"><u>Overcome Sims Screen Blankness</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-direct3d-launch-failure/"><u>Overcoming Direct3D Launch Failure</u></a></li>
+<li><a href="https://techidaily.com/remove-realme-lock-screen-without-password-realme-by-drfone-android-unlock-android-unlock/"><u>Remove Realme Lock Screen without Password(Realme )</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reoriented-notebook-display-for-comfort/"><u>Reoriented Notebook Display for Comfort</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/sideways-monitor-conversion-complete/"><u>Sideways Monitor Conversion Complete</u></a></li>
 </ul></div>
 

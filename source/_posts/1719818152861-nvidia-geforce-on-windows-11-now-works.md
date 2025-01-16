@@ -1,7 +1,7 @@
 ---
 title: Nvidia GeForce on Windows 11 - Now Works
-date: 2025-01-03T19:16:51.027Z
-updated: 2025-01-10T04:08:11.108Z
+date: 2025-01-09T02:56:26.066Z
+updated: 2025-01-15T16:01:29.290Z
 tags:
   - win11
   - win10
@@ -33,13 +33,17 @@ Remote administration programs such as LogMeIn, TeamViewer, GoToMyPC and LogMeIn
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59daf96a24dba.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Expand**Display adapters**and find **LogMeIn Mirror Driver**.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5795c85651576.png) 3) Right-click **LogMeIn Mirror Driver** and click **Uninstall** . ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5795c8b394548.png) 4) At the prompt window, tick the box for **Delete the driver software for this device**and **OK**. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5795c8e56537f.png) If you have some other remote access software or some third party device showing up under Display adapters, uninstall them as well. 5) Reboot your computer. 6) Try Windows Update again to see if you can upgrade to Windows 10\. If you need, you could install the driver for your LogMeIn Mirror Driver back on again after you have upgraded to Windows 10\. ```` ```` ``
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ``  Method 2: Clean Re-install Display Driver
@@ -48,18 +52,14 @@ Remote administration programs such as LogMeIn, TeamViewer, GoToMyPC and LogMeIn
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59daf96a24dba.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Expand**Display adapters**. Right-click your display device driver and click**Uninstall**.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5796d58e3edbb.png) 3) Tick the box for **Delete the driver software for this device** and click**OK**. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5796d5f49d3d4.png) 4) Then go to the icon on the top and click the**Scan**button.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5796d64350fba.png) 5) Open the folder where you place the downloaded graphics card driver and copy its address. 6) Go back to **Device Manager**  and right-click your display device driver,  which may be listed under **Other devices,** and click **Update Driver Software…** ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5796dabe1fa4f.png) 7) Click **Browse my computer for driver software.** ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5796dacf00084.png) 8)**Paste**the location of the downloaded file to the input box here and click **Next**. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5796dbeb0cb49.png)  Wait for the system to help you with the installation. 9) Reboot your computer for the change to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ```` ```` ``  Method 3: Update Display Driver
@@ -84,19 +84,20 @@ If the above method doesn’t work for you, you need to update your display card
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-auditory-cataloguing-pc-noises-and-speech-recordings/"><u>[New] Auditory Cataloguing PC Noises & Speech Recordings</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nstant-guide-image-to-thumbnail-magic-for-your-youtube-channel/"><u>[New] Instant Guide Image-To-Thumbnail Magic for Your YouTube Channel</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/deciding-between-ipad-pro-models-a-detailed-comparison-of-the-m1-vs-m2-for-tech-enthusiasts/"><u>Deciding Between iPad Pro Models: A Detailed Comparison of the M1 Vs. M2 for Tech Enthusiasts</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elevate-your-biz-game-youtube-channels-that-succeeded/"><u>Elevate Your Biz Game YouTube Channels That Succeeded</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhancing-youtube-playback-on-newly-upgraded-windows-11/"><u>Enhancing YouTube Playback on Newly Upgraded Windows 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-performance-of-linksys-wrt1900acs-a-detailed-open-source-wi-fi-router-assessment/"><u>Exploring the Performance of Linksys WRT1900ACS: A Detailed Open Source Wi-Fi Router Assessment</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-huawei-nova-y91-frp-by-drfone-android/"><u>Full Guide to Bypass Huawei Nova Y91 FRP</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-rectify-unrecognized-video-cards/"><u>How to Rectify Unrecognized Video Cards</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-driver-available-windows-and-amd-graphics-card/"><u>No Driver Available: Windows & AMD Graphics Card</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/schnell-konvertieren-von-wma-in-mp3-unter-windows-und-macos-3-einfache-methoden/"><u>Schnell Konvertieren Von WMA in MP3 Unter Windows Und macOS: 3 Einfache Methoden</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/setting-save-successful-after-glitch-fix/"><u>Setting Save Successful After Glitch Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/shadows-lifted-direct-x-error-exposed-and-eliminated-from-lol/"><u>Shadows Lifted: Direct X Error Exposed & Eliminated From LoL</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smooth-gameplay-quick-cure-for-amd-and-tarkov-gaffe/"><u>Smooth Gameplay: Quick Cure for AMD & Tarkov Gaffe</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/xbox-series-x-unveiled-experience-gaming-in-stunning-4k-resolution/"><u>Xbox Series X Unveiled: Experience Gaming in Stunning 4K Resolution</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-morning-judgment-creative-viewpoints/"><u>[New] 2024 Approved Morning Judgment Creative Viewpoints</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-elevating-video-experience-non-youtube-hubs-explained-for-2024/"><u>[Updated] Elevating Video Experience Non-Youtube Hubs Explained for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-the-fine-art-of-instagram-photo-borders/"><u>[Updated] In 2024, Mastering the Fine Art of Instagram Photo Borders</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/a-beginners-path-to-creating-engaging-fb-covers/"><u>A Beginner’s Path to Creating Engaging FB Covers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/downsize-window-space-in-win-10/"><u>Downsize Window Space in WIN 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/drive-performance-streamlined-installation-of-intel-gfx-driver-for-win11/"><u>Drive Performance: Streamlined Installation of Intel GFX Driver for Win11</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ng-mastery-executing-a-3-step-procedure-to-evaluate-your-youtube-income/"><u>Earning Mastery Executing a 3-Step Procedure to Evaluate Your YouTube Income</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-hulu-streaming-errors-after-win11s-latest-update/"><u>Fixing Hulu Streaming Errors After Win11's Latest Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guide-for-fixing-common-windows-11-error-code-c1900101/"><u>Guide for Fixing Common Windows 11 Error Code: C1900101</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-master-the-art-of-playing-gb-classics-on-a-windows-pc/"><u>In 2024, Master the Art of Playing GB Classics on a Windows PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-vivo-s17-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Vivo S17 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-expert-approved-highlight-video-makers-for-any-device/"><u>New Expert-Approved Highlight Video Makers for Any Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-serenity-eradicate-flickering-mishaps/"><u>Screen Serenity: Eradicate Flickering Mishaps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/sharp-focus-quick-cure-for-amd-and-tarkov-bug/"><u>Sharp Focus: Quick Cure for AMD & Tarkov Bug</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/understanding-windows-8s-safety-sequence-how-to-remove-graphics-drivers/"><u>Understanding Windows 8'S Safety Sequence: How to Remove Graphics Drivers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Stop Windows 10 Screen Flashing Woes
-date: 2025-01-02T16:59:18.206Z
-updated: 2025-01-09T23:26:01.302Z
+date: 2025-01-10T18:39:15.140Z
+updated: 2025-01-15T21:15:11.736Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Change the monitor refresh rate
 
  A refresh rate is the number of times in a second that images are refreshed. Generally a higher refresh rate produces a smoother picture and less screen flickering or flashing issue. So we might have to change the monitor refresh rate to find the most suited one for your PC monitor.
@@ -47,14 +43,18 @@ Here is how to change the monitor refresh rate:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15608e1352.jpg)
 3. Click**Display adapter properties for Display 1** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15652a5261.jpg)
 4. Click**Monitor** , then click the**Screen refresh rate** drop-down menu to select the one most suited for your monitor and click**OK** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1586141729.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1586141729.jpg)
 
  Does that work for your issue? If yes, then great! But if it doesn’t change a thing, you should try**Fix 2** , below.
 
@@ -78,10 +78,6 @@ Here is how to change the monitor refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -91,7 +87,7 @@ Here is how to change the monitor refresh rate:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Disable Problem Reports and Solution Control Panel Support and Windows Error Reporting Service
@@ -107,24 +103,24 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16a01b5afa.jpg)
 3. Scroll down to**Windows Error Reporting Service** , right-click on it and click**Stop** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16ad7ae8af.jpg)
 4. Check if the**screen is flashing** problem has been resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update the incompatible apps
 
  Some apps such as Norton AV, iCloud, and IDT Audio are known to cause compatibility issues in Windows and hence the screen flickering issue. If you have any of them installed, you should check their official website for an update to see if there’s a bug fixfor this in them.
 
  If you have installed any other app and the screen flashing issue occurs ever since then it’s very likely that app is to blame. Make sure it’s not malware and check its official website for an update if possible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -163,6 +159,10 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
@@ -196,21 +196,22 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-audio-to-action-mp3-to-youtube-conversion-journey-for-2024/"><u>[New] From Audio to Action MP3-to-YouTube Conversion Journey for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/urning-viewers-into-revenue-key-video-figures/"><u>[New] Turning Viewers Into Revenue Key Video Figures</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-wirecast-versus-obs-which-broadcasting-tool-reigns-supreme/"><u>[New] Wirecast Versus OBS Which Broadcasting Tool Reigns Supreme?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-which-screen-recorder-excels-obs-or-fraps/"><u>[Updated] In 2024, Which Screen Recorder Excels OBS or Fraps?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cure-for-cpus-disregard-for-hardware-cards/"><u>Cure for CPU's Disregard for Hardware Cards</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminating-erratic-behavior-hp-lcds/"><u>Eliminating Erratic Behavior: HP LCDs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/enhancing-video-clarity-upgrading-hd-and-4k-with-artificial-intelligence-techniques/"><u>Enhancing Video Clarity: Upgrading HD and 4K with Artificial Intelligence Techniques</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhancing-visual-acuity-of-game-ui-graphics/"><u>Enhancing Visual Acuity of Game UI Graphics</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/explainer-video-software-showdown-top-picks/"><u>Explainer Video Software Showdown Top Picks</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-motorola-defy-2-easily-by-drfone-android/"><u>How To Unlock a Motorola Defy 2 Easily?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptops-display-straighten-out-lines-now/"><u>Laptop's Display: Straighten Out Lines Now</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/miniature-drone-selection-expert-recommendations-for-2024/"><u>Miniature Drone Selection Expert Recommendations for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overwatch-graphic-incompatibility-resolved/"><u>Overwatch: Graphic Incompatibility Resolved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/recovered-cursor-from-win11-blank-screens/"><u>Recovered Cursor From Win11 Blank Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solve-video-stuttering-issues-quickly-and-easily/"><u>Solve Video Stuttering Issues. Quickly & Easily</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/stabilizing-urban-planning-gameplay-corrective-steps-for-skyline-cities-2-pc-crashes/"><u>Stabilizing Urban Planning Gameplay: Corrective Steps for Skyline Cities 2 PC Crashes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-sound-digitization-audiovisual-preservation/"><u>[Updated] Sound Digitization Audiovisual Preservation</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-fundamentals-of-income-for-t-series-on-youtube/"><u>2024 Approved The Fundamentals of Income for T-Series on YouTube</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-blinky-a-step-by-step-guide-to-screen-stability/"><u>Banish Blinky: A Step-by-Step Guide to Screen Stability</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/corrected-aspect-ratio-for-flexible-display/"><u>Corrected Aspect Ratio for Flexible Display</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972498661-effortless-solutions-to-tackle-elgato-hd60-controller-issues-today/"><u>Effortless Solutions to Tackle Elgato HD60 Controller Issues Today</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-display-brightness-on-portable-devices/"><u>Enhancing Display Brightness on Portable Devices</u></a></li>
+<li><a href="https://win-unique.techidaily.com/essential-tips-for-diagnosing-and-fixing-graphics-card-glitches-from-experts-at-yl-software/"><u>Essential Tips for Diagnosing and Fixing Graphics Card Glitches From Experts at YL Software</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/from-silence-to-symphony-adding-music-and-voices-in-reels/"><u>From Silence to Symphony Adding Music & Voices in Reels</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-immediately-fix-non-responsive-dp-connections/"><u>How to Immediately Fix Non-Responsive DP Connections</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720669299489-inadequate-video-editing-results-from-stellar-tools/"><u>Inadequate Video Editing Results From Stellar Tools</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/intelligent-drivers-streamlining-the-update-process-of-intel-graphic-cards/"><u>Intelligent Drivers: Streamlining the Update Process of Intel Graphic Cards</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/investigating-the-sudden-angle-shift-in-instagrams-videos/"><u>Investigating the Sudden Angle Shift in Instagrams Videos</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719579097915-mondly-wins-chairmans-award-at-2021-witsa-global-ict-excellence-awards/"><u>Mondly Wins Chairman's Award At 2021 WITSA Global ICT Excellence Awards</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-flicker-issues-in-windows-7/"><u>Overcoming Flicker Issues in Windows 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/removing-network-errors-in-multiplayer-civ-5/"><u>Removing Network Errors in Multiplayer CIV 5</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simplified-system-safeguard-techniques-entrance-into-safe-mode-and-drivers-rids/"><u>Simplified System Safeguard Techniques: Entrance Into Safe Mode & Drivers Rids</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/simplify-your-skype-interviews-how-to-perfectly-capture-every-moment/"><u>Simplify Your Skype Interviews: How to Perfectly Capture Every Moment</u></a></li>
 </ul></div>
 

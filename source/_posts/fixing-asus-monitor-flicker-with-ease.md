@@ -1,7 +1,7 @@
 ---
 title: Fixing ASUS Monitor Flicker with Ease
-date: 2025-01-02T16:22:25.017Z
-updated: 2025-01-09T16:13:54.676Z
+date: 2025-01-08T17:24:46.925Z
+updated: 2025-01-15T22:33:06.029Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/e1ed595629cf0acf64739097580ce2ff94b530231
 
  If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. It’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes For ASUS Laptop Screen Flickering In Windows 11, 10, & 7
 
  Here are 4 fixes that have helped other users resolve the screen flickering on ASUS laptop issue. Just work your way down the list until you find the one that works for you.
@@ -28,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/e1ed595629cf0acf64739097580ce2ff94b530231
 4. **[Repair corrupted system files](#ADD)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 1: Change the screen refresh rate**  
@@ -46,15 +50,11 @@ thumbnail: https://thmb.techidaily.com/e1ed595629cf0acf64739097580ce2ff94b530231
 2. In**Related settings** , click**Advanced display** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
@@ -74,7 +74,15 @@ thumbnail: https://thmb.techidaily.com/e1ed595629cf0acf64739097580ce2ff94b530231
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update or delete incompatible apps
 
@@ -100,17 +108,9 @@ thumbnail: https://thmb.techidaily.com/e1ed595629cf0acf64739097580ce2ff94b530231
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -156,19 +156,22 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-premier-5-time-lapse-camera-apps/"><u>[New] Premier 5 Time-Lapse Camera Apps</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-efficient-gaming-footage-with-camcapture/"><u>[Updated] Efficient Gaming Footage with CamCapture</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-reflective-window-issue-in-windows-11/"><u>Addressing Reflective Window Issue in Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bringing-alive-the-idle-gpu-fan/"><u>Bringing Alive the Idle GPU Fan</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-a78-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo A78</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-displays-when-not-to-panic-but-fixes/"><u>Laptop Displays: When Not to Panic, But Fixes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lenovo-touch-screen-not-working-solved/"><u>Lenovo Touch Screen Not Working [SOLVED]</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209870630-9780578475011-maha-reiki-master-teaching-manual/"><u>Maha Reiki Master Teaching Manual | Free Book</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/new-graphics-horizon-radeon-hd-6950-updates-for-windows-10-users/"><u>New Graphics Horizon: Radeon HD 6950 Updates for Windows 10 Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-laptop-display-flashes-unstably/"><u>Resolved: Laptop Display Flashes Unstably</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-deck-which-one-fits-you/"><u>Steam Deck: Which One Fits You?</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/troubleshooting-steps-for-when-your-pc-doesnt-recognize-the-hard-disk-insights-by-yl-tech-experts/"><u>Troubleshooting Steps for When Your PC Doesn't Recognize the Hard Disk - Insights by YL Tech Experts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-launch-minecraft-successfully-on-windows-systems/"><u>Troubleshooting Steps to Launch Minecraft Successfully on Windows Systems</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unveiling-the-finest-no-cost-recording-software-today/"><u>Unveiling the Finest No-Cost Recording Software Today</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-keeping-your-audience-engaged-in-a-revised-social-lands-ward/"><u>[New] 2024 Approved Keeping Your Audience Engaged in a Revised Social Lands Ward</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-complete-guide-to-iphone-speech-recordings/"><u>[Updated] 2024 Approved The Complete Guide to iPhone Speech Recordings</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-crafting-depth-3d-text-designs-in-illustrator/"><u>[Updated] In 2024, Crafting Depth 3D Text Designs in Illustrator</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/3-simple-methods-to-brighten-a-video-on-iphone-for-2024/"><u>3 Simple Methods to Brighten a Video on iPhone for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/asymmetric-screen-aligned-on-notebooks/"><u>Asymmetric Screen Aligned on Notebooks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banishing-blue-screen-solve-wdf-crashes-on-winos/"><u>Banishing Blue Screen: Solve WDF Crashes on WinOS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/beat-blackout-blankness-in-sims/"><u>Beat Blackout Blankness in Sims</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clearing-up-distorted-text-in-far-cry-game/"><u>Clearing Up Distorted Text in Far Cry Game</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clearing-up-unresponsive-black-screen-cursor/"><u>Clearing Up Unresponsive Black Screen, Cursor</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicating-plex-streaming-faults-in-windows-11/"><u>Eradicating Plex Streaming Faults in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-r9-graphics-drivers-for-windows-10-users/"><u>Fixing R9 Graphics Drivers for Windows 10 Users</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-se-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For Apple iPhone SE?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-data-management-in-excel-techniques-for-combining-multiple-columns-efficiently/"><u>Mastering Data Management in Excel: Techniques for Combining Multiple Columns Efficiently</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-graphics-card-black-screen-or-no-display/"><u>New Graphics Card Black Screen or No Display</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/rapid-revamp-of-images-navigating-the-photos-editor-in-win10-for-2024/"><u>Rapid Revamp of Images Navigating the Photos Editor in WIN10 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-sound-connection-a-podcasters-guide-for-2024/"><u>Ultimate Sound Connection A Podcaster's Guide for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-how-to-create-a-picture-in-picture-effect-using-final-cut-pro-for-2024/"><u>Updated How to Create a Picture-in-Picture Effect Using Final Cut Pro for 2024</u></a></li>
 </ul></div>
 

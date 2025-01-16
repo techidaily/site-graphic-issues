@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Restore Windows 11 Taskbar Functionality
-date: 2025-01-06T06:53:18.933Z
-updated: 2025-01-09T17:08:08.863Z
+date: 2025-01-13T23:40:47.003Z
+updated: 2025-01-15T23:07:23.275Z
 tags:
   - win11
   - win10
@@ -33,7 +33,7 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **DirectX**          | **DirectX 11.0**    |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Recommended system requirements for Fortnite
@@ -47,6 +47,10 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **HDD Space**        | **20 GB**                                                    |
 | **DirectX**          | **DirectX 11.0**                                             |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -59,10 +63,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 6. [**Unblock the game from Windows Firewall**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Lower graphics settings
 
@@ -117,6 +117,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your computer and run Fortnite to check the black screen issue will appear or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 ### Method 4: Use your integrated graphics card
@@ -135,20 +139,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display.jpg)
 2. In the Display tab, find Scale and layout.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Change the scaling limit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display1.jpg)
 4. Reboot Fortnite and check whether this problem is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 6: Unblock the game from Windows Firewall
@@ -162,12 +158,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall.jpg)
 3. Find Fortnite and check whether it has been blocked or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click**Change Settings** if it does and check all the boxes to enable the app through the firewall.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall-1.jpg)
 5. Reboot Fortnite and check whether this problem is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -193,18 +193,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-ultimate-guide-to-live-streaming-on-facebook/"><u>[New] 2024 Approved The Ultimate Guide to Live Streaming on Facebook</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/raft-standout-videos-with-professional-free-banner-samples-for-2024/"><u>[New] Craft Standout Videos with Professional, Free Banner Samples for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-solve-facebook-messenger-not-sending-videos-on-iphone-and-android/"><u>[New] Solve “Facebook Messenger Not Sending Videos” On iPhone and Android</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-lenovo-laptop-black-screen-issues/"><u>[SOLVED] Lenovo Laptop Black Screen Issues</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-step-by-written-by-john-smith-phd/"><u>2024 Approved Step-By Written by John Smith, PhD</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amds-failed-loader-in-win10-issue-addressed/"><u>AMD's Failed Loader in Win10, Issue Addressed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/claude-vs-chatgpt-which-ai-takes-the-lead-in-conversational-agents/"><u>Claude Vs. ChatGPT: Which AI Takes the Lead in Conversational Agents?</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-performance-flush-steam-dns-on-pc/"><u>Enhancing Performance: Flush Steam DNS on PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/failed-to-create-a-graphics-device-on-windows-fixed/"><u>Failed to Create a Graphics Device on Windows [Fixed]</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/missing-hdmi-interface-for-gpus/"><u>Missing HDMI Interface for GPUs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oneplus-nord-n30-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best OnePlus Nord N30 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-nvidia-card-conflict-resolved/"><u>Win11-NVIDIA Card: Conflict Resolved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cracked-addressing-and-fixing-game-crashes-in-pc-version-of-zombie-army-4-dead-war/"><u>[CRACKED] Addressing & Fixing Game Crashes in PC Version of Zombie Army 4: Dead War</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-8-most-critical-blunders-to-elude-as-a-rookie-youtuber/"><u>[New] In 2024, The 8 Most Critical Blunders to Elude as a Rookie YouTuber</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-conquering-dxgkrnlsys-blue-screen/"><u>[System] Conquering dxgkrnl.sys Blue Screen</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-a-brief-guide-to-kickstarting-conversations-on-instagram/"><u>[Updated] A Brief Guide to Kickstarting Conversations on Instagram</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-high-quality-sfpr-settings-for-deliberate-moments-for-2024/"><u>[Updated] High-Quality SFPR Settings for Deliberate Moments for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-uncovering-histories-student-favored-youtubes-on-historic-events/"><u>[Updated] Uncovering Histories Student-Favored YouTubes on Historic Events</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/addressing-the-error-in-latest-ipad-debut-expert-insights-and-resolutions/"><u>Addressing the Error in Latest iPad Debut: Expert Insights and Resolutions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amds-software-unsupported-on-older-version-of-windows/"><u>AMD's Software Unsupported on Older Version of Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-launcher-no-more-setbacks/"><u>Direct3D Launcher: No More Setbacks</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-lenovo-x1-carbon-driver-updates-for-windows-710-quick-download-steps/"><u>Get Lenovo X1 Carbon Driver Updates for Windows 7/10: Quick Download Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-asus-atk0110-acpi-controller-drivers-for-free/"><u>Get Your ASUS ATK0110 ACPI Controller Drivers for Free!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-driver-update-geforce-gtx-1060-drivers-download-and-update/"><u>Nvidia Driver Update | GeForce GTX 1060 Drivers Download and Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unmatched-speed-in-revamping-intel-gfx-for-windows-users/"><u>Unmatched Speed in Revamping Intel GFX for WIndows Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-achieved-ideal-screen-res/"><u>Win10: Achieved Ideal Screen Res</u></a></li>
 </ul></div>
 

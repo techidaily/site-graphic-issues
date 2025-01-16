@@ -1,7 +1,7 @@
 ---
 title: "ASUS LCD Glare No More: Your Guide to a Clearer View"
-date: 2025-01-03T03:32:50.396Z
-updated: 2025-01-09T21:49:35.454Z
+date: 2025-01-12T19:03:12.292Z
+updated: 2025-01-15T17:28:33.703Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 3. **[Update your graphics driver](#F3)**
 4. **[Repair corrupted system files](#ADD)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 1: Change the screen refresh rate**  
 
  Changing the screen refresh rate to 60 Hertz is an effective way reported by many users to fix the**ASUS laptop screen flickering** problem. To do so:
@@ -48,12 +44,12 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
 5. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try **[Fix 2](#F2)** .
@@ -64,15 +60,11 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 2. Click**Advanced settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
@@ -89,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 * If no, then chances are some apps are incompatible in your Windows system. Think of any recently installed apps and try to update or delete them to see if it solves the**ASUS laptop screen flickering** issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -108,11 +104,19 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if the ASUS laptop screen flickering issue has been solved.
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](mailto:support@drivereasy.com) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortectdetects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -156,18 +156,22 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-unifying-media-files-from-desktop-to-iphone/"><u>[Updated] Unifying Media Files From Desktop to iPhone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1-streamline-your-media-the-ultimate-guide-to-converting-dvds-into-digital-format/"><u>1. Streamline Your Media: The Ultimate Guide to Converting DVDs Into Digital Format</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-innovative-visual-communication-how-to-place-titles-on-videos-using-photos/"><u>2024 Approved Innovative Visual Communication How to Place Titles on Videos Using Photos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boosted-graphics-latest-w11-geforce-210-drivers-rollout/"><u>Boosted Graphics: Latest W11 GeForce 210 Drivers Rollout</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/collecting-classics-copyrights-released-for-2024/"><u>Collecting Classics Copyrights Released for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-yt-thumbnails-downloading-via-browser-app-and-command-line/"><u>In 2024, YT Thumbnails Downloading via Browser, App & Command Line</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-photo-text-edits-online-and-app-guide/"><u>Mastering Photo Text Edits Online & App Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigate-network-needs-skilled-approaches-to-file-movement-on-computer/"><u>Navigate Network Needs Skilled Approaches to File Movement on Computer</u></a></li>
-<li><a href="https://extra-information.techidaily.com/perfecting-iphone-timelapse-techniques/"><u>Perfecting iPhone Timelapse Techniques</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-installation-guide-thrustmaster-t150-gamepad-driver-download/"><u>Quick & Easy Installation Guide: Thrustmaster T150 Gamepad Driver Download</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/shatter-sims-monochrome-mistake/"><u>Shatter Sims’ Monochrome Mistake</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/visual-rendering-unsuccessful-initially/"><u>Visual Rendering Unsuccessful Initially</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-upgrade-laptops-graphics-output-improved/"><u>Win11 Upgrade: Laptop's Graphics Output Improved</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-report-on-djis-inspire-1/"><u>[New] Comprehensive Report on DJI's Inspire 1</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-ultimate-guide-for-effortless-youtube-shorts-design/"><u>[Updated] In 2024, The Ultimate Guide for Effortless YouTube Shorts Design</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-lava-yuva-2-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Lava Yuva 2 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjusting-screen-horizon-alignment/"><u>Adjusting Screen Horizon Alignment</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/blackout-alert-driver-change/"><u>Blackout Alert: Driver Change</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortlessly-upgrade-intels-gfx-in-windows-10/"><u>Effortlessly Upgrade Intels GFX in WIndows 10</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/engaging-audiences-facebook-live-meets-tv-for-2024/"><u>Engaging Audiences Facebook Live Meets TV for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/genaue-einwilligungen-fur-ihre-daten-entdecken-sie-die-aomei-datenschutzerklarung-im-trust-center/"><u>Genaue Einwilligungen Für Ihre Daten: Entdecken Sie Die AOMEI-Datenschutzerklärung Im Trust Center</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-y78plus-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo Y78+ Phone that is Locked?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818083028-optimize-stream-quality-instantly/"><u>Optimize Stream Quality Instantly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/reviewing-the-value-proposition-of-a-4tb-patriot-viper-vp4300-lite-solid-state-drive/"><u>Reviewing the Value Proposition of a 4TB Patriot Viper VP4300 Lite Solid State Drive</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-out-visual-rendering-errors/"><u>Smooth Out Visual Rendering Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-non-spinning-gpu-fans/"><u>Troubleshooting Non-Spinning GPU Fans</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unbeatable-deal-alert-apples-m2-mac-mini-now-just-479-find-out-why-tech-experts-are-buzzing/"><u>Unbeatable Deal Alert: Apple's M2 Mac Mini Now Just $479 - Find Out Why Tech Experts Are Buzzing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-the-glitch-top-free-online-effect-generators/"><u>Unleash the Glitch Top Free Online Effect Generators</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-amd-detection-error-now-fixed/"><u>Windows 10 AMD: Detection Error, Now Fixed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-xp-vista-no-drivers-for-amd-card-required/"><u>Windows XP, Vista - No Drivers for AMD Card Required</u></a></li>
 </ul></div>
 

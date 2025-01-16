@@ -1,7 +1,7 @@
 ---
 title: Tackling Intel/Nvidia Graphic Swapping Issue
-date: 2025-01-02T22:16:11.268Z
-updated: 2025-01-09T19:58:14.439Z
+date: 2025-01-12T21:47:12.778Z
+updated: 2025-01-15T20:38:48.467Z
 tags:
   - win11
   - win10
@@ -25,12 +25,16 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What does switchable graphics mean?
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I fix my problem switchable graphic cards?
 
@@ -46,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
@@ -88,7 +96,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -98,7 +106,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
@@ -111,17 +119,9 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
@@ -142,21 +142,24 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-ace-your-social-media-game-essential-video-marketing-techniques-on-facebook/"><u>[New] 2024 Approved Ace Your Social Media Game Essential Video Marketing Techniques on Facebook</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-thorough-analysis-for-easy-dynamic-range-photography/"><u>[New] 2024 Approved Thorough Analysis for Easy Dynamic Range Photography</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-top-10-gif-utilities-compatible-with-ios-devices-for-2024/"><u>[New] Top 10 GIF Utilities Compatible with iOS Devices for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-hdmi-laptop-to-tv-not-working/"><u>[Solved] HDMI Laptop to TV Not Working</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-dissecting-magixs-visual-archiving-system-for-2024/"><u>[Updated] Dissecting MAGIX's Visual Archiving System for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-surprise-your-friends-with-these-unheard-memes/"><u>[Updated] In 2024, Surprise Your Friends with These Unheard Memes</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/p-zero-charge-web-tools-to-craft-videos-for-2024/"><u>10 Top Zero-Charge Web Tools to Craft Videos for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/changing-the-soundtrack-of-conversation-whatsapp-ringtones-for-ios-android-for-2024/"><u>Changing the Soundtrack of Conversation WhatsApp Ringtones for iOS, Android for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correctedscreensideup-troubleshooting/"><u>CorrectedScreensideUp Troubleshooting</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eradicating-refresh-glitches-in-windows-10/"><u>Eradicating Refresh Glitches in Windows 10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-motorola-edgeplus-2023-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Motorola Edge+ (2023)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-lost-display-and-cursor-in-win10/"><u>Restoring Lost Display and Cursor in Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/steps-to-address-ignored-graphics-on-your-pc/"><u>Steps to Address Ignored Graphics on Your PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unresponsive-laptop-screen-identifying-issues-and-fixes/"><u>Unresponsive Laptop Screen – Identifying Issues & Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-storage-type-ssd-vs-hdd/"><u>Unveiling Storage Type: SSD vs HDD</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-resolved-intel-and-nvidia-graphics-switch/"><u>Windows 10: Resolved Intel & Nvidia Graphics Switch</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-essential-guide-to-capturing-switch-on-film/"><u>[New] 2024 Approved The Essential Guide to Capturing Switch on Film</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-7-creative-video-concepts-to-boost-your-fitness-channel-for-2024/"><u>[New] 7 Creative Video Concepts to Boost Your Fitness Channel for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-efficient-digital-voice-alteration-for-vtubers/"><u>[Updated] In 2024, Efficient Digital Voice Alteration for VTubers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comment-resoudre-les-erreurs-de-lecture-hevc-sur-windows-xpvista7/"><u>Comment Résoudre Les Erreurs De Lecture HEVC Sur Windows (XP/Vista/7)</u></a></li>
+<li><a href="https://win-popular.techidaily.com/comprehensive-guide-understanding-the-impact-of-microsoft-exchange-server-breach-insights-from-zdnet/"><u>Comprehensive Guide: Understanding the Impact of Microsoft Exchange Server Breach - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-tools-for-adding-framing-to-digital-pictures-2023-edition/"><u>Essential Tools for Adding Framing to Digital Pictures - 2023 Edition</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/get-error-this-computer-does-not-meet-the-minimum-requirement-for-installing-software-when-installing-intel-graphics-driver/"><u>Get Error “This Computer Does Not Meet the Minimum Requirement for Installing Software.” When Installing Intel Graphics Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/instantly-boost-your-pc-with-intel-3000-update/"><u>Instantly Boost Your PC with Intel 3000 Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-discord-resource-management-cutting-down-on-cpu-drain-pro-guide/"><u>Mastering Discord Resource Management: Cutting Down on CPU Drain - Pro Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedy-inverted-display-issue-in-windows-10-fix/"><u>Remedy Inverted Display Issue in Windows 10 [Fix]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-fall-update-screen-hurdles/"><u>Resolving Fall Update Screen Hurdles</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-windows-graphic-functions/"><u>Restored Windows Graphic Functions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reversescreenrotation-troubleshooting/"><u>ReverseScreenRotation Troubleshooting</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/software-requirements-defied-installing-intell-graphics/"><u>Software Requirements Defied: Installing Intell Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-surface-pro-7s-screenshot-stutter/"><u>Solving Surface Pro 7'S Screenshot Stutter</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-best-free-imovie-replacements-you-need-to-know-about-for-2024/"><u>The Best Free iMovie Replacements You Need to Know About for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-worlds-best-educational-websites-for-e-learning/"><u>Ultimate Guide to World's Best Educational Websites for E-Learning</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unpacking-the-efficiency-and-portability-of-the-jaco-smartpro-digital-tire-inflator-an-informative-review/"><u>Unpacking the Efficiency and Portability of the Jaco SmartPro Digital Tire Inflator – An Informative Review</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgrading-screen-clarity-for-far-cry-texts/"><u>Upgrading Screen Clarity for Far Cry Texts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: NVIDIA GPU Missing BIOS [Resolved]
-date: 2025-01-07T08:27:00.263Z
-updated: 2025-01-09T20:58:46.767Z
+date: 2025-01-14T18:10:35.822Z
+updated: 2025-01-15T19:23:26.385Z
 tags:
   - win11
   - win10
@@ -36,14 +36,22 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 ![how to open Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg) [](https://tools.techidaily.com/drivereasy/download/)
  2\. In the Command Prompt, type **set devmgr\_show\_nonpresent\_devices=1** , and then press**Enter** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-set-devmgr_show_nonpresent_devices1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3\. At the same Command Prompt, type**start devmgmt.msc** , and then press**Enter** . This is to open the Device Manager window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-start-devmgmt.msc_.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4\. Once the Device Manager window opens, click the**View** menu and select**Show hidden devices** from the drop-down menu. After that, Any devices that are not connected to the computer will be shown, including the NVIDIA Graphics card.
@@ -57,12 +65,16 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Device-Manager-Other-devices-Uninstall.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : NVIDIA graphics card may not be shown as its own device name. It could be an unknown device, video controller, etc. If you are not sure how to identify it, just uninstall the device that has a yellow mark on it.
 
  6\. After uninstalling, restart your computer then Windows will reinstall the driver automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update the NVIDIA Graphics Driver
 
@@ -85,21 +97,9 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
  (Note: This will prompt an upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy offers a 7-day trial period with access to premium features like high-speed downloads and one-click installations. You won’t be charged until the trial ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/11/DE-update-all-NVIDIA-6.0.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Method 3: Restore BIOS to Default**
 
  If you are **an** advanced computer user, you may already know how to enter BIOS and restore it to default. If not, contact your PC manufacturer or technician who you could ask for assistance to help with this, as modifying BIOS settings incorrectly can cause serious problems.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Method 4: Update BIOS**
 
@@ -120,22 +120,22 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-resource-hub-free-high-quality-slide-decks-and-ideas/"><u>[New] Resource Hub Free, High-Quality Slide Decks and Ideas</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-reversing-live-action-on-twitch-a-comprehensive-guide/"><u>[New] Reversing Live Action on Twitch A Comprehensive Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/affordable-style-meets-functionality-in-the-moto-g-stylus-a-comprehensive-review/"><u>Affordable Style Meets Functionality in the Moto G Stylus - A Comprehensive Review</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/diagnosing-and-repairing-the-recurrent-crashes-in-fuelstation-pro-simulator-for-pc-players/"><u>Diagnosing and Repairing the Recurrent Crashes in FuelStation Pro Simulator for PC Players</u></a></li>
-<li><a href="https://fox-search.techidaily.com/efficient-file-handling-mastering-ifile-component-usage/"><u>Efficient File Handling: Mastering iFile Component Usage</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/elite-desktops-and-laptops-for-superior-performance/"><u>Elite Desktops & Laptops for Superior Performance</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/how-tablet-processors-influence-your-choice-in-picks-and-pans/"><u>How Tablet Processors Influence Your Choice in Picks and Pans</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-htc-u23-pro-by-drfone-android-unlock-android-unlock/"><u>How to unlock HTC U23 Pro</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-stand-out-from-the-crowd-top-video-resume-builders-free-templates/"><u>New 2024 Approved Stand Out From the Crowd Top Video Resume Builders Free Templates</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/preserve-illustrations-saving-pngs-while-converting-docx-files/"><u>Preserve Illustrations: Saving PNGs While Converting DocX Files</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-windows-webcam-dark-screen-issue/"><u>Resolving Windows Webcam Dark Screen Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/samsung-galaxy-fit2-a-small-sized-powerful-gadget-for-health-and-fitness-enthusiasts/"><u>Samsung Galaxy Fit2: A Small-Sized, Powerful Gadget for Health and Fitness Enthusiasts</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/step-by-step-guide-to-restore-windows-11-taskbar-functionality/"><u>Step-by-Step Guide to Restore Windows 11 Taskbar Functionality</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-complete-review-of-gimp-affordable-versatile-image-editor-across-multiple-devices/"><u>The Complete Review of GIMP: Affordable, Versatile Image Editor Across Multiple Devices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-9-unique-chatgpt-add-ons-boost-your-productivity-today/"><u>Top 9 Unique ChatGPT Add-Ons: Boost Your Productivity Today</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unboxing-the-accessible-and-chic-moto-g-smartphone-featuring-a-stylus/"><u>Unboxing the Accessible and Chic Moto G Smartphone Featuring a Stylus</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/update-troubleshooting-how-to-successfully-refresh-your-minecraft-native-launcher/"><u>Update Troubleshooting - How To Successfully Refresh Your Minecraft Native Launcher</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-clandestine-scrollers-of-fb-stories/"><u>[New] 2024 Approved Clandestine Scrollers of Fb Stories</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/phone-expertise-continuous-video-play-for-2024/"><u>[New] IPhone Expertise Continuous Video Play for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-maximize-content-consumption-6-best-free-youtube-short-downloaders/"><u>[Updated] Maximize Content Consumption 6 Best Free YouTube Short Downloaders</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-simplified-transfer-tactics-from-iphone-to-computer/"><u>[Updated] Simplified Transfer Tactics From iPhone to Computer</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-escaping-boredom-with-laughter-20-wit-infused-jailmates-tales-from-fb/"><u>2024 Approved Escaping Boredom with Laughter 20 Wit-Infused Jailmates' Tales From Fb</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-shaky-to-steady-video-stabilization-techniques-in-fcpx/"><u>2024 Approved From Shaky to Steady Video Stabilization Techniques in FCPX</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-failed-to-load-detection-driver-on-windowas-10-solved/"><u>AMD: Failed to Load Detection Driver on Windowas 10 [SOLVED]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/awaken-your-lenovos-screen/"><u>Awaken Your Lenovo's Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-intel-and-nvidia-graphics-failure/"><u>Correcting Intel & Nvidia Graphics Failure</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211436288-9781800653931-crystals-for-everyday-living/"><u>Crystals for Everyday Living | Free Book</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-non-displayed-full-screen-in-win11/"><u>Fixing Non-Displayed Full Screen in Win11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-oneplus-open-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to OnePlus Open Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/modernize-your-system-intels-drivers-for-windows/"><u>Modernize Your System: Intel's Drivers for Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/realigning-distorted-displays-within-windows-10-systems/"><u>Realigning Distorted Displays Within Windows 10 Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reviving-your-black-screened-laptop/"><u>Reviving Your Black Screened Laptop</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/silencing-screenscape-shenanigans-in-pro-7/"><u>Silencing Screenscape Shenanigans in Pro 7</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upgrading-to-a-flagship-phone-dive-into-the-details-iphone-14-pro-vs-iphone-14-pro-max-reviewed-zdnet/"><u>Upgrading to a Flagship Phone? Dive Into the Details: IPhone 14 Pro vs iPhone 14 Pro Max Reviewed | ZDNet</u></a></li>
 </ul></div>
 

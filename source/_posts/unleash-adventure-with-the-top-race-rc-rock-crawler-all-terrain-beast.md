@@ -1,7 +1,7 @@
 ---
 title: Unleash Adventure with the Top Race RC Rock Crawler All-Terrain Beast!
-date: 2025-01-08T05:37:20.598Z
-updated: 2025-01-09T19:48:25.965Z
+date: 2025-01-09T17:13:07.525Z
+updated: 2025-01-16T00:39:55.210Z
 categories:
   - BestProducts
 description: This Article Describes Unleash Adventure with the Top Race RC Rock Crawler All-Terrain Beast!
@@ -12,10 +12,6 @@ thumbnail: https://www.lifewire.com/thmb/U61w9oeSndlbmvRUvyHRvRm0k6E=/400x300/fi
 ## Unleashing Power and Savings with the HP OMEN Obelisk Desktop Reviewed
 
 4
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## HP Omen Obelisk
 
@@ -45,10 +41,6 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/ltgwwtDrSkLcZMSVU6VX1rKcbaA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_HP-OMEN-Obelisk-Gaming-Desktop-Computer-1-56ba747009334162a328f46d8b4743af.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Jonno Hill
 
 [View On Amazon $950](https://www.amazon.com/dp/B07SW895CZ?tag=lifewire-onsite-prod-20&ascsubtag=5072832%7Cnbfa2130ffdd54ba8b950c4ad0f0be8b007%7CB07SW895CZ) [View On Microsoft](https://www.microsoft.com/en-us/p/hp-omen-obelisk-gaming-desktop/8rqn7sf9phfz?activetab=pivot%3aoverviewtab)
@@ -77,6 +69,10 @@ Lifewire / Jonno Hill
 
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/OXMiCXvzh8P7esVvbjPoSorzoxM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-2-7b14850c2ca84af39d5fd116ab483d5d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
 
 ## **Design** : **Nice looks and small footprint, with many reservations**
@@ -103,6 +99,10 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Performance** :**Great components for gaming and productivity**
 
  The HP OMEN Obelisk that I tested featured a 9th Gen Intel Core i9 9900K, 32GB of RAM, a 1TB SSD, and the Nvidia GTX GeForce 2080 Super graphics card. This is a potent combination of components in a gaming PC, and I was appropriately impressed by the results.
@@ -110,10 +110,6 @@ Lifewire / Jonno Hill
  The desktop scored an impressive 6,967 in the productivity-focused benchmarking application PCMark 10\. On the gaming front, the Omen managed a score of 10,740 in 3DMark’s Time Spy. In real-world use, this means more than 60fps at 4K in many popular titles like GTA V, but less than 60fps in others like Deus Ex: Mankind Divided. In other words, the Omen is mostly capable of 4K gameplay and is nearly always capable of 60+ fps in most common resolutions shy of 4K.
 
  The Omen comes equipped with a 1TB[NVMe SSD](https://www.lifewire.com/what-is-m2-833453) and 32GB of DDR4 2666 memory. This is definitely more RAM than games alone will call for, but it’s merely an adequate amount of RAM for some creative professionals working with more demanding software like Adobe After Effects. Keep in mind though, even those that don’t normally need a lot of RAM can still benefit from having more. Among other things, it gives you the luxury of keeping all of your browser tabs and background applications running without having to start juggling applications on and off, which can be helpful from a productivity standpoint.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Gaming** :**Great for the most demanding titles**
 
@@ -131,15 +127,15 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Network** :**Great speeds, but software that doesn’t do much**
 
  The HP Omen Obelisk has gigabit LAN and a Wi-Fi 5 (2x2) networking, the latter supporting a maximum speed of 866 Mbps. Everything functioned smoothly from a networking standpoint during my tests.
 
  I made a point to try out the Network Booster software found in the OMEN Command Center and didn’t see anything tremendously useful, unfortunately. I tried setting the priority of Steam to “Low” and downloading a game, but the game still downloaded at my maximum internet speed. I took it one step further and toggled the “Block” option for Steam, and tried to resume the download, but Steam kept on downloading at the maximum speed. The software was successful in blocking Chrome when that option was switched on, however.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Software: Just enough options**
 
@@ -151,6 +147,10 @@ Lifewire / Jonno Hill
 
  The option to overclock your system has you first run a nondescript benchmark, which produces a score with no reference point (to establish a baseline). While it’s nice to have the option, this really,_sincerely_ isn’t a system you want to be overclocking. The i9-9900K CPU already runs alarmingly hot, even with its pre-installed water cooling solution. There also isn’t enough room for anything beyond a 120mm AIO watercooler, and not nearly enough clearance for a popular air heatsink like the Noctua NH-D15.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: Highly competitive**
 
  The HP OMEN Obelisk with the same specs as this one can be found for around $2,000, at least when it’s in stock. Despite a lot of flaws that I can point to a nit-pick about, the price is one of the main reasons I still consider the OMEN to be a solid deal. I went through the trouble of parting out a similar build on PCPartPicker, going as far as to cut corners where I usually wouldn’t, and still arrived at just under $1800 before tax.
@@ -160,14 +160,10 @@ Lifewire / Jonno Hill
 ![HP OMEN Obelisk](https://www.lifewire.com/thmb/J3cZUfrEy-ALtFpRbDRhw7FZI8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HP-OMEN-Obelisk-Gaming-Desktop-Computer-4-f78d504d7bd348eca19b7e65b4d10289.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **HP OMEN Obelisk vs Corsair One Pro**
 
@@ -180,6 +176,10 @@ Lifewire / Jonno Hill
  **High performance and fantastic value, but upsetting thermals.**
 
  The HP OMEN Obelisk delivers fantastic value for gamers shopping for a high-performance, pre-built PC. HP has come a long way, and now offers a much more compelling solution that will appeal to a much broader set of buyers. That said, there is work to be done still, as the case suffers from poor airflow, poor thermals, and not a lot of meaningful ways to improve them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -215,20 +215,17 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-frame-loss-enigma-why-are-videos-cropped-by-imovie-in-2024/"><u>[New] Frame Loss Enigma Why Are Videos Cropped by iMovie, In 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-is-your-facebook-video-more-engaging-in-a-vertical-format-in-2024/"><u>[New] Is Your Facebook Video More Engaging in a Vertical Format, In 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-comprehensive-directory-of-premium-tamil-ringtone-downloads-for-2024/"><u>[Updated] Comprehensive Directory of Premium Tamil Ringtone Downloads for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-supreme-audiovisual-hints-pack/"><u>[Updated] Supreme Audiovisual Hints Pack</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bypass-game-lag-in-anthem/"><u>Bypass Game Lag in Anthem</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-artificer-intellect-which-reigns-supreme-chatgpt-plus-or-perplexity/"><u>Decoding Artificer Intellect: Which Reigns Supreme, ChatGPT Plus or Perplexity?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-itel-s23-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Itel S23 Face Lock?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-address-a-non-operational-laptop-screen/"><u>How to Address a Non-Operational Laptop Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-asus-rog-phone-7-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Asus ROG Phone 7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/making-microsofts-basic-driver-more-reliable/"><u>Making Microsoft's Basic Driver More Reliable</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-hdmi-link-between-notebook-and-television/"><u>Restoring HDMI Link Between Notebook & Television</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revitalized-nvidia-drivers-for-win11s-geforce-210/"><u>Revitalized NVIDIA Drivers for Win11's GeForce 210</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revived-infinity-sapphire-probe/"><u>Revived Infinity Sapphire Probe</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-enigma-of-direct-x-ends-with-a-patch-in-lol/"><u>The Enigma of Direct X Ends with a Patch in LoL</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/zipfile-subs-guide-from-archive-to-srt-file-format-for-2024/"><u>Zipfile Subs Guide From Archive to SRT File Format for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-best-practices-for-livestreaming-full-spheres-on-facebook/"><u>[Updated] 2024 Approved Best Practices for Livestreaming Full Spheres on Facebook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-start-to-finish-seamless-editing-with-kinemaster/"><u>2024 Approved From Start to Finish Seamless Editing with Kinemaster</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/alleviating-absence-of-aesthetic-screen-features/"><u>Alleviating Absence of Aesthetic Screen Features</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dxgkrnlsys-bsod-in-windows-reversed/"><u>dxgkrnl.sys BSoD in Windows Reversed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-black-screens-from-twitch-streams/"><u>Eliminating Black Screens From Twitch Streams</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-tecno-spark-10-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-smart-8-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Smart 8 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-nokia-c32-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Nokia C32 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-privilege-issues-in-windows-installer-errors/"><u>Strategies to Overcome Privilege Issues in Windows Installer Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-c1900101-error-on-windows-11-setup/"><u>Troubleshooting C1900101 Error on Windows 11 Setup</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/velvet-vaults-2022-olympic-skaters-for-2024/"><u>Velvet Vaults 2022 Olympic Skaters for 2024</u></a></li>
 </ul></div>
 

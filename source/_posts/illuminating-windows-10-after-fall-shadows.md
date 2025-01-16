@@ -1,7 +1,7 @@
 ---
 title: Illuminating Windows 10 After Fall Shadows
-date: 2025-01-05T18:35:58.905Z
-updated: 2025-01-09T20:31:11.079Z
+date: 2025-01-13T22:21:37.895Z
+updated: 2025-01-15T18:43:22.903Z
 tags:
   - win11
   - win10
@@ -21,23 +21,19 @@ thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425
 If you’ve upgraded to Windows 10 Fall Creators Update and you find that your PC runs into a black screen, you’re not alone. Many Windows 10 users are reporting this problem. But no worries, it’s possible to fix. Here in this post, we provide you with 3 fixes. You don’t need to try them all; just work your way down until you find the one works for you.   **Method 1:[Unplug your external devices](#m1)**   **Method 2:[Reinstall display card driver](#m2)**   **Method 3:[Update display card driver](#m3)** **IMPORTANT:**  You’ll need to be logged into Windows on the problem computer to try any of these solutions. If you can’t log into Windows, power on and off your PC 3 times to perform a hard reboot and [restart it in Safe Mode](https://tools.techidaily.com/drivereasy/download/) , then try these solutions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Unplug your external devices
 
  Sometimes, your PC’s external devices can be the cause of the black screen problems, for example, when you have too many external devices plugged in. Unplug all your external devices and then plug them back on one by one. This helps you determine which device is causing the problem. Once you find out the faulty device, you need to contact its manufacturer and see if they can provide support.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Reinstall display card driver
 
 **Note**: You should do the uninstall in [**Safe Mode**](https://tools.techidaily.com/drivereasy/download/). Faulty display card drivers can be the cause of this problem as well. You can reinstall the correct display card driver to your system and get this problem solved: 1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5811a625cdad7.png) and**R**at the same time. Type **devmgmt.msc** and press **Enter**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c24493dcfb1.png)
@@ -45,7 +41,7 @@ If you’ve upgraded to Windows 10 Fall Creators Update and you find that your P
 2) Expand **Display adapters**. Double-click your display driver. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/display-adapters-expand.jpg)  3) Click **Driver** and **Uninstall** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/uninstall-display-adpater.jpg)  4) Click **Yes** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/confirm-device-uninstall.png) 5) Restart your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update display card driver
@@ -55,12 +51,16 @@ If the above method doesn’t help, you need to check if there is newer version 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c245c4a6b9e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Click the**Update**button next to the flagged display card to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c2460315f83.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -77,19 +77,18 @@ If the above method doesn’t help, you need to check if there is newer version 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-initial-recording-analysis-a-critique/"><u>[Updated] 2024 Approved Initial Recording Analysis A Critique</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-leveraging-hashtags-to-skyrocket-your-engagement/"><u>[Updated] 2024 Approved Leveraging Hashtags to Skyrocket Your Engagement</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-full-guide-to-enhancing-photos-with-facetune-app/"><u>[Updated] Full Guide to Enhancing Photos with Facetune App</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-vivas-video-experience/"><u>2024 Approved Exploring Viva's Video Experience</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/976813-9781101603871-buddhas-book-of-sleep/"><u>Buddha's Book of Sleep | Free Book</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/diy-fix-resolving-low-quality-image-output-from-your-scanner-expert-tips-by-yl-computing/"><u>DIY Fix: Resolving Low-Quality Image Output From Your Scanner - Expert Tips by YL Computing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-and-tricks-for-optimizing-your-meta-quest-headsets-microphone/"><u>Expert Tips and Tricks for Optimizing Your Meta Quest Headset's Microphone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-card-problem-43-cleared-up/"><u>Graphics Card Problem 43 Cleared Up</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-vivo-v29-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo V29 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/illuminate-lenovo-lack-of-color/"><u>Illuminate Lenovo Lack of Color</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-dlc-installation-crashes-civ-5/"><u>Overcoming DLC Installation Crashes Civ 5</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/scale-down-windows-monitor-size/"><u>Scale Down Windows Monitor Size</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-getting-your-mac-to-acknowledge-external-displays/"><u>Step-by-Step Solution: Getting Your Mac to Acknowledge External Displays</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stopping-lcd-flash-in-hp-devices/"><u>Stopping LCD Flash in HP Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-instant-ideas-recording-ppts-with-ease/"><u>[New] 2024 Approved Instant Ideas Recording PPTs with Ease</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-art-of-sharing-horizontals-in-igtvs-vertical-world/"><u>[New] In 2024, The Art of Sharing Horizontals in IGTV's Vertical World</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-your-daily-diary-staying-fresh-and-avoiding-common-mistakes/"><u>[New] Your Daily Diary Staying Fresh & Avoiding Common Mistakes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-11-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 11 in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/1728483016209-usb/"><u>恢复 USB 存储盘被错删的部分区域 - 一个全面指南</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-surface-pro-7s-erratic-screen-behavior/"><u>Addressing Surface Pro 7'S Erratic Screen Behavior</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comparing-the-latest-samsung-galaxy-s23-ultra-vs-s21-ultra/"><u>Comparing the Latest: Samsung Galaxy S23 Ultra Vs. S21 Ultra</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correct-panel-misalignment-problems/"><u>Correct Panel Misalignment Problems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/efficient-methods-for-sharing-powerful-ppt-in-google-meet-sessions/"><u>Efficient Methods for Sharing Powerful PPT in Google Meet Sessions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-get-past-the-c1900101-error-during-win10-installation/"><u>How To Get Past the C1900101 Error During Win10 Installation</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-gpu-fixes-opengl-driver-snafu/"><u>NVIDIA GPU Fixes OpenGL Driver Snafu</u></a></li>
+<li><a href="https://extra-information.techidaily.com/time-saving-techniques-from-complicated-srt-to-simplified-txt/"><u>Time-Saving Techniques From Complicated SRT to Simplified TXT</u></a></li>
 </ul></div>
 

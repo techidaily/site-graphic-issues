@@ -1,7 +1,7 @@
 ---
 title: Methods to Deter Inconsistent Displays in HP
-date: 2025-01-09T01:10:12.672Z
-updated: 2025-01-09T16:29:26.238Z
+date: 2025-01-11T23:55:56.542Z
+updated: 2025-01-15T19:49:39.978Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/4da3de972356b3a0046491847cf09381445449045
  Screen flickering or blinking on your HP laptop? Don’t panic, it’s often not hard to fix at all…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes for HP laptop flickering or blinking
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/4da3de972356b3a0046491847cf09381445449045
 2. [**Update your display driver**](#F2)
 3. [**Change the screen refresh rate**](#F3)
 4. **[Repair corrupted system files](#ADD)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
 
@@ -88,7 +92,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In **Resolution** , click the drop-down menu and make sure **the recommended resolution** is selected.
@@ -96,7 +100,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
@@ -107,10 +111,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Adjust the screen resolution one by one in the drop-down menu and see if there’s one that solves the screen flickering problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
@@ -118,7 +118,7 @@ Here is how to do it:
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
@@ -158,20 +158,15 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-connecting-the-dots-televisions-meet-facebook-lives/"><u>[Updated] 2024 Approved Connecting the Dots Televisions Meet Facebook Lives</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-timeframe-equation-for-20mb-content/"><u>[Updated] 2024 Approved Timeframe Equation for 20MB Content</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-ideal-set-of-8-backdrops-to-personalize-mbp-design/"><u>[Updated] In 2024, Ideal Set of 8 Backdrops to Personalize MBP Design</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/alert-over-opengl-driver-error-resolved-by-nvidias-effort/"><u>Alert Over: OpenGL Driver Error Resolved by Nvidia's Effort</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amd-radeon-r9-display-driver-issues-on-windows-11-solved/"><u>AMD Radeon R9 Display Driver Issues on Windows 11 [Solved]</u></a></li>
-<li><a href="https://win-data.techidaily.com/comprehensive-walkthrough-installing-a-solid-state-drive-in-place-of-an-older-hard-disk-on-your-asus-laptop/"><u>Comprehensive Walkthrough: Installing a Solid State Drive in Place of an Older Hard Disk on Your Asus Laptop</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-blackout-mystery/"><u>Display Blackout Mystery</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptops-inconsistent-flashing-issue-resolved-fixed/"><u>Laptop's Inconsistent Flashing: Issue Resolved [Fixed]</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-lava-yuva-2-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Lava Yuva 2</u></a></li>
-<li><a href="https://os-tips.techidaily.com/silence-intrusive-numbers-on-your-iphone-tips-for-blocking-sms/"><u>Silence Intrusive Numbers on Your iPhone: Tips for Blocking SMS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722971561572-soil-composition-preferences-including-ph-level-organic-matter-content-and-drainage-properties/"><u>Soil Composition Preferences Including pH Level, Organic Matter Content, and Drainage Properties</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/steady-screen-a-guide-for-pro-7-owners/"><u>Steady Screen: A Guide for Pro 7 Owners</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-how-to-safely-duplicate-secure-dvds-on-your-pc/"><u>Step-by-Step Guide: How to Safely Duplicate Secure DVDs on Your PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackle-loading-lags-head-on/"><u>Tackle Loading Lags Head-On</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-non-gpu-activity-in-win1011-systems/"><u>Troubleshooting Non-GPU Activity in Win10/11 Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-blurry-displays-with-win11/"><u>Eliminating Blurry Displays with Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-pixel-gap-phenomena-computer-screens/"><u>Fix Pixel Gap Phenomena (Computer Screens)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-examining-benq-sw320-the-4k-visionary/"><u>In 2024, Examining BenQ SW320 The 4K Visionary</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-honor-90-lite-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Honor 90 Lite to Another | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/master-the-art-of-maintaining-clear-views-in-win7/"><u>Master the Art of Maintaining Clear Views in Win7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-direct3d-deployment-achieved/"><u>Seamless Direct3D Deployment Achieved</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-portable-solar-power-packs-a-comprehensive-review-by-techradar/"><u>Top-Rated Portable Solar Power Packs : A Comprehensive Review by TechRadar</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unlocking-the-potential-of-animation-in-your-screencasts/"><u>Unlocking the Potential of Animation in Your Screencasts</u></a></li>
 </ul></div>
 

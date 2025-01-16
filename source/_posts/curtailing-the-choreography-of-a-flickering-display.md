@@ -1,7 +1,7 @@
 ---
 title: Curtailing the Choreography of a Flickering Display
-date: 2025-01-08T01:39:04.298Z
-updated: 2025-01-10T00:58:26.851Z
+date: 2025-01-10T01:32:52.280Z
+updated: 2025-01-15T16:50:19.523Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/23e666886afecfc048aeb4d50e179c98091d3b2c2
 2. **[Update or delete incompatible apps](#F2)**
 3. **[Update your graphics driver](#F3)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Change the screen refresh rate**
 
  Changing the screen refresh rate to 60 Hertz is an effective way reported by many users to fix the**Acer laptop screen flickering** problem.
@@ -42,6 +46,10 @@ Here is how to change the screen refresh rate:
 
 ![This image has an empty alt attribute; its file name is img_5b5ed31f478c3.jpg](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed31f478c3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Scroll down to **Multiple displays** and click **Advanced display settings** .
 
 ![This image has an empty alt attribute; its file name is img_5b5ed39ec0c51.jpg](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed39ec0c51.jpg)
@@ -54,10 +62,6 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Check to see if your **Acer laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [**Fix 2**](#F2) .
 
 #### **I’m using Windows 7:**
@@ -66,29 +70,21 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Advanced settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Check to see if your **Acer laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](#F2) [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update or delete incompatible apps
 
@@ -102,7 +98,7 @@ Here is how to change the screen refresh rate:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -118,6 +114,10 @@ Here is how to change the screen refresh rate:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Update All t** o automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -153,24 +153,24 @@ Here is how to change the screen refresh rate:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-from-separation-to-synergy-unite-obs-with-zoom/"><u>[New] 2024 Approved From Separation to Synergy Unite OBS with Zoom</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-list-of-window-screenshot-utilities/"><u>[New] Ultimate List of Window Screenshot Utilities</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-mac-enthusiasts-take-on-screenflow-software-review-for-2024/"><u>[Updated] Mac Enthusiast's Take on ScreenFlow Software Review for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-poco-m6-5g-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Poco M6 5G</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dampen-win11-screen-anomalies/"><u>Dampen Win11 Screen Anomalies</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-and-stabilize-no-more-pc-freezes-for-f4/"><u>Fix and Stabilize: No More PC Freezes for F4</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-drivers-restored-no-more-errors/"><u>Graphics Drivers Restored, No More Errors</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-the-most-recent-canon-mg2900-printer-drivers-installed-on-your-computer/"><u>How to Get the Most Recent Canon MG2900 Printer Drivers Installed on Your Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-window-systems-display-driver-troubleshooting-game/"><u>Mastering Window System’s Display Driver Troubleshooting Game</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectify-image-warping-screens/"><u>Rectify Image Warping Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reviving-hdmi-connection-between-notebook-and-television-screen/"><u>Reviving HDMI Connection Between Notebook and Television Screen</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/shape-business-visions-no-money-just-templates/"><u>Shape Business Visions - No Money, Just Templates</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellar-repair-available-for-immediate-download-and-purchase/"><u>Stellar Repair Available for Immediate Download and Purchase</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-screen-blunders-in-systems-pc/"><u>Stop Screen Blunders in Systems (PC)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-your-display-from-blinking-tips-and-tricks/"><u>Stop Your Display From Blinking: Tips & Tricks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successful-load-fix-amd-and-windows-10-detection/"><u>Successful Load Fix: AMD & Windows 10 Detection</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-m-mock-1000a-the-supreme-18000mah-vehicle-booster-assessment/"><u>Ultimate Guide: M Mock 1000A - The Supreme 18000mAh Vehicle Booster Assessment</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unveiling-high-definition-the-essence-of-4k/"><u>Unveiling High Definition: The Essence of 4K</u></a></li>
-<li><a href="https://article-helps.techidaily.com/waveform-whispering-how-to-gradually-reduce-volume-in-adobe/"><u>Waveform Whispering How to Gradually Reduce Volume In Adobe</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-home-film-expertise-in-a-flash-top-5-diy-tips-for-speed/"><u>[New] Home Film Expertise in a Flash Top 5 DIY Tips for Speed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-obtaining-no-cost-photo-frames/"><u>[New] Step-by-Step Obtaining No-Cost Photo Frames</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-ultimate-quick-reference-for-iphone-memo-making/"><u>[Updated] In 2024, The Ultimate Quick Reference for iPhone Memo-Making</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-the-frustration-nba-2k24-and-error-code-727e66ac-fix-it-now/"><u>Bypassing the Frustration: NBA 2K24 and Error Code 727E66ac - Fix It Now</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/detected-gpu-hiccup-nvidia-reparation-complete/"><u>Detected GPU Hiccup - NVIDIA Reparation Complete</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-se-2022-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-rtx-3080-game-freezes-tips/"><u>Fixing RTX 3080 Game Freezes - Tips</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-card-discovery-issue/"><u>Graphics Card Discovery Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-upgrade-intelligent-hd-graphics-support-in-windows/"><u>How to Upgrade Intelligent HD Graphics Support in Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-magic-vs-2-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor Magic Vs 2 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-on-your-apple-iphone-8-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock on your Apple iPhone 8 and iPad?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reformatting-big-display-on-win11/"><u>Reformatting Big Display on Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-smooth-windows-10-display/"><u>Restoring Smooth Windows 10 Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shedding-light-on-lenovos-dark-scenes/"><u>Shedding Light on Lenovo's Dark Scenes</u></a></li>
+<li><a href="https://win-hot.techidaily.com/top-2-free-desktop-screen-capture-tools-perfect-for-quick-screenshots/"><u>Top 2 Free Desktop Screen Capture Tools - Perfect for Quick Screenshots!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-graphics-cards-focus-on-functionality/"><u>Troubleshooting Graphics Cards: Focus on Functionality</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-your-gpus-hidden-vigor/"><u>Unlocking Your GPU's Hidden Vigor</u></a></li>
 </ul></div>
 

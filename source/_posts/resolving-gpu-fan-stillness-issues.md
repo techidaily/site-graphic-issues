@@ -1,7 +1,7 @@
 ---
 title: Resolving GPU Fan Stillness Issues
-date: 2025-01-04T01:41:00.676Z
-updated: 2025-01-10T02:10:42.879Z
+date: 2025-01-13T21:08:26.837Z
+updated: 2025-01-16T03:09:17.779Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
  Before you start, first check if your GPU has a**thermal control** (e.g. Fan Stop by GIGABYTE) that allows fans to spin only at certain temperatures.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is it normal?
@@ -51,13 +51,13 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/gigabyte-fan-stop-pcie-1200x675.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Note that some legacy graphics cards don’t have PCIe power connectors as they draw power through the**PCIe lane** .
 
  If you can see the GPU in device manager or you have output from the GPU, that means it’s largely not a connection problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Check the GPU fans
 
@@ -66,12 +66,16 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/oil-fan-bearing.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  DO NOT use WD-40 on your GPU as it may damage the fan permanently. And if you’re not familiar with computer hardware, consult an IT specialist at the repair shop.
 
  If you’re sure it’s not a hardware issue, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -83,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Scan-now-2.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
@@ -102,17 +110,9 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-1.jpg)
 3. When the fan speed control becomes available,**drag the slider** to toggle the fan speed.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-2.jpg)
 
  If you’re not hearing anything even when the slider is at 100, simply continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Scan and repair your system
 
@@ -125,11 +125,11 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -162,20 +162,17 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-harmonize-visuals-and-melodies-in-facebook-media-posts/"><u>[Updated] 2024 Approved Harmonize Visuals & Melodies in Facebook Media Posts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-instant-freeze-capture-feature-guide/"><u>[Updated] Instant Freeze Capture Feature Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-apples-podcast-library-a-download-guide/"><u>[Updated] Unlocking Apple's Podcast Library A Download Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-capturing-the-extremes-adobes-hdr-creation-in-lightroom/"><u>2024 Approved Capturing the Extremes Adobe's HDR Creation in Lightroom</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-sony-xperia-1-v-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Sony Xperia 1 V</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/from-ingredients-to-inspiration-cooking-videos/"><u>From Ingredients to Inspiration Cooking Videos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/geforce-210-latest-updates-for-w11-systems/"><u>GeForce 210: Latest Updates for W11 Systems</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-innovative-ways-to-craft-free-and-stylish-youtube-video-titles/"><u>In 2024, Innovative Ways to Craft Free and Stylish YouTube Video Titles</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-vintage-vs-modern-ranking-radio-sound-effects/"><u>New 2024 Approved Vintage Vs. Modern Ranking Radio Sound Effects</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-lenovos-inactive-touchscreen/"><u>Overcoming Lenovo's Inactive Touchscreen</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolution-tuning-mastered-stable-with-new-window-11-release/"><u>Resolution Tuning Mastered - Stable with New Window 11 Release</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/savvy-soccer-snatching-how-to-record-and-cut-cheap/"><u>Savvy Soccer Snatching How to Record and Cut Cheap</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/steps-to-address-gpu-crashes-and-maintain-computer-functionality/"><u>Steps to Address GPU Crashes and Maintain Computer Functionality</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-essential-guide-to-upgrading-windows-7s-intel-gfx-driver/"><u>The Essential Guide to Upgrading Windows 7’S Intel Gfx Driver</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817773387-win10-amd-gpu-update-hd-6950-drivers-now/"><u>Win10 AMD GPU Update: HD 6950 Drivers Now</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-pro-gamers-fbx-filming-techniques/"><u>[Updated] 2024 Approved Pro Gamers' FBX Filming Techniques</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-precision-in-playback-a-compreenhensive-guide-to-youtube-video-loops-for-2024/"><u>[Updated] Precision in Playback A Compreenhensive Guide to Youtube Video Loops for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easy-mend-your-gpu-excludes-screen-connections/"><u>Easy Mend: Your GPU Excludes Screen Connections</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easy-steps-to-access-and-use-dav-format-media-on-your-iphone/"><u>Easy Steps to Access & Use DAV Format Media on Your iPhone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fast-fix-windows-11-graphics-3000-driver-update-guide/"><u>Fast Fix: Windows 11 - Graphics 3000 Driver Update Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-status-normalized-after-windows-11-installation/"><u>GPU Status Normalized After Windows 11 Installation</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-80-pro-straight-screen-edition-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor 80 Pro Straight Screen Edition Phone FRP Lock</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-no-full-screen-windows-11-problem/"><u>Monitor No FULL SCREEN: Windows 11 Problem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revamping-controls-the-god-of-war-evolution/"><u>Revamping Controls: The 'God of War' Evolution</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/revolutionizing-console-gaming-a-comprehensive-review-of-the-playstation-pros-4k-capabilities/"><u>Revolutionizing Console Gaming: A Comprehensive Review of the PlayStation Pro's 4K Capabilities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-launchdll-file-missing-issue-on-your-pc/"><u>Solving the 'Launch.dll' File Missing Issue on Your PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unbeatable-deals-on-alienware-and-dell-tech-game-on/"><u>Unbeatable Deals on Alienware and Dell Tech - Game On!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix ASUS Laptop Screen Flickering
-date: 2025-01-06T08:20:15.080Z
-updated: 2025-01-10T08:09:08.944Z
+date: 2025-01-08T19:56:08.310Z
+updated: 2025-01-15T19:47:28.459Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 ## How To Fix ASUS Laptop Screen Flickering
 
  If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. It’s often not hard to fix at all…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Fixes For ASUS Laptop Screen Flickering In Windows 11, 10, & 7
 
@@ -41,36 +45,24 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/displaysettings.jpg)
 2. In**Related settings** , click**Advanced display** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
 5. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try **[Fix 2](#F2)** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **I’m using Windows 7:**
 
 1. Right-click on**the empty area** of your desktop screen and click**Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 2. Click**Advanced settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
@@ -79,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update or delete incompatible apps
 
@@ -93,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 * If no, then chances are some apps are incompatible in your Windows system. Think of any recently installed apps and try to update or delete them to see if it solves the**ASUS laptop screen flickering** issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -112,11 +104,19 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if the ASUS laptop screen flickering issue has been solved.
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](mailto:support@drivereasy.com) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -156,18 +156,19 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-best-mac-speech-loggers-our-curated-5-pick-list/"><u>2024 Approved Best Mac Speech Loggers Our Curated 5-Pick List</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cutting-edge-online-resources-for-picture-framing/"><u>Cutting-Edge Online Resources for Picture Framing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminating-display-problems-enhancing-w10-performance/"><u>Eliminating Display Problems, Enhancing W10 Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-advice-how-to-ensure-optimal-performance-by-refreshing-dell-xps-15-drivers-in-windows-environment/"><u>Expert Advice: How to Ensure Optimal Performance by Refreshing Dell XPS 15 Drivers in Windows Environment</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-stuttered-displays-remedy-for-flickering-screens/"><u>Fixing Stuttered Displays: Remedy for Flickering Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-windows-10-res-scale-faults/"><u>Fixing Windows 10 Res Scale Faults</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-driver-fixed-code-22/"><u>GPU Driver Fixed: Code 22</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-shortcut-to-engagement-analyzing-facebooks-video-trends/"><u>In 2024, Shortcut to Engagement Analyzing Facebook's Video Trends</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-the-rising-riches-of-a-kid-star-ryans-income-insights/"><u>In 2024, The Rising Riches of a Kid Star Ryan's Income Insights</u></a></li>
-<li><a href="https://win-dash.techidaily.com/simple-steps-to-enhance-video-quality-in-windows-a-beginners-guide/"><u>Simple Steps to Enhance Video Quality in Windows: A Beginner's Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-oppo-reno-10-pro-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Oppo Reno 10 Pro 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-ideas-into-websites-using-chatgpts-4-principles/"><u>Transform Ideas Into Websites Using ChatGPT’s 4 Principles</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/transform-your-greenscreen-footage-with-expert-tips/"><u>Transform Your Greenscreen Footage with Expert Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-guide-to-open-and-tweak-your-srt-on-mac/"><u>[New] Step-by-Step Guide to Open and Tweak Your SRT on Mac</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-windows-11-display-optimization-missing/"><u>[Resolved] Windows 11 Display Optimization Missing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-deciphering-how-to-spot-your-video-enthusiasts/"><u>[Updated] 2024 Approved Deciphering How to Spot Your Video Enthusiasts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-driver-issue-resolved-workflow-enhanced-in-win10/"><u>AMD Driver Issue Resolved - Workflow Enhanced in Win10</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/assistenza-tecnica-professionale-per-la-manutenzione-dei-dispositivi-elettronici/"><u>Assistenza Tecnica Professionale per La Manutenzione Dei Dispositivi Elettronici</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/directx12-bugs-halting-halo-infinite-startup/"><u>DirectX12 Bugs Halting Halo Infinite Startup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discovering-advanced-technology-inside-toms-hardware-world/"><u>Discovering Advanced Technology: Inside Tom's Hardware World</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/download-soundcloud-apps-compatible-options-for-both-mac-and-windows-systems/"><u>Download SoundCloud Apps: Compatible Options for Both Mac & Windows Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-graphics-with-updated-geforce-210-for-windows-11/"><u>Enhanced Graphics with Updated GeForce 210 for Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-failure-overcome-visual-display-operational/"><u>Graphics Failure Overcome: Visual Display Operational</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/inject-personality-into-snaps-on-snapchat-through-voice-customization/"><u>Inject Personality Into Snaps on Snapchat Through Voice Customization</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-magic-quick-cure-for-loss-of-connection/"><u>Monitor Magic: Quick Cure for Loss of Connection</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-get-crisp-videos-for-free-top-online-video-quality-enhancement-tools/"><u>New Get Crisp Videos for Free Top Online Video Quality Enhancement Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tackling-typical-icloud-troubleshooting-for-your-iphone-or-ipad-learn-here/"><u>Tackling Typical iCloud Troubleshooting for Your iPhone or iPad - Learn Here</u></a></li>
 </ul></div>
 

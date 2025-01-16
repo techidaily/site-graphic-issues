@@ -1,7 +1,7 @@
 ---
 title: "Diablo II: Resurrected Installation Issues Solved"
-date: 2025-01-08T20:09:12.823Z
-updated: 2025-01-10T07:44:58.354Z
+date: 2025-01-14T02:59:31.201Z
+updated: 2025-01-15T21:42:44.466Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 * [**Method 3: Update Your Audio Driver**](https://tools.techidaily.com/drivereasy/download/)
 * [**Method 4: Run Windows Audio Troubleshooter**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## First Things to Check
 
  Several different factors can affect the sound on your computer: your audio driver, the installed hardware, Windows sound settings. But before you begin troubleshooting Twitch sound problems, follow the instructions below to rule out the obvious.
@@ -40,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
  If you have multiple audio devices (external speakers or a microphone) hooked up to your computer, check to see if your devices are**powered on** and**the wired connections clean and plugged in** all the way.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/cable-connection.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Ensure your computer is not on mute
 
@@ -57,17 +65,21 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-222.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click the **Playback tab** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-226.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Make sure you have the right device set as the default audio device. If not, right-click your audio device and select **Set as default device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-228.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Click the **OK** button.
 
@@ -82,10 +94,6 @@ If the sound is still not available, try the fixes below.
  A reboot wipes away the current state of the software. In case of losing data, please make sure you don’t have any unsaved documents open before restarting your device.
 
 If your issue persists after the reboot, then go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Fix Browser Issues
 
@@ -122,7 +130,7 @@ If there’s still no sound, read on and try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-02_17-55-06.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Relaunch the browser to see if the sound comes back.
@@ -134,10 +142,6 @@ If not, read on and try the next solution.
  You can try streaming on another browser. For example, if you were streaming on Chrome, try using another browser like Opera or Edge. If the problem is occurring in Chrome only, then it could be a Chrome issue. You can try updating your browser or contact the developer for assistance.
 
 If the sound isn’t coming back, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Update Your Audio Driver
 
@@ -156,7 +160,7 @@ If the sound isn’t coming back, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-02_17-04-51.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -173,7 +177,7 @@ If the sound isn’t coming back, try the next fix.
  If the sound issue isn’t resolved, then move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Run Windows Audio Troubleshooter
@@ -185,10 +189,6 @@ If the sound isn’t coming back, try the next fix.
 **1)** On your keyboard, press the **Windows logo key**  and type **audio** troubleshooter. Then click **Find and fix audio playback problems** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/audio-issues.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)**  Click **Next**  and wait for the scans to complete.
 
@@ -219,16 +219,24 @@ If the sound isn’t coming back, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-how-to-get-vids-to-autoplay-effortlessly-on-fb/"><u>[New] In 2024, How to Get Vids to Autoplay Effortlessly on FB</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-unveiling-the-wonders-of-4k-with-benq-bl2711u-review-for-2024/"><u>[New] Unveiling the Wonders of 4K with BenQ BL2711U Review for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-full-access-to-sierras-documents-and-desktop-in-the-cloud/"><u>2024 Approved Full Access to Sierra's Documents and Desktop in the Cloud</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782177-9781594778575-atlantis-and-the-cycles-of-time/"><u>Atlantis and the Cycles of Time | Free Book</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-instructions-for-downloading-and-setting-up-toshiba-printer-drivers-on-windows/"><u>Easy Instructions for Downloading and Setting Up Toshiba Printer Drivers on Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/pcie-channel-missing-optix-gpu/"><u>PCIe Channel Missing OptiX GPU</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-lcd-darkness-on-notebooks/"><u>Resolving LCD Darkness on Notebooks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-blacked-out-win10-desktop/"><u>Restoring Blacked-Out Win10 Desktop</u></a></li>
-<li><a href="https://windows11.techidaily.com/synchronize-the-seconds-windows-time-repair-guide/"><u>Synchronize the Seconds: Windows Time Repair Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-secure-cloud-stores-for-your-android-compiled/"><u>Top Secure Cloud Stores for Your Android - Compiled</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlocking-graphics-performance-in-win1011-pcs/"><u>Unlocking Graphics Performance in Win10/11 PCs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-natures-canvas-a-variety-of-downloads-to-enhance-cinematic-work/"><u>[New] 2024 Approved Nature’s Canvas A Variety of Downloads to Enhance Cinematic Work</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-streamline-your-filming-process-the-ultimate-logitech-camera-tutorials/"><u>[New] In 2024, Streamline Your Filming Process - The Ultimate Logitech Camera Tutorials</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-a-step-by-step-roadmap-for-masterful-instagram-photos/"><u>[Updated] A Step-by-Step Roadmap for Masterful Instagram Photos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-how-to-block-youtube-ads-on-chromefirefoxandroidiphone-for-2024/"><u>[Updated] How to Block YouTube Ads on Chrome/Firefox/Android/iPhone for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-from-good-to-great-elevate-your-tiktok-edits/"><u>[Updated] In 2024, From Good to Great Elevate Your TikTok Edits</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-in-depth-assessment-lightroom-app-android-edition/"><u>2024 Approved In-Depth Assessment Lightroom App, Android Edition</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-overlapping-window-issues-in-windows-10/"><u>Addressing Overlapping Window Issues in Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/comprehensive-guide-to-setting-up-full-screen-color-selection-tools-in-windows-10/"><u>Comprehensive Guide to Setting Up Full-Screen Color Selection Tools in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817910025-fix-vertical-lines-on-laptop-screen-easily/"><u>Fix Vertical Lines on Laptop Screen. Easily!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-error-zero-response/"><u>GPU Error: Zero Response</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-se-2020-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off Apple iPhone SE (2020) without Password</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-honor-90-gt-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Honor 90 GT Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/macbooks-eye-catches-learn-webcam-recording-for-2024/"><u>MacBook's Eye Catches Learn Webcam Recording for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectified-xbox-series-graphics-bug/"><u>Rectified Xbox Series Graphics Bug</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-windows-10-flickering-issue/"><u>Solving Windows 10 Flickering Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/taming-the-blacked-out-desktop-window/"><u>Taming the Blacked-Out Desktop Window</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tips-for-correcting-c1900101-on-windows-11-installation/"><u>Tips for Correcting C1900101 on Windows 11 Installation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/uncover-and-resolve-ignored-graphics-on-your-pc/"><u>Uncover and Resolve Ignored Graphics on Your PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818332766-win11-screen-flicker-no-more/"><u>Win11 Screen Flicker - No More!</u></a></li>
 </ul></div>
 

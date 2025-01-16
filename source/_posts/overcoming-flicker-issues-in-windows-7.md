@@ -1,7 +1,7 @@
 ---
 title: Overcoming Flicker Issues in Windows 7
-date: 2025-01-07T08:15:17.064Z
-updated: 2025-01-10T03:01:19.227Z
+date: 2025-01-13T23:26:38.451Z
+updated: 2025-01-16T02:59:06.126Z
 tags:
   - win11
   - win10
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
 4. **[Update your BIOS](#f4)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
@@ -49,7 +49,7 @@ OR
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a7534153.jpg)
@@ -76,16 +76,8 @@ To troubleshoot these hardware issues:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27d890806d.jpg)
 2. In the view of**Category** , under**Programs** , click**Uninstall a program** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27f88435f4.jpg)
 3. Select the app you want to uninstall.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your Windows 7 computer and check if your screen flickering problem is resolved. If not, try Fix 4, below.
 
@@ -102,21 +94,29 @@ To troubleshoot these hardware issues:
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91080612181.png)  
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type**your system’s manufacturer name** ,**your system’s model name** and**BIOS** in the Google search box, then select the matching result to go to the manufacturer’s official website to download BIOS update.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** If there’re any instructions available in the downloaded file, make sure you follow the instructions strictly to update your BIOS. Or you can visit your BIOS manufacturer’s support site for a direct explanation of how to do so.
 6. Transfer the BIOS update file to a USB drive and keep the drive connected to your computer.
@@ -157,24 +157,24 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-art-of-documenting-dynamic-ppt-presentations/"><u>[New] In 2024, The Art of Documenting Dynamic PPT Presentations</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-perfecting-inshot-transitions-techniques/"><u>[Updated] Perfecting Inshot Transitions Techniques</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capturing-your-workflow-optimal-screenshot-tools/"><u>2024 Approved Capturing Your Workflow Optimal Screenshot Tools</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/bloodborne-critique-exploring-the-shadowy-depths-of-a-gritty-fantasy/"><u>Bloodborne Critique: Exploring the Shadowy Depths of a Gritty Fantasy</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/breaking-into-the-tiktok-livestream-realm/"><u>Breaking Into the TikTok Livestream Realm</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correcting-inverted-screen-on-windows-10-os/"><u>Correcting Inverted Screen on Windows 10 OS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/corrective-actions-for-ghostly-gpus-in-systems/"><u>Corrective Actions for Ghostly GPUs in Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-instructions-for-establishing-an-account-on-the-rebranded-x-platform/"><u>Easy Instructions for Establishing an Account on the Rebranded X Platform</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-mastering-google-voice-call-recording-essential-steps/"><u>In 2024, Mastering Google Voice Call Recording Essential Steps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/opengl-glitch-spotted-nvidia-gpu-fixed-up/"><u>OpenGL Glitch Spotted - Nvidia GPU Fixed Up!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-the-direct3d-boot-challenges/"><u>Overcoming the Direct3D Boot Challenges</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectify-upside-down-in-windows-11-screens/"><u>Rectify Upside Down in Windows 11 Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-integration-issues-of-nvidia-and-intel-graphic-cards-on-win10/"><u>Resolved Integration Issues of Nvidia & Intel Graphic Cards on Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/seamless-direct3d-deployment-achieved/"><u>Seamless Direct3D Deployment Achieved</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/speichere-deine-gmail-mails-bequem-auf-dem-pc-entdecke-zwei-praktische-losungen-mit-hoher-effizienz/"><u>Speichere Deine Gmail-Mails Bequem Auf Dem PC: Entdecke Zwei Praktische Lösungen Mit Hoher Effizienz</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-repairing-the-acpisys-driver-issue-in-windows-10/"><u>Step-by-Step Guide: Repairing the ACPI.sys Driver Issue in Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/system-graphics-normalization-achieved/"><u>System Graphics Normalization Achieved</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unveiling-the-causes-of-enshrouded-crashes-a-comprehamoin-guide-to-fixing-pc-issues/"><u>Unveiling the Causes of Enshrouded Crashes: A Comprehamoin Guide to Fixing PC Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zoom-cam-upgrade-guide-fixing-todays-common-issues/"><u>Zoom Cam Upgrade Guide - Fixing Today's Common Issues</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-epicentertainment-eyeview-for-2024/"><u>[New] EpicEntertainment EyeView for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-5-inspirational-winter-bgs-to-heat-your-videos/"><u>[New] In 2024, 5 Inspirational Winter Bgs to Heat Your Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unveiling-fast-fixes-for-lost-reddit-content-for-2024/"><u>[Updated] Unveiling Fast Fixes for Lost Reddit Content for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-a-step-by-step-guide-for-earning-with-youtube-shorts/"><u>2024 Approved A Step-by-Step Guide for Earning with YouTube Shorts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-masterful-video-marketing-techniques-youtube-editions-top-5-list/"><u>2024 Approved Masterful Video Marketing Techniques - YouTube Edition's #Top 5 List</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/advanced-window-10-displays-issues-cleared/"><u>Advanced Window 10 Displays: Issues Cleared</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/collaboration-unveiled-qualcomm-teams-up-with-samsung-and-google-for-innovative-mixed-reality-eyewear/"><u>Collaboration Unveiled: Qualcomm Teams Up With Samsung & Google For Innovative Mixed Reality Eyewear</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursors-return-from-black-screen-win11/"><u>Cursor's Return From Black Screen Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-pcs-blank-slate-when-no-graphics-are-detected/"><u>Fix PC’s Blank Slate When No Graphics Are Detected</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fullscreen-not-showing-problem-with-monitor-and-win11/"><u>Fullscreen Not Showing, Problem with Monitor & Win11?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-truecaller-an-expert-review-for-better-understanding/"><u>Navigating Truecaller: An Expert Review for Better Understanding</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/sharpening-windows-view-on-screen/"><u>Sharpening Windows View on Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tailoring-your-computer-to-run-intel-drivers-successfully/"><u>Tailoring Your Computer to Run Intel Drivers Successfully</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rt-of-beats-pure-dj-visuals-available-online-for-2024/"><u>The Art of Beats Pure DJ Visuals Available Online for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/tongues-of-wallonia-flanders-and-brussels/"><u>Tongues of Wallonia, Flanders & Brussels</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unleash-system-potential-by-excising-graphics-drivers/"><u>Unleash System Potential by Excising Graphics Drivers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-full-potential-of-your-apple-watch-with-this-simple-trick-enabling-and-using-the-convenient-double-tap-feature-explained/"><u>Unlock the Full Potential of Your Apple Watch with This Simple Trick: Enabling and Using the Convenient Double-Tap Feature Explained</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgrade-your-pc-graphics-amds-hd-6950-update-now/"><u>Upgrade Your PC Graphics: AMD's HD 6950 Update Now!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/wdf-drivers-crisis-averted-stop-bsod-in-windows-os/"><u>WDF Drivers Crisis Averted: Stop BSOD in Windows OS</u></a></li>
 </ul></div>
 

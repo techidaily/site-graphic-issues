@@ -1,7 +1,7 @@
 ---
 title: Lighting Up Windows 11'S Dark Side After Creator's
-date: 2025-01-07T05:45:07.902Z
-updated: 2025-01-10T06:34:53.176Z
+date: 2025-01-09T17:08:50.536Z
+updated: 2025-01-15T18:40:36.558Z
 tags:
   - win11
   - win10
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 If you’ve upgraded to Windows 10 Fall Creators Update and you find that your PC runs into a black screen, you’re not alone. Many Windows 10 users are reporting this problem. But no worries, it’s possible to fix. Here in this post, we provide you with 3 fixes. You don’t need to try them all; just work your way down until you find the one works for you.   **Method 1:[Unplug your external devices](#m1)**   **Method 2:[Reinstall display card driver](#m2)**   **Method 3:[Update display card driver](#m3)** **IMPORTANT:**  You’ll need to be logged into Windows on the problem computer to try any of these solutions. If you can’t log into Windows, power on and off your PC 3 times to perform a hard reboot and [restart it in Safe Mode](https://tools.techidaily.com/drivereasy/download/) , then try these solutions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Unplug your external devices
@@ -29,7 +29,7 @@ If you’ve upgraded to Windows 10 Fall Creators Update and you find that your P
  Sometimes, your PC’s external devices can be the cause of the black screen problems, for example, when you have too many external devices plugged in. Unplug all your external devices and then plug them back on one by one. This helps you determine which device is causing the problem. Once you find out the faulty device, you need to contact its manufacturer and see if they can provide support.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Reinstall display card driver
@@ -37,19 +37,15 @@ If you’ve upgraded to Windows 10 Fall Creators Update and you find that your P
 **Note**: You should do the uninstall in [**Safe Mode**](https://tools.techidaily.com/drivereasy/download/). Faulty display card drivers can be the cause of this problem as well. You can reinstall the correct display card driver to your system and get this problem solved: 1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5811a625cdad7.png) and**R**at the same time. Type **devmgmt.msc** and press **Enter**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c24493dcfb1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Expand **Display adapters**. Double-click your display driver. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/display-adapters-expand.jpg)  3) Click **Driver** and **Uninstall** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/uninstall-display-adpater.jpg)  4) Click **Yes** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/confirm-device-uninstall.png) 5) Restart your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update display card driver
@@ -57,6 +53,10 @@ If you’ve upgraded to Windows 10 Fall Creators Update and you find that your P
 If the above method doesn’t help, you need to check if there is newer version of driver for you display card. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c245c4a6b9e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Click the**Update**button next to the flagged display card to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All).
 
@@ -77,20 +77,21 @@ If the above method doesn’t help, you need to check if there is newer version 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/activate-disabled-graphics-on-laptops-running-windows-1011/"><u>Activate Disabled Graphics on Laptops Running Windows 10/11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-graphics-falters-with-continual-computer-operation/"><u>Addressing Graphics Falters with Continual Computer Operation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/containing-the-chromatic-charge-of-an-acer-monitor/"><u>Containing the Chromatic Charge of an Acer Monitor</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-initialization-no-more-problematic/"><u>Direct3D Initialization No More Problematic</u></a></li>
-<li><a href="https://techtrends.techidaily.com/experts-picks-top-5-iphone-gps-apps-you-cant-miss-out-on/"><u>Experts' Picks: Top 5 iPhone GPS Apps You Can’t Miss Out On</u></a></li>
-<li><a href="https://win11.techidaily.com/getting-started-with-windows-hello-fingerprint-login/"><u>Getting Started with Windows Hello Fingerprint Login</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-deciphering-the-mechanics-of-whatsapp-calls/"><u>In 2024, Deciphering the Mechanics of WhatsApp Calls</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210376963-lenovo-touchpad-not-responding-heres-the-definitive-fix-for-windows-users/"><u>Lenovo Touchpad Not Responding? Here's the Definitive Fix for Windows Users!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mend-window-11-glitchy-screens/"><u>Mend: Window 11 Glitchy Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818041103-no-more-random-screen-pages-laptop-cured-fixed/"><u>No More Random Screen Pages: Laptop Cured [Fixed].</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-response-restoration-nvlddmkm-fixed/"><u>Screen Response Restoration: Nvlddmkm Fixed</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-how-to-alter-picture-backgrounds-with-a-photo-editing-tool/"><u>Step-by-Step Guide: How to Alter Picture Backgrounds with a Photo Editing Tool</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-power-of-5g-a-comprehensive-review-of-the-samsung-galaxy-s20-fan-edition/"><u>Unveiling the Power of 5G: A Comprehensive Review of the Samsung Galaxy S20 Fan Edition</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-accelerated-editing-seamless-laptoppc-videos-with-inshot/"><u>[New] 2024 Approved Accelerated Editing Seamless Laptop/PC Videos with Inshot</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-simply-turn-off-your-insta-tv-for-2024/"><u>[New] Simply Turn Off Your Insta TV for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-vlc-media-player-review-and-alternatives/"><u>[Updated] VLC Media Player Review and Alternatives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-dating-defrauders-ai-tools-unveiled/"><u>Digital Dating Defrauders: AI Tools Unveiled</u></a></li>
+<li><a href="https://network-issues.techidaily.com/expert-guide-to-counteracting-wow-bug-519/"><u>Expert Guide to Counteracting WoW Bug #519</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-dead-dying-asus-built-in-cam/"><u>Fixing Dead, Dying Asus Built-In Cam</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-poco-x6-pro-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Poco X6 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-8-plus-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 8 Plus Without Passcode Easily</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/invert-display-window-7-solution/"><u>Invert Display Window 7 Solution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-clarity-mastered-in-windows-11-update/"><u>Screen Clarity Mastered in Windows 11 Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/sparking-the-sleeping-gpu-fans-motion/"><u>Sparking the Sleeping GPU Fan’s Motion</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-screen-shiver-in-windows-11/"><u>Stop Screen Shiver in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tips-to-fix-low-brightness-lenovo-screens/"><u>Tips to Fix Low-Brightness Lenovo Screens</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723087402553-watching-free-hdtv-heres-what-you-need-to-know-about-amazonbasics-antennas/"><u>Watching Free HDTV? Here's What You Need to Know About AmazonBasics Antennas</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-stream-fix-after-upgrade/"><u>Windows 10 Stream Fix After Upgrade</u></a></li>
 </ul></div>
 

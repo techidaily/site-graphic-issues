@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Screenshake - Problem Solved
-date: 2025-01-03T06:49:49.752Z
-updated: 2025-01-09T16:13:45.814Z
+date: 2025-01-09T20:29:17.583Z
+updated: 2025-01-15T23:27:21.297Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/acf475c1e6fd1567e7a4a77c00bb440d7e3dd85bc
 ## Windows 10 Screenshake - Problem Solved
 
  If you’ve been experiencing screen flashing or flickering issues on your Windows 10 computer lately, don’t panic. It can be easily fixed…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes for screen flashing or flickering problem
 
@@ -43,29 +39,22 @@ Here is how to change the monitor refresh rate:
 1. Right-click on**any empty space** on your desktop and click**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be155afaa82a.jpg)
 2. Scroll down to**Multiple displays** and click on**Advanced display settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15608e1352.jpg)
 3. Click**Display adapter properties for Display 1** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15652a5261.jpg)
 4. Click**Monitor** , then click the**Screen refresh rate** drop-down menu to select the one most suited for your monitor and click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1586141729.jpg)
 
  Does that work for your issue? If yes, then great! But if it doesn’t change a thing, you should try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -107,7 +96,7 @@ To do so:
 3. Scroll down to**Windows Error Reporting Service** , right-click on it and click**Stop** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16ad7ae8af.jpg)
@@ -115,11 +104,19 @@ To do so:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Update the incompatible apps
 
  Some apps such as Norton AV, iCloud, and IDT Audio are known to cause compatibility issues in Windows and hence the screen flickering issue. If you have any of them installed, you should check their official website for an update to see if there’s a bug fixfor this in them.
 
  If you have installed any other app and the screen flashing issue occurs ever since then it’s very likely that app is to blame. Make sure it’s not malware and check its official website for an update if possible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -144,6 +141,10 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
 5) Restart your computer for the changes to take effect.
@@ -158,15 +159,15 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -195,24 +196,14 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fixed-dx12-issue-prevents-halo-infinite-launch/"><u>[FIXED] DX12 Issue Prevents Halo Infinite Launch</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-best-practices-for-zoom-engagement-on-win10-systems/"><u>[New] In 2024, Best Practices for Zoom Engagement on Win10 Systems</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-cutting-edge-recording-facing-screen-first/"><u>[New] In 2024, Cutting Edge Recording - Facing Screen First</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instant-interaction-the-art-of-crafting-instagram-stories-questions/"><u>[Updated] In 2024, Instant Interaction The Art of Crafting Instagram Stories Questions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-optimizing-video-income-on-youtube-a-practical-guide-for-2024/"><u>[Updated] Optimizing Video Income on Youtube A Practical Guide for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-phantom-pitches-is-this-magical-talker-an-illusion-or-reality-explore-more-options-for-2024/"><u>[Updated] Phantom Pitches Is This Magical Talker an Illusion or Reality? Explore More Options for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-vivo-v30-pro-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/accelerated-armor-fixed-amd-in-tarkov-quickly/"><u>Accelerated Armor: Fixed AMD in Tarkov Quickly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/comprehensive-guide-to-cleaning-up-green-screen-footage/"><u>Comprehensive Guide to Cleaning Up Green Screen Footage</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhance-lenovos-display-visibility-quickly/"><u>Enhance Lenovo's Display Visibility Quickly</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-tecno-camon-20-pro-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Tecno Camon 20 Pro 5G online without jailbreak</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-controller-repair-fixing-dead-left-analogue-sticks-for-console-gamers/"><u>Mastering Controller Repair: Fixing Dead Left Analogue Sticks for Console Gamers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-offline-with-newcard/"><u>Monitor Offline with NewCard</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-free-avi-video-rotation-solutions-16-best-options-for-multiple-operating-systems-for-2024/"><u>New Free AVI Video Rotation Solutions 16 Best Options for Multiple Operating Systems for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-no-display-issue/"><u>NVIDIA No Display Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/step-by-step-guide-to-fixing-critical-error-c1900101-in-windows-11/"><u>Step-by-Step Guide to Fixing Critical Error C1900101 in Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/taming-the-gray-windows-outage/"><u>Taming the Gray Windows Outage</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/techniques-for-resolving-lenovo-screenspeed-anomalies/"><u>Techniques for Resolving Lenovo Screenspeed Anomalies</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-essential-youtube-tagging-strategies-for-optimal-visibility/"><u>[New] In 2024, Essential YouTube Tagging Strategies for Optimal Visibility</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-directx12-affecting-halo-infinite-launch-sequence/"><u>[SOLVED] DirectX12 Affecting Halo Infinite Launch Sequence</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-best-camcorder-for-deer-hunting-excellence/"><u>[Updated] In 2024, Best Camcorder for Deer Hunting Excellence</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-unlocking-the-potential-of-your-laptops-recording-features/"><u>2024 Approved Unlocking the Potential of Your Laptop's Recording Features</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clearing-up-display-preferences-save-error/"><u>Clearing Up Display Preferences Save Error</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mkv-files-on-samsung-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do you play MKV files on Samsung ?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-anthem-lag-issues-easily/"><u>How To Fix Anthem Lag Issues. Easily</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/illuminating-windows-10-after-fall-shadows/"><u>Illuminating Windows 10 After Fall Shadows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-impact-and-innovations-in-vegaspro-a-2019-review/"><u>The Impact and Innovations in VegasPro A 2019 Review</u></a></li>
 </ul></div>
 

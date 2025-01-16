@@ -1,7 +1,7 @@
 ---
 title: "Banish Blinky: A Step-by-Step Guide to Screen Stability"
-date: 2025-01-03T17:41:52.825Z
-updated: 2025-01-10T08:46:35.074Z
+date: 2025-01-11T16:08:48.277Z
+updated: 2025-01-15T18:17:08.073Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 3. **[If you use Adobe Flash and Java, uninstall them](#f3)**
 4. **[Update your BIOS](#f4)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your drivers
 
  The screen of your Windows computer may flicker or blink frequently if your device drivers are faulty or outdated. You can update your device drivers, especially your graphics and chipset drivers, and see if this fixes your problem.
@@ -44,14 +48,18 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a90d9e8d.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27a7534153.jpg)
 4. Restart your Windows 7 computer and check if your screen now works properly. If it doesn’t, contact Driver Easy’s**support team at <support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Check for hardware issues
 
@@ -79,6 +87,10 @@ To troubleshoot these hardware issues:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Update your BIOS
 
  The BIOS (Basic Input/Output System) on your computer manages the communication between your hardware and your operating system. It may cause your screen to flicker or blink if it’s outdated. You can try updating your BIOS to troubleshoot your screen flickering problem.
@@ -90,39 +102,27 @@ To troubleshoot these hardware issues:
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91080612181.png)  
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type**your system’s manufacturer name** ,**your system’s model name** and**BIOS** in the Google search box, then select the matching result to go to the manufacturer’s official website to download BIOS update.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** If there’re any instructions available in the downloaded file, make sure you follow the instructions strictly to update your BIOS. Or you can visit your BIOS manufacturer’s support site for a direct explanation of how to do so.
 6. Transfer the BIOS update file to a USB drive and keep the drive connected to your computer.
 7. Click the**Start** button > **power icon** \>**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92199f274f4.png)
 8. As soon as your computer shuts down, press repeatedly a specific key to enter BIOS. The key may vary, depending on your computer’s manufacturer.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re using**DELL** , press**F2** on your keyboard to access BIOS;  
  If you’re using**HP** , press**F10** or**F1** ;  
@@ -157,22 +157,20 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-effortless-video-capturing-on-win11-os/"><u>[New] 2024 Approved Effortless Video Capturing on Win11 OS</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-step-by-step-journey-to-captivating-hdr-portraits/"><u>[New] 2024 Approved Step-by-Step Journey to Captivating HDR Portraits</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/omprehensive-tutorial-on-youtube-annotation/"><u>[New] Comprehensive Tutorial on Youtube Annotation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamlining-your-video-workflow-in-windows-11/"><u>[Updated] Streamlining Your Video Workflow in Windows 11</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/animated-wonders-a-curated-top-15-in-stop-motion/"><u>Animated Wonders A Curated Top 15 in Stop Motion</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bringing-back-available-screen-options-with-nvidia/"><u>Bringing Back Available Screen Options with NVidia</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ceasing-acer-screen-dance-resolution-guide/"><u>Ceasing Acer Screen Dance: Resolution Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/githubs-best-practices-for-chatgpt-qanda-strategies/"><u>GitHub's Best Practices for ChatGPT Q&A Strategies</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>How Can I Catch the Regional Pokémon without Traveling On Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/interpreting-comfailure-in-windows-environments/"><u>Interpreting COMFailure in Windows Environments</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-gpu-activation-a-success-story-in-win11/"><u>Laptop GPU Activation: A Success Story in Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/permanent-solution-to-asus-monitor-flicker/"><u>Permanent Solution to ASUS Monitor Flicker</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-lenovo-unresponsive-touchscreen/"><u>Resolving Lenovo Unresponsive Touchscreen</u></a></li>
-<li><a href="https://common-error.techidaily.com/seamless-steps-to-restore-your-overwatch-voice-chatting-feature/"><u>Seamless Steps to Restore Your Overwatch Voice Chatting Feature</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/simplified-resolution-strategies-gpus-alone/"><u>Simplified Resolution Strategies: GPUs Alone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tech-tips-keeping-intel-graphic-drivers-current-on-windows/"><u>Tech Tips: Keeping Intel Graphic Drivers Current on Windows</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/1728470655570-windows-10/"><u>ごみ箱に移動されたファイルの回復方法 - Windows 10</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-low-cost-aerial-photography-top-5-drones-under-500/"><u>[New] 2024 Approved Low-Cost Aerial Photography Top 5 Drones Under $500</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-most-improved-10-elements-of-terraria/"><u>[New] 2024 Approved Most Improved 10 Elements of Terraria</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unlocking-success-with-the-right-instagram-video-dimensions/"><u>[Updated] Unlocking Success with the Right Instagram Video Dimensions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dx12-disruption-halts-halo-infinite-game-startup/"><u>DX12 Disruption Halts Halo Infinite Game Startup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-nvidiawin11-compatibility-concerns/"><u>Fixing NVidia/Win11 Compatibility Concerns</u></a></li>
+<li><a href="https://solve-news.techidaily.com/how-abbyys-content-intelligence-converts-legal-documents-into-valuable-insights-transforming-contract-management/"><u>How ABBYY's Content Intelligence Converts Legal Documents Into Valuable Insights: Transforming Contract Management</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-xiaomi-redmi-13c-5g-frp-by-drfone-android/"><u>How Can We Bypass Xiaomi Redmi 13C 5G FRP?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-software-gamers-streaming-companions/"><u>In 2024, Exclusive Software Gamers' Streaming Companions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-freelancers-corner-yearly-best-free-text-files/"><u>In 2024, Freelancers’ Corner Yearly Best FREE Text Files</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-step-up-your-content-quality-with-these-8-mirrorless-cams/"><u>In 2024, Step Up Your Content Quality with These 8 Mirrorless Cams</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reactivate-gpu-for-your-laptop-win1011-guide/"><u>Reactivate GPU for Your Laptop: Win10/11 Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/removing-windows-10-setup-block-c1900101-fix/"><u>Removing Windows 10 Setup Block: C1900101 Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-non-gpu-use-on-notebook-windows-1011/"><u>Resolve Non-GPU Use on Notebook Windows 10/11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-screen-freeze-fix-minecraft-driver/"><u>Resolve Screen Freeze: Fix Minecraft Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/visual-setup-unsuccessful/"><u>Visual Setup Unsuccessful</u></a></li>
 </ul></div>
 

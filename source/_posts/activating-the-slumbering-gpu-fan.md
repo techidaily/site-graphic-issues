@@ -1,7 +1,7 @@
 ---
 title: Activating the Slumbering GPU Fan
-date: 2025-01-07T07:19:23.084Z
-updated: 2025-01-10T04:20:47.166Z
+date: 2025-01-08T16:54:34.219Z
+updated: 2025-01-15T18:08:15.054Z
 tags:
   - win11
   - win10
@@ -24,15 +24,15 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 
  Before you start, first check if your GPU has a**thermal control** (e.g. Fan Stop by GIGABYTE) that allows fans to spin only at certain temperatures.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is it normal?
 
  Well, it depends.**GPU fans don’t always spin** . Some only spin at specific temperatures, especially when you’re talking about high end GPUs that come with a thermal control gimmick.
 
  But if the GPU temperature hits 80°C and you don’t hear the sound of the fans, that could be a bad sign.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/gigabyte-fan-stop-pcie-1200x675.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Note that some legacy graphics cards don’t have PCIe power connectors as they draw power through the**PCIe lane** .
 
  If you can see the GPU in device manager or you have output from the GPU, that means it’s largely not a connection problem.
@@ -66,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/oil-fan-bearing.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  DO NOT use WD-40 on your GPU as it may damage the fan permanently. And if you’re not familiar with computer hardware, consult an IT specialist at the repair shop.
@@ -85,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -106,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-1.jpg)
 3. When the fan speed control becomes available,**drag the slider** to toggle the fan speed.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/msi-afterburner-fan-speed-2.jpg)
 
  If you’re not hearing anything even when the slider is at 100, simply continue to the next fix.
@@ -121,13 +121,13 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Upgrade your GPU BIOS
 
@@ -136,7 +136,7 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/gpu-bios-version.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can follow [**this post**](https://forums.tomshardware.com/faq/how-to-upgrade-your-gpu-bios.1957251/) to upgrade the GPU BIOS. Normally you’ll be fine if you choose the correct model and manufacturer. On top of that, be sure to**back up the original BIOS** in case things go south.
@@ -162,24 +162,22 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-cinema-youtubes-compreranche-guide-for-filmmakers/"><u>[New] 2024 Approved Crafting Cinema YouTube's Compreranche Guide for Filmmakers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-aerial-imaging-face-off-dji-fpv-vs-gopro-max-x/"><u>[Updated] Aerial Imaging Face-Off DJi FPV vs GoPro Max X</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-creating-a-stellar-game-channels-look-a-step-by-step-approach-for-2024/"><u>[Updated] Creating a Stellar Game Channels Look A Step-By-Step Approach for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-drone-selections-on-a-budget-affordable-options-above/"><u>[Updated] In 2024, Drone Selections on a Budget Affordable Options Above</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-full-review-of-picsart-app-a-step-by-step-guide/"><u>[Updated] In 2024, Full Review of PicsArt App - A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonic-start-spots-music-gold-for-podcast-kicks/"><u>2024 Approved Harmonic Start Spots Music Gold for Podcast Kicks</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-launch-free-youtube-events-a-step-by-step-guide/"><u>2024 Approved Launch Free Youtube Events A Step-by-Step Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-inaccessible-display-features-in-nvidia/"><u>Addressing Inaccessible Display Features in Nvidia</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boost-your-graphics-game-on-windows-with-new-nvidia-drivers/"><u>Boost Your Graphics Game on Windows with New NVIDIA Drivers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/complete-instruction-manual-for-telegram-desktop/"><u>Complete Instruction Manual for Telegram Desktop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-to-fix-your-stuck-touchpad-scroll-wheel/"><u>Comprehensive Solutions to Fix Your Stuck Touchpad Scroll Wheel</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-avoidance-found-enhanced-performance-achieved/"><u>Direct3D Avoidance Found - Enhanced Performance Achieved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/improving-graphic-density-for-text-elements/"><u>Improving Graphic Density for Text Elements</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/realigning-computer-edge-guidelines/"><u>Realigning Computer Edge Guidelines</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/secure-play-end-fallout-4-crashes-on-windows/"><u>Secure Play: End Fallout 4 Crashes on Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/streamline-updating-win10s-intel-graphics-drivers/"><u>Streamline Updating Win10's Intel Graphics Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/systemruntimeinteropservicescomexception-error-on-windows-solved/"><u>System.Runtime.InteropServices.COMException Error on Windows [SOLVED]</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-magic-v2-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Honor Magic V2 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-xp-vista-no-drivers-for-amd-card-required/"><u>Windows XP, Vista - No Drivers for AMD Card Required</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-an-easy-to-follow-guide-to-applying-cc-license-types/"><u>[New] In 2024, An Easy-to-Follow Guide to Applying CC License Types</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-comparison-can-inshot-outshine-competitors/"><u>[Updated] In-Depth Comparison Can InShot Outshine Competitors?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-windows-10-flash-dilemma/"><u>Addressing Windows 10 Flash Dilemma</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-screen-hiccup-in-win11/"><u>Eliminate Screen Hiccup in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-hidden-advanced-options-in-win10-display/"><u>Fixing Hidden Advanced Options in Win10 Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-activation-win11-laptop-operational/"><u>GPU Activation: Win11 Laptop Operational</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-vivo-v30-lite-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Vivo V30 Lite 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/is-obs-studio-or-fraps-your-ideal-choice-for-capturing-screens-in-2024/"><u>Is OBS Studio or Fraps Your Ideal Choice for Capturing Screens, In 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-malfunction-rectified-driver-running/"><u>Monitor Malfunction Rectified: Driver Running</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimal-play-with-less-lag/"><u>Optimal Play with Less Lag</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/radeon-hd-6950-optimized-windows-10-driver-update/"><u>Radeon HD 6950: Optimized Windows 10 Driver Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-solutions-to-asus-display-dilemmas/"><u>Swift Solutions to Asus Display Dilemmas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-o365-cloud-synchronization-hiccups-windows/"><u>Tackling O365 Cloud Synchronization Hiccups (Windows)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-pros-and-cons-of-owning-a-blu-ray-player/"><u>The Pros and Cons of Owning a Blu-Ray Player</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-addressing-visual-anomalies-on-computer-screens/"><u>Troubleshooting Tips: Addressing Visual Anomalies on Computer Screens</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-walkthrough-for-safely-getting-in-and-out-of-iphones-restoration-state/"><u>Ultimate Walkthrough for Safely Getting In & Out of iPhone's Restoration State</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-velotrix-discovery-1-e-bike-exceptional-quality-at-competitive-prices-zdnet-review/"><u>Unveiling the Velotrix Discovery 1 E-Bike: Exceptional Quality at Competitive Prices | ZDNET Review</u></a></li>
 </ul></div>
 

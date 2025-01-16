@@ -1,7 +1,7 @@
 ---
 title: Cure for NVIDIA/Intel Graphic Swap in Win11
-date: 2025-01-02T21:27:59.408Z
-updated: 2025-01-09T17:56:38.629Z
+date: 2025-01-10T20:46:24.153Z
+updated: 2025-01-15T21:51:08.021Z
 tags:
   - win11
   - win10
@@ -24,13 +24,13 @@ thumbnail: https://thmb.techidaily.com/1505d6f4180ef3234fcf66cf60e394c6b774b5274
 
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What does switchable graphics mean?
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I fix my problem switchable graphic cards?
 
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/1505d6f4180ef3234fcf66cf60e394c6b774b5274
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
@@ -54,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/1505d6f4180ef3234fcf66cf60e394c6b774b5274
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -91,15 +91,15 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
 
@@ -107,25 +107,25 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,18 +142,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/-ultimate-live-streaming-apps-for-iphone-and-android-users-on-youtube/"><u>[New] 7 Ultimate Live Streaming Apps for iPhone and Android Users on YouTube</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-elite-10-survival-skirmishes/"><u>[Updated] Elite 10 Survival Skirmishes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amd-detection-loader-fixed-and-working-post-update/"><u>AMD: Detection Loader Fixed and Working Post-Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clear-sight-no-glare-stop-your-monitors-flicker/"><u>Clear Sight, No Glare: Stop Your Monitor's Flicker</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-engaging-presentations-with-7-ai-tools/"><u>Crafting Engaging Presentations with 7 AI Tools</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/elevated-window-11-display-controls-unveiled/"><u>Elevated Window 11 Display Controls Unveiled</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/enhance-your-digital-gallery-mastering-online-crop-functions/"><u>Enhance Your Digital Gallery Mastering Online Crop Functions</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-infuse-audiovisual-experience-in-ppt/"><u>In 2024, Infuse Audiovisual Experience in PPT</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-transforming-videos-into-immersive-experiences-top-vr-converters/"><u>New In 2024, Transforming Videos Into Immersive Experiences Top VR Converters</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcome-windows-obstacles-expert-advice-awaits/"><u>Overcome Windows Obstacles: Expert Advice Awaits!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reveal-clear-imagery-for-twitch-streamers/"><u>Reveal Clear Imagery for Twitch Streamers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlocking-the-secrets-of-ultra-hd-the-power-of-4k/"><u>Unlocking the Secrets of Ultra HD: The Power of 4K</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/1725284401205-winxvideo-ai/"><u>최고의 비디오 품질을 위해 Winxvideo AI를 사용하여 비디오를 강화하는 기술</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-advanced-techniques-developing-elapsed-time-features-in-obs-software/"><u>[New] 2024 Approved Advanced Techniques Developing Elapsed Time Features in OBS Software</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-becoming-an-expert-in-lut-technology/"><u>[New] 2024 Approved Becoming an Expert in LUT Technology</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-seamless-conversion-ideal-tweeter-video-solution-providers/"><u>[Updated] Seamless Conversion Ideal Tweeter Video Solution Providers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-route-from-obs-broadcast-to-fb-channels/"><u>[Updated] The Ultimate Route From OBS Broadcast to FB Channels</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-navigating-peak-hours-best-times-for-instagram-posts/"><u>2024 Approved Navigating Peak Hours Best Times for Instagram Posts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-aspect-ratio-error-on-wide-windows-10-displays/"><u>Fixing Aspect Ratio Error on Wide Windows 10 Displays</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-honor-70-lite-5g-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Honor 70 Lite 5G</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-laptop-gpu-works-smoothly-on-win11-os/"><u>New Laptop GPU Works Smoothly on Win11 OS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-gpu-fan-stillness-issues/"><u>Resolving GPU Fan Stillness Issues</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-walkthrough-installing-your-brother-l2absolutely-here-are-five-new-seo-friendly-titles-similar-to-brother-mfc-l2700dw-driver-download-and-insta322/"><u>Step by Step Walkthrough: Installing Your Brother L2absolutely! Here Are Five New SEO-Friendly Titles Similar to Brother MFC-L2700DW Driver Download & Install for Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-victory-in-apex-game-overhaul-complete/"><u>Swift Victory in Apex: Game Overhaul Complete!</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-oppo-a2-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Oppo A2.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win7-visual-orientation-tweaks/"><u>Win7 Visual Orientation Tweaks</u></a></li>
 </ul></div>
 

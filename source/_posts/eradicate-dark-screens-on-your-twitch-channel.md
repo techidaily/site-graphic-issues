@@ -1,7 +1,7 @@
 ---
 title: Eradicate Dark Screens on Your Twitch Channel
-date: 2025-01-05T20:23:30.051Z
-updated: 2025-01-10T04:25:36.242Z
+date: 2025-01-10T17:15:25.119Z
+updated: 2025-01-15T16:03:36.620Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86
  There’s often a combination of causes for this nuisance, but with this guide, you can navigate your way down the list of solutions, until you get to the root of the problem and find the one that works for you.
 
  If you stream Twitch on a web browser, try**restarting your web browser** and see if it could fix the issue (According to user feedback, the simple fix very likely works).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Table of contents
 
@@ -45,7 +49,7 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Wait **60 seconds**  for your modem (and your router) to cool off.
@@ -54,6 +58,10 @@ Here’s how you go about it:
 5. Start streaming in Twitch and see if the black screen issue is resolved. If yes, then congrats! If the black screen persists, please try**Fix 2** , below.
 
  You can test your internet to see if other devices and apps can be connected properly. If the connection is off, then you should contact your ISP for assistance. If the problem doesn’t lie with the router or modem, you can try boosting your connection a bit – moving your modem & router to a more central place in your home, limiting the number of devices connected to your network etc. If your internet is up and running but Twitch gives black screen, then you should move on to**Fix 2** to further narrow down the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Change your DNS settings
 
@@ -69,7 +77,7 @@ Here’s how you go about it:
 3. Right-click on your network adapter, and select **Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/network-adapter-Properties.png)
@@ -77,10 +85,6 @@ Here’s how you go about it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Internet-Protocol-Version-4.png)
 5. Choose the **Use the following DNS server addresses** option. For **Preferred DNS server** , type **8.8.8.8** ; and for **Alternate DNS server** , type **8.8.4.4** . Click **OK**  to save the changes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/8844.png)
 6. Close the window.
@@ -112,15 +116,11 @@ Here’s how you go about it:
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Open Twitch and check if the black screen issue is solved. If yes, then great. If it still doesn’t cut it, please head on to**Fix 4** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Clear cache and cookies
 
@@ -136,6 +136,10 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cleardata.png)
 4. Restart Google Chrome.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Open Twitch and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with**Fix 5** , below.
 
 **Clear cache and cookies in** **Firefox:**
@@ -149,14 +153,14 @@ Here’s how you go about it:
 4. Make sure both boxes for the data items are checked and click**Clear** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/clear.png)
 5. Click**Clear Now** to confirm.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/now.png)
@@ -164,19 +168,11 @@ Here’s how you go about it:
 
 7. Open Twitch, and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with**Fix 5** , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Disable browser extensions
 
  You may encounter black screen in Twitch because of browser add-on conflict. To rule out this as a possible cause, you can disable all browser extensions and check if Twitch streamly normally – if yes, then you can employ the 50% rule – enabling half of the extensions once at a time to isolate the offender.
 
  If disabling browser extensions doesn’t help with the situation, please try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Switch in or out of hardware acceleration
 
@@ -206,14 +202,18 @@ Here’s how you go about it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-19_14-31-11.png)
 3. In**General** , uncheck the**Use recommended performance settings** box to expand the section, then for the**Use hardware acceleration when available** box, choose the opposite.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/g.png)
 4. Exit Firefox.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Launch Firefox, then test if Twitch can stream the content properly. If yes, then great. If it’s still giving black screen, please try**Fix 7** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Is it a server issue?
 
@@ -241,22 +241,22 @@ Here’s how you go about it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-zoom-mastery-creating-seamless-virtual-sessions/"><u>[Updated] In 2024, Zoom Mastery Creating Seamless Virtual Sessions</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-how-to-record-skype-calls/"><u>2024 Approved How to Record Skype Calls</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-lava-storm-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Lava Storm 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/breakthrough-on-sims-4-invisible-launching/"><u>Breakthrough on Sims 4 Invisible Launching</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/bring-your-sims-4-gameplay-to-life-on-screen-for-2024/"><u>Bring Your Sims 4 Gameplay to Life on Screen for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cracked-code-direct-x-quirk-no-longer-lurks-in-lol/"><u>Cracked Code: Direct X Quirk No Longer Lurks in LoL</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/detecting-sham-conversation-bots-on-the-iphone-and-ipad-app-platform/"><u>Detecting Sham Conversation Bots on the iPhone and iPad App Platform</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/drivers-glitch-code-43-overcome/"><u>Drivers' Glitch Code 43 Overcome</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/easy-solution-stop-pc-crashes-in-fallout-4/"><u>Easy Solution: Stop PC Crashes in Fallout 4</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhancinas-microsofts-windows-core-functions/"><u>Enhancinas Microsoft's Windows Core Functions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-and-curing-screen-flashes-in-dell-computers/"><u>Fixing and Curing Screen Flashes in Dell Computers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-scriptwriting-secrets-for-docu-films/"><u>In 2024, Scriptwriting Secrets for Docu-Films</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-selecting-premium-free-srt-translation-services-for-2024/"><u>Mastering the Art of Selecting Premium Free SRT Translation Services for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-card-not-compatible-with-windows-11-fix/"><u>Nvidia Card Not Compatible with Windows 11 [Fix]</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tech-update-apply-for-the-new-vision-os-software-development-kit-and-exclusive-vision-pro-hardware-set-by-apple-wired-news/"><u>Tech Update: Apply for the New Vision OS Software Development Kit and Exclusive Vision Pro Hardware Set by Apple | Wired News</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-xiaomi-redmi-note-13-proplus-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Xiaomi Redmi Note 13 Pro+ 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-screen-flashing-or-flickering-solved/"><u>Windows 11 Screen Flashing Or Flickering [SOLVED]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-itel-s23plus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Itel S23+ to iPhone | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressed-overwatchs-graphics-error/"><u>Addressed Overwatch's Graphics Error</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correct-driver-stop-minecraft-crashes/"><u>Correct Driver, Stop Minecraft Crashes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/corrected-fluctuating-screen-behavior-in-dell-devices/"><u>Corrected Fluctuating Screen Behavior in Dell Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursory-blackscreen-curser-surfaces-win11/"><u>Cursory BlackScreen, Curser Surfaces Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhance-performance-updated-amd-6950-graphics-on-windows-10/"><u>Enhance Performance: Updated AMD 6950 Graphics on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gfx-driver-complication-blackout-phase/"><u>GFX Driver Complication - Blackout Phase</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-honor-x50-gt-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Honor X50 GT Through Google Earth?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-poco-x5-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-honor-x8b-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Honor X8b Device</u></a></li>
+<li><a href="https://techidaily.com/is-your-honor-90-lite-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor 90 Lite working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-to-tv-hdmi-connectivity-woes-solved/"><u>Laptop to TV HDMI Connectivity Woes Solved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restart-to-success-easily-reestablish-monitor-connectivity/"><u>Restart to Success: Easily Reestablish Monitor Connectivity</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/schritt-fur-schritt-anleitung-zum-rippern-speichern-und-hochladen-von-dvds-ins-apple-icloud-oder-auf-andere-cloud-services/"><u>Schritt-Für-Schritt-Anleitung Zum Rippern, Speichern Und Hochladen Von DVDs Ins Apple iCloud Oder Auf Andere Cloud-Services</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209636276-9781633411401-third-eye-meditations/"><u>Third Eye Meditations | Free Book</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unresolved-problem-viewing-videos-on-sony-a6400/"><u>Unresolved Problem Viewing Videos on Sony A6400</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/wiederherstellung-von-dateien-auf-einem-synology-network-attached-storage-nas-eine-umfassende-anleitung/"><u>Wiederherstellung Von Dateien Auf Einem Synology Network Attached Storage (NAS): Eine Umfassende Anleitung</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Repairing Flickering LCD Issues on Computers
-date: 2025-01-05T07:02:01.926Z
-updated: 2025-01-10T02:30:56.985Z
+date: 2025-01-13T23:07:18.208Z
+updated: 2025-01-15T23:50:06.273Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ You pressed the power button on your laptop to open it. You could hear your lapt
 1. [**Restore your system from a restore point**](#f)
 2. [**Update your device drivers**](#g)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Restart the explorer.exe process
 
 You may get the black screen issue because the explorer.exe process on your computer has been closed (possibly by a virus). It is a process that manages the desktop, taskbar, etc, on your operating system. Closing it can make your desktop and taskbar invisible, and you get the black screen issue. To fix this issue, you can check and restart the process manually. To do so:**1)**Press the**Ctrl**,**Shift**and**Esc**key on your keyboard at the same time. This will open Task Manager.**2)**Click the**Details**tab (or the**Processes**tab in Windows 7’s Task Manager) and see if there exists a process called “**explorer.exe**”
@@ -43,10 +39,6 @@ You may get the black screen issue because the explorer.exe process on your comp
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30d10eb62cd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  “Explorer.exe” in Windows 7’s Task Manager
 
 If there is, try ending the process (right-clicking it and selecting **End task**or**End process**) and then reboot your computer. Then check to see if this fixes your problem. But if you can’t see the explorer process, you can run it on your own:**i.** Click**File**and click**Run new task**.
@@ -54,7 +46,7 @@ If there is, try ending the process (right-clicking it and selecting **End task*
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30ca566a014.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **ii.**In the Create new task dialog that pops up, type “_**explorer.exe**_” and press**Enter**on your keyboard.
@@ -63,10 +55,6 @@ If there is, try ending the process (right-clicking it and selecting **End task*
 
 **iii.**The process will run and you can see if your desktop becomes normal.**3)** If the steps above bring your desktop back, you may need to _ [**restore your system to a previous state**](#f) _ in order to prevent your issue occurring again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Enter safe mode and undo recent changes
 
 You may have change some settings or installed a program on your computer, which are incompatible with your operating system. And it causes the black screen problem of your laptop. You can try going into safe mode of your system and undo these changes. Safe mode is a diagnostic mode of your operating system. You can use it to troubleshoot issues on your computer. The method of entering safe mode varies depending on the Windows version you are using. You can check [**this guide**](https://tools.techidaily.com/drivereasy/download/) to learn how to do this. When you are in safe mode, undo the recent changes you have made to the**system settings**. Or uninstall the**program**you have recently installed on your program. If you have**updated your system**right before you got the black screen issue, uninstalled these updates and contact Microsoft for advice. If you are not clear what you have changed, it is recommended that you use [**System Restore**](#f) feature to revert your computer’s state.
@@ -74,6 +62,10 @@ You may have change some settings or installed a program on your computer, which
 ## Method 3: Hard reset your laptop
 
 Hard resetting your laptop can clear all the information in your memory and the charges in your laptop. This is helpful for restoring your laptop screen. To hard reset your laptop:**1)**Turn off your laptop.**2)** Disconnect all the**peripheral devices**on your laptop.**3)**Remove the**battery**. (If it is not removable, skip this step.)**4)** Disconnect the power cable from your laptop.**5)** Press and hold the**power button**on your laptop for about**one**minute.**6)** Connect the**power cable**to your laptop and turn it on.**7)**Turn off your laptop.**8)** Connect the**battery**to your laptop and turn it on.**9)** If this method works for you, you will see there starts to be something showing up on your laptop screen. _Note that this method may not be able to hard reset laptops of all makes. You can consult the official guides for your laptop for the proper way of hard resetting your device._
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Reinstall your memory
 
@@ -89,15 +81,27 @@ It has gone wrong and stops your laptop from completing the self test. You can t
 
 If none of the methods above could help you, your issue may be a hardware problem that you can’t solve yourself. You may need to ask a computer expert to help you. If your laptop is still under warranty, you can contact the manufacturer of your device. They can check your laptop and get it repaired or replaced.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Extra tips
 
 If you have resolved the problem with your laptop screen, it is suggested that you try the things below to totally get rid of this issue and keep your computer healthy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Restore your system from a restore point
 
 Once your laptop recovers, you can restore your Windows from a system restore point. This can prevent your computer from getting issues resulting from the previous changes you have made. _Note that you can restore your system only when you have previously created a restore point._To restore your operating system:**1)**Click the**Start**button in the bottom left corner of your screen. Then type “_**restore**_“.**2)**Open the System Restore wizard from the list of result. _The process is different depending on the operating system you use, and you will see from the following the different steps on Windows 7 and Windows 10._On Windows 7, just click**System Restore**in the search result:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a33e24868.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 On Windows 10, click**Create a restore** **point**,
 
@@ -112,11 +116,7 @@ And then in the dialog popping up, click the**System Restore**button.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  2\. Update your device driver
@@ -126,7 +126,7 @@ You may get various hardware issues (not just this black screen one) if your dev
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309af6042d7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.
@@ -153,24 +153,19 @@ You can download and install your drivers by using either Free or [**Pro** **ver
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fixed-nvidia-drivers-post-malfunction-restored/"><u>[Fixed] Nvidia Drivers Post-Malfunction Restored</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-immersive-animal-life-on-android-ultimate-list/"><u>[New] Immersive Animal Life on Android Ultimate List</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-zero-price-path-to-enhanced-youtube-video-analysis/"><u>[New] Zero-Price Path to Enhanced YouTube Video Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-top-techniques-for-mastering-srt-file-generation/"><u>2024 Approved Unveiling Top Techniques for Mastering SRT File Generation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/asus-internal-cameras-fixed-and-running/"><u>ASUS Internal Cameras: Fixed and Running</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/editing-screen-edge-symmetry/"><u>Editing Screen Edge Symmetry</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-extended-window-interface-on-windows-10/"><u>Fixing Extended Window Interface on Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/get-rid-of-graphics-cards-quickly-on-windows-os/"><u>Get Rid of Graphics Cards Quickly on Windows OS</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-nokia-g42-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Nokia G42 5G</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/microsoft-windows-n-7-gelistirecegiz-yeni-bir-ucretsiz-prog-duzenleme-arayislamak-turkcesi-2024/"><u>Microsoft Windows N 7 Geliştireceğiz | Yeni Bir Ücretsiz Prog. Düzenleme Arayışlamak Türkçesi, 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/new-update-overwatch-graphics-compatible/"><u>New Update: Overwatch Graphics Compatible</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-blank-window-in-windows-10/"><u>Overcoming Blank Window in Windows 10</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pivot-from-srt-to-professional-audio-standards-with-confidence/"><u>Pivot From SRT to Professional Audio Standards with Confidence</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-direct3d-launch-issues/"><u>Resolving Direct3D Launch Issues</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/soaring-stories-crafting-engaging-drone-video-narratives-for-2024/"><u>Soaring Stories Crafting Engaging Drone Video Narratives for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successful-engagement-of-direct3d/"><u>Successful Engagement of Direct3D</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-the-secrets-of-memetic-success-through-gifs-for-2024/"><u>Unlocking the Secrets of Memetic Success Through GIFs for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/wallet-friendly-action-cam-gems-under-100-budget-for-2024/"><u>Wallet-Friendly ACTION Cam Gems Under $100 Budget for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/web-mef/"><u>WEB에서 자연스럽게 가격이나 무시하고 MEF 데이터의 완벽한 전환</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/god-of-war-streamlining-complexity/"><u>'God of War': Streamlining Complexity</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-instagrams-video-quirks-and-how-to-cope/"><u>[New] Instagram's Video Quirks and How to Cope</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-expert-tips-for-stunning-iphone-close-ups-and-macros/"><u>[Updated] 2024 Approved Expert Tips for Stunning iPhone Close-Ups & Macros</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-gourmet-visuals-in-motion-food-shot-tips-and-tricks/"><u>2024 Approved Gourmet Visuals in Motion Food Shot Tips & Tricks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-making-simple-text-pop-in-videos-without-costs/"><u>2024 Approved Making Simple Text Pop in Videos without Costs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/a-tdr-has-been-detected-nvidia-opengl-driver-error-solved/"><u>A TDR Has Been Detected — NVIDIA OpenGL Driver Error [SOLVED]</u></a></li>
+<li><a href="https://win-community.techidaily.com/accelerate-your-pc-expert-tips-on-speeding-up-and-optimizing-performance-from-yl-computing/"><u>Accelerate Your PC: Expert Tips on Speeding Up and Optimizing Performance From YL Computing</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-with-influence-the-powerhouse-trio-facebook-twitter-instagram-and-youtube-unveiled/"><u>Connect with Influence: The Powerhouse Trio - Facebook, Twitter, Instagram & YouTube Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-network-fluctuations-in-steam-streams/"><u>Fixing Network Fluctuations in Steam Streams</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/navigating-non-printing-issues-brother-printer-windows-edition/"><u>Navigating Non-Printing Issues: Brother Printer, Windows Edition</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-upside-down-displays-on-win7/"><u>Resolve Upside-Down Displays on Win7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solve-non-detections-of-gpu-in-computer-systems/"><u>Solve Non-Detections of GPU in Computer Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/update-to-optimized-geforce-graphics-software/"><u>Update to Optimized GeForce Graphics Software</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/visuals-missing-no-graphics-support-found/"><u>Visuals Missing: No Graphics Support Found</u></a></li>
 </ul></div>
 

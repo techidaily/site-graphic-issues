@@ -1,7 +1,7 @@
 ---
 title: "HybridGraphics Reality: NVIDIA & Intel’s Effortless Switching in Win10"
-date: 2025-01-07T00:49:02.767Z
-updated: 2025-01-09T19:36:18.298Z
+date: 2025-01-10T01:58:50.296Z
+updated: 2025-01-15T18:22:15.949Z
 tags:
   - win11
   - win10
@@ -37,22 +37,22 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Shut down your laptop.
@@ -85,10 +85,6 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -101,10 +97,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4: Disable Fast Startup
 
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
@@ -112,7 +104,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
@@ -123,9 +115,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,20 +142,24 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-top-10-camcorders-ultimate-picks-expert-reviews/"><u>[New] In 2024, Top 10 Camcorders Ultimate Picks – Expert Reviews</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-simplify-your-internet-experience-step-by-step-guide-to-disabling-youtube-on-devices-for-2024/"><u>[Updated] Simplify Your Internet Experience Step-by-Step Guide to Disabling Youtube on Devices for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-unclear-windows-display/"><u>Fix: Unclear Windows Display</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y56-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y56 5G Bootloader Easily</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-perfect-your-wedding-countdown-experience-with-these-top-apps-androidios/"><u>In 2024, Perfect Your Wedding Countdown Experience with These Top Apps (Android/iOS)</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lenovo-touchscreen-glitch-now-fixed/"><u>Lenovo Touchscreen Glitch Now Fixed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818169837-lightning-fast-enhancement-the-newest-intel-drivers-on-windows-10/"><u>Lightning-Fast Enhancement: The Newest Intel Drivers on Windows 10!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721266294107-maximize-conversions-using-cookiebot-technology-a-game-changer/"><u>Maximize Conversions Using Cookiebot Technology – A Game Changer!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-graphics-troubles-civ-5-pc/"><u>Overcoming Graphics Troubles, Civ 5-PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reactivating-graphics-use-on-modern-windows-systems/"><u>Reactivating Graphics Use on Modern Windows Systems</u></a></li>
-<li><a href="https://win-help.techidaily.com/seamless-scanning-experience-with-windows-tips-from-yl-software/"><u>Seamless Scanning Experience with Windows: Tips From YL Software</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-screen-shimmer-a-handy-guide-for-windows-7-users/"><u>Stop Screen Shimmer – A Handy Guide for Windows 7 Users</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/teamwork-made-simple-the-ultimate-guide-to-8-schedulers-for-2024/"><u>Teamwork Made Simple The Ultimate Guide to 8 Schedulers for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-nightmeow-shadow-issue-solved-with-fall-patch/"><u>Win11 Nightmeow: Shadow Issue Solved with Fall Patch</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-essential-tips-for-recording-fb-messenger-calls/"><u>[New] 2024 Approved Essential Tips for Recording FB Messenger Calls</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-crafting-an-engaging-review-vlog-for-everyday-items/"><u>[New] Crafting an Engaging Review Vlog for Everyday Items</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-pixel-powerhouse-the-ultimate-game-collection/"><u>[New] Pixel Powerhouse The Ultimate Game Collection</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-itel-p55-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Itel P55</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ending-blackout-in-windows-11-after-fall-update/"><u>Ending Blackout in Windows 11 After Fall Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-laptop-snap-issues-stable-screen-now/"><u>Fixed Laptop Snap Issues - Stable Screen Now</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gameplay-enhancement-no-more-lags/"><u>Gameplay Enhancement: No More Lags</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-enhancement-new-amd-hd-6950-update-on-windows-11-os/"><u>Graphics Enhancement - New AMD HD 6950 Update on Windows 11 OS</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/guida-completa-per-convertire-rapidamente-la-regione-dei-dvd-in-una-versione-gratuita-e-utilizzabile/"><u>Guida Completa per Convertire Rapidamente La Regione Dei DVD in Una Versione Gratuita E Utilizzabile</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-critical-error-c1900101-during-windows-11-installation/"><u>How to Fix Critical Error C1900101 During Windows 11 Installation</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-vivo-s17e-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Vivo S17e Device SIM</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-neo-5-se-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme GT Neo 5 SE Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-drivers-return-to-normalcy-all-clear/"><u>Nvidia Drivers: Return to Normalcy, All Clear</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-nvidia-windows-clash-issue-now-solved/"><u>Overcoming Nvidia-Windows Clash: Issue Now Solved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-visibility-lenovos-brightening-guide/"><u>Restoring Visibility: Lenovo's Brightening Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simplify-system-easy-driver-deletion-guide/"><u>Simplify System: Easy Driver Deletion Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-fix-crashes-in-ring-of-elysium/"><u>Step-by-Step Guide to Fix Crashes in Ring of Elysium</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-poco-c50-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Poco C50 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-samsung-galaxy-a05s-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Samsung Galaxy A05s Bricked Devices | Dr.fone</u></a></li>
 </ul></div>
 

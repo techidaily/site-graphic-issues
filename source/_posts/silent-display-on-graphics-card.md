@@ -1,7 +1,7 @@
 ---
 title: Silent Display on Graphics Card
-date: 2025-01-05T07:58:18.849Z
-updated: 2025-01-09T23:34:32.842Z
+date: 2025-01-11T02:33:16.229Z
+updated: 2025-01-15T17:02:57.184Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
  If your new graphics card has no display or all you see is a black screen, no fret, it’s probably a simple connection issue. We have here a troubleshooting process that’ll help to identify the culprit to your new GPU no display issue. So if this is also bothering you, look no further and read to get this problem sorted.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes for the new graphics card black screen or no display problem
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-71.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -59,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 If this is not the problem, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Ditch any converter
 
@@ -84,13 +80,13 @@ If this is not the problem, please move on.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-72.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On an ASUS motherboard, you could see something like Enabled**IGFX Multi-monitor** :
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-73.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you have the monitor display back when booting with the integrated display card, update the display card driver to fix the no display with the new GPU problem.
 
@@ -104,7 +100,7 @@ If this is not the problem, please move on.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -137,6 +133,10 @@ Here are the things you should pay extra attention to:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Force a clean install of the GPU driver
 
  The new GPU has no display or black screen issue could also be caused by a faulty display card installed.
@@ -147,12 +147,12 @@ Here are the things you should pay extra attention to:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/08/Start-System-Configuration-tool.png)
 2. Select the **Boot**  tab, then check **Safe boot** and**Network** and click **Apply** and**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-61.png)
 3. When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into Safe Mode.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)  
 
@@ -165,7 +165,7 @@ Here are the things you should pay extra attention to:
 6. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Then update your graphics card driver with [**Driver Easy Pro**](#DE) .
@@ -201,21 +201,24 @@ Here are the things you should pay extra attention to:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-filming-on-the-go-what-you-need/"><u>[New] 2024 Approved Filming On-the-Go – What You Need</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ow-to-find-your-comments-on-youtube/"><u>[New] How to Find Your Comments on YouTube?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-the-flickering-windows-11-enigma/"><u>[RESOLVED] The Flickering Windows 11 Enigma</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-transformative-techniques-mastering-lut-application-in-post-production/"><u>[Updated] Transformative Techniques Mastering LUT Application in Post-Production</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/activate-a-sluggish-gpu-fan-with-ease/"><u>Activate a Sluggish GPU Fan with Ease</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-graphics-crashes-without-total-pc-shutdown/"><u>Addressing Graphics Crashes Without Total PC Shutdown</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-reflection-issue-in-windows-11-views/"><u>Addressing Reflection Issue in Windows 11 Views</u></a></li>
-<li><a href="https://article-files.techidaily.com/blitz-games-leading-lightning-fast-titles-for-laptopsphones-for-2024/"><u>Blitz Games Leading Lightning-Fast Titles for Laptops/Phones for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/flip-monitor-settings-for-optimal-view/"><u>Flip Monitor Settings for Optimal View</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-p55-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from P55.</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-apple-iphone-12-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from Apple iPhone 12</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-guide-to-timing-your-wedding-in-10-top-apps/"><u>In 2024, Ultimate Guide to Timing Your Wedding, in 10 Top Apps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackling-gpu-errors-retaining-system-accessibility/"><u>Tackling GPU Errors: Retaining System Accessibility</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-checklist-lipo-batteries-for-drone-excellence-for-2024/"><u>The Ultimate Checklist LiPo Batteries for Drone Excellence for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unlock-the-potential-of-slow-motion-creation-a-comprehensive-guide-to-impressive-instagram-videos-for-2024/"><u>Unlock the Potential of Slow-Motion Creation A Comprehensive Guide to Impressive Instagram Videos for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-systems-need-amd-gpu-drivers-installed/"><u>Windows Systems Need AMD GPU Drivers Installed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-identifying-key-windows-movie-maker-alternatives/"><u>[New] In 2024, Identifying Key Windows Movie Maker Alternatives</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-live-streaming-pre-recorded-videos-the-facebook-approach/"><u>[New] Live Streaming Pre-Recorded Videos The Facebook Approach</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-designing-for-success-how-space-arrangement-boosts-work-performance/"><u>[Updated] Designing for Success How Space Arrangement Boosts Work Performance</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-step-by-step-guide-to-nba-streaming-top-15-essentials/"><u>[Updated] In 2024, Step-by-Step Guide to NBA Streaming - Top 15 Essentials</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-ultimate-list-action-cameras-ideal-mics/"><u>2024 Approved Ultimate List Action Camera's Ideal Mics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/apex-legends-recharged-and-bug-free/"><u>Apex Legends, Recharged & Bug-Free</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/best-practices-for-streamlining-webinars-on-windowsapple-os-for-2024/"><u>Best Practices for Streamlining Webinars on Windows/Apple OS for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cut-the-glare-not-your-patience-fix-monitor-flicker/"><u>Cut the Glare, Not Your Patience: Fix Monitor Flicker</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/device-halt-in-windows-fixed-nvidia-issue-43-settled/"><u>Device Halt in Windows Fixed – NVIDIA Issue #43 Settled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-free-utilities-our-top-15-recommendations-for-safe-software-deletion/"><u>Essential Free Utilities: Our Top 15 Recommendations for Safe Software Deletion</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-malfunction-resolved-screen-responding/"><u>GPU Malfunction Resolved: Screen Responding</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-bug-detected-now-fixed-by-nvidia-drivers/"><u>Graphics Bug Detected, Now Fixed by NVIDIA Drivers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-nokia-c110-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Nokia C110 Phone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-r9-display-problems-on-windows-10/"><u>Overcoming R9 Display Problems on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-the-flashing-windows-10-problems/"><u>Solving the Flashing Windows 10 Problems</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/valorant-screenshots-transformed-by-rapid-skilled-designers/"><u>Valorant Screenshots Transformed by Rapid, Skilled Designers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/virtual-viewing-tips-for-live-coverage-of-the-2024-olympics/"><u>Virtual Viewing Tips for Live Coverage of the 2024 Olympics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-cursor-sight-resolution/"><u>Win11 Cursor Sight - Resolution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11s-flicker-phenomenon-resolved/"><u>Win11's Flicker Phenomenon - Resolved</u></a></li>
 </ul></div>
 

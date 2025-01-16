@@ -1,7 +1,7 @@
 ---
 title: Undetected Graphics Card Problem
-date: 2025-01-06T20:55:11.362Z
-updated: 2025-01-10T05:44:21.182Z
+date: 2025-01-12T19:34:37.766Z
+updated: 2025-01-15T18:33:36.566Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
  Your graphics card isn’t detected by your computer? This is quite irritating and you’re certainly not the only one who faces this issue. Many Windows users are reporting it. But the good news is you can fix it. This article gives you 5 solutions to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-52-28.jpg)
 2. **Type devmgmt.msc and click OK to open Device Manager.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Type **devmgmt.msc** and click **OK** to open Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-32-37.jpg)
 3. **Click the Scan button.**  
@@ -49,13 +53,13 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-32-47.jpg)
 4. **Check if your graphics card shows up under Display adapters.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Check if your graphics card shows up under Display adapters.
 
  If it doesn’t, don’t worry. Read on and check the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -72,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-33-03.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the **Update**  button next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -80,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
  Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-33-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
 
@@ -95,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-24.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-29.jpg)
@@ -106,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 **3)** Click**Programs** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-34.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click**View installed updates** .
 
@@ -129,6 +129,10 @@ If your problem persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-514.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Open your computer case.
 
 **3)** Remove your graphics card and reinstall it.
@@ -136,7 +140,7 @@ If your problem persists, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-504.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Here is where a graphics card is usually located.
@@ -144,10 +148,6 @@ Here is where a graphics card is usually located.
 **4)** Plug the power cord back into the power outlet, and then turn on your computer.
 
  Check if this worked for you. If your problem still exists, don’t fret. There is still 1 more fix to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Update your BIOS
 
@@ -193,20 +193,24 @@ Here is where a graphics card is usually located.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-comparative-review-dji-phantom-3-vs-competitors/"><u>[New] Comparative Review DJI Phantom 3 vs Competitors</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-audio-ambiance-assembler-selecting-background-scores/"><u>[Updated] 2024 Approved Audio Ambiance Assembler Selecting Background Scores</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-prime-buzz-generator-prodigy/"><u>[Updated] 2024 Approved Prime Buzz Generator Prodigy</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-crafting-your-own-google-vr-glasses/"><u>[Updated] Crafting Your Own Google VR Glasses</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-pioneering-creativity-youtubes-playground-for-talent/"><u>[Updated] Pioneering Creativity YouTube's Playground for Talent</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/critical-gpu-not-detected-alert/"><u>Critical: GPU Not Detected Alert</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cursors-comeback-in-black-screen-win11/"><u>Cursor's Comeback in Black Screen Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/efficient-approach-to-resolving-c1900101-install-issue/"><u>Efficient Approach to Resolving C1900101 Install Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-silence-sputtering-screens/"><u>How to Silence Sputtering Screens</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-apple-iphone-13-pro-max-for-parents-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Telegram Spy Tools On Apple iPhone 13 Pro Max for Parents | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/powerful-updates-new-drivers-for-amds-hd-6950-gfx/"><u>Powerful Updates: New Drivers for AMD's HD 6950 GFX</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/quick-start-using-ez-grabber-effectively/"><u>Quick Start Using EZ Grabber Effectively</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restored-screen-continuity-in-dell-mini-pc/"><u>Restored Screen Continuity in Dell Mini-PC</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209859243-9781999641016-the-golden-book-of-wisdom/"><u>The Golden Book of Wisdom | Free Book</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ui-graphics-recovered-on-win-seamless-interaction/"><u>UI Graphics Recovered on Win - Seamless Interaction</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/advice-install-supported-drivers-for-amd-video-adapter/"><u>[ADVICE] Install Supported Drivers for AMD Video Adapter</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-androids-favorite-is-pickup-superior-to-other-photo-editors/"><u>[New] In 2024, Android’s Favorite Is PickUp Superior to Other Photo Editors?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-initial-steps-towards-perfect-transitional-sound-levels/"><u>[New] Initial Steps Towards Perfect Transitional Sound Levels</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-video-sizing-anomalies-what-causes-imovie-to-crop/"><u>[Updated] 2024 Approved Video Sizing Anomalies What Causes iMovie to Crop?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-anthem-performance-boost/"><u>Effortless Anthem Performance Boost</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/end-asus-monitor-glitches-with-easy-fix-methods/"><u>End ASUS Monitor Glitches with Easy Fix Methods</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-geforce-shader-compatibility-hiccup/"><u>Fixed GeForce Shader Compatibility Hiccup</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Hacks to do pokemon go trainer battles For Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/identifying-invisible-cuda-chipset/"><u>Identifying Invisible CUDA Chipset</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-8-innovative-tablets-changing-the-face-of-photo-editing-landscape/"><u>In 2024, 8 Innovative Tablets Changing the Face of Photo Editing Landscape</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-iphone-14-pro-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling iPhone 14 Pro Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-asus-rog-phone-7-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Asus ROG Phone 7</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-stepwise-unveiling-effect/"><u>In 2024, Stepwise Unveiling Effect</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722970488348-intel-rapid-storage-technology-driver-download-and-update-easily/"><u>Intel Rapid Storage Technology Driver Download & Update Easily</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-win-graphics-capability/"><u>Restored Win Graphics Capability</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-xbox-one-graphics-issue/"><u>Restored Xbox One Graphics Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/taming-the-dark-screen-in-win10/"><u>Taming the Dark Screen in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tdr-alert-cleared-nvidia-driver-update-effective/"><u>TDR Alert Cleared: Nvidia Driver Update Effective</u></a></li>
+<li><a href="https://solve-info.techidaily.com/ultimate-kodi-tutorial-series-mastering-your-media-experience-from-pages-1-6/"><u>Ultimate Kodi Tutorial Series: Mastering Your Media Experience From Pages 1-6</u></a></li>
 </ul></div>
 

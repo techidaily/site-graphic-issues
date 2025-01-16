@@ -1,7 +1,7 @@
 ---
 title: GTX 950 Code 43 Error on Windows 10 [Solved]
-date: 2025-01-07T00:42:55.775Z
-updated: 2025-01-10T01:47:02.674Z
+date: 2025-01-14T00:41:45.248Z
+updated: 2025-01-16T01:06:20.459Z
 tags:
   - win11
   - win10
@@ -47,15 +47,27 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode. 
 
@@ -80,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -89,27 +101,15 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##   **Option 2: Update Windows 10** 
 
  1) On your keyboard, press**Start** button, and then choose**Setting** icon. In the Setting window, click**Update & security** . 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the**Check for updates** button to see if there are any new updates available. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) If new updates are available, just download and then update them as instructed. 
 
@@ -126,7 +126,7 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   **Option 4: Reinstall Windows 10** 
@@ -155,20 +155,19 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-elite-battle-a-compilation-of-superior-fps-games-for-2024/"><u>[New] Elite Battle A Compilation of Superior FPS Games for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-top-7-packet-opening-experience-hacks-for-2024/"><u>[New] Top 7 Packet Opening Experience Hacks for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-twitters-visuals-on-the-social-media-giant-fb-for-2024/"><u>[Updated] Twitters' Visuals on the Social Media Giant FB for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-methods-to-remove-restrictions-on-blocked-windows-files/"><u>Advanced Methods to Remove Restrictions on Blocked Windows Files</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/choosing-superiority-without-compromises-why-the-ipad-air-4-and-galaxy-tab-s7plus-lead-the-pack/"><u>Choosing Superiority Without Compromises – Why the iPad Air 4 and Galaxy Tab S7+ Lead the Pack</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/combat-asus-screen-glare-quickly-and-quietly/"><u>Combat ASUS Screen Glare Quickly and Quietly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/diagnose-windowsminecraft-driver-mishap/"><u>Diagnose Windows/Minecraft Driver Mishap</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-locked-out-display-configurations-in-nvidia/"><u>Fixing Locked-Out Display Configurations in NVIDIA</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gfxui-has-stopped-working-on-windows-solved/"><u>GfxUI Has Stopped Working on Windows [Solved]</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-note-30-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Note 30</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/navigate-through-sims-graphical-glitch/"><u>Navigate Through Sims Graphical Glitch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-terraria-connections-errors-with-these-proven-techniques/"><u>Overcoming Terraria Connections Errors with These Proven Techniques</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-fix-for-lenovos-erratic-display-behavior/"><u>Quick Fix for Lenovo's Erratic Display Behavior</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/updated-nvidia-geforce-210-supports-win11/"><u>Updated NVIDIA GeForce 210 Supports Win11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-12-ideal-video-cameras-for-aspiring-and-seasoned-vloggers/"><u>[New] In 2024, 12 Ideal Video Cameras for Aspiring and Seasoned Vloggers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/astering-youtube-metrics-for-earning-livelihoods-for-2024/"><u>[New] Mastering YouTube Metrics for Earning Livelihoods for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-androidios-essentials-cutting-edge-video-montage-software/"><u>[Updated] Android/iOS Essentials Cutting-Edge Video Montage Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-pro-b760m-ct-csm-unveiled-comprehensive-review-for-serious-gamers-and-builders/"><u>ASUS Pro B760M-CT CSM Unveiled: Comprehensive Review for Serious Gamers and Builders</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-blank-screen-a-twitch-guide/"><u>Eliminate Blank Screen: A Twitch Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-wide-screen-functionality-in-win10-software/"><u>Enhancing Wide-Screen Functionality in Win10 Software</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xs-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XS Max without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/making-amd-freesync-work-across-systems/"><u>Making AMD FreeSync Work Across Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-latency-reduction-in-anthem/"><u>Mastering Latency Reduction in Anthem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-the-shadowy-screen-on-your-asus-gadget/"><u>Overcome the Shadowy Screen on Your Asus Gadget</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/reverse-video-order-on-your-ios-gadget-for-2024/"><u>Reverse Video Order on Your iOS Gadget for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solutions-for-a-dormant-gpu-fan/"><u>Solutions for a Dormant GPU Fan</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-overcome-world-of-warcraft-server-delays/"><u>Troubleshooting Steps to Overcome World of Warcraft Server Delays</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/ultimate-guide-how-to-erase-songs-efficiently-on-your-iphone/"><u>Ultimate Guide: How to Erase Songs Efficiently on Your iPhone</u></a></li>
 </ul></div>
 

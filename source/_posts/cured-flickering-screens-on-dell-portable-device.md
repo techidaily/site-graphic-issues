@@ -1,7 +1,7 @@
 ---
 title: Cured Flickering Screens on Dell Portable Device
-date: 2025-01-08T07:54:49.797Z
-updated: 2025-01-09T19:45:36.810Z
+date: 2025-01-14T02:48:02.269Z
+updated: 2025-01-16T02:27:58.825Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
  If you’ve been experiencing too much**screen flickering** issue on your**Dell** laptop lately, don’t worry. It’s usually not hard to fix at all…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes For Dell Laptop Screen Flickering
@@ -36,6 +36,10 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Change the power plan and restore default settings
 
  Changing your power plan to high performance and restore it to default settings is a proven effective way to get rid of this**screen flashing on Dell laptop** issue. To do so:
@@ -45,19 +49,31 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 2. Click the**High performance** option > **Change plan settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a803558e52.jpg)
 3. Click **Restore default settings for this plan** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b740b5511476.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click **Yes**   to confirm the restore.
 4. Restart your computer for the changes to take effect.
 5. Check to see if the flickering issue has been resolved. If yes, then great! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust the screen resolution
 
@@ -81,10 +97,6 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 1. Right-click on **the empty area**   of your desktop screen and click **Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 2. Adjust the screen resolution one by one in the drop-down menu and see if there’s one that helps get rid of the screen flickering problem.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)  
  Still no joy? Please move on to**Fix 4** , below.
@@ -123,29 +135,17 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 **![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  
  and **R**  at the same time. Then type**services.msc** into the box and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8a691fe0c.png)
 2. Locate and right-click on**Desktop Window Manager Session Manager** . Then click**Stop** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8a0a13442.jpg)
 3. Double-click on **Desktop Window Manager Session Manager** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8b9fbc86c.jpg)
 4. In the**General** tab, select**Disabled** in**Startup type** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8b219f705.jpg)
@@ -185,14 +185,21 @@ Here are 5 fixes that have helped other users resolve the Dell laptop screen fli
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unleashing-potential-top-10-os-xwin-enhancements-for-srt/"><u>[New] Unleashing Potential Top 10 OS X/Win Enhancements for SRT</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-android-snapshot-wonders-ranking-the-best-8-for-free-screen-capture/"><u>[Updated] In 2024, Android Snapshot Wonders - Ranking the Best 8 for Free Screen Capture</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/discovering-the-fix-for-win11nvidia/"><u>Discovering the Fix for Win11/NVIDIA</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/drive-performance-streamlined-installation-of-intel-gfx-driver-for-win11/"><u>Drive Performance: Streamlined Installation of Intel GFX Driver for Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-hulu-streaming-errors-after-win11s-latest-update/"><u>Fixing Hulu Streaming Errors After Win11's Latest Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/guide-for-fixing-common-windows-11-error-code-c1900101/"><u>Guide for Fixing Common Windows 11 Error Code: C1900101</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/stream-with-confidence-fix-twitchs-mute-mystery-now/"><u>Stream with Confidence: Fix Twitch's Mute Mystery Now</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/transform-your-digital-world-the-motorola-one-5g-ace-sets-new-standards-with-its-breathtaking-speed-capabilities-and-robust-battery-duration/"><u>Transform Your Digital World - The Motorola One 5G Ace Sets New Standards with Its Breathtaking Speed Capabilities & Robust Battery Duration</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-streamlining-remote-recordings-a-producers-guide/"><u>[New] 2024 Approved Streamlining Remote Recordings A Producer’s Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-essential-blueprint-for-home-based-podcasting-for-2024/"><u>[New] The Essential Blueprint for Home-Based Podcasting for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-cutting-edge-editors-scouting-the-ultimate-tools-for-youtube-shorts/"><u>[Updated] In 2024, Cutting Edge Editors Scouting the Ultimate Tools for YouTube Shorts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-radeon-r9-display-driver-issues-on-windows-10-solved/"><u>AMD Radeon R9 Display Driver Issues on Windows 10 [Solved]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bluestacks-stability-boosted-in-just-5-quick-and-easy-steps/"><u>BlueStacks Stability Boosted in Just 5 Quick and Easy Steps!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicate-buffer-and-jitter-in-seconds/"><u>Eradicate Buffer and Jitter in Seconds</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-unsaved-display-configurations-in-win-7-and-10-systems-done/"><u>Fix Unsaved Display Configurations in WIN 7 & 10 Systems [Done]</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rful-faves-top-online-chefs-and-culinary-stars-for-2024/"><u>Flavorful Faves Top Online Chefs & Culinary Stars for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolution-win11-screens-flashing/"><u>Resolution: Win11 Screens Flashing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secured-windows-graphic-creation/"><u>Secured Windows Graphic Creation</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209865455-9780999494905-the-magical-unfolding/"><u>The Magical Unfolding | Free Book</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-the-philips-somneo-alarm-clock-elite-rating-and-features/"><u>Ultimate Guide to the Philips Somneo Alarm Clock - Elite Rating & Features</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-secrets-to-delete-your-online-posts/"><u>Unveiling Secrets to Delete Your Online Posts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-rebirth-bright-screen-after-update-fallout/"><u>Win11 Rebirth: Bright Screen After Update Fallout</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-infinix-hot-30i-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zero-display-fresh-pcie/"><u>Zero Display, Fresh PCIe</u></a></li>
 </ul></div>
 

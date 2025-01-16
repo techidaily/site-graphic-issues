@@ -1,7 +1,7 @@
 ---
 title: Solve Display Distortion Issues (PC)
-date: 2025-01-04T08:29:06.461Z
-updated: 2025-01-09T17:24:08.361Z
+date: 2025-01-13T19:35:37.847Z
+updated: 2025-01-16T02:43:13.748Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ There are two fixes you can try:
 1. [**Up** **date your drivers**](#a)
 2. [**Turn on V-Sync**](#b)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Update your drivers
 
  You monitor screen may tear if your device drivers, especially your graphics driver, are wrong or out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -53,9 +49,17 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713a84159a4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update** button next to each driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713ba9d0320.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Turn on V-Sync
 
@@ -66,7 +70,7 @@ There are two fixes you can try:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72924ca6c92.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also enable it on your video card settings. This process can be different, depending on the video card you use. But generally, you will need to open the control panel for your video card on your computer. The following shows you how to turn on V-Sync on**NVIDIA** ,**Intel** and**AMD** video card.  
@@ -85,16 +89,12 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72b91a58300.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click**Custom Settings** . Then under Vertical Sync, click**Driver Settings** or**ON** . After that click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72bade8ef5d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### For**AMD** graphics users
@@ -105,12 +105,12 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c14e895a8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c1a5a7775.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you turn off V-Sync, check to see if your monitor screen gets back to normal.
 
@@ -131,22 +131,22 @@ There are two fixes you can try:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/treamlining-co-productions-a-guide-to-more-followers/"><u>[New] Streamlining Co-Productions A Guide to More Followers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-pinterest-vids-at-a-seconds-notice-free-online-downloader-top-5-for-2024/"><u>[Updated] Pinterest Vids at a Second's Notice – Free Online Downloader Top 5 for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/boosting-productivity-with-macos-xs-multi-tab-capability/"><u>Boosting Productivity with MacOS X's Multi-Tab Capability</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-what-bing-is-and-how-it-shapes-your-internet-experience-as-a-microsoft-product/"><u>Discover What Bing Is and How It Shapes Your Internet Experience as a Microsoft Product</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphic-device-debugged-43-fix/"><u>Graphic Device Debugged #43 Fix</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-13-pro-max-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 13 Pro Max After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-xiaomi-redmi-a2-to-mac-drfone-by-drfone-android/"><u>How to Mirror Xiaomi Redmi A2 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/improved-graphics-amd-hd-6950-driver-for-windows-11-released/"><u>Improved Graphics: AMD HD 6950 Driver for Windows 11 Released</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-x-fold-2-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo X Fold 2 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-the-world-of-fpv-drone-propellers-for-2024/"><u>Navigating the World of FPV Drone Propellers for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-driver-recognition-for-older-amd-adapters-on-windows/"><u>No Driver Recognition for Older AMD Adapters on Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-repairing-the-msstfmtdll-file-cannot-be-opened-problem/"><u>Step-by-Step Instructions: Repairing the 'msstfmt.dll File Cannot Be Opened' Problem</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/streamlined-geforce-210-for-windows-11-release/"><u>Streamlined GeForce 210 for Windows 11 Release</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tdr-alert-fixed-nvidia-drivers-stabilize-graphics/"><u>TDR Alert Fixed: NVIDIA Drivers Stabilize Graphics</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/turnrightview-on-computer/"><u>TurnRightView on Computer</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlock-low-end-system-potential-with-intel-graphics/"><u>Unlock Low-End System Potential with Intel Graphics</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/wingraphicsdevicecreationfix-resolved-issue/"><u>WinGraphicsDeviceCreationFix - Resolved Issue</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-step-by-step-guide-to-preserve-snapchat-videos-on-phone/"><u>[New] In 2024, Step-by-Step Guide to Preserve Snapchat Videos on Phone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-chic-coverage-for-your-portable-screen/"><u>2024 Approved Chic Coverage for Your Portable Screen</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-locate-the-best-bargains-on-gopro-cameras/"><u>2024 Approved Locate the Best Bargains on GoPro Cameras</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beyond-apples-latest-iphones-the-best-new-phones-if-you-missed-out-on-the-iphone-13-or-15-pro-digitalworld-today/"><u>Beyond Apple's Latest iPhones: The Best New Phones if You Missed Out on the iPhone 13 or 15 Pro | DigitalWorld Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-unresponsive-mousepads-on-laptops-with-windows-1187-os-a-comprehensive-guide/"><u>Effective Fixes for Unresponsive Mousepads on Laptops with Windows 11/8/7 OS - A Comprehensive Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-display-stability-on-pro-7-tablet/"><u>Enhancing Display Stability on Pro 7 Tablet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/excellent-ending-for-displays-save-saga/"><u>Excellent Ending for Displays' Save-Saga</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-6-plus-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 6 Plus to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/making-every-word-count-the-art-of-persuasive-proposals-and-ai/"><u>Making Every Word Count: The Art of Persuasive Proposals & AI</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-rtx-not-registered-in-device-hub/"><u>NVIDIA RTX Not Registered in Device Hub</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-blurriness-in-far-cry-6-display/"><u>Overcoming Blurriness in Far Cry 6 Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/pinpoint-problematic-video-card-in-crashes/"><u>Pinpoint Problematic Video Card in Crashes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-lost-display-options-with-precision/"><u>Restoring Lost Display Options with Precision</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2211462-9780007478620-sagittarius-2013-your-personal-horoscope/"><u>Sagittarius 2013: Your Personal Horoscope | Free Book</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-the-silence-what-does-it-mean/"><u>Understanding the Silence: What Does It Mean?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unraveling-directx12-obstacles-for-halo-infinite-launch/"><u>Unraveling: DirectX12 Obstacles for Halo Infinite Launch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-eradicated-screen-warping/"><u>Windows 11: Eradicated Screen Warping</u></a></li>
 </ul></div>
 

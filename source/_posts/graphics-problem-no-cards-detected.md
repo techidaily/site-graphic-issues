@@ -1,7 +1,7 @@
 ---
 title: "Graphics Problem: No Cards Detected"
-date: 2025-01-04T18:21:39.501Z
-updated: 2025-01-09T18:50:35.398Z
+date: 2025-01-10T19:36:32.621Z
+updated: 2025-01-15T22:53:02.274Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 
  Your graphics card isn’t detected by your computer? This is quite irritating and you’re certainly not the only one who faces this issue. Many Windows users are reporting it. But the good news is you can fix it. This article gives you 5 solutions to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all. Just work your way down the list until you find the one that works for you.
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 4. **[Reinstall your graphics card](#d)**
 5. **[Update your BIOS](#e)** [](#e)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Refresh Device Manager
 
  One quick fix that works for many Windows users is refreshing Device Manager. Follow the instructions below to see how to do it:  
@@ -37,17 +45,9 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-52-28.jpg)
 2. **Type devmgmt.msc and click OK to open Device Manager.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Type **devmgmt.msc** and click **OK** to open Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-32-37.jpg)
 3. **Click the Scan button.**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click the**Scan button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-32-47.jpg)
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
  If it doesn’t, don’t worry. Read on and check the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -82,14 +82,10 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-33-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Uninstall recent Windows updates
 
@@ -98,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 **1)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-24.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Under **View by** , select **Category** .
 
@@ -119,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 
 If your problem persists, check the fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Reinstall your graphics card
 
  If you’re using a desktop, your issue is probably caused by a poor connection between your graphics card and motherboard. To fix it, you need to reinstall your graphics card. Here is how to do it:
@@ -134,7 +130,7 @@ If your problem persists, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-514.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Open your computer case.
@@ -160,6 +156,10 @@ Here is where a graphics card is usually located.
 **2)** Type**msinfo32** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-493.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Check the**BIOS Version/Date** to know your BIOS manufacturer.
 
@@ -193,22 +193,24 @@ Here is where a graphics card is usually located.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-ascending-with-aerial-artistry-9-top-editors-for-diverse-levels/"><u>[New] In 2024, Ascending with Aerial Artistry 9 Top Editors For Diverse Levels</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-maximize-content-experience-with-these-top-6-youtube-shorts-downloader-apps/"><u>[New] In 2024, Maximize Content Experience with These Top 6 YouTube Shorts Downloader Apps</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-the-ultimate-guide-to-slicing-and-dicing-vimeo-videos-online/"><u>[New] The Ultimate Guide to Slicing and Dicing Vimeo Videos Online</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solution-enter-nvidia-control-unlocked/"><u>[Solution] Enter Nvidia Control Unlocked</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/anthem-speed-optimization-guide/"><u>Anthem Speed Optimization Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clear-windows-image-effortless/"><u>Clear Windows Image, Effortless</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clearer-zoom-calls-achievable-with-these-repair-steps/"><u>Clearer Zoom Calls Achievable with These Repair Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-cannot-access-this-location-on-windows-with-ease/"><u>Fix 'Cannot Access This Location' On Windows with Ease</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Nubia PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/keep-your-digital-world-pristine-apples-latest-invention-erases-vandalism-in-the-metaverse/"><u>Keep Your Digital World Pristine - Apple's Latest Invention Erases Vandalism in the Metaverse</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimized-gaming-amd-radeon-hd-6950-on-windows-11-update/"><u>Optimized Gaming: AMD Radeon HD 6950 on Windows 11 Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reformatting-large-win11-screen/"><u>Reformatting Large Win11 Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/speedy-marvel-how-this-gadget-triumphs-with-incredible-velocity/"><u>Speedy Marvel: How This Gadget Triumphs with Incredible Velocity</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swiftly-enhance-win10-with-intel-graphics-drivers/"><u>Swiftly Enhance Win10 with Intel Graphics Drivers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unveiling-the-18th-year-milestone-digiartys-annual-memorable-event-and-limited-offerings/"><u>Unveiling the 18Th Year Milestone - Digiarty's Annual Memorable Event & Limited Offerings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-techniques-to-track-your-youtube-video-audience/"><u>Unveiling the Techniques to Track Your YouTube Video Audience</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-error-monitor-refuses-fullscreen-view/"><u>Win11 Error: Monitor Refuses Fullscreen View</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-top-5-affordable-drones-under-500/"><u>[New] In 2024, Top 5 Affordable Drones Under $500</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mycam-review-is-there-a-better-alternative-available-in-2024/"><u>[New] MyCam Review Is There A Better Alternative Available, In 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-deep-dive-into-benq-sw320s-4k-visuals/"><u>[Updated] In 2024, Deep Dive Into BenQ SW320's 4K Visuals</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-bypass-expenses-relish-films-anywhere-free-player/"><u>2024 Approved Bypass Expenses, Relish Films Anywhere (FREE Player)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/balancing-screen-border-alignment/"><u>Balancing Screen Border Alignment</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/delving-into-4k-resolution-a-visual-leap/"><u>Delving Into 4K Resolution: A Visual Leap</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/diagnose-and-solve-minecraftwindows-hiccup/"><u>Diagnose and Solve Minecraft/Windows Hiccup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-ghost-line-effects-from-laptop-displays-quickly/"><u>Eliminate Ghost Line Effects From Laptop Displays Quickly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-windows-10-streaming-the-fix/"><u>Enhanced Windows 10 Streaming - The Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-radeon-g-sync-failure/"><u>Fix: Radeon G-Sync Failure</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-poco-m6-pro-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Poco M6 Pro 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-honor-play-40c-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Honor Play 40C Device SIM</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mended-vega-visual-glitch/"><u>Mended Vega Visual Glitch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-windows-10-refreshing-anomalies/"><u>Overcoming Windows 10 Refreshing Anomalies</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ultimate-guide-to-mastering-final-cut-pro-essentials/"><u>Ultimate Guide to Mastering Final Cut Pro Essentials</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-discover-the-best-glitch-video-editors-for-desktop-and-online-use/"><u>Updated 2024 Approved Discover the Best Glitch Video Editors for Desktop and Online Use</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10s-new-look-problem-free-streaming/"><u>Win10's New Look: Problem-Free Streaming</u></a></li>
 </ul></div>
 

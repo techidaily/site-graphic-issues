@@ -1,7 +1,7 @@
 ---
 title: GFXUI Crash on Win - Successful Solution Found
-date: 2025-01-04T00:12:28.006Z
-updated: 2025-01-09T20:38:25.675Z
+date: 2025-01-10T22:32:18.494Z
+updated: 2025-01-16T00:00:12.656Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/7b420d51a7e917d12325acc7124ce448649fcdb3a
 [**3. Clean Reinstall Intel Graphics Card Driver**](#m3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn on Microsoft .NET Framework 3.5.1
@@ -38,16 +38,12 @@ thumbnail: https://thmb.techidaily.com/7b420d51a7e917d12325acc7124ce448649fcdb3a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf76d237132.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the box for**.NET Framework 3.5 (includes .NET 2.0 and 3.0)** is blackened. Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf76e62b5aa.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Restart your computer. See if the problem is resolved.
@@ -79,7 +75,11 @@ thumbnail: https://thmb.techidaily.com/7b420d51a7e917d12325acc7124ce448649fcdb3a
 ![Download & Update NVIDIA GeForce RTX 3080 Ti driver](https://images.drivereasy.com/wp-content/uploads/2021/06/Download-Update-NVIDIA-GeForce-RTX-3080-Ti-driver-1200x900.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Clean Reinstall Intel Graphics Card Driver
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/7b420d51a7e917d12325acc7124ce448649fcdb3a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf7edc3173f.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select the option that restart automatically after the uninstall.
@@ -122,24 +122,24 @@ thumbnail: https://thmb.techidaily.com/7b420d51a7e917d12325acc7124ce448649fcdb3a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fixed-extra-features-in-windows-11-display-missing/"><u>[Fixed] Extra Features in Windows 11 Display Missing</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-comprehensive-guide-to-trusted-sites-for-youtube-tones-for-2024/"><u>[Updated] Comprehensive Guide to Trusted Sites for Youtube Tones for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-how-to-optimize-your-social-media-presence-post-facebook-change-for-2024/"><u>[Updated] How to Optimize Your Social Media Presence Post-Facebook Change for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-whats-winning-in-the-world-of-2023-tweets/"><u>[Updated] What's Winning in the World of 2023 Tweets</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-full-breakdown-gopro-slr4-silver-edition/"><u>2024 Approved Full Breakdown GoPro SLR4 Silver Edition</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/calibrating-win11-screen-scale/"><u>Calibrating Win11 Screen Scale</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correcting-unresponsive-windows-interface/"><u>Correcting Unresponsive Windows Interface</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/driver-recovery-achieved-nvidia-display-stable/"><u>Driver Recovery Achieved - Nvidia Display Stable</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/efficient-updates-boost-intels-graphics-win11-compatible/"><u>Efficient Updates: Boost Intels Graphics, Win11 Compatible</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/elevate-performance-new-graphics-driver-for-gtx-1060/"><u>Elevate Performance: New Graphics Driver for GTX 1060</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/lenovowindows-11-usb/"><u>LenovoのWindows 11をスムーズに初期化する方法: USBメディア起動講座</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-machine-learning-dialogues-with-mac-and-gpt/"><u>Mastering Machine Learning Dialogues with Mac & GPT</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimize-windows-7-with-advanced-intel-graphics-driver-updates/"><u>Optimize Windows 7 with Advanced Intel Graphics Driver Updates</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/recognize-why-your-system-fails-on-video-card-detection/"><u>Recognize: Why Your System Fails on Video Card Detection</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-win-os-bugs-with-basic-render-fixes/"><u>Resolving Win OS Bugs with Basic Render Fixes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-tutorial-for-fixing-your-vacd-dota/"><u>Step-by-Step Tutorial for Fixing Your VAC'd Dota</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/top-rated-4k-video-conversion-software-2023s-best-picks-for-2024/"><u>Top-Rated 4K Video Conversion Software 2023S Best Picks for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/trouble-installing-latest-windows-11-feature-update-version-1607/"><u>Trouble Installing Latest Windows 11 Feature Update (Version 1607)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-record-google-hangout-4-solutions/"><u>[New] Record Google Hangout [4 Solutions]</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/eo-tactics-to-increase-youtube-traffic-and-views-for-2024/"><u>[New] SEO Tactics to Increase YouTube Traffic and Views for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-comprehensive-kinetics-overview-2023/"><u>2024 Approved Comprehensive Kinetics Overview 2023</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-screenflow-mastery-on-macos-uncovered/"><u>2024 Approved ScreenFlow Mastery on macOS Uncovered</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/affordable-style-meets-functionality-in-the-moto-g-stylus-a-comprehensive-review/"><u>Affordable Style Meets Functionality in the Moto G Stylus - A Comprehensive Review</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/diagnosing-and-repairing-the-recurrent-crashes-in-fuelstation-pro-simulator-for-pc-players/"><u>Diagnosing and Repairing the Recurrent Crashes in FuelStation Pro Simulator for PC Players</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-silent-airpods-issues-with-bluetooth-on-windows-11-and-10/"><u>Fixing Silent AirPods Issues with Bluetooth on Windows 11 & 10</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-8-plus-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone 8 Plus without Apple ID?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-professional-screen-snapshot-tool-windows-10/"><u>In 2024, Professional Screen Snapshot Tool, Windows 10</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-top-8-youtuber-blunders-to-avoid-and-why-theyre-common/"><u>In 2024, Top 8 Youtuber Blunders to Avoid and Why They're Common</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Huawei Nova Y71? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/kinetic-mastery-in-your-pocket-a-2023-review-of-kinemaster-on-android-for-2024/"><u>Kinetic Mastery in Your Pocket A 2023 Review of KineMaster on Android for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/preserve-illustrations-saving-pngs-while-converting-docx-files/"><u>Preserve Illustrations: Saving PNGs While Converting DocX Files</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/samsung-galaxy-fit2-a-small-sized-powerful-gadget-for-health-and-fitness-enthusiasts/"><u>Samsung Galaxy Fit2: A Small-Sized, Powerful Gadget for Health and Fitness Enthusiasts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/step-by-step-guide-to-restore-windows-11-taskbar-functionality/"><u>Step-by-Step Guide to Restore Windows 11 Taskbar Functionality</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-complete-review-of-gimp-affordable-versatile-image-editor-across-multiple-devices/"><u>The Complete Review of GIMP: Affordable, Versatile Image Editor Across Multiple Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-itel-a60-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Itel A60 Screen | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unboxing-the-accessible-and-chic-moto-g-smartphone-featuring-a-stylus/"><u>Unboxing the Accessible and Chic Moto G Smartphone Featuring a Stylus</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/update-troubleshooting-how-to-successfully-refresh-your-minecraft-native-launcher/"><u>Update Troubleshooting - How To Successfully Refresh Your Minecraft Native Launcher</u></a></li>
 </ul></div>
 

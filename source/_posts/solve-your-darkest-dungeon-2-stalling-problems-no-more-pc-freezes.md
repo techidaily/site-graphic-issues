@@ -1,7 +1,7 @@
 ---
 title: Solve Your Darkest Dungeon 2 Stalling Problems - No More PC Freezes!
-date: 2025-01-07T21:27:24.651Z
-updated: 2025-01-09T20:30:48.160Z
+date: 2025-01-12T23:17:21.322Z
+updated: 2025-01-15T19:40:11.392Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
  If Google Chrome has been freezing your computer since Windows 10 updates, you’ve come to the right place! This article gives practical solutions to your problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -55,10 +55,18 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebeaa6e3f18.jpg)
 4. Restart your computer and check if Chrome now works properly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run System File Checker
 
@@ -68,19 +76,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf26b5a09e.png)
 2. From the results, right-click**Command Prompt** , and select**Run as administrator** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf2dea44e4.jpg)
 3. At Command Prompt, type **sfc /scannow** and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf301acd5c.jpg)
 4. It should begin running a system scan, and will take some time. When it finishes, restart your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Launch Chrome and check if the freezing issue is solved. If not, try Fix 3, below.
 
@@ -100,17 +104,17 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd72498d93.jpg)
 4. Click**Clear data** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. When the data is cleared, type**chrome://restart** in the URL bar then press**Enter** to restart Chrome and check if the problem is resolved. If not, try Fix 4, below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd79e829e0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable your extensions
@@ -134,19 +138,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd83fd4eb4.jpg)
 2. At the bottom, click**Advanced** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd88de8b45.png)
 3. Under**Reset and cleanup** , click**Reset settings to their original defaults** \>**Reset Settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd8ccdaa7a.jpg)
 4. Relaunch Chrome and check. If the problem still exists, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -158,13 +158,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebcffb97b0e.jpg)
 2. A few seconds later, select the**Airplane mode** again to**turn** it**off** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Restart Chrome to check the issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Uninstall and reinstall Chrome
 
@@ -192,20 +192,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-lights-play-our-picks-for-the-top-10-photographic-lenses/"><u>[New] 2024 Approved Light's Play Our Picks for The Top 10 Photographic Lenses</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-luminous-leaders-top-5-monitors-that-bring-shades-to-life/"><u>[New] Luminous Leaders Top 5 Monitors That Bring Shades to Life</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-harnessing-background-video-to-enrich-primary-scenes/"><u>[Updated] Harnessing Background Video to Enrich Primary Scenes</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-an-easy-way-to-amplify-your-instagram-presence-by-sharing-youtube-links-in-stories/"><u>[Updated] In 2024, An Easy Way to Amplify Your Instagram Presence by Sharing YouTube Links in Stories</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-iphone-silhouette-captures-101/"><u>2024 Approved Perfect iPhone Silhouette Captures 101</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminate-old-drivers-windows-streamlined-steps/"><u>Eliminate Old Drivers: Windows' Streamlined Steps</u></a></li>
-<li><a href="https://discover-great.techidaily.com/high-definition-wallpaper-gallery-bugatti-divo-edition-premium-visuals-and-inspirations-by-yl-computing/"><u>High-Definition Wallpaper Gallery: Bugatti Divo Edition - Premium Visuals & Inspirations by YL Computing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-reduce-lag-and-boost-fps-in-genshin-impact-2024-tips/"><u>How to Reduce Lag & Boost FPS in Genshin Impact - 2024 Tips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/intels-graphics-evolution-update-guide-for-windows-users/"><u>Intel's Graphics Evolution: Update Guide for Windows Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-random-screen-pages-laptop-cured-fixed/"><u>No More Random Screen Pages: Laptop Cured [Fixed]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smooth-screen-fix-for-windows/"><u>Smooth Screen Fix for Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solve-asus-screen-flicker-in-minutes-not-hours/"><u>Solve ASUS Screen Flicker in Minutes, Not Hours</u></a></li>
-<li><a href="https://games-able.techidaily.com/transforming-gameplay-essential-tweaks-for-switch-users/"><u>Transforming Gameplay: Essential Tweaks for Switch Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/understanding-high-definitions-next-step-4k-uhd/"><u>Understanding High-Definition's Next Step: 4K UHD</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-best-budget-friendly-android-chat-services/"><u>[New] In 2024, Best Budget-Friendly Android Chat Services</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-mac-preview-a-compreranary-reference-guide/"><u>[New] Mastering Mac Preview A Compreranary Reference Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-utilizing-snapchats-prominent-personalities-highlight/"><u>[New] Utilizing Snapchat's Prominent Personalities Highlight</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-economics-of-earning-via-youtube/"><u>[Updated] In 2024, The Economics of Earning via YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-top-five-hd-recording-cards-switch-edition/"><u>[Updated] In 2024, Top Five HD Recording Cards, Switch Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-start-streaming-with-ease-instagram-live-tips-for-2024/"><u>[Updated] Start Streaming with Ease Instagram Live Tips for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/address-low-end-spec-puzzle-intel-graphic-setup/"><u>Address Low-End Spec Puzzle: Intel Graphic Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bridging-hdtv-to-uhdtv-understanding-the-intricacies-of-4k/"><u>Bridging HDTV to UHDTV: Understanding the Intricacies of 4K</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-graphic-functionality-on-win-71011/"><u>Enhancing Graphic Functionality on WIN 7/10/11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-lights-up-end-of-the-shadows/"><u>Lenovo Lights Up: End of the Shadows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-access-denied-on-nvidia-panel/"><u>No More 'Access Denied' On NVIDIA Panel</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimize-performance-refresh-intel-gpu-on-windows/"><u>Optimize Performance: Refresh Intel GPU on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recover-lost-customizations-in-windows-after-restart/"><u>Recover Lost Customizations in Windows After Restart</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-adventure-say-goodbye-to-apex-crashes/"><u>Seamless Adventure: Say Goodbye to Apex Crashes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-best-fast-photo-viewer-for-windows-10-for-2024/"><u>Top Best Fast Photo Viewer for Windows 10 for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-final-cut-pro-for-free-take-advantage-of-our-90-day-trial/"><u>Updated Final Cut Pro for Free Take Advantage of Our 90-Day Trial</u></a></li>
 </ul></div>
 

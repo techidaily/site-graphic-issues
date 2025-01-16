@@ -1,7 +1,7 @@
 ---
 title: Ghostly GTX Displayed by Device Hub
-date: 2025-01-08T20:50:08.513Z
-updated: 2025-01-10T06:06:37.918Z
+date: 2025-01-12T20:00:52.271Z
+updated: 2025-01-16T00:12:51.718Z
 tags:
   - win11
   - win10
@@ -20,16 +20,16 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/device-manager-graphics-card.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these methods
 
 1. **[Show Hidden Devices and Reinstall Graphics Driver Manually](#h-method-1-show-hidden-devices-and-reinstall-graphics-driver-manually)**
 2. **[Update the NVIDIA Graphics Driver](#h-method-2-update-the-nvidia-graphics-driver)**
 3. **[Restore BIOS to Default](#h-method-3-restore-bios-to-default)**
 4. **[Update BIOS](#h-method-4-update-bios)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 1: Show Hidden Devices and Reinstall Graphics Driver Manually**
 
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 
 ![how to open Command Prompt as an admin](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg) [](https://tools.techidaily.com/drivereasy/download/)
  2\. In the Command Prompt, type **set devmgr\_show\_nonpresent\_devices=1** , and then press**Enter** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-set-devmgr_show_nonpresent_devices1.jpg)
 
@@ -55,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Device-Manager-View-Show-hiddens-devices.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5\. Uninstall each instance of the NVIDIA card and unknown device (The unknown device will be listed under the category**Other devices** .).
@@ -64,9 +60,17 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-Device-Manager-Other-devices-Uninstall.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : NVIDIA graphics card may not be shown as its own device name. It could be an unknown device, video controller, etc. If you are not sure how to identify it, just uninstall the device that has a yellow mark on it.
 
  6\. After uninstalling, restart your computer then Windows will reinstall the driver automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update the NVIDIA Graphics Driver
 
@@ -84,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Activate & Update** button next to a flagged NVIDIA graphics driver to automatically download and install the correct version of this driver.
@@ -96,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 ### **Method 3: Restore BIOS to Default**
 
  If you are **an** advanced computer user, you may already know how to enter BIOS and restore it to default. If not, contact your PC manufacturer or technician who you could ask for assistance to help with this, as modifying BIOS settings incorrectly can cause serious problems.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Method 4: Update BIOS**
 
@@ -120,18 +120,20 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-irecorder-demystified-a-deep-dive-into-features/"><u>[New] 2024 Approved IRecorder Demystified A Deep Dive Into Features</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-the-ultimate-conversion-companion-best-youtubes-to-avis/"><u>[New] 2024 Approved The Ultimate Conversion Companion Best YouTubes to AVIs</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unlocking-new-windows-11-potentials/"><u>[New] 2024 Approved Unlocking New Windows 11 Potentials</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-perfecting-playback-apply-filters-to-video-content/"><u>[Updated] In 2024, Perfecting Playback Apply Filters to Video Content</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/access-updated-nvidia-gtx-1060-drivers-online/"><u>Access Updated Nvidia GTX 1060 Drivers Online</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726027785896-clipchamp/"><u>Clipchampで動画セグメントから静止画への変換は行えますか？</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-the-ultimate-toolkit-for-srt-format-mastery/"><u>In 2024, The Ultimate Toolkit for SRT Format Mastery</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimized-dual-gpu-operation-on-windows-10-with-nvidiaintel/"><u>Optimized Dual-GPU Operation on Windows 10 with Nvidia/Intel</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/precision-in-problem-solving-save-now/"><u>Precision in Problem-Solving: Save Now</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restore-asus-video-output-capabilities/"><u>Restore ASUS Video Output Capabilities</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revolutionary-clear-window-tech/"><u>Revolutionary Clear Window Tech</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210406874-9781683489733-say-yes-flying-solo-after-sixty/"><u>SAY YES! Flying Solo After Sixty | Free Book</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-inactive-graphics-card-not-found/"><u>Screen Inactive: Graphics Card Not Found</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-your-stream-a-comprehensive-ad-revenue-guide-on-youtube/"><u>[New] 2024 Approved Elevate Your Stream A Comprehensive Ad Revenue Guide on YouTube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-keeping-your-browsing-free-of-pop-up-videos/"><u>[New] Keeping Your Browsing Free of Pop-Up Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-elevate-your-artistry-unveiling-timelapse-magic-with-gopro-for-2024/"><u>[Updated] Elevate Your Artistry Unveiling Timelapse Magic with GoPro for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtubes-image-files-made-simple-online-desktop-and-terminal-steps/"><u>[Updated] Youtube’s Image Files Made Simple Online, Desktop & Terminal Steps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-a38-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from A38.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-edge-correction-for-crystal-clear-screens/"><u>Effortless Edge Correction for Crystal-Clear Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-old-drivers-windows-streamlined-steps/"><u>Eliminate Old Drivers: Windows' Streamlined Steps</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/intels-graphics-evolution-update-guide-for-windows-users/"><u>Intel's Graphics Evolution: Update Guide for Windows Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-random-screen-pages-laptop-cured-fixed/"><u>No More Random Screen Pages: Laptop Cured [Fixed]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-screen-capture-challenges-across-different-platforms-windows-mac-os-iphone-and-android/"><u>Overcoming Screen Capture Challenges Across Different Platforms - Windows, Mac OS, iPhone & Android</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/procedimientos-simplificados-para-desasignar-areas-en-tarjetas-flash-externa-estrategias-eficientes-para-eliminar-particiones-usb/"><u>Procedimientos Simplificados Para Desasignar Áreas en Tarjetas Flash Externa: Estrategias Eficientes Para Eliminar Particiones USB</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-screen-fix-for-windows/"><u>Smooth Screen Fix for Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solve-asus-screen-flicker-in-minutes-not-hours/"><u>Solve ASUS Screen Flicker in Minutes, Not Hours</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/understanding-high-definitions-next-step-4k-uhd/"><u>Understanding High-Definition's Next Step: 4K UHD</u></a></li>
 </ul></div>
 

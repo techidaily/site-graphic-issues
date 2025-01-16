@@ -1,7 +1,7 @@
 ---
 title: "From Dark to Lit: Fixing Win10 Fall Blues"
-date: 2025-01-08T16:39:05.065Z
-updated: 2025-01-09T18:48:57.542Z
+date: 2025-01-09T00:50:37.267Z
+updated: 2025-01-15T18:08:00.497Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/535e511366421d20704d6ebc700fde0a780ee97fa
 
 If you’ve upgraded to Windows 10 Fall Creators Update and you find that your PC runs into a black screen, you’re not alone. Many Windows 10 users are reporting this problem. But no worries, it’s possible to fix. Here in this post, we provide you with 3 fixes. You don’t need to try them all; just work your way down until you find the one works for you.   **Method 1:[Unplug your external devices](#m1)**   **Method 2:[Reinstall display card driver](#m2)**   **Method 3:[Update display card driver](#m3)** **IMPORTANT:**  You’ll need to be logged into Windows on the problem computer to try any of these solutions. If you can’t log into Windows, power on and off your PC 3 times to perform a hard reboot and [restart it in Safe Mode](https://tools.techidaily.com/drivereasy/download/) , then try these solutions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Unplug your external devices
 
  Sometimes, your PC’s external devices can be the cause of the black screen problems, for example, when you have too many external devices plugged in. Unplug all your external devices and then plug them back on one by one. This helps you determine which device is causing the problem. Once you find out the faulty device, you need to contact its manufacturer and see if they can provide support.
@@ -28,20 +32,16 @@ If you’ve upgraded to Windows 10 Fall Creators Update and you find that your P
 
 **Note**: You should do the uninstall in [**Safe Mode**](https://tools.techidaily.com/drivereasy/download/). Faulty display card drivers can be the cause of this problem as well. You can reinstall the correct display card driver to your system and get this problem solved: 1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5811a625cdad7.png) and**R**at the same time. Type **devmgmt.msc** and press **Enter**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c24493dcfb1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2) Expand **Display adapters**. Double-click your display driver. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/display-adapters-expand.jpg)  3) Click **Driver** and **Uninstall** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/uninstall-display-adpater.jpg)  4) Click **Yes** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/confirm-device-uninstall.png) 5) Restart your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update display card driver
@@ -51,7 +51,7 @@ If the above method doesn’t help, you need to check if there is newer version 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c245c4a6b9e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Click the**Update**button next to the flagged display card to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All).
@@ -59,7 +59,7 @@ If the above method doesn’t help, you need to check if there is newer version 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c2460315f83.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -77,16 +77,15 @@ If the above method doesn’t help, you need to check if there is newer version 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-pros-playbook-elevate-your-tiktok-video-game/"><u>[New] Pro's Playbook Elevate Your TikTok Video Game</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-ace-the-game-crafting-a-pro-gaming-channels-success-story/"><u>[Updated] In 2024, Ace the Game Crafting a Pro Gaming Channels Success Story</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-12-methods-to-posted-facebook-videos-not-showing-up/"><u>2024 Approved 12 Methods to Posted Facebook Videos Not Showing Up</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/activating-the-slumbering-gpu-fan/"><u>Activating the Slumbering GPU Fan</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cursor-awakening-post-blackout-win11/"><u>Cursor Awakening Post-Blackout Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-init-no-more-hurdles/"><u>Direct3D Init: No More Hurdles</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/explore-amazons-literary-world-with-kindle-e-books-via-apple-books/"><u>Explore Amazon's Literary World with Kindle E-Books via Apple Books</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-vivo-y02t-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Vivo Y02T Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-the-microsoft-surface-pro-plus-experience-dazzling-design-meets-disappointing-copilot-ai-integration/"><u>Inside the Microsoft Surface Pro Plus Experience: Dazzling Design Meets Disappointing Copilot AI Integration</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-lapses-secure-display-on-dell-laptop/"><u>No More Lapses: Secure Display on Dell Laptop</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-instant-thumbnails-for-fortnite-gameplay/"><u>[New] 2024 Approved Instant Thumbnails for Fortnite Gameplay</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-escaping-tiktoks-invisible-barriers/"><u>[New] Escaping TikTok's Invisible Barriers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ace-your-transcription-needs-with-the-best-speech-to-text-apps-of-202n/"><u>Ace Your Transcription Needs with the Best Speech-to-Text Apps of 202N</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/auditory-bliss-for-every-budget-in-depth-review-of-paww-series-3/"><u>Auditory Bliss for Every Budget: In-Depth Review of Paww Series 3</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boosting-windows-7-with-latest-intel-gfx-drivers/"><u>Boosting Windows 7 with Latest Intel Gfx Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clear-up-the-darkness-on-lenovo-devices/"><u>Clear Up the Darkness on Lenovo Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrected-invalid-service-inf-issue/"><u>Corrected Invalid Service INF Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-edge-line-clarity/"><u>Enhancing Edge Line Clarity</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-frozen-calls-quick-camera-repairs-for-clear-zooming/"><u>No More Frozen Calls: Quick Camera Repairs for Clear Zooming</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-10-search-not-working-solved/"><u>Windows 10 Search Not Working [Solved]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "End the Eclipse: Restoring Lenovo's Color"
-date: 2025-01-05T01:37:14.214Z
-updated: 2025-01-09T22:36:28.773Z
+date: 2025-01-10T17:05:55.312Z
+updated: 2025-01-15T19:54:06.565Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 4. **[Restart the explorer.exe process](#F4)**
 5. **[Disable fast startup](#F5)**
 6. **[Perform a system restore](#F6)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Reset the display mode
 
@@ -87,6 +83,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -96,7 +96,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Restart the explorer.exe process
@@ -109,12 +109,16 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to**Fix 5** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable fast startup
@@ -127,16 +131,24 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-562.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Choose what the power buttons do** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
@@ -157,17 +169,9 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the **System Protection** tab, click **System Restore…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Read the on-screen descriptions about what a system restore will do and will not do and click**Next** to continue.
 
@@ -176,10 +180,6 @@ So you can try disabling fast startup to see if it does the trick:
  3)_Tick_ **the box** for**Show more restore points** and select the **restore point** that you want to use to revert your computer to and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Follow the on-screen instructions to complete the system restore process.
 
@@ -207,20 +207,15 @@ So you can try disabling fast startup to see if it does the trick:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-chapters-the-secrets-to-seamless-inshot-edits/"><u>[Updated] Harmonizing Chapters The Secrets to Seamless Inshot Edits</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-premium-5-hidden-video-access-tools-for-2024/"><u>[Updated] Premium 5 Hidden Video Access Tools for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-digital-horizons-await-pcs-1-choice-of-vr-360-video-streaming/"><u>2024 Approved Digital Horizons Await PC's #1 Choice of VR 360 Video Streaming</u></a></li>
-<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/advanced-tactics-to-modify-playback-speed-in-spotify/"><u>Advanced Tactics to Modify Playback Speed in Spotify</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amds-graphics-evolution-upgraded-hd-6950-windows-10-driver/"><u>AMD's Graphics Evolution: Upgraded HD 6950 Windows 10 Driver</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/compatible-with-all-windows-versions-111087/"><u>Compatible with All Windows Versions (11/10/8/7)</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/detailed-review-of-applee-homepod-mini-exploring-its-sound-experience-smart-voice-command-and-more/"><u>Detailed Review of Apple'e HomePod Mini: Exploring Its Sound Experience, Smart Voice Command & More</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eradicating-worn-out-text-appearance-in-fc6/"><u>Eradicating Worn-Out Text Appearance in FC6</u></a></li>
-<li><a href="https://techtrends.techidaily.com/getting-your-roku-screen-lit-a-guide-to-restoring-power-functionality/"><u>Getting Your Roku Screen Lit: A Guide to Restoring Power Functionality</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/instantaneous-device-disposal-graphics-cards-uninstallation/"><u>Instantaneous Device Disposal - Graphics Cards Uninstallation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-mx150-not-showing-up-resolved/"><u>Nvidia MX150 Not Showing Up [Resolved]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reinstating-default-display-settings-on-gpu/"><u>Reinstating Default Display Settings on GPU</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackling-c1900101-windows-installation-hurdle/"><u>Tackling C1900101 Windows Installation Hurdle</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackling-unsupported-freesync-on-amd-graphics/"><u>Tackling Unsupported FreeSync on AMD Graphics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-pristine-sources-for-high-quality-tamil-ringtone-files/"><u>[New] Unveiling Pristine Sources for High-Quality Tamil Ringtone Files</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-art-of-digital-retrieval-saving-and-storing-chats-on-fb/"><u>2024 Approved The Art of Digital Retrieval Saving and Storing Chats on FB</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-transform-videos-to-tweets-best-converters-revealed/"><u>2024 Approved Transform Videos to Tweets Best Converters Revealed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/activating-the-slumbering-gpu-fan/"><u>Activating the Slumbering GPU Fan</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/aifc-to-flac-conversione-gratuita-on-line-con-movavi-il-tuo-metodo-di-trasformazione-preferito/"><u>Aifc To Flac: Conversione Gratuita On-Line Con Movavi - Il Tuo Metodo Di Trasformazione Preferito</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-blueear-wireless-earmuff-headband-assessment-stylish-and-functional-audio-with-solid-performance/"><u>Comprehensive BlueEar Wireless Earmuff Headband Assessment: Stylish and Functional Audio with Solid Performance</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-init-no-more-hurdles/"><u>Direct3D Init: No More Hurdles</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhance-play-by-reducing-latency/"><u>Enhance Play by Reducing Latency</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-problem-no-cards-detected/"><u>Graphics Problem: No Cards Detected</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo Y100i? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: End the Frustrating PC Crash of Fallout 4
-date: 2025-01-02T22:53:50.583Z
-updated: 2025-01-10T00:29:54.211Z
+date: 2025-01-11T21:14:19.432Z
+updated: 2025-01-16T00:20:13.622Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 **Fallout 4 crashes on startup** and you don’t know what you’ve done to cause the problem? Don’t worry! There are solutions to fix the issue. This article introduces 5 easy ways to**fix the Fallout 4 crashing on startup** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why is Fallout 4 crashing on startup?
@@ -50,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 
  You can set your Fallout 4 to**Windowed Mode** , and also tweak the video settings using the**lower** **settings** . This varies from computers and hardware and software combinations, so we won’t cover it here.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **3\. Update your graphics card driver**
 
  The missing or outdated graphics card driver can cause Fallout 4 crashing, so you make sure that your video card and its driver both work correctly. There are two ways to update your graphics card driver: manually and automatically.
@@ -70,21 +66,17 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af033e1bbdc0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**   button next to a flagged graphics device to automatically download the correct version of their driver (you can do this with the **FREE**   version). Then install it in your computer.
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa10ea1b4f5e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer and open your Fallout 4.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **4\. Temporarily disable the antivirus program**
 
@@ -98,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 
 If the issue persists, try the following method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **5\. Configure settings in your Fallout 4**
 
  Sometimes the improper settings in your Fallout 4 can lead to the crash problem. You should check the settings below:
@@ -109,7 +105,7 @@ If the issue persists, try the following method.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd59344ec9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Uncheck**Enable Intro Video** (or check**Disable Intro Video**) in your Fallout 4 settings.
@@ -117,6 +113,10 @@ If the issue persists, try the following method.
  4) Uncheck Enable **God rays** in your Fallout 4 settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd817e89a3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Save the settings and restart your Fallout 4 to see if it works now.
 
@@ -141,20 +141,20 @@ Save the settings and restart your Fallout 4 to see if it works now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-how-to-estimate-income-from-youtube-video-snippets/"><u>[New] How to Estimate Income From YouTube Video Snippets</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-enterprise-account-the-complete-guidebook-for-2024/"><u>[Updated] Instagram Enterprise Account The Complete Guidebook for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-premium-drones-best-deals-today-for-2024/"><u>[Updated] Premium Drones, Best Deals Today for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-techniques-to-minimize-zooms-impact-on-your-computers-processor/"><u>Effective Techniques to Minimize Zoom's Impact on Your Computer’s Processor</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-bios-routes-in-msi-windows-os/"><u>Fixing BIOS Routes in MSI Windows OS</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-xr-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or iPhone XR?</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-win11s-accessibility-keys/"><u>Mastering Win11's Accessibility Keys</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-screen-shimmy-win11-improved/"><u>No More Screen Shimmy: Win11 Improved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcame-wnddevice-failure/"><u>Overcame WndDevice Failure</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-solutions-making-your-logitech-g935-mic-work-seamlessly-on-pcs/"><u>Quick Fix Solutions: Making Your Logitech G935 Mic Work Seamlessly on PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reduce-screen-extension-on-win-10-pc/"><u>Reduce Screen Extension on WIN 10 PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-resolving-steams-connection-issues-with-server/"><u>Solved: Resolving Steam's Connection Issues with Server</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/spotted-drivers-issue-restored-gpu-health-nvidia/"><u>Spotted Drivers Issue, Restored GPU Health (NVIDIA)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-future-of-gaming-how-machine-learning-shapes-new-titles-and-alters-market-dynamics/"><u>The Future of Gaming: How Machine Learning Shapes New Titles and Alters Market Dynamics</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/triumph-in-technicality-smooth-run-for-nvidia-nforce-630a/"><u>Triumph in Technicality: Smooth Run for Nvidia, nForce 630A</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-lenovo-laptop-black-screen-issues/"><u>[SOLVED] Lenovo Laptop Black Screen Issues</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-total-spend-on-a-single-youtubers-ads/"><u>[Updated] Total Spend on a Single Youtuber's Ads</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2023-roundup-premier-professionals-360-cameras/"><u>2023 Roundup Premier Professionals’ 360 Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-sculpting-shareable-online-laughter/"><u>2024 Approved Sculpting Shareable Online Laughter</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amds-failed-loader-in-win10-issue-addressed/"><u>AMD's Failed Loader in Win10, Issue Addressed</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefield-2042-tips-to-eliminate-frame-rate-drops-and-stutters-for-optimal-pc-gaming-performance/"><u>Battlefield 2042 - Tips to Eliminate Frame Rate Drops & Stutters for Optimal PC Gaming Performance</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/failed-to-create-a-graphics-device-on-windows-fixed/"><u>Failed to Create a Graphics Device on Windows [Fixed]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improving-extended-screen-resolution-within-windows-10-environment/"><u>Improving Extended Screen Resolution Within Windows 10 Environment</u></a></li>
+<li><a href="https://facebook.techidaily.com/into-the-metaverse-understanding-6-significant-facebook-changes/"><u>Into the Metaverse: Understanding 6 Significant Facebook Changes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/missing-hdmi-interface-for-gpus/"><u>Missing HDMI Interface for GPUs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/protecting-sensitive-information-evaluating-the-performance-of-the-amazonbasics-12-sheets-micro-cut-shredder/"><u>Protecting Sensitive Information: Evaluating the Performance of the AmazonBasics 12-Sheets Micro Cut Shredder</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamlined-gaming-install-updated-geforce-gtx-1060-driver/"><u>Streamlined Gaming: Install Updated GeForce GTX 1060 Driver</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successful-fix-tips-for-overcoming-the-absence-of-hardware-drivers-in-windows-7-setup/"><u>Successful Fix Tips for Overcoming the Absence of Hardware Drivers in Windows 7 Setup</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/top-score-facebooks-1-10-music-video-showcase-for-2024/"><u>Top Score Facebook’s #1-#10 Music Video Showcase for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-nvidia-card-conflict-resolved/"><u>Win11-NVIDIA Card: Conflict Resolved</u></a></li>
 </ul></div>
 

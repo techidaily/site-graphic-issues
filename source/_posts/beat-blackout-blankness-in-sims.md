@@ -1,7 +1,7 @@
 ---
 title: Beat Blackout Blankness in Sims
-date: 2025-01-05T20:14:27.271Z
-updated: 2025-01-09T17:24:59.916Z
+date: 2025-01-14T02:23:15.371Z
+updated: 2025-01-16T00:26:18.503Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 5. **[Reinstall Origin and The Sims 4](#F5)**
 6. **[Does your PC meet the requirements?](#F6)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your device driver
 
  This white screen problem on The Sims 4 may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -47,13 +43,13 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -74,7 +70,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-916.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Follow the on-screen instructions for your game to be repaired.
@@ -97,15 +93,15 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Run the game and check if the white screen error is fixed.
 
  Still no joy? Please try **Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable Origin in game
 
@@ -135,12 +131,16 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Locate **The Sims 4** and uninstall it too.
@@ -154,6 +154,10 @@ Here are the steps:
  8) Run The Sims 4 and see if it plays smoothly.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Does your PC meet the requirements?
 
@@ -177,10 +181,6 @@ Here is how to check if your computer spec has met the requirements:
  2) Check your **operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-960.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
 
@@ -211,20 +211,24 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-gaming-nostalgia-discovering-the-most-acclaimed-gb-console-emulators-on-pc/"><u>[New] Mastering Gaming Nostalgia Discovering The Most Acclaimed GB Console Emulators on PC</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-marvelous-evaluation-and-replacement-insight/"><u>2024 Approved Marvelous Evaluation & Replacement Insight</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amd-unsuccessful-windows-10-driver-loading-resolved/"><u>AMD: Unsuccessful Windows 10 Driver Loading - Resolved</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/choreograph-cheeky-comics-via-giphy/"><u>Choreograph Cheeky Comics via Giphy</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-how-garmin-vivosmart/"><u>Discover How Garmin Vivosmart</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-oppo-reno-11-5g-easily-by-drfone-android/"><u>How To Unlock a Oppo Reno 11 5G Easily?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/hybrid-gpu-success-windows-10-tamed-by-nvidia-and-intel-switches/"><u>Hybrid GPU Success: Windows 10 Tamed by Nvidia and Intel Switches</u></a></li>
-<li><a href="https://discover-able.techidaily.com/inside-look-features-and-performance-battle-of-google-play-books-versus-kindle-ereaders/"><u>Inside Look: Features and Performance Battle of Google Play Books versus Kindle eReaders</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-not-showing-win10s-fullview-windows/"><u>Monitor Not Showing Win10's Fullview Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcome-win11-displays-glitchy/"><u>Overcome: Win11 Displays Glitchy</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-nubia-red-magic-8s-proplus-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Nubia Red Magic 8S Pro+ Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solid-gaming-on-rtx-3080-tech/"><u>Solid Gaming on RTX 3080 Tech</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stabilize-fallout-4-stop-the-pc-freeze-cycle/"><u>Stabilize Fallout 4: Stop the PC Freeze Cycle</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/transform-your-pc-gaming-on-win11-with-geforce-210-update/"><u>Transform Your PC Gaming on Win11 With GeForce 210 Update</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-oneplus-ace-3-by-fonelab-android-recover-photos/"><u>Undelete lost photos from OnePlus Ace 3.</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-sound-savings-guide-youtubers-selection-of-affordable-mics/"><u>[Updated] Sound Savings Guide Youtuber's Selection of Affordable Mics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unlocking-webcam-potential-in-modern-tech-for-2024/"><u>[Updated] Unlocking Webcam Potential in Modern Tech for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/conversion-gratuite-de-fichiers-aac-en-format-aiff-sur-internet-tutomovavi/"><u>Conversion Gratuite De Fichiers AAC en Format AIFF Sur Internet - TutoMovavi</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursors-comeback-in-dark-screen-win11/"><u>Cursor's Comeback in Dark Screen Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-graphics-on-windows-10-with-nvidia-210-drivers/"><u>Enhanced Graphics on Windows 10 with NVIDIA 210 Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-laptop-screen-wont-turn-on-issue/"><u>Fix Laptop Screen Won't Turn On Issue</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fix-your-connectivity-overcoming-troublesome-network-adapter-issues-in-windows-7-resolved/"><u>Fix Your Connectivity: Overcoming Troublesome Network Adapter Issues in Windows 7 [RESOLVED]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-do-i-fix-0xc1900101-error-when-installing-windows-11/"><u>How Do I Fix 0xC1900101 Error When Installing Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-unveils-spectre-x360-and-takes-my-pick-as-a-leading-laptop-of-the-year-insights-from-zdnets-review/"><u>HP Unveils Spectre X360 and Takes My Pick as a Leading Laptop of the Year - Insights From ZDNet's Review</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-unrestricted-display-save-tool/"><u>In 2024, Unrestricted Display Save Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ios-18-release-complete-guide-on-downloading-and-compatible-iphones-detailed-steps-by-techexpert/"><u>IOS 18 Release: Complete Guide on Downloading and Compatible iPhones - Detailed Steps by TechExpert</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mystery-solved-win11-screen-glitch/"><u>Mystery Solved: Win11 Screen Glitch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-edge-nvidias-w11-compatible-geforce-210-drivers/"><u>New Edge: NVIDIA's W11-Compatible GeForce 210 Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-transition-seamless-intel-drivers-on-win7-platforms/"><u>Smooth Transition: Seamless Intel Drivers on Win7 Platforms</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stable-screen-view-post-fix-on-laptop-completed/"><u>Stable Screen View Post-Fix on Laptop [Completed]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-full-resolution-customization-on-window-11/"><u>Unlocking Full-Resolution Customization on Window 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: GTX 950 Code 43 Error on Windows 11 [Solved]
-date: 2025-01-05T03:54:07.454Z
-updated: 2025-01-09T18:46:26.296Z
+date: 2025-01-13T03:02:32.931Z
+updated: 2025-01-16T01:44:20.034Z
 tags:
   - win11
   - win10
@@ -53,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
@@ -62,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded. 
 
@@ -80,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -89,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##   **Option 2: Update Windows 10** 
 
  1) On your keyboard, press**Start** button, and then choose**Setting** icon. In the Setting window, click**Update & security** . 
@@ -100,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click the**Check for updates** button to see if there are any new updates available. 
@@ -110,10 +114,6 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  3) If new updates are available, just download and then update them as instructed. 
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -126,7 +126,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   **Option 4: Reinstall Windows 10** 
@@ -155,24 +155,18 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fixed-dx12-hindrance-in-halos-successful-launch/"><u>[FIXED] DX12 Hindrance in Halo's Successful Launch</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-discover-the-most-reliable-android-apps-to-replay-your-favorite-ps2-games/"><u>[New] 2024 Approved Discover the Most Reliable Android Apps to Replay Your Favorite PS2 Games</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-crafting-captivating-stories-15-best-snapchat-techniques/"><u>[New] In 2024, Crafting Captivating Stories 15 Best Snapchat Techniques</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-decoding-the-economic-riches-of-mr-beast-for-2024/"><u>[Updated] Decoding the Economic Riches of Mr. Beast for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-drone-vfx-essentials-free-luts-for-dji-drones-available/"><u>[Updated] In 2024, Drone VFX Essentials - Free LUTS for DJI Drones Available</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/asus-cam-not-working-heres-how-to-fix-it/"><u>Asus Cam Not Working? Here's How To Fix It</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/breeze-through-driver-removal-windows-method-guide/"><u>Breeze Through Driver Removal: Windows Method Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/combatting-freezing-while-watching-videos-post-upgrade/"><u>Combatting Freezing While Watching Videos Post-Upgrade</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-fault-corrected-driver-functional/"><u>Graphics Fault Corrected: Driver Functional</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Oppo K11x? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-8-plus-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 8 Plus Passcode Easily Video Inside</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/hush-harshly-humming-monitors/"><u>Hush Harshly Humming Monitors</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-vivo-t2-pro-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Vivo T2 Pro 5G Face Lock?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptops-diagonal-shift-corrected-successfully/"><u>Laptop's Diagonal Shift Corrected Successfully</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-python-basics-with-our-newbie-friendly-course-secure-your-spot-at-only-40-before-the-offer-ends-zdnet/"><u>Master Python Basics with Our Newbie-Friendly Course: Secure Your Spot at Only $40 Before the Offer Ends - ZDNet!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-lenovo-monitor-brightness-problems/"><u>Resolving Lenovo Monitor Brightness Problems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-saves-quick-fixes-for-monitor-disconnection/"><u>Screen Saves: Quick Fixes for Monitor Disconnection</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/otch-leaderboard-scrutinizer-for-vloggers-success-for-2024/"><u>Top-Notch Leaderboard Scrutinizer for Vlogger's Success for 2024</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/top-ranking-hd-video-compression-tools-ideal-choices-for-enhancing-your-hd-full-hd-qhd-2k-4k-and-8k-content/"><u>Top-Ranking HD Video Compression Tools: Ideal Choices for Enhancing Your HD, Full HD, QHD, 2K, 4K & 8K Content</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-prodigious-picks-exceptional-laptops-for-uhd-editing-for-2024/"><u>[New] Prodigious Picks Exceptional Laptops for UHD Editing for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-essential-review-of-mp4-capture-tools-for-2024/"><u>[Updated] Essential Review of MP4 Capture Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-starting-from-scratch-video-gear-insights/"><u>[Updated] Starting From Scratch Video Gear Insights</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-oppo-find-x7-ultra-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-13-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 13 In Different Conditionsin</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-distraction-a-guide-to-prevent-monitor-flickering/"><u>No More Distraction: A Guide to Prevent Monitor Flickering</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimizing-microsofts-driver-for-windows/"><u>Optimizing Microsoft's Driver for Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-graphic-user-interface-windows-error/"><u>Resolved Graphic User Interface Windows Error</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/toms-tech-hub-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Hub - Unveiling the Latest in Computer Hardware</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/transforming-scenes-with-ease-your-gopro-time-lapse-guide/"><u>Transforming Scenes with Ease Your GoPro Time-Lapse Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unseen-maxwell-technology-on-windows-pc/"><u>Unseen Maxwell Technology on Windows PC</u></a></li>
 </ul></div>
 

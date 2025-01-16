@@ -1,7 +1,7 @@
 ---
 title: Push Past White Screen in Sims World
-date: 2025-01-03T06:33:04.695Z
-updated: 2025-01-09T17:10:56.956Z
+date: 2025-01-10T16:13:51.602Z
+updated: 2025-01-16T01:25:04.048Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
  Trying to play**The Sims 4** but all it loads is a**white screen** ? You’re not alone. But don’t worry, it’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for The Sims 4 White Screen
 
  Here are six fixes that have helped other users resolve the The Sims 4 white screen problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 4. **[Disable Origin in game](#F4)**
 5. **[Reinstall Origin and The Sims 4](#F5)**
 6. **[Does your PC meet the requirements?](#F6)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your device driver
 
@@ -48,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -56,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 5) Launch The Sims 4 to see if it can run smoothly this time. If yes, then congrats and enjoy the game! If it still loads a white screen, please move on to **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Repair The Sims 4 in Origin
 
@@ -77,10 +89,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Start The Sims 4 in Windowed mode
 
  In some cases The Sims 4 is loading white because the game misread the PC’s display information. If this is true, you should start The Sims 4 in Windowed mode to see if it resolves the issue.
@@ -93,19 +101,11 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1007.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Run the game and check if the white screen error is fixed.
 
  Still no joy? Please try **Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable Origin in game
 
@@ -118,7 +118,7 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-292.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**ORIGIN-IN-GAME** then turn_off_ the toggle for**Enable Origin in-Game** .
@@ -142,10 +142,6 @@ Here are the steps:
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Locate **The Sims 4** and uninstall it too.
 
@@ -186,6 +182,10 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-959.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If one of the specs fails to meet the requirement, you might want to consider upgrading your PC. If your PC meets all of them, then the white screen error on The Sims 4 may not be related with your computer hardware at all.
 
 ---
@@ -211,21 +211,18 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-a-list-ringtone-picks-for-adoring-tyrion-lannister-fans/"><u>[New] A-List Ringtone Picks for Adoring Tyrion Lannister Fans</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-counteracting-bot-influence-for-higher-traffic/"><u>[New] Counteracting Bot Influence for Higher Traffic</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-metaverse-milestones-top-10-movies-that-transcend-our-own-universe/"><u>[New] In 2024, Metaverse Milestones Top 10 Movies That Transcend Our Own Universe</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-pivotal-elements-in-designing-effective-product-praise-videos/"><u>[New] In 2024, Pivotal Elements in Designing Effective Product Praise Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-unlock-the-secret-to-pop-in-audio-on-social-video-shares/"><u>[New] Unlock the Secret to Pop-In Audio on Social Video Shares</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bringing-peace-to-your-win11-display/"><u>Bringing Peace to Your Win11 Display</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/counteracting-screen-shimmer-on-surface-pro-7/"><u>Counteracting Screen Shimmer on Surface Pro 7</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-glion-dolly-electric-scooter-assessment-high-end-performance-at-a-premium-cost/"><u>Expert Glion Dolly Electric Scooter Assessment: High-End Performance at a Premium Cost</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-world-of-edge-ai-working-principles-explained/"><u>Exploring the World of Edge AI: Working Principles Explained</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-failure-dark-screen/"><u>Graphics Failure: Dark Screen</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-14-pro-max-by-phone-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 14 Pro Max by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-vivo-x90s-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Vivo X90S Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-error-cleared-tdr-sighted-and-solved/"><u>NVIDIA Error Cleared: TDR Sighted & Solved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rebuilt-display-integrity-on-win11-os/"><u>Rebuilt Display Integrity on Win11 OS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-gpu-errors-in-minecraft-on-pc/"><u>Stop GPU Errors in Minecraft on PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-gpu-ready-status-achieved/"><u>Windows 11 GPU Ready Status Achieved</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-perfecting-obs-broadcasts-for-facebook-audience-for-2024/"><u>[New] Perfecting OBS Broadcasts for Facebook Audience for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-exclusive-reveal-top-downloading-tools-for-fans-of-apples-ios-and-facebook/"><u>[Updated] In 2024, Exclusive Reveal Top Downloading Tools for Fans of Apple's iOS and Facebook</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-windows-11-screen-orientation-glitch/"><u>Addressing Windows 11 Screen Orientation Glitch</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/amplify-your-videos-impact-with-strategically-placed-time-markers/"><u>Amplify Your Video's Impact with Strategically Placed Time Markers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convertissez-gratuitement-un-fichier-wav-en-format-flv-sur-ligne-avec-movavi/"><u>Convertissez Gratuitement Un Fichier WAV en Format FLV Sur Ligne Avec Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/getting-started-with-your-dell-wd19-how-to-downloadinstall-drivers/"><u>Getting Started with Your Dell WD19 - How to Download/Install Drivers</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-oppo-f25-pro-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Oppo F25 Pro 5G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/methods-to-deter-inconsistent-displays-in-hp/"><u>Methods to Deter Inconsistent Displays in HP</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-directx12-barriers-for-halo-infinite-launch/"><u>Overcoming DirectX12 Barriers for Halo Infinite Launch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quell-winblueerror-addressing-wdf-api-concerns/"><u>Quell WinBlueError: Addressing WDF API Concerns</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-oppo-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Oppo has been deleted</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-gfxui-errors-in-windows-environment-successfully/"><u>Resolving GFXUI Errors in Windows Environment Successfully</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/techniques-to-recover-from-gpu-faults-with-system-uptime/"><u>Techniques to Recover From GPU Faults with System Uptime</u></a></li>
 </ul></div>
 

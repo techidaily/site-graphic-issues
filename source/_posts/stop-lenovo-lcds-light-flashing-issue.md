@@ -1,7 +1,7 @@
 ---
 title: Stop Lenovo LCD's Light Flashing Issue
-date: 2025-01-03T04:25:30.532Z
-updated: 2025-01-09T17:00:40.324Z
+date: 2025-01-12T19:39:10.491Z
+updated: 2025-01-16T02:18:39.699Z
 tags:
   - win11
   - win10
@@ -43,17 +43,21 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597858796d417.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click the**Update** button next to each driver to automatically download the correct version of this driver (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Update your BIOS
@@ -70,31 +74,27 @@ To update the BIOS of your Lenovo laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Click the**download** button to download the BIOS update package.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795ce5b8c59.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)**  Open the**executable (.exe) file** you have downloaded. Follow the on-screen instructions to install the BIOS update to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)** Restart your laptop and see if the screen of your laptop recovers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Troubleshoot hardware issues
 
@@ -125,22 +125,24 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-expert-iphone-techniques-for-stunning-scenery-shots/"><u>[New] 2024 Approved Expert iPhone Techniques for Stunning Scenery Shots</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-safarichrome-youtube-on-the-move-autoplay-options/"><u>[New] In 2024, Safari/Chrome YouTube On-the-Move AutoPlay Options</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-navigating-snapchats-new-spotlight-functionality/"><u>[New] Navigating Snapchat's New Spotlight Functionality</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-synthesizing-soundscapes-the-revamped-magic-of-magix-music-maker-2024/"><u>[Updated] Synthesizing Soundscapes The Revamped Magic of Magix Music Maker 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-unraveling-the-expertise-within-polarrs-photography-suite/"><u>[Updated] Unraveling the Expertise Within Polarr’s Photography Suite</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-your-step-by-step-guide-to-previewing-your-off-facebook-life/"><u>2024 Approved Your Step by Step Guide to Previewing Your Off-Facebook Life</u></a></li>
-<li><a href="https://win-web3.techidaily.com/effective-methods-for-seamless-transition-of-avi-files-into-apples-itunes-library/"><u>Effective Methods for Seamless Transition of AVI Files Into Apple's iTunes Library</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-harnessing-new-trends-transmitting-fb-videos-through-whatsapp/"><u>In 2024, Harnessing New Trends Transmitting FB Videos Through WhatsApp</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/recovering-graphics-options-lockout-issue/"><u>Recovering Graphics Options Lockout Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-win10-screen-setting-issues/"><u>Resolving Win10 Screen Setting Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-perfection-horizontal-line-fixation/"><u>Screen Perfection - Horizontal Line Fixation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solve-flipped-display-issue-windows-7/"><u>Solve Flipped Display Issue, Windows 7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/succeeded-clean-install-of-nvidia-driver/"><u>Succeeded: Clean Install of NVIDIA Driver</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-future-of-advertising-in-the-metaverse/"><u>The Future of Advertising in the Metaverse</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-dark-display-in-windows-11-falls/"><u>Troubleshooting Dark Display in Windows 11 Falls</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-non-gpu-usage-in-modern-operating-systems/"><u>Troubleshooting Non-GPU Usage in Modern Operating Systems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win-big-with-windows-11-latest-driver-update-for-radeon-hd-6950/"><u>Win Big with Windows 11: Latest Driver Update for Radeon HD 6950</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-reducing-noise-sensitivity-in-logic-pro-mixes/"><u>[New] Reducing Noise Sensitivity in Logic Pro Mixes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-ultimate-selection-of-apps-to-tame-your-feed/"><u>2024 Approved The Ultimate Selection of Apps to Tame Your Feed</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boosting-user-experience-through-innovative-engagement-tools/"><u>Boosting User Experience Through Innovative Engagement Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/combatting-ps5-intermittent-connection-issues/"><u>Combatting PS5 Intermittent Connection Issues</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convertissez-votre-ogg-vorbis-en-video-avi-sans-frais-en-ligne-utiliser-movavi-pour-un-changement-facile/"><u>Convertissez Votre Ogg Vorbis en Vidéo AVI Sans Frais En Ligne - Utiliser Movavi Pour Un Changement Facile</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/critical-gpu-not-detected-alert/"><u>Critical: GPU Not Detected Alert</u></a></li>
+<li><a href="https://win-tips.techidaily.com/crystal-clear-hd-wallpapers-of-marvels-black-widow-and-winter-soldier-yl-software-exclusive-series/"><u>Crystal Clear HD Wallpapers of Marvel’s Black Widow & Winter Soldier - YL Software Exclusive Series</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursors-comeback-in-black-screen-win11/"><u>Cursor's Comeback in Black Screen Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/efficient-approach-to-resolving-c1900101-install-issue/"><u>Efficient Approach to Resolving C1900101 Install Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fast-fixes-for-nvidia-gpu-without-screen-attachment/"><u>Fast Fixes for NVIDIA GPU Without Screen Attachment</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-create-a-digital-signature-and-certificate-for-excel-2007-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to create a digital signature and certificate for Excel 2007 files</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-silence-sputtering-screens/"><u>How to Silence Sputtering Screens</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-expert-audio-enhancement-toolkit/"><u>In 2024, Expert Audio Enhancement Toolkit</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-stellaris-overview-mastering-space-exploration-and-empires/"><u>In-Depth Stellaris Overview: Mastering Space Exploration & Empires</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/powerful-updates-new-drivers-for-amds-hd-6950-gfx/"><u>Powerful Updates: New Drivers for AMD's HD 6950 GFX</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-screen-continuity-in-dell-mini-pc/"><u>Restored Screen Continuity in Dell Mini-PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/straightforward-screens-with-win11-fix/"><u>Straightforward Screens with Win11 Fix</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-blade-blh4100-rc-helicopter-ready-to-launch-and-perfect-for-outdoor-enthusiasts/"><u>The Blade BLH4100 RC Helicopter - Ready-to-Launch and Perfect for Outdoor Enthusiasts!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ui-graphics-recovered-on-win-seamless-interaction/"><u>UI Graphics Recovered on Win - Seamless Interaction</u></a></li>
 </ul></div>
 

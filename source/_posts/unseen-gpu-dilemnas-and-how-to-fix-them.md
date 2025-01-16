@@ -1,7 +1,7 @@
 ---
 title: Unseen GPU Dilemnas and How to Fix Them
-date: 2025-01-02T23:28:57.381Z
-updated: 2025-01-10T02:58:33.833Z
+date: 2025-01-13T01:32:22.163Z
+updated: 2025-01-15T18:25:57.040Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
  Can’t see your display card (aka video card, GPU, and graphics card) on your computer? Don’t worry, it doesn’t necessarily mean that your GPU is at fault, the problem could be simply on the settings front. Here in this post, we have some troubleshooting methods to fix the PC not detecting GPU problem for you. Read on and see what you can do to fix the problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes for the PC not detecting the GPU issue
 
@@ -43,19 +39,16 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Click to select your user name (**the first line**), then click**Action** on the menu bar and select**Add legacy hardware** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-8.png)
 3. Click**Next** to move on.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-10.png)
 4. Select **Install the hardware that I manually select from a list (Advanced)** and click**Next** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-11.png)
 5. Select**Display adpaters** and click**Next** .  
@@ -64,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 6. Select**Microsoft** , and**Microsoft Display Adapter** on the right side panel. Then click**Next** and follow the on-screen instructions for the device to be added.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-9.png)
@@ -75,24 +68,24 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-14.png)
 2. Click**Search automatically for drivers** , Windows will then initiate a search online for the latest driver update. Follow any additional instructions provided during the driver update process.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-15.png)
 3. When the driver update is done, restart your computer for the change to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If no driver update is found by Windows for you, please move on to the next step to update the GPU driver.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Update the GPU driver
 
  There are mainly 2 ways you can update your GPU driver: manually or automatically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -116,10 +109,6 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
 
@@ -162,6 +151,10 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -169,6 +162,10 @@ To do so, first visit the website of your GPU manufacturer:
  Tips: Still unsure if Fortect is what you need? Check this [Fortec Review](https://tools.techidaily.com/drivereasy/download/) !
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Make sure your GPU is correctly seated
 
@@ -182,7 +179,7 @@ To do so, first visit the website of your GPU manufacturer:
 3. Select**Performance** (the second icon).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-16.png)
@@ -194,6 +191,10 @@ To do so, first visit the website of your GPU manufacturer:
  But there are still possbilities that your GPU can be detected by your computer but is not correctly seated, so you may also want to check your computer case to make sure that your GPU is not lossen or wrongly inserted into the PCIe slots.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Final thoughts
 
@@ -221,24 +222,19 @@ To do so, first visit the website of your GPU manufacturer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-prime-fb-videos-deciding-on-the-best-ten/"><u>[New] Prime FB Videos Deciding on the Best Ten</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-crime-consortium-top-titles-echoing-gta-v/"><u>[Updated] 2024 Approved Crime Consortium Top Titles Echoing GTA V</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/all-mpos-powered-macs-updated-fedora-linux-support-with-one-exception-details-inside-techdigest/"><u>All mPOS-Powered Macs Updated: Fedora Linux Support, With One Exception – Details Inside | TechDigest</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/efficient-driver-extraction-from-windows-systems/"><u>Efficient Driver Extraction From Windows Systems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhanced-window-visuals-no-more-blur/"><u>Enhanced Window Visuals, No More Blur</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exceptional-clarity-and-versatility-tested-an-in-depth-look-at-the-asus-rog-strix-xg27acs-monitor/"><u>Exceptional Clarity and Versatility Tested: An In-Depth Look at the Asus Rog Strix XG27ACS Monitor</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/getting-started-with-magic-mouse-free-driver-download-for-windows-users/"><u>Getting Started with Magic Mouse: Free Driver Download for Windows Users</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-samsung-galaxy-z-fold-5-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Samsung Galaxy Z Fold 5?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-gpu-missing-bios-resolved/"><u>NVIDIA GPU Missing BIOS [Resolved]</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/pioneering-the-perfect-playlist-for-youtube-music-enthusiasts/"><u>Pioneering the Perfect Playlist for YouTube Music Enthusiasts</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-fix-to-opengl-issue-nvidia-gpu-affected/"><u>Quick Fix to OpenGL Issue - NVIDIA GPU Affected</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-windows-10-advanced-ui-settings-not-showed/"><u>Resolved: Windows 10 Advanced UI Settings Not Showed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/seamless-windows-10-streaming-after-update/"><u>Seamless Windows 10 Streaming After Update</u></a></li>
-<li><a href="https://fox-links.techidaily.com/sweet-slumber-scenes-video-critique-for-2024/"><u>Sweet Slumber Scenes Video Critique for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/trasformare-i-file-dpx-in-formato-tiff-gratuitamente-online-con-movavi/"><u>Trasformare I File DPX in Formato TIFF Gratuitamente Online Con Movavi</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unifying-windows-and-nvidia-graphics-for-seamless-performance/"><u>Unifying Windows & NVIDIA Graphics for Seamless Performance</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unmask-your-pcs-non-detecting-card-issue/"><u>Unmask Your PC's Non-Detecting Card Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/vanquish-invisible-launching-in-sims-town/"><u>Vanquish Invisible Launching in Sims Town</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-drives-openai-ceo-to-advocate-greater-control-over-ai-development/"><u>What Drives OpenAI CEO to Advocate Greater Control Over AI Development?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-comprehensive-guide-to-unrestricted-photo-archives/"><u>[New] In 2024, Comprehensive Guide to Unrestricted Photo Archives</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-interpreting-the-purpose-behind-a-facebooks-blue-video-icon/"><u>[New] Interpreting the Purpose Behind a Facebook's Blue Video Icon</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correct-image-rotation-in-win7-setup/"><u>Correct Image Rotation in Win7 Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/crisis-averted-overcoming-os-wdf-violations-bsod/"><u>Crisis Averted: Overcoming OS WDF Violations BSOD</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-intermittent-laptop-monitor-glitches/"><u>Fixed Intermittent Laptop Monitor Glitches</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-erratic-illumination-in-acer-devices/"><u>Fixing Erratic Illumination in Acer Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-to-enable-chatgpts-new-beta-capabilities-for-browsing-and-plugin-support/"><u>Step-by-Step Guide to Enable ChatGPT's New Beta Capabilities for Browsing and Plugin Support</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-premium-usb-hubs-expert-reviews-and-buyers-guide-zdnet/"><u>Top 5 Premium USB Hubs : Expert Reviews & Buyer's Guide - ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-broadcasts-using-manycam-cutting-edge-livestream-tech-and-remote-cam-devices/"><u>Transform Your Broadcasts Using ManyCam: Cutting-Edge Livestream Tech & Remote Cam Devices</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-and-repair-persistent-system-crashes-in-windows-7-comprehensive-guide/"><u>Troubleshoot and Repair Persistent System Crashes in Windows 7 - Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-audio-devices-fix-no-sound-output-errors-on-windows-computers/"><u>Troubleshoot Audio Devices: Fix No Sound Output Errors on Windows Computers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-graphics-driver-settled/"><u>Windows 11, Graphics Driver Settled</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/winos-resilience-handling-cominterface-errors-effectively/"><u>WinOS Resilience: Handling COMInterface Errors Effectively</u></a></li>
 </ul></div>
 

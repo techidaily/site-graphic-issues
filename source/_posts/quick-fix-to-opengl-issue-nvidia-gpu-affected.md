@@ -1,7 +1,7 @@
 ---
 title: Quick Fix to OpenGL Issue - NVIDIA GPU Affected
-date: 2025-01-06T04:13:05.312Z
-updated: 2025-01-10T04:09:35.404Z
+date: 2025-01-09T00:19:43.404Z
+updated: 2025-01-15T22:52:53.649Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/c6cef7d8d098cc3ec193ea28736f5c8bb8a150dde
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What you might concern…
 
  If you’re curious about**what TDR is** in the error ‘A TDR has been detected’, here’s the**answer** :
@@ -36,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/c6cef7d8d098cc3ec193ea28736f5c8bb8a150dde
  When you’re seeing the error saying “A TDR has been detected”,**probably the TDR timeout was exceeded** . Try the methods below…
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Update your NVIDIA graphics driver
 
@@ -61,13 +61,13 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
@@ -85,6 +85,10 @@ See how to do it:
 
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) Go to the following registry keys:
 
 **HKEY\_LOCAL\_MACHINE** \>**SYSTEM** \>**CurrentControlSet** \>**Control** \>**GraphicsDrivers**
@@ -97,27 +101,23 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
- 9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
@@ -144,21 +144,15 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-speaker-breakdown-latest-models/"><u>[New] Speaker Breakdown Latest Models</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/discover-the-ultimate-11-ways-to-organize-sync-and-transfer-your-ios-info-without-itunes/"><u>Discover the Ultimate 11 Ways to Organize, Sync & Transfer Your iOS Info Without iTunes.</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gtx-950-code-43-error-on-windows-11-solved/"><u>GTX 950 Code 43 Error on Windows 11 [Solved]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-amd-graphics-card-failure-detection-on-windows-11-devices/"><u>How to Fix AMD Graphics Card Failure Detection on Windows 11 Devices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-an-undetected-amd-gpu-in-windows-1nvite/"><u>How to Fix an Undetected AMD GPU in Windows 1Nvite</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-gtx-nvidia-950-cuda-compute-error-in-windows-10-solutions-and-tips/"><u>How to Fix GTX Nvidia 950 CUDA Compute Error in Windows 10 - Solutions and Tips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-the-gtx-similar-problem/"><u>How to Fix the GTX # Similar Problem</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-identify-your-computer-screen-size-with-simple-steps-a-screen-resolution-guide/"><u>How To Identify Your Computer Screen Size with Simple Steps: A Screen Resolution Guide</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-to-install-a-new-driver-for-your-unresponsive-sound-card-tips-from-yl-computing/"><u>How to Install a New Driver for Your Unresponsive Sound Card: Tips From YL Computing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-troubleshoot-and-fix-the-black-screen-problem-following-a-windows-10-system-update/"><u>How to Troubleshoot and Fix the Black Screen Problem Following a Windows 10 System Update</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-samsung-galaxy-s23-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Samsung Galaxy S23 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Infinix Smart 8 HD? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-mov-video-cutting-software-top-recommendations/"><u>Updated Free MOV Video Cutting Software Top Recommendations</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-pitch-perfect-a-handbook-to-modifying-sound-on-ig-media/"><u>[Updated] 2024 Approved Pitch Perfect A Handbook to Modifying Sound on IG Media</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-critical-error-c1900101-on-new-os/"><u>Addressing Critical Error C1900101 on New OS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diy-repairing-directx-errors-in-ea-sports-fifa-20-a-comprehensive-fix-guide/"><u>DIY: Repairing DirectX Errors in EA Sports' FIFA 20 - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-monitor-blinking-issues/"><u>How to Fix Monitor Blinking Issues</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-itel-a70-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Itel A70</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-from-script-to-splendor-animating-effects-unbound/"><u>In 2024, From Script to Splendor Animating Effects Unbound</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-real-time-hardware-for-vr/"><u>In 2024, Real-Time Hardware for VR</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/it-surprise-youtube-recommendations-for-2024/"><u>Inhibit Surprise YouTube Recommendations for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818017200-switching-gpu-issues-nvidiaintel-on-win10-fixed/"><u>Switching GPU Issues: Nvidia/Intel on Win10 - Fixed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10s-video-problem-solution-upgrades/"><u>Win10's Video Problem Solution: Upgrades</u></a></li>
 </ul></div>
 

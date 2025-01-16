@@ -1,7 +1,7 @@
 ---
 title: OpenGL Glitch Spotted - Nvidia GPU Fixed Up!
-date: 2025-01-03T22:17:06.584Z
-updated: 2025-01-10T02:05:01.400Z
+date: 2025-01-13T19:59:54.087Z
+updated: 2025-01-15T19:09:01.165Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/0fb9e75f25af36e0c595b70caf722719ae176ebba
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What you might concern…
 
  If you’re curious about**what TDR is** in the error ‘A TDR has been detected’, here’s the**answer** :
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/0fb9e75f25af36e0c595b70caf722719ae176ebba
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Update your NVIDIA graphics driver
@@ -57,6 +61,10 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
@@ -64,10 +72,6 @@ Here’s how you can do it:
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Change the timeout of your NVIDIA graphics card
 
@@ -83,11 +87,11 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
 
-4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
 5) Go to the following registry keys:
 
@@ -97,22 +101,18 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Proceed to select a backup folder and name the backup file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
@@ -144,24 +144,22 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-dream-of-flight-check-out-these-top-kid-friendly-drones-for-2024/"><u>[New] Dream of Flight? Check Out These Top Kid-Friendly Drones for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/rom-raw-video-to-engaging-youtube-videos-with-sony-vegas-tools-for-2024/"><u>[New] From Raw Video to Engaging YouTube Videos with Sony Vegas Tools for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-how-do-beginners-make-a-cool-video-for-youtube-on-mac/"><u>[New] How Do Beginners Make a Cool Video for YouTube on Mac</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-amp-up-creativity-premiere-pro-templates-free/"><u>[Updated] Amp Up Creativity Premiere Pro Templates, FREE</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-secrets-to-surpassing-the-top-in-youtube-fame/"><u>[Updated] In 2024, Secrets to Surpassing the Top in YouTube Fame</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-proven-strategies-in-advanced-obs-studio-filmmaking-for-2024/"><u>[Updated] Proven Strategies in Advanced OBS Studio Filmmaking for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-youtubes-highest-pay-per-view-pioneers-for-2024/"><u>[Updated] YouTube's Highest Pay Per View Pioneers for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/7/"><u>深入了解敘事技巧7項，如何在行銷中建立有效盟友關係</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/cutting-edge-ways-to-tailor-your-igtv-content-size-for-2024/"><u>Cutting-Edge Ways to Tailor Your IGTV Content Size for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-fuzzy-interface-details-in-far-cry-6/"><u>Fixing Fuzzy Interface Details in Far Cry 6</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-error-invisible-screen/"><u>GPU Error: Invisible Screen</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-designing-dramatic-podcast-clips/"><u>In 2024, Designing Dramatic Podcast Clips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rejuvenate-your-pc-with-a-swift-graphic-driver-upgrade-for-win10/"><u>Rejuvenate Your PC with a Swift Graphic Driver Upgrade for Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-inconsistent-monitor-flashes-in-laptops/"><u>Resolved Inconsistent Monitor Flashes in Laptops</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resurrect-your-asus-video-recorder/"><u>Resurrect Your ASUS Video Recorder</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/seamless-playback-overcome-jittery-streams/"><u>Seamless Playback: Overcome Jittery Streams</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tarkov-visual-fix-swifter-amd-graphics-remedy/"><u>Tarkov Visual Fix: Swifter AMD Graphics Remedy</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unleash-potential-with-latest-windows-11-driver-for-radeon-hd-6950/"><u>Unleash Potential with Latest Windows 11 Driver for Radeon HD 6950</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/xfx-driver-error-resolved-device-operational-again/"><u>XFX Driver Error Resolved: Device Operational Again</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-exploring-top-users-on-snapchat/"><u>[New] 2024 Approved Exploring Top Users on Snapchat</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nter-the-world-of-online-promotion-exclusive-free-youtube-banner-access-for-2024/"><u>[New] Enter the World of Online Promotion Exclusive Free YouTube Banner Access for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-superior-software-packages-to-improve-webcam-videos/"><u>[Updated] In 2024, Superior Software Packages to Improve Webcam Videos</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-essential-tips-for-youtube-audio-library-you-wont-miss/"><u>2024 Approved Essential Tips for YouTube Audio Library You Wont Miss</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/apex-legends-no-more-crashing-just-conquering/"><u>Apex Legends: No More Crashing, Just Conquering</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/audio-visual-vanguard-evaluating-the-best-classroom-recorders/"><u>Audio-Visual Vanguard Evaluating the Best Classroom Recorders</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-a-youtube-guru-essential-production-know-how-for-2024/"><u>Becoming a YouTube Guru Essential Production Know-How for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boosting-player-engagement-in-god-of-war/"><u>Boosting Player Engagement in 'God of War'</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/can-you-change-your-voice-magically-explore-alternative-tools/"><u>Can You Change Your Voice Magically? Explore Alternative Tools</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-module-doesnt-start-up/"><u>Graphics Module Doesn't Start Up</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/gratuito-convertidor-de-archivos-gsm-a-mp3-en-linea-con-movavi/"><u>Gratuito: Convertidor De Archivos GSM a MP3 en Línea Con Movavi</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/illuminating-the-high-definition-journey-to-4k/"><u>Illuminating the High Definition Journey to 4K</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-to-television-reconnect-overcoming-hdmi-deadlock/"><u>Laptop-to-Television Reconnect: Overcoming HDMI Deadlock</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/silent-screens-your-guide-to-peace/"><u>Silent Screens: Your Guide to Peace</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-start-direct3d-engaged/"><u>Smooth Start: Direct3D Engaged</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamlining-extended-visual-display-with-windows-10-tweaks/"><u>Streamlining Extended Visual Display with Windows 10 Tweaks</u></a></li>
 </ul></div>
 

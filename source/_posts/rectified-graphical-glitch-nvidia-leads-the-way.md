@@ -1,7 +1,7 @@
 ---
 title: Rectified Graphical Glitch - NVIDIA Leads the Way
-date: 2025-01-06T20:54:13.212Z
-updated: 2025-01-10T03:02:50.394Z
+date: 2025-01-15T01:06:37.605Z
+updated: 2025-01-15T20:14:40.012Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c83
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What you might concern…
 
  If you’re curious about**what TDR is** in the error ‘A TDR has been detected’, here’s the**answer** :
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c83
  When you’re seeing the error saying “A TDR has been detected”,**probably the TDR timeout was exceeded** . Try the methods below…
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Update your NVIDIA graphics driver
 
@@ -53,16 +61,12 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c2536edc2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you update your graphics card driver, try to open your game application or Illustration to see if the error disappears.
@@ -70,7 +74,7 @@ Here’s how you can do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Change the timeout of your NVIDIA graphics card
@@ -86,10 +90,6 @@ See how to do it:
 3) Type**regedit.exe** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84ef8c7945d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Click**Yes** when prompted by User Account Control. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f0fc5702d.jpg)
 
@@ -110,15 +110,15 @@ See how to do it:
  If your Windows system type is**64-bit** based, click**QWORD (64-bit) Value** .  
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
 
  10) Double-click**TdrDelay** . Then set its Value data to **8** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
 
@@ -144,17 +144,24 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/st-royalty-free-music-download-sites-for-youtube-creators/"><u>15 Best Royalty Free Music Download Sites For YouTube Creators</u></a></li>
-<li><a href="https://facebook.techidaily.com/7-key-ways-social-media-replaced-discussion-boards/"><u>7 Key Ways Social Media Replaced Discussion Boards</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/blinking-void-after-graphic-patch/"><u>Blinking Void After Graphic Patch</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bypassing-asus-built-in-cam-issues/"><u>Bypassing ASUS Built-In Cam Issues</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-best-mac-compatible-soundboard-options-a-five-pack-review/"><u>New 2024 Approved Best Mac-Compatible Soundboard Options A Five-Pack Review</u></a></li>
-<li><a href="https://win11.techidaily.com/restore-your-controller-to-steams-attention-in-win/"><u>Restore Your Controller to Steam's Attention in Win</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/seconds-for-a-high-quality-20mb-video-for-2024/"><u>Seconds for a High-Quality 20MB Video for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/soothing-screen-symptoms-pro-7-fixes/"><u>Soothing Screen Symptoms: Pro 7 Fixes</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782611-9781594779862-the-secret-history-of-western-sexual-mysticism/"><u>The Secret History of Western Sexual Mysticism | Free Book</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-98-must-have-steals-on-cyber-monday-2022-insider-picks/"><u>Top 98 Must-Have Steals on Cyber Monday 2022: Insider Picks</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/wannacry-ransomware-defense-tactics-unveiled-by-experts-at-malwarefox/"><u>WannaCry Ransomware Defense Tactics Unveiled by Experts at MalwareFox</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-clarity-just-clicked/"><u>Windows Clarity, Just Clicked!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-essential-knowledge-unmarked-photo-accumulation/"><u>[New] Essential Knowledge Unmarked Photo Accumulation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-exploring-online-collaboration-google-meet/"><u>[New] Exploring Online Collaboration Google Meet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-instagram-editors-companion-for-effective-video-cropping/"><u>[New] In 2024, The Instagram Editor's Companion for Effective Video Cropping</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtube-growth-secrets-masterful-narration-techniques/"><u>[Updated] In 2024, YouTube Growth Secrets Masterful Narration Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/becoming-an-expert-at-using-zoom-for-your-windows-pc-win10/"><u>Becoming an Expert at Using Zoom for Your Windows PC (Win10)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dampening-displays-fixing-pro-7-flashes/"><u>Dampening Displays: Fixing Pro 7 Flashes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dialing-down-flickering-in-your-acer-device/"><u>Dialing Down Flickering in Your Acer Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-overwatchs-unsupported-graphics-issue/"><u>Fixing Overwatch's Unsupported Graphics Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818120826-how-to-uninstall-graphics-driver-in-windows-quickly-and-easily/"><u>How To Uninstall Graphics Driver in Windows. Quickly & Easily!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-lenovo-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Lenovo Fingerprint Lock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-mini-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 mini Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/journey-through-games-top-5-samsung-gear-vr-experiences-for-2024/"><u>Journey Through Games - Top 5 Samsung Gear VR Experiences for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastery-over-lenovo-display-glitches/"><u>Mastery Over Lenovo Display Glitches</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mouse-on-win11-blackout-issue/"><u>Mouse on Win11 Blackout Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/override-sims-game-freeze/"><u>Override Sims Game Freeze</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-full-screen-display-on-monitors-win10/"><u>Resolve Full Screen Display On Monitors Win10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-workouts-with-apples-latest-tech-the-2023-airpods-pro-heart-rate-fitness-companion-zdnet/"><u>Revolutionize Your Workouts with Apple's Latest Tech: The 2023 AirPods Pro Heart Rate Fitness Companion | ZDNET</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-to-flawlessly-watch-youtube-for-free-when-offline/"><u>Step-by-Step Guide to Flawlessly Watch YouTube for Free When Offline.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-fixed-incorrect-display-settings/"><u>Win10: Fixed Incorrect Display Settings</u></a></li>
 </ul></div>
 

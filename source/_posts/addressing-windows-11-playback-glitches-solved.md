@@ -1,7 +1,7 @@
 ---
 title: Addressing Windows 11 Playback Glitches [Solved]
-date: 2025-01-06T22:16:55.796Z
-updated: 2025-01-09T22:16:36.393Z
+date: 2025-01-09T22:49:51.643Z
+updated: 2025-01-16T01:57:13.301Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 `` **[4: Clean Browser Cache](#4)**
 ``
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **1: Upgrade Video Players**
 
  Upgrade your**Adobe Flash Player** ,**Quick Time player** ,**DivX Web Player** ,**Microsoft Silverlight** etc, if you have them installed on your PC.
@@ -42,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 ``
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **2: Disable Hardware Acceleration**
@@ -53,15 +49,19 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/settings-on-flash-video.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the box for **Enable hardware acceleration** is unchecked. Click**Close** to see if the problem is gone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/enable-hardware-accleration.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **3: Update Graphics Driver**
 
@@ -89,11 +89,11 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59914e6f9c972.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **4: Clean Browser Cache**
 
@@ -126,7 +126,7 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/clear-browsing-data.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``The settings are similar in other browsers, you might need to do this with all the browsers that you have.
@@ -147,24 +147,24 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fixed-windows-without-amd-driver-installation/"><u>[FIXED] Windows Without AMD Driver Installation</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-effective-affordable-youtube-intros-with-templates/"><u>[New] In 2024, Crafting Effective, Affordable YouTube Intros with Templates</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-leveraging-likes-and-comments-enhancing-engagement-on-instagram-stories-for-2024/"><u>[New] Leveraging Likes and Comments Enhancing Engagement on Instagram Stories for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-ultimate-conversion-guide-sdr-to-stunning-hdr-visuals-for-2024/"><u>[New] Ultimate Conversion Guide SDR to Stunning HDR Visuals for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-techniques-for-clearing-picture-edges/"><u>[Updated] Expert Techniques for Clearing Picture Edges</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-mastering-youtube-captions-3-effective-methods-to-download-srt-files/"><u>[Updated] In 2024, Mastering YouTube Captions 3 Effective Methods to Download SRT Files</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-top-fifa-scoreboard-tactics-in-infographics/"><u>2024 Approved Top FIFA Scoreboard Tactics in Infographics</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cut-costs-and-clear-fur-exclusive-400-discount-on-ultimate-pet-hair-vacuums-grab-yours-now-at-zdnet/"><u>Cut Costs & Clear Fur: Exclusive $400 Discount on Ultimate Pet Hair Vacuums - Grab Yours Now at ZDNET!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-windows-10-intermittent-displays/"><u>Fix: Windows 10 Intermittent Displays</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-geforce-xray-issue/"><u>Fixing GeForce XRay Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-invisible-displays-on-personal-computers/"><u>Fixing Invisible Displays on Personal Computers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/igniting-the-dormant-gpu-fan-force/"><u>Igniting the Dormant GPU Fan Force</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-vivo-x90s-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Vivo X90S Without PUK Codes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/jumpstart-your-gaming-with-latest-hd-6950-w11-drivers/"><u>Jumpstart Your Gaming with Latest HD 6950 W11 Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-distorted-monitors-in-win10/"><u>Overcoming Distorted Monitors in Win10</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-y100-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y100 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/shadowed-screen-post-driver-update/"><u>Shadowed Screen Post-Driver Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/simplifying-intel-graphics-driver-upgrade-on-windows-7/"><u>Simplifying Intel Graphics Driver Upgrade on Windows 7</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-ipad-gadgets-and-peripherals-featured-on-zdnet/"><u>Top-Rated iPad Gadgets and Peripherals - Featured on ZDNet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/missing-necessary-drivers-for-amd-video-card-on-pcs/"><u>[MISSING] Necessary Drivers for AMD Video Card on PCs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-to-your-digital-editing-oasis-on-youtube/"><u>[New] Navigating to Your Digital Editing Oasis on YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revolutionizing-sketches-prime-ipados-drawing-software/"><u>[New] Revolutionizing Sketches Prime iPadOS Drawing Software</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-vivo-y100t-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-blinky-monitor-phenomenon/"><u>Banish Blinky Monitor Phenomenon</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/boosting-or-slowing-down-the-netflix-playback-rate-guide/"><u>Boosting or Slowing Down The Netflix Playback Rate Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-microsoft-store-lockdown-on-windows-11/"><u>Bypassing Microsoft Store Lockdown on Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/colorful-consequences-fix-for-lenovo-screen/"><u>Colorful Consequences - Fix for Lenovo Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/compatibility-quelled-windows-and-nvidia-7025nforce-630a/"><u>Compatibility Quelled: Windows & NVIDIA 7025/nForce 630A</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/converting-srt-into-sub-quick-effective-ways/"><u>Converting SRT Into SUB Quick, Effective Ways</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-device-driver-error-code-43-solved/"><u>Graphics Device Driver Error Code 43 [SOLVED]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-calendar-on-iphone-11-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover lost Calendar on iPhone 11 Pro | Stellar</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-test-your-microphone-on-windows-10-a-comprehensive-easy-to-follow-guide/"><u>How to Test Your Microphone on Windows 10: A Comprehensive, Easy-to-Follow Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-finest-choices-free-streaming-tools-suitable-everywhere/"><u>In 2024, Finest Choices Free Streaming Tools Suitable Everywhere</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/minecraft-woes-fix-bad-driver-issues/"><u>Minecraft Woes: Fix Bad Driver Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-direct3d-setback-achieved-gpu-power-up/"><u>Resolved Direct3D Setback, Achieved GPU Power-Up</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revamp-your-visual-experience-update-intel-gfx-driver-on-windows-10/"><u>Revamp Your Visual Experience - Update Intel GFX Driver on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/surface-pro-7s-flicker-fixation-manual/"><u>Surface Pro 7'S Flicker Fixation Manual</u></a></li>
 </ul></div>
 

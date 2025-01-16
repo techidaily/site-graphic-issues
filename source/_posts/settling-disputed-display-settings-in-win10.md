@@ -1,7 +1,7 @@
 ---
 title: Settling Disputed Display Settings in Win10
-date: 2025-01-06T17:12:14.054Z
-updated: 2025-01-10T07:13:51.145Z
+date: 2025-01-11T02:19:11.156Z
+updated: 2025-01-15T19:12:12.265Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/44262321bc90c68bb30ae630045aeeb3d770e2573
 2. **[Uninstall graphics driver and reinstall](#F2)**
 3. **[Turn on GPU Scaling](#F3)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -45,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/44262321bc90c68bb30ae630045aeeb3d770e2573
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -60,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/44262321bc90c68bb30ae630045aeeb3d770e2573
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Uninstall graphics driver and reinstall
 
  You may also encounter this problem if the graphics driver is corrupt. So you can uninstall it first, then restart your computer so that Windows will automatically install the basic graphics driver. After that, check to see if you can change the screen resolution properly.
@@ -70,21 +70,17 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -93,7 +89,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3:**Turn on GPU Scaling**
@@ -109,6 +105,10 @@ Here is how to do it:
 **2)** Click **Display** . Then turn on **GPU Scaling** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **For NVIDIA graphics card users:**
 
@@ -148,15 +148,18 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-visual-vault-verifier/"><u>[New] Visual Vault Verifier</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tech-fixed-dxgkrnlsys-bsod-on-pc/"><u>[Tech] Fixed dxgkrnl.sys BSOD on PC</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-circulation-crafting-kit/"><u>[Updated] 2024 Approved Circulation Crafting Kit</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boost-performance-geforce-210-update-for-w11/"><u>Boost Performance: GeForce 210 Update for W11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boosting-your-instagram-following-proven-strategies/"><u>Boosting Your Instagram Following: Proven Strategies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/lost-airpods-here-are-11-ways-to-spot-them-on-your-iphones-find-my/"><u>Lost AirPods? Here Are 11 Ways to Spot Them on Your iPhone's 'Find My'</u></a></li>
-<li><a href="https://article-posts.techidaily.com/proven-methods-to-elevate-your-filmora-editing-skills-for-2024/"><u>Proven Methods to Elevate Your Filmora Editing Skills for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-fixes-for-stable-fallout-4-gaming-on-pc/"><u>Quick Fixes for Stable Fallout 4 Gaming on PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/total-war-warhammer-3-pc-stability-issues-resolved-no-more-crashing/"><u>Total War: Warhammer 3 PC Stability Issues Resolved - No More Crashing!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unexpected-darkness-your-laptops-non-responsive-screen/"><u>Unexpected Darkness: Your Laptop's Non-Responsive Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/note-windows-devices-need-amd-video-drivers/"><u>[NOTE] Windows Devices Need AMD Video Drivers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-iphone-solutions-for-reverse-playback-for-2024/"><u>[Updated] IPhone Solutions for Reverse Playback for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-essential-guide-to-shopping-for-a-gopro-camera/"><u>[Updated] The Essential Guide to Shopping for a Gopro Camera</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fresh-perspectives-on-digital-health-promotion/"><u>2024 Approved Fresh Perspectives on Digital Health Promotion</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-unidentified-graphics-device/"><u>Fix: Unidentified Graphics Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-windows-10-upside-down-display-issue/"><u>Fix: Windows 10 Upside-Down Display Issue</u></a></li>
+<li><a href="https://video-capture.techidaily.com/greatest-7-web-based-recording-tools-2023-for-2024/"><u>Greatest 7 Web-Based Recording Tools 2023 for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-honor-x7b-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Honor X7b Phone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-touchscreen-malfunction-on-lenovo/"><u>Overcoming Touchscreen Malfunction on Lenovo</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/premium-choices-for-unparalleled-video-communication/"><u>Premium Choices for Unparalleled Video Communication</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-7-display-correction-steps/"><u>Windows 7 Display Correction Steps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/wma-conversion-guide-transforming-your-dvds-into-wma-format-on-windows-11/"><u>WMA Conversion Guide: Transforming Your DVDs Into WMA Format on Windows 11</u></a></li>
 </ul></div>
 

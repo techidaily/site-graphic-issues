@@ -1,7 +1,7 @@
 ---
 title: Mouse on Win11 Blackout Issue
-date: 2025-01-06T03:56:46.723Z
-updated: 2025-01-10T04:06:50.148Z
+date: 2025-01-09T00:47:39.724Z
+updated: 2025-01-16T02:42:57.211Z
 tags:
   - win11
   - win10
@@ -47,10 +47,6 @@ If you’re on a laptop:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 2: Update your graphics drivers**
 
  It’s quite likely that your black screen problem is caused by an outdated, corrupt or incorrect video driver. As updating your drivers is quite an easy task (and something you should do, anyway, for the general health of your computer), it should be one of the first fixes you try.
@@ -67,6 +63,10 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b9f98c105dc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click the **Update** button next to a flagged graphics driver to automatically download and install the correct version of this driver (you can do this with the FREE version of Driver Easy).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All – the Pro version comes with a 30-day money-back guarantee).
@@ -75,11 +75,11 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b9f983d7188.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 3: Disable fast startup**
 
@@ -97,18 +97,10 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100da71f1.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click**Change settings that are currently unavailable** .
 
@@ -119,10 +111,14 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_58341019b216b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 4: Disable integrated graphics card**
@@ -145,6 +141,10 @@ If you’re on a laptop:
  If you’re not sure which one is the integrated graphics one, disable one by one and see if the problem is resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Log in using a different user account
 
@@ -172,16 +172,12 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a17bf2fd8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Accounts** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a2074051b.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click**Other people** in the left pane and click**Add someone else to this PC** .
@@ -200,6 +196,10 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a859df68c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **net user administrator /active:yes** and press the **Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
@@ -209,6 +209,10 @@ If you’re on a laptop:
  4) Create and test a new user account as described above.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 6: Reset your PC**
 
@@ -220,14 +224,14 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834163ae52.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Click **Update & security**  .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834c5df865.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click **Recovery** .  
 
@@ -237,10 +241,6 @@ If you’re on a laptop:
  4) Under ‘Reset this PC’, click**Get started** . Then follow the on-screen instructions to reset your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba2ceb096a6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -261,17 +261,22 @@ If you’re on a laptop:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-smiles-to-text-where-to-find-amusing-tones/"><u>[Updated] In 2024, Smiles to Text Where to Find Amusing Tones?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/conquered-installer-hurdle-for-nvidia/"><u>Conquered Installer Hurdle for Nvidia</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-analytics-enhance-your-sites-data-collection/"><u>Cookiebot-Enabled Analytics: Enhance Your Site's Data Collection</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-zero-to-hero-solo-podcast-trendsetters-secrets-for-2024/"><u>From Zero to Hero Solo Podcast Trendsetters' Secrets for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-latest-dell-wi-fi-card-software-here/"><u>Get Your Latest Dell Wi-Fi Card Software Here</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quickly-discard-outdated-graphics-drivers-windows-style/"><u>Quickly Discard Outdated Graphics Drivers, Windows-Style</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-the-halinitializationfailed-error-a-step-by-step-guide/"><u>Resolving the HAL_INITIALIZATION_FAILED Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stabilizing-extended-display-in-win10-environments/"><u>Stabilizing Extended Display in Win10 Environments</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/systems-graphics-adapter-fixed/"><u>System's Graphics Adapter Fixed</u></a></li>
-<li><a href="https://win-trending.techidaily.com/trouble-free-vmware-management-strategies-for-commencing-and-resolving-vcenters-urgent-sessions/"><u>Trouble-Free VMware Management: Strategies for Commencing and Resolving vCenter’s Urgent Sessions</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-produce-professional-looking-videos-with-fcpx-stabilization-tools/"><u>Updated Produce Professional-Looking Videos with FCPX Stabilization Tools</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-gfxui-reset-completed-and-working/"><u>Windows GfxUI Reset Completed and Working</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-expert-tips-for-avoiding-instagram-video-troubles/"><u>[New] 2024 Approved Expert Tips for Avoiding Instagram Video Troubles</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-pair-off-in-perfection-7-stunning-wedding-films-from-youtube-plus-vimeo/"><u>[Updated] In 2024, Pair Off in Perfection 7 Stunning Wedding Films From Youtube + Vimeo</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/1-afdl-5-bramg-nkl-almlfat-bslasa-aabr-alghazyn/"><u>1. أفضل 5 برامج نقل الملفات بسلاسة عبر الجهازين</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722889355374-blown-away-by-emojis-10-startling-truths-you-need-to-see/"><u>Blown Away by Emojis? 10 Startling Truths You Need to See!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicating-windows-10-flickering-phenomenon/"><u>Eradicating Windows 10 Flickering Phenomenon</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-fix-displays-stable-again/"><u>Fixed Fix: Displays Stable Again</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/freshen-up-your-pc-intel-driver-improvement/"><u>Freshen Up Your PC: Intel Driver Improvement</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-honor-x9b-phone-without-pin-by-drfone-android/"><u>How to Unlock Honor X9b Phone without PIN</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-screen-blackout-troubleshooting-steps/"><u>Laptop Screen Blackout - Troubleshooting Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g933-silence-breakdown-quick-and-easy-audio-repair-tips/"><u>Logitech G933 Silence Breakdown: Quick & Easy Audio Repair Tips</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-motorola-moto-g34-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Motorola Moto G34 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reconfigure-windows-screen-size-for-win-10/"><u>Reconfigure Windows Screen Size for WIN 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/settling-disputed-display-settings-in-win10/"><u>Settling Disputed Display Settings in Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simple-solution-wake-up-your-dp-connection/"><u>Simple Solution: Wake Up Your DP Connection</u></a></li>
+<li><a href="https://win-guides.techidaily.com/solving-your-disc-reading-problems-a-guide-to-repairing-a-malfunctioning-cddvd-drive/"><u>Solving Your Disc-Reading Problems: A Guide to Repairing a Malfunctioning CD/DVD Drive</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-google-pixel-8-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Google Pixel 8 FRP Bypass</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-and-nvidia-unite-seamlessly/"><u>Win11 & Nvidia Unite Seamlessly</u></a></li>
 </ul></div>
 

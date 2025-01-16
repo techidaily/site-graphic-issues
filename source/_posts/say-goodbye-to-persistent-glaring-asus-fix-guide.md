@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Persistent Glaring: ASUS Fix Guide"
-date: 2025-01-04T17:54:26.628Z
-updated: 2025-01-10T00:46:36.454Z
+date: 2025-01-14T22:50:28.533Z
+updated: 2025-01-15T21:57:56.548Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/c034702b6853ed2a4a2c12ebcf392d7c9cb1e9d88
  If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. It’s often not hard to fix at all…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Fixes For ASUS Laptop Screen Flickering In Windows 11, 10, & 7
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/c034702b6853ed2a4a2c12ebcf392d7c9cb1e9d88
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/displaysettings.jpg)
 2. In**Related settings** , click**Advanced display** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanced.jpg)
 3. Click**Display adapter properties for Display 1** .  
 
@@ -59,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/c034702b6853ed2a4a2c12ebcf392d7c9cb1e9d88
 5. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try **[Fix 2](#F2)** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **I’m using Windows 7:**
@@ -70,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/c034702b6853ed2a4a2c12ebcf392d7c9cb1e9d88
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
@@ -89,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/c034702b6853ed2a4a2c12ebcf392d7c9cb1e9d88
 * If no, then chances are some apps are incompatible in your Windows system. Think of any recently installed apps and try to update or delete them to see if it solves the**ASUS laptop screen flickering** issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -109,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/c034702b6853ed2a4a2c12ebcf392d7c9cb1e9d88
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -117,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/c034702b6853ed2a4a2c12ebcf392d7c9cb1e9d88
 5) Check to see if the ASUS laptop screen flickering issue has been solved.
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](mailto:support@drivereasy.com) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -156,24 +156,18 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-quick-guide-to-infusing-new-flair-in-old-content-using-instagram-features/"><u>[New] In 2024, Quick Guide to Infusing New Flair in Old Content Using Instagram Features</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-god-of-war-performance-issue/"><u>[Solved] God of War Performance Issue</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-faster-than-light-instagram-video-experience-for-mobile-users/"><u>[Updated] 2024 Approved Faster-Than-Light Instagram Video Experience for Mobile Users</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-songwriting-in-action-a-guide-to-creating-content-with-musicians/"><u>[Updated] 2024 Approved Songwriting in Action A Guide to Creating Content with Musicians</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-top-5-best-capture-cards-for-nintendo-switch/"><u>[Updated] 2024 Approved Top 5 Best Capture Cards for Nintendo Switch</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-navigate-away-from-windows-10-photos-app-failures-with-precision/"><u>[Updated] Navigate Away From Windows 10 Photos App Failures with Precision</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-self-balancing-snap-shots-without-supports/"><u>[Updated] Self-Balancing Snap Shots Without Supports</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easily-overcoming-file-corrupted-issue-error-0x80070570-on-windows-11/"><u>Easily Overcoming File Corrupted Issue (Error 0X80070570) on Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-sideways-screens-standard-view-on-windows-10/"><u>Fix Sideways Screens: Standard View on Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-r9-errors-the-final-step-for-win11/"><u>Fixing R9 Errors: The Final Step for Win11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-iphone-12-mini-by-drfone-ios/"><u>How To Create an Apple Developer Account On iPhone 12 mini</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-cyclings-finest-gaming-experiences/"><u>In 2024, Cycling's Finest Gaming Experiences</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/initial-graphical-system-unresponsive/"><u>Initial Graphical System Unresponsive</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-blur-windows-display-enhanced/"><u>No Blur: Windows Display Enhanced</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-malfunction-cured-display-resolved/"><u>Nvidia Malfunction Cured - Display Resolved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/pcie-lone-gpu-in-system-logs-cleared/"><u>PCIe Lone GPU in System Logs Cleared</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solving-windows-7-flicker-a-quick-guide/"><u>Solving Windows 7 Flicker: A Quick Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-ultimate-resource-keeping-your-pcs-gpu-up-to-date-with-new-amd-vega-64-drivers-for-windows-systems/"><u>The Ultimate Resource: Keeping Your PC's GPU Up-to-Date with New AMD Vega 64 Drivers for Windows Systems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshoot-anthem-delays/"><u>Troubleshoot Anthem Delays</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-canvascartoons-detailed-scrutiny-and-handbooks-24/"><u>[New] CanvasCartoons Detailed Scrutiny & Handbooks '24</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/one-your-vlogs-access-free-sound-tracks-for-2024/"><u>[New] Tone Your Vlogs Access Free Sound Tracks for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-how-to-fix-no-signal-on-monitor-quickly-and-easily/"><u>[SOLVED] How to Fix No Signal on Monitor Quickly & Easily</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-tech-savvy-gaming-windows-10-video-capture-tactics/"><u>2024 Approved Tech-Savvy Gaming Windows 10 Video Capture Tactics</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210120828-9781476640211-back-to-human-nature/"><u>Back to Human Nature | Free Book</u></a></li>
+<li><a href="https://win-lab.techidaily.com/best-4-display-sharing-applications-for-your-mi-device-a-comprehensive-guide/"><u>Best 4 Display Sharing Applications for Your Mi Device: A Comprehensive Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enabling-custom-displays-via-nvidia-settings-panel/"><u>Enabling Custom Displays via NVIDIA Settings Panel</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improving-winos-basic-render-capabilities/"><u>Improving WINOS' Basic Render Capabilities</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-tutorial-on-exporting-imovie-videos-as-premium-mp4-files-for-enhanced-viewing/"><u>Step-by-Step Tutorial on Exporting iMovie Videos as Premium MP4 Files for Enhanced Viewing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-graphics-initialization-failed/"><u>System Graphics Initialization Failed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/uncovered-window-10-display-enhancements/"><u>Uncovered Window 10 Display Enhancements</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/understanding-user-psychology-in-youtube-shorts-template-design-for-2024/"><u>Understanding User Psychology in YouTube Shorts Template Design for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-vision-quest-successful-conclusion/"><u>Win11 Vision Quest - Successful Conclusion</u></a></li>
 </ul></div>
 

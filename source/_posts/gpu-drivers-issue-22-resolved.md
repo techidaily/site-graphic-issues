@@ -1,7 +1,7 @@
 ---
 title: "GPU Drivers: Issue #22 Resolved"
-date: 2025-01-09T01:40:52.819Z
-updated: 2025-01-09T21:56:32.560Z
+date: 2025-01-13T17:23:41.485Z
+updated: 2025-01-16T01:24:33.127Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/fcc2142966c5b1ee29ff8b93fc6fb55850db39c56
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
 1. Restart your PC.
@@ -40,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/fcc2142966c5b1ee29ff8b93fc6fb55850db39c56
 11. Voila! Your screen should appear normally now. If it isn’t working, you can press the power button to shut down and restart your computer, then carefully repeat the above steps to better troubleshoot the issue.
 
 Be careful you don’t mistype, or press the wrong keys!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Reset BIOS by removing the CMOS battery
 
@@ -63,21 +63,21 @@ Example – CMOS battery on a desktop PC
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Example – CMOS battery on a laptop
 
 * Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus tip
@@ -98,14 +98,14 @@ Example – CMOS battery on a laptop
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
@@ -129,20 +129,18 @@ Example – CMOS battery on a laptop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-eye-catching-video-ad-campaigns-top-creators-exposed-for-2024/"><u>[New] Eye-Catching Video Ad Campaigns Top Creators Exposed for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/dysfonctionnement-de-handbrake-sous-windows-11-solutions-et-alternatives-rapides/"><u>Dysfonctionnement De Handbrake Sous Windows 11 : Solutions Et Alternatives Rapides</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-iphones-capabilities-with-games-galore/"><u>Elevate Your iPhone's Capabilities with Games Galore</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-top-tier-lenovo-laptops-unveiled-at-mwc-the-ultimate-review-and-ranking/"><u>Exploring Top-Tier Lenovo Laptops Unveiled at MWC: The Ultimate Review & Ranking</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-failure-addressed-visual-display-ok/"><u>GPU Failure Addressed: Visual Display OK</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-quell-the-chaos-of-flickering-screens-on-win7/"><u>How to Quell the Chaos of Flickering Screens on Win7</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-oneplus-11-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On OnePlus 11 5G?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-14-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 14</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/managing-big-display-on-win11-pc/"><u>Managing Big Display on Win11 PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/patched-amds-graphics-issues-r9-now-fixed-on-w10/"><u>Patched AMD's Graphics Issues: R9 Now Fixed on W10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-the-issue-of-msiexecexe-is-not-found-or-missing-msidll-a-step-by-step-guide/"><u>Resolving the Issue of 'msiexec.exe Is Not Found' Or 'Missing msi.dll': A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-special.techidaily.com/securely-transitioning-from-windows-881-to-an-ssd-drive-a-comprehensive-guide/"><u>Securely Transitioning From Windows 8/8.1 to an SSD Drive: A Comprehensive Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/turning-black-out-blank-screens-back-on-fast-asus/"><u>Turning Black-Out Blank Screens Back on, Fast! (Asus)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-video-glitches-resolution/"><u>Windows 10 Video Glitches Resolution</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/windows-users-ultimate-guide-to-intel-optane-driver-installation-and-update-processes/"><u>Windows User's Ultimate Guide to Intel Optane Driver Installation & Update Processes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-enhanced-visual-customization-missing-in-win11/"><u>[Fixed] Enhanced Visual Customization Missing in Win11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transforming-images-with-ease-learn-snapseed-today/"><u>[Updated] Transforming Images with Ease Learn Snapseed Today</u></a></li>
+<li><a href="https://facebook.techidaily.com/accessing-facebooks-secrets-a-roadmap-to-transparency-center-use/"><u>Accessing Facebook's Secrets: A Roadmap to Transparency Center Use</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/computerscreenupsidedown-fix/"><u>ComputerScreenUpsideDown Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-boot-up-fails/"><u>Graphics Boot-Up Fails</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-lava-blaze-2-5g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Lava Blaze 2 5G</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-asus-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Asus Phone without Google Account?</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-rectifying-non-operational-tab-keys/"><u>Methods for Rectifying Non-Operational Tab Keys</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-fcp-x-effects-made-simple-a-step-by-step-tutorial-for-2024/"><u>New FCP X Effects Made Simple A Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rejuvenating-your-systems-visual-experience-through-driver-update-win7/"><u>Rejuvenating Your System's Visual Experience Through Driver Update (Win7)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-solutions-for-warped-display-lines-in-devices/"><u>Swift Solutions for Warped Display Lines in Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/trim-excess-space-on-win-10-display/"><u>Trim Excess Space on WIN 10 Display</u></a></li>
 </ul></div>
 

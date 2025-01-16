@@ -1,7 +1,7 @@
 ---
 title: Ending Lenovo Screen Flicker Phenomenon
-date: 2025-01-03T18:25:38.090Z
-updated: 2025-01-09T16:23:43.936Z
+date: 2025-01-14T23:34:36.937Z
+updated: 2025-01-15T22:55:22.360Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 3. **[Troubleshoot hardware issues](#c)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Update your drivers
@@ -46,19 +46,15 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597858796d417.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click the**Update** button next to each driver to automatically download the correct version of this driver (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Update your BIOS
 
@@ -75,7 +71,7 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
@@ -83,7 +79,7 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Click the**download** button to download the BIOS update package.
@@ -93,6 +89,10 @@ To update the BIOS of your Lenovo laptop:
 **5)**  Open the**executable (.exe) file** you have downloaded. Follow the on-screen instructions to install the BIOS update to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Restart your laptop and see if the screen of your laptop recovers.
 
@@ -125,19 +125,19 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/-chill-out-guide-selecting-inviting-winter-backgrounds/"><u>[New] A Chill-Out Guide Selecting Inviting Winter Backgrounds</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-creating-captivating-podcast-highlights/"><u>[Updated] Creating Captivating Podcast Highlights</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-go-pro-karma-drone-review/"><u>2024 Approved Go Pro Karma Drone Review</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-script-failures-civilization-v-edition/"><u>Addressing Script Failures, Civilization V Edition</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dell-monitors-no-longer-flicker-successful-troubleshooting/"><u>Dell Monitors No Longer Flicker: Successful Troubleshooting</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dvdmac-mac-mac/"><u>DVDコピーツール・Mac用: 変換してMacに転送が簡単な無料ソフト - Macユーザー必見!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ensuring-smooth-performance-updating-your-pcs-graphics-driver/"><u>Ensuring Smooth Performance: Updating Your PC's Graphics Driver</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-for-flickering-keeping-your-display-steady/"><u>Fix for Flickering: Keeping Your Display Steady</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-14-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 14 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
-<li><a href="https://discover-able.techidaily.com/quick-guide-automating-file-saving-with-vba-emails-in-outlook/"><u>Quick Guide: Automating File Saving with VBA Emails in Outlook</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resetting-asus-webcam-to-work-forward/"><u>Resetting ASUS Webcam To Work Forward</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/strategies-for-minimizing-large-scale-video-and-audio-data/"><u>Strategies for Minimizing Large-Scale Video and Audio Data</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203476262-fix-reclaim-your-devices-efficiency-direct-steps-to-resolve-high-system-load-from-shell-infrastructures/"><u>[Fix] Reclaim Your Device’s Efficiency: Direct Steps To Resolve High System Load From Shell Infrastructures</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-discover-hassle-free-video-opener-templates/"><u>[New] In 2024, Discover Hassle-Free Video Opener Templates</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-advanced-tools-for-efficiently-converting-xmlssattml-to-srt/"><u>[Updated] 2024 Approved Advanced Tools for Efficiently Converting XML/SSA/TTML to SRT</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/elden-ring-wont-start-here-are-fixes-for-your-consoles-black-screen-dilemma/"><u>Elden Ring Won't Start? Here Are Fixes for Your Console's Black Screen Dilemma!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/end-of-blackout-in-windows-post-update/"><u>End of Blackout in Windows Post Update</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722968594047-fresh-off-the-shelf-newest-driver-updates-for-your-dell-2330d-and-2330dn-printers-revealed/"><u>Fresh Off The Shelf: Newest Driver Updates For Your Dell 2330D & 2330DN Printers Revealed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hidden-window-10-features-unveiled-and-functional/"><u>Hidden Window 10 Features: Unveiled and Functional</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-remove-iphone-12-sim-lock-by-drfone-ios/"><u>How to Remove iPhone 12 SIM Lock?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-how-to-create-a-google-meet-account/"><u>In 2024, How to Create a Google Meet Account</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-gfx-issues-windows-gui-restored-to-normal/"><u>Resolving GFX Issues: Windows GUI Restored to Normal</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/saving-screen-setup-finally-successful/"><u>Saving Screen Setup Finally Successful!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/stop-youtube-from-taking-over-your-apple-tv-and-android-tv-wallpaper-a-simple-guide/"><u>Stop YouTube From Taking Over Your Apple TV & Android TV Wallpaper: A Simple Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win-dxgkrnlsys-error-solved-bsod-explained/"><u>Win dxgkrnl.sys Error Solved: BSoD Explained</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Graphic Glitch Be Gone: Monster Hunter World Fixed"
-date: 2025-01-04T23:00:05.783Z
-updated: 2025-01-10T01:40:09.063Z
+date: 2025-01-12T01:38:49.362Z
+updated: 2025-01-16T02:44:28.199Z
 tags:
   - win11
   - win10
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/abb037fb1e94f759471049583ead053b2f01326e3
  If you keep getting the**Err 12: Graphics device crashed** while playing**Monster Hunter World** , you’re certainly not alone. While this can be quite irritating, most of the time it is only a driver issue that can be fixes pretty easily…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes for err12: Graphics Device Crashed error
@@ -44,13 +44,13 @@ thumbnail: https://thmb.techidaily.com/abb037fb1e94f759471049583ead053b2f01326e3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -69,7 +69,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-215.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Double-click on**Display adapters** (aka.**Graphics card** , **Video card**). Then double-click on**your graphics card** .
@@ -106,7 +106,7 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [the Fortect support team](https://www.fortect.com/support/) .
@@ -130,7 +130,7 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -163,22 +163,24 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-best-batch-file-transformations/"><u>[New] Best Batch File Transformations</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-diving-into-samsung-galaxy-s8-the-ultra-hd-milestone/"><u>[New] Diving Into Samsung Galaxy S8 The Ultra HD Milestone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-how-to-choose-the-best-free-introduction-maker/"><u>[New] In 2024, How to Choose the Best Free Introduction Maker</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-checklist-for-mastering-bandicam-in-the-new-year/"><u>[New] The Ultimate Checklist for Mastering Bandicam in the New Year</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-top-10-video-screenshot-tools-reviewed/"><u>[Updated] Top 10 Video Screenshot Tools Reviewed</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-y27s-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo Y27s Activity | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/apple-music-enhancement-for-exquisite-videos-for-2024/"><u>Apple Music Enhancement for Exquisite Videos for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clearing-up-distorted-text-in-far-cry-game/"><u>Clearing Up Distorted Text in Far Cry Game</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhanced-windows-ui-now-visible-in-10s-display/"><u>Enhanced Windows UI: Now Visible in 10'S Display</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-windows-10s-c1900101-installation-problem/"><u>Fixing Windows 10'S C1900101 Installation Problem</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-problem-code-43-resolved-now/"><u>GPU Problem Code 43 Resolved Now</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/high-resolution-drone-flights-a-mi-examination/"><u>High-Resolution Drone Flights A MI Examination</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-gpu-fans-not-spinning/"><u>How to Fix GPU Fans Not Spinning</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-cutting-edge-video-player-apps-for-iphone-and-ipad-top-10/"><u>In 2024, Cutting-Edge Video Player Apps for iPhone and iPad (Top 10)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-opengl-error-nvidias-quick-remedy-found/"><u>Resolved: OpenGL Error - Nvidia's Quick Remedy Found</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/steps-for-activating-unsupported-amd-freesync/"><u>Steps for Activating Unsupported AMD FreeSync</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tame-asus-laptop-display-stop-the-squirm-not-quiver/"><u>Tame ASUS Laptop Display: Stop the Squirm, Not Quiver</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-best-sniping-software-for-mac-users-for-2024/"><u>[New] Best Sniping Software for Mac Users for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-gopro-guide-achieving-excellent-underwater-cinematography/"><u>2024 Approved GoPro Guide Achieving Excellent Underwater Cinematography</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-inverted-display-in-windows-10-os/"><u>Correcting Inverted Display in Windows 10 OS</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/enhancing-media-interaction-with-smart-control-options-for-2024/"><u>Enhancing Media Interaction with Smart Control Options for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/excel-2003-stuck-at-opening-file-0-resolve-performance-issues-by-stellar-guide/"><u>Excel 2003 Stuck at Opening File 0 - Resolve Performance Issues</u></a></li>
+<li><a href="https://fox-info.techidaily.com/high-end-drones-expert-buyers-choices-top-5/"><u>High-End Drones - Expert Buyers' Choices, Top 5</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-dark-mysteries-lenovo-fixes/"><u>No More Dark Mysteries: Lenovo Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/pocket-sized-windows-patches-offline-methods/"><u>Pocket-Sized Windows Patches: Offline Methods</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/precision-in-post-production-fixing-your-youtube-green-screen/"><u>Precision in Post-Production: Fixing Your YouTube Green Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/r9-display-driver-fix-successfully-achieved-in-windows-10/"><u>R9 Display Driver Fix Successfully Achieved in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-unsupported-graphics-in-overwatch-patch/"><u>Resolved Unsupported Graphics in Overwatch Patch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-unlocked-graphics-preferences-for-nvidia/"><u>Restoring Unlocked Graphics Preferences for Nvidia</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/safe-mode-savior-efficiently-uninstalling-graphics-drivers-on-win8/"><u>Safe Mode Savior: Efficiently Uninstalling Graphics Drivers on WIN8</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-on-connectivity-discover-a-cost-effective-13-port-dock-station-featuring-dual-4k-hdmi-adapters-now-just-49-on-zdnet/"><u>Save Big on Connectivity: Discover a Cost-Effective 13-Port Dock Station Featuring Dual 4K HDMI Adapters, Now Just $49 on ZDnet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solve-white-screen-in-sims-life-events/"><u>Solve White Screen in Sims Life Events</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rt-of-creating-compelling-youtube-video-outlines-for-2024/"><u>The Art of Creating Compelling YouTube Video Outlines for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-pick-for-cost-conscious-car-owners-the-apeman-c450-dashcam-uncovered/"><u>Top Pick for Cost-Conscious Car Owners: The Apeman C450 Dashcam Uncovered</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/turn-windows-10-screen-back-normally/"><u>Turn Windows 10 Screen Back Normally</u></a></li>
 </ul></div>
 

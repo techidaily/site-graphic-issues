@@ -1,7 +1,7 @@
 ---
 title: How to Fix Lenovo Laptop Screen Dim Issue
-date: 2025-01-05T06:18:17.758Z
-updated: 2025-01-10T08:00:55.078Z
+date: 2025-01-11T19:37:06.776Z
+updated: 2025-01-15T20:04:49.418Z
 tags:
   - win11
   - win10
@@ -42,16 +42,16 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597858796d417.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **c)**  Click the**Update** button next to your graphics driver to automatically download the correct version of this driver (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2) Press the brightness-up key when starting up
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 **c)**  After the start-up, you can see the screen of your Lenovo laptop has been brightened up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3) Modify Registry
@@ -79,16 +79,12 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597862b688206.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **b)**  On Registry Editor, use the registry hive on the left-hand side to navigate to the location “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000** ” OR “ **HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0001** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597866ac4e53d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **c)**  Find**FeatureTestControl** and double-click on it.
 
@@ -97,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 **d)**  Change the value data to “**f048** ” and then hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597867f178db8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **e)** After that, close the Registry Editor.**Reboot** your laptop and see if the problem resolves.
 
@@ -119,21 +119,20 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-dial-up-discovery-mastering-quick-search-on-social-media-for-2024/"><u>[New] Dial-Up Discovery Mastering Quick Search on Social Media for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-digging-through-youtube-conversations-for-2024/"><u>[New] Digging Through YouTube Conversations for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-no-cost-creative-corner-finding-the-finest-tiktok-backgrounds/"><u>[New] No-Cost Creative Corner Finding the Finest TikTok Backgrounds</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-err12-graphics-device-crashed-monster-hunter-world/"><u>[Solved] Err12 Graphics Device Crashed Monster Hunter World</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-invisible-insights-into-instagram-story-viewing/"><u>[Updated] In 2024, Invisible Insights Into Instagram Story Viewing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-pushing-boundaries-innovative-memes-with-kinemaster/"><u>[Updated] Pushing Boundaries Innovative Memes with KineMaster</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bring-light-back-to-your-twitch-video/"><u>Bring Light Back to Your Twitch Video</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dark-room-gfx-card-updation/"><u>Dark Room - GFX Card Updation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dial-back-excessive-windows-sizing/"><u>Dial Back Excessive Windows Sizing</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-mastery-guide-installing-snapchat-on-mac-os/"><u>In 2024, Mastery Guide Installing Snapchat on Mac OS</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-the-full-potential-of-media-player-through-subtitles/"><u>In 2024, Unlock the Full Potential of Media Player Through Subtitles</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lightning-cure-fast-remedy-for-amd-and-tarkov-bug/"><u>Lightning Cure: Fast Remedy for AMD & Tarkov Bug</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/straightening-computer-border-lines/"><u>Straightening Computer Border Lines</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swifter-play-eliminate-amd-tarkov-glitches-now/"><u>Swifter Play: Eliminate AMD Tarkov Glitches Now</u></a></li>
-<li><a href="https://article-helps.techidaily.com/thank-you-access-comprehensive-paidfree-templates/"><u>Thank You! Access Comprehensive Paid/Free Templates</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-broken-cache-in-your-microsoft-store-app/"><u>Troubleshooting the Broken Cache in Your Microsoft Store App</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-enhance-video-reach-strategic-insights-into-youtubes-tag-system-for-2024/"><u>[Updated] Enhance Video Reach Strategic Insights Into YouTube's Tag System for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-avoiding-common-pitfalls-with-zoom-recording-methods/"><u>[Updated] In 2024, Avoiding Common Pitfalls with Zoom Recording Methods</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-innovative-visual-tech-top-7-screen-options-for-image-experts/"><u>[Updated] In 2024, Innovative Visual Tech - Top 7 Screen Options for Image Experts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-streamline-and-supercharge-your-ps3-gameplay-recording-experience/"><u>[Updated] In 2024, Streamline and Supercharge Your PS3 Gameplay Recording Experience</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/advanced-settings-recovery-windows-10-displays-mismatch/"><u>Advanced Settings Recovery: Windows 10 Displays Mismatch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effective-solutions-resolving-system-ui-is-not-responding-bugs-in-android-devices/"><u>Effective Solutions: Resolving 'System UI Is Not Responding' Bugs in Android Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-long-term-youtube-success-with-creative-commons-mainteninas/"><u>Ensuring Long-Term YouTube Success with Creative Commons Mainteninas</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-apples-on-device-ai-system-realm-outshines-microsofts-gpt-4-unveiling-the-details-with-zdnet/"><u>How Apple's On-Device AI System, ReaLM, Outshines Microsoft's GPT-4: Unveiling the Details with ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-control-center-not-responding-discover-8-fixes-that-work/"><u>IPhone Control Center Not Responding? Discover 8 Fixes That Work!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/optimieren-sie-ihre-mkv-reproduktionsverzogerungen-und-storungen-unter-windows-and-macos/"><u>Optimieren Sie Ihre MKV-Reproduktionsverzögerungen Und Störungen Unter Windows & macOS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revising-stream-settings-for-better-windows-11-views/"><u>Revising Stream Settings for Better Windows 11 Views</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818136892-seamlessly-sync-your-screen-horizons/"><u>Seamlessly Sync Your Screen Horizons</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-gaming-with-rtx-3080-no-crashing-guide/"><u>Smooth Gaming with RTX 3080: No Crashing Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tweaking-windows-11-aspect-ratio/"><u>Tweaking Windows 11 Aspect Ratio</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zero-struggle-screen-edge-adjustment-on-computers/"><u>Zero Struggle! Screen Edge Adjustment on Computers</u></a></li>
 </ul></div>
 

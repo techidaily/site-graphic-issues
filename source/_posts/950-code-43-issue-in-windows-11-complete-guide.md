@@ -1,7 +1,7 @@
 ---
 title: 950 'Code 43' Issue in Windows 11 - Complete Guide
-date: 2025-01-03T19:01:57.306Z
-updated: 2025-01-09T22:01:34.338Z
+date: 2025-01-12T20:44:25.498Z
+updated: 2025-01-15T22:46:45.210Z
 tags:
   - win11
   - win10
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Option 1: Clean re-install NVIDIA 950
@@ -51,27 +51,15 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode. 
 
@@ -102,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   **Option 2: Update Windows 10** 
@@ -111,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Check for updates** button to see if there are any new updates available. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png) 
@@ -118,6 +110,10 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
  3) If new updates are available, just download and then update them as instructed. 
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -128,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
 **Warning** : Please do make sure that you are fully aware of what you are to do before you choose to update your BIOS. Unrecoverable errors are the last thing we want to see. 
 
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   **Option 4: Reinstall Windows 10** 
 
@@ -155,24 +155,24 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-blackout-blitz-a-moments-work/"><u>2024 Approved Blackout Blitz A Moment's Work</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adjusting-win11-monitor-size-issue/"><u>Adjusting Win11 Monitor Size Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bridge-the-gap-running-intel-driver-in-low-end-pcs/"><u>Bridge the Gap: Running Intel Driver in Low-End PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/conquered-recurring-monitor-blanks-now-stable/"><u>Conquered Recurring Monitor Blanks, Now Stable</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ending-windows-10-anomalous-refresh/"><u>Ending Window's 10 Anomalous Refresh</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/essential-non-xsplit-video-splitters/"><u>Essential Non-Xsplit Video Splitters</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/finding-the-hidden-shadowstack-chipset/"><u>Finding the Hidden Shadowstack Chipset</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-fix-mingwm10dll-not-found-or-missing-errors/"><u>How to Fix Mingwm10.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-11-pro-max-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 11 Pro Max Lock Screen with Notifications?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-xiaomi-redmi-note-12t-pro-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Xiaomi Redmi Note 12T Pro.</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-drone-archetypes/"><u>In 2024, Innovative Drone Archetypes</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-tecno-pova-6-pro-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Tecno Pova 6 Pro 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-vivo-v27e-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Vivo V27e FRP Bypass</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/portable-computing-orientation-set-right/"><u>Portable Computing - Orientation Set Right</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-vibrance-to-an-asus-monochrome-gadget/"><u>Restoring Vibrance to an Asus Monochrome Gadget</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/step-by-step-win7-intel-graphics-patch-guide/"><u>Step-by-Step: Win7 Intel Graphics Patch Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/taming-the-printer-busy-state-in-win11/"><u>Taming the Printer Busy State in Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tips-to-run-intel-graphics-in-low-end-systems/"><u>Tips to Run Intel Graphics in Low-End Systems</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-top-10-explainer-video-tools-to-boost-your-brand/"><u>Updated Top 10 Explainer Video Tools to Boost Your Brand</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-streamline-your-skype-experience-with-obs-recordings/"><u>[New] 2024 Approved Streamline Your Skype Experience with OBS Recordings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-goovision-9000-ultimate-os-snapshotter/"><u>[New] GooVision 9000 Ultimate OS Snapshotter</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-7-audio-capturers-2023-edition/"><u>[New] Top 7 Audio Capturers 2023 Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-effortless-image-capturing-on-chrome-devices-method-4/"><u>[Updated] Effortless Image Capturing on Chrome Devices (Method #4)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-compreenhensive-guide-to-everyones-gpt-4/"><u>A Compreenhensive Guide to Everyone's GPT-4</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boosting-performance-fix-insufficient-specifications/"><u>Boosting Performance: Fix Insufficient Specifications</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dodging-chroma-key-disasters-for-enhanced-videos-on-youtube/"><u>Dodging Chroma Key Disasters for Enhanced Videos on YouTube</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-microsoft-window-os-render-capabilities/"><u>Enhancing Microsoft Window OS Render Capabilities</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-resolving-installer-snags-for-nvidia/"><u>Fixed: Resolving Installer Snags for Nvidia</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-amd-framebug/"><u>Fixing AMD Framebug</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hidden-displays-restored-in-windows-10/"><u>Hidden Displays Restored in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-get-past-c1900101-hurdle-in-installing-windows-10/"><u>How to Get Past C1900101 Hurdle in Installing Windows 10</u></a></li>
+<li><a href="https://os-tips.techidaily.com/kuxiu-x36-pro-max-ultimate-guide-to-the-premier-free-standing-tablet-holder/"><u>Kuxiu X36 Pro Max - Ultimate Guide to the Premier Free-Standing Tablet Holder</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/r-strategies-for-skyrocketing-youtube-follows-for-2024/"><u>Master Strategies for Skyrocketing YouTube Follows for 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/methoden-zur-wiederherstellung-geloschter-daten-aus-dem-recycling-ordner-ihres-computers/"><u>Methoden Zur Wiederherstellung Gelöschter Daten Aus Dem Recycling-Ordner Ihres Computers.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimize-stream-quality-instantly/"><u>Optimize Stream Quality Instantly!</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-and-solving-operation-0x0000011b-in-windows-11/"><u>Preventing and Solving Operation 0X0000011B in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/pushing-performance-overcoming-non-supported-freesync/"><u>Pushing Performance: Overcoming Non-Supported FreeSync</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/slow-mo-scenes-on-instagram-a-filmmakers-manual/"><u>Slow-Mo Scenes on Instagram A Filmmaker's Manual</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Eradicate Windows 11 Display Glitches
-date: 2025-01-04T18:41:32.258Z
-updated: 2025-01-10T05:27:44.412Z
+date: 2025-01-09T03:11:29.473Z
+updated: 2025-01-15T21:32:17.974Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Change the monitor refresh rate
 
  A refresh rate is the number of times in a second that images are refreshed. Generally a higher refresh rate produces a smoother picture and less screen flickering or flashing issue. So we might have to change the monitor refresh rate to find the most suited one for your PC monitor.
@@ -40,12 +44,12 @@ Here is how to change the monitor refresh rate:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be155afaa82a.jpg)
 2. Scroll down to**Multiple displays** and click on**Advanced display settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15608e1352.jpg)
 3. Click**Display adapter properties for Display 1** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15652a5261.jpg)
 4. Click**Monitor** , then click the**Screen refresh rate** drop-down menu to select the one most suited for your monitor and click**OK** .  
@@ -57,7 +61,7 @@ Here is how to change the monitor refresh rate:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -97,15 +101,11 @@ To do so:
 2. Scroll down to **Problem Reports and Solution Control Panel Support** , right-click on it and click**Stop** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16a01b5afa.jpg)
 3. Scroll down to**Windows Error Reporting Service** , right-click on it and click**Stop** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16ad7ae8af.jpg)
 4. Check if the**screen is flashing** problem has been resolved.
@@ -117,6 +117,10 @@ To do so:
  Some apps such as Norton AV, iCloud, and IDT Audio are known to cause compatibility issues in Windows and hence the screen flickering issue. If you have any of them installed, you should check their official website for an update to see if there’s a bug fixfor this in them.
 
  If you have installed any other app and the screen flashing issue occurs ever since then it’s very likely that app is to blame. Make sure it’s not malware and check its official website for an update if possible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -156,7 +160,7 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Yes** when prompted to confirm.
@@ -164,10 +168,6 @@ Here’s how to use Fortect to repair system files on your PC:
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -196,18 +196,18 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/god-of-war-simplifying-complex-moves/"><u>'God of War': Simplifying Complex Moves</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/xpert-tips-for-slide-presentation-with-youtube/"><u>[New] Expert Tips for Slide Presentation with YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-game-on-essential-samsung-gear-vr-experiences/"><u>[New] Game On Essential Samsung Gear VR Experiences</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-unveiling-the-secrets-to-supervised-simultaneous-streams/"><u>[New] In 2024, Unveiling the Secrets to Supervised Simultaneous Streams</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-androids-video-recording-techniques-explored/"><u>[Updated] In 2024, Android's Video Recording Techniques Explored</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/conquered-initialization-obstacle/"><u>Conquered Initialization Obstacle</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/creating-breathtaking-slow-motion-photo-editing-techniques-explored-for-2024/"><u>Creating Breathtaking Slow Motion Photo Editing Techniques Explored for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ending-switchable-gpu-woes-nvidiaintel-fix-on-win10/"><u>Ending Switchable GPU Woes: Nvidia/Intel Fix on Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/latest-win11-enhancements-for-visual-customization/"><u>Latest Win11 Enhancements for Visual Customization</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-stability-overcoming-persistent-crash-issues-with-sod-2/"><u>Mastering Stability: Overcoming Persistent Crash Issues with SOD 2</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-for-repairing-non-working-windows-alt-keys/"><u>Methods for Repairing Non-Working Windows ALT Keys</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-video-driver-issue-43-quickly/"><u>Solved Video Driver Issue #43 Quickly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshoot-vertical-edges-misalignment-in-laptop-screens/"><u>Troubleshoot Vertical Edges Misalignment in Laptop Screens</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-from-idea-to-hit-solo-podcast-production-tactics/"><u>[New] In 2024, From Idea to Hit Solo Podcast Production Tactics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/avoid-flickering-secure-your-lenovo-display/"><u>Avoid Flickering: Secure Your Lenovo Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-fps-latest-amd-hd-6950-driver-release/"><u>Boost FPS: Latest AMD HD 6950 Driver Release</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cyber-week-best-bargains-top-laptop-coolers-on-sale-dont-miss-the-chill-o-rama-techspot/"><u>Cyber Week Best Bargains: Top Laptop Coolers on Sale - Don't Miss the Chill-O-Rama | TechSpot</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-gui-glitches-windows-ux-graphic-improvements-made/"><u>Fixing GUI Glitches: Windows UX Graphic Improvements Made</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-11-pro-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone 11 Pro Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-in-the-great-outdoors-ar-style/"><u>Gaming in the Great Outdoors (AR Style)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/innovative-tech-voice-changing-apps-reviewed-for-2024/"><u>Innovative Tech Voice-Changing Apps Reviewed for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-smarttouch-issue-successfully-addressed/"><u>Lenovo SmartTouch Issue: Successfully Addressed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/silent-adventure-no-more-fixing-sound-problems-in-lost-ark/"><u>Silent Adventure No More: Fixing Sound Problems in Lost Ark</u></a></li>
+<li><a href="https://win11.techidaily.com/the-shield-of-anonymity-network-file-security-on-windows/"><u>The Shield of Anonymity: Network File Security on Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-the-power-of-nvidias-wins11-compatible-drivers-geforce-210/"><u>Unveiling the Power of NVIDIA's Wins11-Compatible Drivers, GeForce 210</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-8-entrusting-system-in-safe-mode-and-removing-gpu-drivers/"><u>Windows 8: Entrusting System in Safe Mode & Removing GPU Drivers</u></a></li>
 </ul></div>
 

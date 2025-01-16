@@ -1,7 +1,7 @@
 ---
 title: Addressing Windows 11 Screen Orientation Glitch
-date: 2025-01-02T20:56:31.063Z
-updated: 2025-01-10T08:20:10.798Z
+date: 2025-01-10T23:41:19.952Z
+updated: 2025-01-15T17:53:22.143Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 
  But don’t worry. Many users have resolved the Windows screen upside down issues with the solutions below. Check it out…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix screen upside down in Windows 10
 
  Here are the solutions you can try to fix computer screen upside down in Windows. You don’t need to try them all; just work your way down until your screen gets back on track.
@@ -40,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e563d98db.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Go to**Hot Keys** and make sure it’s**enabled** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e59b14930.jpg)
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
  If the keyboard shortcuts doesn’t work (especially when you’re using external monitors), don’t worry. We have other solutions for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Method 2: Fix screen upside down via Display settings
@@ -70,18 +70,22 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1664f56b08b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the**Display** pane, from the**Orientation** drop down menu, change the orientation:**Landscape** ,**Portrait** ,**Landscape (flipped)** , and**Portrait (flipped)** for your Windows screen, until it rotates to the right orientation.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b16654b0c7e6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Still no luck? Don’t be upset. There’s one more thing to try…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Method 3: Fix screen upside down by updating graphics card driver
@@ -103,10 +107,6 @@ There are two options to update drivers in Windows 10:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1665b20185d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the**FREE** version). Then install the driver in your computer.
 
@@ -140,18 +140,19 @@ There are two options to update drivers in Windows 10:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-from-virtual-worlds-to-vaults-top-6-strategies-for-minecraft-archives/"><u>[New] 2024 Approved From Virtual Worlds to Vaults Top 6 Strategies for Minecraft Archives</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-the-blueprint-strategies-to-profit-from-youtube-adsense/"><u>[New] 2024 Approved The Blueprint Strategies To Profit From YouTube AdSense</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/compatibility-issue-on-windows-11-with-nvidia-geforce-7025nvidia-nforce-630a-solved/"><u>Compatibility Issue on Windows 11 with NVIDIA GeForce 7025/NVIDIA nForce 630a [Solved]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818361079-easy-to-fix-you-are-not-currently-using-a-display-attached-to-an-nvidia-gpu/"><u>Easy To Fix You Are Not Currently Using a Display Attached to an NVIDIA GPU</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/holiday-memories-revisited-summertimes-best-vacation-flicks-for-2024/"><u>Holiday Memories Revisited Summertime’s Best Vacation Flicks for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-a-look-inside-magix-pixel-management/"><u>In 2024, A Look Inside MAGIX Pixel Management</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-engaging-eyesight-navigating-high-definition-tweets/"><u>In 2024, Engaging Eyesight Navigating High-Definition Tweets</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-professional-mp3-modification-system-for-the-web/"><u>New Professional MP3 Modification System for the Web</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidias-display-armada-back-online/"><u>Nvidia's Display Armada Back Online</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectifying-erratic-screen-behavior-of-pro-7/"><u>Rectifying Erratic Screen Behavior of Pro 7</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/understanding-civic-software-update-errors-avoiding-access-issues-s-civ-version-6/"><u>Understanding Civic Software Update Errors - Avoiding Access Issues 'S Civ Version 6</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-aspect-modification-at-your-fingertips-online/"><u>[New] Aspect Modification at Your Fingertips Online</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-eliminating-noise-methods-for-soundless-recording/"><u>[New] Eliminating Noise Methods for Soundless Recording</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-decoding-the-secrets-of-stardew-valley-with-a-focus-on-its-mysterious-ginger-isle/"><u>[New] In 2024, Decoding the Secrets of Stardew Valley with a Focus on Its Mysterious Ginger Isle</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-secret-to-stellar-instagram-video-engagement-flawless-sizing-techniques/"><u>[New] The Secret to Stellar Instagram Video Engagement Flawless Sizing Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-chortle-circle-spooky-androids-with-a-twist/"><u>[Updated] 2024 Approved Chortle Circle Spooky Androids with a Twist</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-revolutionizing-video-production-with-skillful-audio-crafting-for-2024/"><u>[Updated] Revolutionizing Video Production with Skillful Audio Crafting for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-script-failures-civilization-v-edition/"><u>Addressing Script Failures, Civilization V Edition</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dell-monitors-no-longer-flicker-successful-troubleshooting/"><u>Dell Monitors No Longer Flicker: Successful Troubleshooting</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ensuring-smooth-performance-updating-your-pcs-graphics-driver/"><u>Ensuring Smooth Performance: Updating Your PC's Graphics Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-for-flickering-keeping-your-display-steady/"><u>Fix for Flickering: Keeping Your Display Steady</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-hdr-shifts-the-paradigm-of-video-quality-standards-for-2024/"><u>How HDR Shifts the Paradigm of Video Quality Standards for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/kostenlose-online-umwandlung-von-mkv-in-m4v-format-mit-movavi-streamingqualitat/"><u>Kostenlose Online-Umwandlung Von MKV in M4V Format Mit Movavi Streamingqualität</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resetting-asus-webcam-to-work-forward/"><u>Resetting ASUS Webcam To Work Forward</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/vertical-panel-setup-fixed-in-netbook/"><u>Vertical Panel Setup Fixed in Netbook</u></a></li>
 </ul></div>
 

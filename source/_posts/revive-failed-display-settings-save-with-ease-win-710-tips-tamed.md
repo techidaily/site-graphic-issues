@@ -1,7 +1,7 @@
 ---
 title: Revive Failed Display Settings Save with Ease - Win 7/10 Tips [Tamed]
-date: 2025-01-08T04:27:12.081Z
-updated: 2025-01-10T01:34:57.791Z
+date: 2025-01-13T22:37:59.540Z
+updated: 2025-01-15T20:20:06.940Z
 tags:
   - win11
   - win10
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb09
  If you keep getting the**Unable to save display settings** error when trying to connect your PC to more than one display, you’re not alone. The good news is, it’s usually not hard to fix at all…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes for Unable to save display settings
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb09
 2. [**Update your graphics driver**](#F2)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Change your screen resolution
 
@@ -53,13 +49,13 @@ To do so:
 3. Restart your computer and check if the **Unable to save display settings** issue has been fixed. If no, then move on to**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -76,11 +72,15 @@ To do so:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd037b383fd5.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer and see if the problem is solved.
 
@@ -105,20 +105,24 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-accelerate-your-media-top-8-android-picks/"><u>[New] In 2024, Accelerate Your Media Top 8 Android Picks</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-transforming-viewers-into-livelihood-with-right-numbers/"><u>[New] Transforming Viewers Into Livelihood with Right Numbers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-unlocking-the-secrets-of-instagrams-video-capsule/"><u>[Updated] Unlocking the Secrets of Instagram's Video Capsule</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-viral-visibility-guiding-you-to-100kplus-views-on-youtube/"><u>2024 Approved Viral Visibility Guiding You to 100K+ Views on YouTube</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-windows-11-screen-orientation-glitch/"><u>Addressing Windows 11 Screen Orientation Glitch</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/effortless-methods-safeguard-your-email-with-dropbox-top-2-strategies/"><u>Effortless Methods: Safeguard Your Email with Dropbox - Top 2 Strategies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/improve-audio-clarity-by-disabling-auto-position-adjustment-feature-in-your-airpod-earphones/"><u>Improve Audio Clarity by Disabling Auto-Position Adjustment Feature in Your AirPod Earphones</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/methods-to-deter-inconsistent-displays-in-hp/"><u>Methods to Deter Inconsistent Displays in HP</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-directx12-barriers-for-halo-infinite-launch/"><u>Overcoming DirectX12 Barriers for Halo Infinite Launch</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quell-winblueerror-addressing-wdf-api-concerns/"><u>Quell WinBlueError: Addressing WDF API Concerns</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-gfxui-errors-in-windows-environment-successfully/"><u>Resolving GFXUI Errors in Windows Environment Successfully</u></a></li>
-<li><a href="https://windows11.techidaily.com/tactics-for-overcoming-license-expiration-notice-in-win11/"><u>Tactics for Overcoming License Expiration Notice in Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/techniques-to-recover-from-gpu-faults-with-system-uptime/"><u>Techniques to Recover From GPU Faults with System Uptime</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-here-are-top-10-webm-to-mp3-converters-you-can-either-install-on-your-pc-or-mac-computer-or-use-online-to-convert-webm-video-to-mp3-au/"><u>Updated 2024 Approved Here Are Top 10 WebM to MP3 Converters You Can Either Install on Your PC or Mac Computer or Use Online to Convert Webm Video to Mp3 Audio File</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/wins-against-blackout-fixes-for-post-fall-update-win11/"><u>Wins Against Blackout: Fixes for Post-Fall Update Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/god-of-war-unlocking-full-potential/"><u>'God of War': Unlocking Full Potential</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ehind-the-scenes-of-youtube-income-generation/"><u>[New] Behind the Scenes of YouTube Income Generation</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-aspect-ratio-guide-to-enhanced-facebook-viewing/"><u>[New] In 2024, Aspect Ratio Guide to Enhanced Facebook Viewing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unseen-snaps-and-silence-could-be-a-block-for-2024/"><u>[New] Unseen Snaps and Silence Could Be a Block for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unveiling-the-world-of-wide-web-watching-via-fb-for-2024/"><u>[Updated] Unveiling the World of Wide Web Watching via FB for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-complete-playbook-to-propel-your-youtube-gaming-vids-with-hashes/"><u>2024 Approved The Complete Playbook to Propel Your YouTube Gaming Vids with Hashes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-enhancement-reached-after-acceleration-fix/"><u>Direct3D Enhancement Reached After Acceleration Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easy-guide-to-clearing-laptop-display-skew/"><u>Easy Guide to Clearing Laptop Display Skew</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-horizontal-screen-deformities-fast/"><u>Fix Horizontal Screen Deformities Fast</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphic-device-debugged-43-fix/"><u>Graphic Device Debugged #43 Fix</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-infinix-note-30-vip-racing-edition-phone-by-drfone-android/"><u>How to Reset a Locked Infinix Note 30 VIP Racing Edition Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-oppo-reno-10-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Oppo Reno 10 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-vivo-y36i-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Vivo Y36i</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-steams-connectivity-issue-on-win11/"><u>Resolving Steam's Connectivity Issue on Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/save-big-on-xbox-games-get-your-ultimate-game-pass-for-just-3-months-and-36-exclusive-guide-zdnet/"><u>Save Big on Xbox Games: Get Your Ultimate Game Pass for Just 3 Months and $36 - Exclusive Guide | ZDNet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamlined-geforce-210-for-windows-11-release/"><u>Streamlined GeForce 210 for Windows 11 Release</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-security-enhanced-step-wise-deletion-of-graphics-drivers-on-win8/"><u>System Security Enhanced: Step-Wise Deletion of Graphics Drivers on WIN8</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/turnrightview-on-computer/"><u>TurnRightView on Computer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/wingraphicsdevicecreationfix-resolved-issue/"><u>WinGraphicsDeviceCreationFix - Resolved Issue</u></a></li>
 </ul></div>
 

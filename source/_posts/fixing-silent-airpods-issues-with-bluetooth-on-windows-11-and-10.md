@@ -1,7 +1,7 @@
 ---
 title: Fixing Silent AirPods Issues with Bluetooth on Windows 11 & 10
-date: 2025-01-06T01:27:15.009Z
-updated: 2025-01-10T06:46:00.015Z
+date: 2025-01-14T19:39:47.876Z
+updated: 2025-01-15T18:47:34.430Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ Read on and follow the easy-doing images below!
 2. [**Option 2: Change Sound Enhancement Settings**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Option 3: Change Speaker Settings**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1: Try the generic audio driver
 
  Sound keeps cutting out on Windows 10 could relate to problematic audio driver. To see if this is the case, you can try the generic sound driver provided by Windows and see if it works. To do so:
@@ -34,7 +38,7 @@ Read on and follow the easy-doing images below!
 2. Double-click**Sound, video, and game controllers** . Then right-click the audio device driver that you have and choose**Update driver** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a27949ffeb.png)
@@ -43,10 +47,6 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28445c675.png)
 4. Then choose**Let me pick from a list of available drivers on my computer** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a286f3d5de.png)
 5. Make sure the box for**Show compatible hardware** is**TICKED** . Then choose**High Definition Audio Device** from the list, and hit**Next** to continue.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28cccfd3f.png)
@@ -54,10 +54,6 @@ Read on and follow the easy-doing images below!
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a294398588.png)
 7. Restart your computer when the installation finishes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the generic audio driver doesn’t work to fix the sound cutting out issue, it’s possible that you have a corrupted or outdated sound card driver, so you should update the driver to see if it helps. If you’re not confident playing around with drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -72,6 +68,10 @@ Read on and follow the easy-doing images below!
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -89,23 +89,23 @@ Read on and follow the easy-doing images below!
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
- Try your computer sound again to see if it still cuts out. If so, please move on.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Try your computer sound again to see if it still cuts out. If so, please move on.
 
 ## Option 3: Change Speaker Settings
 
@@ -115,10 +115,6 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 
@@ -127,6 +123,10 @@ Read on and follow the easy-doing images below!
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
@@ -153,18 +153,24 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-unlocking-potential-innovations-in-gif-artistry/"><u>[New] Unlocking Potential Innovations in GIF Artistry</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-amplify-and-illuminate-online-videos-with-these-5-aids/"><u>[Updated] Amplify and Illuminate Online Videos with These 5 Aids</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/computerviewcorrection-techniques/"><u>ComputerViewCorrection Techniques</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-startup-all-systems-go/"><u>Direct3D Startup: All Systems Go</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovering-the-power-of-truthgpt-an-exclusive-look-inside-law-enforcement-crackdown-on-mullvad-vpn-secrecy-best-free-pc-games-ranked-and-masterclass-in-mec42/"><u>Discovering the Power of TruthGPT - An Exclusive Look Inside, Law Enforcement Crackdown on Mullvad VPN Secrecy, Best Free PC Games Ranked and Masterclass in Mechanical Keyboards</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-nokia-105-classic-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Nokia 105 Classic Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-c51-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Poco C51 Phone with Broken Screen</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-freezes-fix-fallout-4-pc-issues/"><u>No More Freezes: Fix Fallout 4 PC Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/precise-screens-with-windows-11-fix/"><u>Precise Screens with Windows 11 Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-windows-10s-switchable-gpu-puzzle-with-nvidiaintel/"><u>Solved: Windows 10'S Switchable GPU Puzzle with Nvidia/Intel</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-to-fix-a-black-screen-on-facetime-connections/"><u>Step-by-Step Solutions to Fix a Black Screen on FaceTime Connections</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-comexception-error-now-fixed/"><u>Windows COMException Error Now Fixed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-enhancing-visual-impact-a-guide-to-jump-cut-techniques/"><u>[New] 2024 Approved Enhancing Visual Impact A Guide to Jump Cut Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-captureelite-pro-windows-enhanced/"><u>[New] In 2024, CaptureElite Pro Windows Enhanced</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-pricing-your-way-to-higher-youtube-traffic/"><u>[New] In 2024, Pricing Your Way to Higher YouTube Traffic</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-a-closer-look-at-sharex-judgments-and-alternates/"><u>[Updated] A Closer Look at ShareX Judgments & Alternates</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-advanced-psd-color-grading-for-2024/"><u>[Updated] Advanced PSD Color Grading for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-lenovo-screens-that-dim-suddenly/"><u>Addressing Lenovo Screens That Dim Suddenly</u></a></li>
+<li><a href="https://fox-links.techidaily.com/auditory-artistry-in-radio-plays/"><u>Auditory Artistry in Radio Plays</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-dark-mode-on-lenovo-devices/"><u>Eliminating Dark Mode on Lenovo Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphic-engine-start-up-halted/"><u>Graphic Engine Start Up Halted</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/handling-gpu-failures-amidst-active-computers/"><u>Handling GPU Failures Amidst Active Computers</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-iphone-6s-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On iPhone 6s? Heres the Best Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/jumpstart-gaming-on-win10-new-release-of-radeon-hd-6950-drivers/"><u>Jumpstart Gaming on Win10: New Release of Radeon HD 6950 Drivers</u></a></li>
+<li><a href="https://win-guides.techidaily.com/microsoft-excel-solutions-pour-lutter-contre-le-blocage-dexecution-de-macros/"><u>Microsoft Excel - Solutions Pour Lutter Contre Le Blocage D'exécution De Macros</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-shadowed-by-new-gfx-card/"><u>Monitor Shadowed by New GFX Card</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solutions-to-gpu-overheats-preserving-system-availability/"><u>Solutions to GPU Overheats: Preserving System Availability</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-windows-11-display-glitch/"><u>Solved: Windows 11 Display Glitch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-7-modernize-intel-graphics-support/"><u>Windows 7: Modernize Intel Graphics Support</u></a></li>
 </ul></div>
 

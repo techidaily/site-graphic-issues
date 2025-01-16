@@ -1,7 +1,7 @@
 ---
 title: Uncovering Brightness From Black on Lenovo
-date: 2025-01-06T06:17:40.365Z
-updated: 2025-01-10T02:36:03.520Z
+date: 2025-01-09T00:29:21.997Z
+updated: 2025-01-15T16:20:13.333Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f77
  If you turn on your**Lenovo laptop** only for it to show nothing but a**black screen** , don’t panic. It’s often not hard to fix at all…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix Lenovo Laptop Black Screen in Windows 11, 10 and 8
@@ -37,13 +37,13 @@ thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f77
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the**Ctrl** key, the**Shift** key, and**B** at the same time. This will reset the connection so that the operating system regains the display.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once finished, check to see if you get the normal display back on your Lenovo laptop. If yes, then great! If it still gives you the black screen, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Hard reset your Lenovo laptop
 
@@ -72,7 +72,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -94,6 +94,10 @@ Here is how to do it:
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -131,21 +135,17 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Restart your computer and check if your laptop screen displays properly.
 
@@ -161,25 +161,25 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-571.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the **System Protection** tab, click **System Restore…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Read the on-screen descriptions about what a system restore will do and will not do and click**Next** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)_Tick_ **the box** for**Show more restore points** and select the **restore point** that you want to use to revert your computer to and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Follow the on-screen instructions to complete the system restore process.
 
@@ -207,16 +207,21 @@ So you can try disabling fast startup to see if it does the trick:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-discovery-finding-soundtracks-that-elevate-unboxing-content/"><u>[New] 2024 Approved Discovery Finding Soundtracks that Elevate Unboxing Content</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-ultimate-exploration-of-apeaksofts-screen-recorder/"><u>[New] In 2024, The Ultimate Exploration of Apeaksoft's Screen Recorder</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-shared-sights-behind-the-memeayer/"><u>2024 Approved Shared Sights Behind the Meme'ayer</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/get-the-newest-drivers-for-nvidias-gtx-1060/"><u>Get the Newest Drivers for Nvidia's GTX 1060</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/how-to-properly-recycle-sell-or-donate-an-old-iphone-comprehensive-guide-and-advice/"><u>How to Properly Recycle, Sell, or Donate an Old iPhone - Comprehensive Guide & Advice</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-breakthrough-visuals-top-10-monitors-for-your-macbook/"><u>In 2024, Breakthrough Visuals Top 10 Monitors For Your MacBook</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-troubleshooting-tips-repairing-broken-game-data/"><u>PC Troubleshooting Tips: Repairing Broken Game Data</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/smooth-playback-eradicate-stuck-videos-on-vlc/"><u>Smooth Playback: Eradicate Stuck Videos on VLC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solving-black-screen-issue-after-win11-fall-update/"><u>Solving Black Screen Issue After Win11 Fall Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackling-apex-glitches-head-on/"><u>Tackling Apex Glitches Head-On</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/trim-oversized-display-settings-in-win-10/"><u>Trim Oversized Display Settings in WIN 10</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-fiscal-flyers-list-least-expensive-drones-in-market/"><u>[New] In 2024, Fiscal Flyers' List Least Expensive Drones in Market</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-unlock-business-potential-top-10-streamlined-channel-setup-ideas-on-youtube/"><u>[Updated] 2024 Approved Unlock Business Potential Top 10 Streamlined Channel Setup Ideas on YouTube</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-leap-over-a-thousand-followers-on-youtube-quickly/"><u>[Updated] Leap Over a Thousand Followers on YouTube Quickly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-spotlight-on-professionals-the-cutting-edge-soundtracked-photovideo-artists/"><u>[Updated] Spotlight on Professionals The Cutting-Edge, Soundtracked Photo/Video Artists</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/complete-tutorial-achieving-a-minimal-startup-environment-with-windows-11/"><u>Complete Tutorial: Achieving a Minimal Startup Environment with Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easy-steps-to-enhance-your-pc-with-intels-graphics-driver-update/"><u>Easy Steps to Enhance Your PC with Intels Graphics Driver Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guide-to-resolve-windows-11-c1900101-installation-error/"><u>Guide to Resolve Windows 11 C1900101 Installation Error</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-strategies-for-signature-content-against-dominant-tiktok-figures/"><u>In 2024, Strategies for Signature Content Against Dominant TikTok Figures</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-unlocking-old-tweets-with-twitter-archive-tools/"><u>In 2024, Unlocking Old Tweets with Twitter Archive Tools</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-fixed-intermittent-screen-behavior/"><u>Lenovo Fixed Intermittent Screen Behavior</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steps-for-correcting-critical-error-code-c1900101-in-windows-11-upgrade/"><u>Steps for Correcting Critical Error Code: C1900101 in Windows 11 Upgrade</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stopped-the-continuous-blank-pages-on-laptop-screen/"><u>Stopped the Continuous Blank Pages on Laptop Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tidy-up-your-screens-distorted-edges-now/"><u>Tidy Up Your Screen's Distorted Edges Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-hardware-analysis/"><u>Tom's Tech Reviews: In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-shadows-lifted-fixes-for-falls-patch/"><u>Win11 Shadows Lifted: Fixes for Fall's Patch</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: OpenGL Quirk Identified & Rectified by Nvidia
-date: 2025-01-06T22:19:30.022Z
-updated: 2025-01-10T05:57:06.352Z
+date: 2025-01-09T22:16:12.024Z
+updated: 2025-01-15T20:30:50.562Z
 tags:
   - win11
   - win10
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/bca0e2a8225a07a3beb4a4a94473f168eb2b08c9c
  When you try to open a program such as Adobe Illustrator or your game application, it fails, you see the**A TDR has been detected** error which shown like the image above instead. That could be super frustrating. But don’t panic. We’ve put together**two helpful methods** for you to try. Read on and find how…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/bca0e2a8225a07a3beb4a4a94473f168eb2b08c9c
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Update your NVIDIA graphics driver
 
  This error could be caused by a bug related to your graphics card. NVIDIA keeps updating drivers and when it receives bugs usually there would be a fix in the future driver update. When you’re having the ‘A TDR has been detected’ error, we recommend **updating your NVIDIA graphics card driver to the latest version** .
@@ -60,6 +56,10 @@ Here’s how you can do it:
  2) Run Driver Easy and click the Scan Now button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b83c200b0462.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** which comes with **full support** and a **30-day money-back guarantee**  . You’ll be prompted to upgrade when you click Update All.) **Note:**  You can also do it for free if you like, but it’s partly manual.
 
@@ -93,13 +93,13 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f155c8524.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Proceed to select a backup folder and name the backup file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f1b5d2974.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) Once you complete to backup, back to the Registry Editor window, click**GraphicsDrivers** , then right-click on the **Edit** pane of GraphicsDrivers to select **New.**
 
@@ -107,7 +107,7 @@ See how to do it:
  If your Windows system type is**32-bit** based, click**DWORD (32-bit) Value** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f27f568ed.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  9) Set the name to**TdrDelay** and press **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3375e80e.jpg)
@@ -117,7 +117,7 @@ See how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b84f3875634a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you do, close the Registry Editor window, then try to open your game application or Illustration to see if the error disappears.
@@ -144,17 +144,15 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-from-start-up-to-success-how-to-register-a-professional-account-on-instagram/"><u>[New] 2024 Approved From Start-Up to Success How to Register a Professional Account on Instagram</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-search-of-success-pivotal-youtube-gatherings-after-vidcon/"><u>[New] In Search of Success Pivotal YouTube Gatherings (After VidCon)</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ing-compelling-proposals-a-famebit-guide-to-channel-ads-for-2024/"><u>Crafting Compelling Proposals A FameBit Guide to Channel Ads for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-setback-eliminated-full-gaming-power-unlocked/"><u>Direct3D Setback Eliminated: Full GAMING Power Unlocked</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-glitch-no-more-error-12-in-mhw-solved/"><u>Graphics Glitch No More: Error 12 in MHW Solved</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-honor-magic-6-pro-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Honor Magic 6 Pro Phone | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/latest-twitter-videos-that-exploded-online/"><u>Latest Twitter Videos That Exploded Online</u></a></li>
-<li><a href="https://win-blog.techidaily.com/no-more-freezing-frames-optimize-your-call-of-duty-vanguard-experience/"><u>No More Freezing Frames - Optimize Your Call of Duty: Vanguard Experience</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-fuzz-winview-revised/"><u>No More Fuzz: WinView Revised</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-flexible-monitor-resolution-now-solved/"><u>Restoring Flexible Monitor Resolution - Now Solved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/turn-upside-down-displays-right-again-in-windows-10/"><u>Turn Upside Down Displays Right Again in Windows 10</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-for-fresh-filmmakers-an-introduction-to-aspect-ratios-and-resolution/"><u>[New] In 2024, For Fresh Filmmakers An Introduction to Aspect Ratios & Resolution</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-whispers-from-the-past-secrets-unveiled-in-age-old-texts/"><u>[New] Whispers From the Past Secrets Unveiled in Age-Old Texts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/accelerate-visuals-upgrade-intel-3000-in-windows-11/"><u>Accelerate Visuals: Upgrade Intel 3000 in Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-itel-a05s-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Itel A05s to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-driver-mended-after-system-failure/"><u>Display Driver Mended After System Failure</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-noobs-manual-to-saving-streaming-radio-lines/"><u>In 2024, The Noob's Manual to Saving Streaming Radio Lines</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quickly-upgrade-3000-gfx-drivers-in-win10/"><u>Quickly Upgrade 3000 GFX Drivers in Win10</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-dotnet-top-5-reparations-for-pcs-max-156/"><u>Reviving DotNet: Top 5 Reparations for PCs (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-resolving-battlenet-not-available-errors-on-win-1011/"><u>Tips for Resolving Battle.net Not Available Errors on Win 10/11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-win-drivers-msi-related-issues/"><u>Troubleshooting WIN Drivers, MSI-Related Issues</u></a></li>
 </ul></div>
 

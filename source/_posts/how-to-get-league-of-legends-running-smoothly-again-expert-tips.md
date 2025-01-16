@@ -1,7 +1,7 @@
 ---
 title: How to Get League of Legends Running Smoothly Again – Expert Tips
-date: 2025-01-05T21:36:15.308Z
-updated: 2025-01-09T22:13:26.222Z
+date: 2025-01-13T16:07:54.580Z
+updated: 2025-01-15T18:14:16.324Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 **League of Legends keeps crashing?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -68,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -90,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -111,10 +107,6 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
  1) On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
@@ -136,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
@@ -147,6 +135,10 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
@@ -162,9 +154,17 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -188,18 +188,24 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-unlock-funimates-downloading-magic/"><u>[New] In 2024, Unlock Funimate's Downloading Magic</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-strategies-for-clearer-facebook-live-footage-viewing/"><u>[Updated] Strategies for Clearer Facebook Live Footage Viewing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/camera-hardware-problem-code-43-fixed/"><u>Camera Hardware Problem Code 43 Fixed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cured-xbox-series-graphics-hiccup/"><u>Cured Xbox Series Graphics Hiccup</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-launcher-fixes-in-effect/"><u>Direct3D Launcher Fixes in Effect</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhance-viewing-pleasure-no-more-lags/"><u>Enhance Viewing Pleasure - No More Lags</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-reasons-behind-the-triumph-of-nintendos-wii-u/"><u>Exploring the Reasons Behind the Triumph of Nintendo's Wii U</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-value-for-money-in-budget-4k-cameras-(1000/"><u>In 2024, Best Value for Money in Budget 4K Cameras (<$1,000)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-realme-gt-5-240w-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Realme GT 5 (240W) Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-picture-perfection-apply-filters-to-your-videos/"><u>In 2024, Picture Perfection Apply Filters to Your Videos</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/mastering-webm-videos-comprehensive-guide-to-playback-and-conversion-with-vlc/"><u>Mastering WebM Videos: Comprehensive Guide to Playback & Conversion with VLC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-tecno-spark-20-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Tecno Spark 20 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-enhancement-latest-geforce-driver-update-for-nvidia-210/"><u>Window's Enhancement: Latest GeForce Driver Update for Nvidia 210</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-comprehensively-reviews-easeus-experts-unite-for-2024/"><u>[New] Comprehensively Reviews EaseUS, Experts Unite for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-effortless-guide-how-to-automate-recording-of-your-google-gatherings/"><u>[Updated] In 2024, Effortless Guide How to Automate Recording of Your Google Gatherings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-cutting-edge-online-resources-for-picture-framing/"><u>2024 Approved Cutting-Edge Online Resources for Picture Framing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-top-10-escape-room-games/"><u>2024 Approved Top 10 Escape Room Games</u></a></li>
+<li><a href="https://discover-help.techidaily.com/comment-format-vite-un-ordinateur-avec-windows-11-les-deux-techniques-a-privilegier/"><u>Comment Format Vite Un Ordinateur Avec Windows 11 - Les Deux Techniques À Privilégier</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818243959-d3d-init-bug-eliminated-happy-hour/"><u>D3D Init Bug Eliminated, Happy Hour!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/expert-advice-for-flawless-recordings-on-mi-11-phones-for-2024/"><u>Expert Advice for Flawless Recordings on Mi 11 Phones for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/intels-graphics-drivers-the-latest-windows-update-guide/"><u>Intel's Graphics Drivers: The Latest Windows Update Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-hardware-limitations-for-driver-install/"><u>Overcoming Hardware Limitations for Driver Install</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-and-powerful-driver-refresh-transform-your-windows-pcs-graphics/"><u>Quick & Powerful Driver Refresh: Transform Your Windows PC's Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/repaired-loading-functionality-of-amd-on-win10/"><u>Repaired Loading Functionality of AMD on Win10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-frozen-windows-monitor-black-screen/"><u>Resolving Frozen Windows Monitor, Black Screen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-metas-exclusive-512gb-quest-3-offer-top-pick-for-october-prime-day-saves-in-virtual-reality/"><u>Snag Meta's Exclusive 512GB Quest 3 Offer - Top Pick for OctoBER Prime Day SAVES in Virtual Reality!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/taming-the-tempest-acer-screen-calm/"><u>Taming the Tempest: Acer Screen Calm</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unbeatable-free-livestream-solutions-reviewed-across-all-platforms/"><u>Unbeatable Free Livestream Solutions Reviewed Across All Platforms</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-p2nace-of-gaming-displays-the-titan-army-monitor-at-180-hz-a-comprehensive-review/"><u>Unboxing the P2nace of Gaming Displays: The Titan Army Monitor at 180 Hz - A Comprehensive Review</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win-710-save-screen-settings-issue-resolution-provided-solved/"><u>Win 7/10 Save Screen Settings Issue - Resolution Provided [Solved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-no-full-screen-window-on-monitor/"><u>Windows 10 - No Full Screen Window on Monitor?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Blurry Laptop Horizontal Bars
-date: 2025-01-03T07:39:33.606Z
-updated: 2025-01-10T08:32:05.369Z
+date: 2025-01-11T01:41:56.205Z
+updated: 2025-01-15T18:05:53.419Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 2. **[Adjust the screen resolution](#F2)**
 3. **[Gently wipe the screen with cotton balls](#F3)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or its out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -44,12 +40,16 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click Update to do it for free if you like, but it’s partly manual.
@@ -57,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
  4) Restart your computer and see if the horizontal lines on screen issue has been fixed. If yes, then great! But if the problem persists, move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust the screen resolution
 
@@ -77,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### I’m using Windows 8 or 7
@@ -86,19 +90,15 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Adjust the screen resolution and see if the horizontal lines disappear.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Gently wipe the screen with cotton balls
 
@@ -130,24 +130,18 @@ Featured image by rawpixel.com from Pexels
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-discover-the-best-8-mirrorless-cameras-that-transform-vlogging-for-2024/"><u>[Updated] Discover the Best 8 Mirrorless Cameras That Transform Vlogging for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-perfecting-your-shoot-selecting-quality-equipment/"><u>[Updated] Perfecting Your Shoot Selecting Quality Equipment</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/beyond-full-hd-understanding-4ks-wonders/"><u>Beyond Full HD: Understanding 4K's Wonders</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/come-rimuovere-facilmente-i-tuoi-vecchi-ricordi-eliminazione-completa-delle-foto-dalliphone-13-e-iphone-14/"><u>Come Rimuovere Facilmente I Tuoi Vecchi Ricordi: Eliminazione Completa Delle Foto Dall'iPhone 13 E iPhone 14</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/easy-steps-to-enhance-your-pc-with-intels-graphics-driver-update/"><u>Easy Steps to Enhance Your PC with Intels Graphics Driver Update</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/elevate-visual-fidelity-with-the-latest-nvidia-rtx-2060-super-drivers-on-windows-os/"><u>Elevate Visual Fidelity with the Latest Nvidia RTX 2060 Super Drivers on Windows OS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-glitch-fixed-gpu-back-on-track-nvidia/"><u>Graphics Glitch Fixed, GPU Back on Track (NVIDIA)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/guide-to-resolve-windows-11-c1900101-installation-error/"><u>Guide to Resolve Windows 11 C1900101 Installation Error</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-overcome-unfoldable-folders-in-win1110-on-double-clicks/"><u>How to Overcome Unfoldable Folders in Win11/10 on Double-Clicks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-stop-asus-laptop-screen-flickering-fix-guide/"><u>How To Stop ASUS Laptop Screen Flickering Fix Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-nubia-red-magic-8s-proplus-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817511063-lenovo-shadows-be-gone/"><u>Lenovo Shadows Be Gone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lighting-the-way-after-fall-update-woes/"><u>Lighting the Way After Fall Update Woes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/no-sweat-strategies-for-skipping-edgenuity-video-content/"><u>No-Sweat Strategies for Skipping Edgenuity Video Content</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/retro-to-future-radeon-rebooted-for-2024/"><u>Retro to Future Radeon Rebooted for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/septembers-top-saving-opportunities-on-amazon-discover-essential-deals-you-cant-miss/"><u>September's Top Saving Opportunities on Amazon : Discover Essential Deals You Can't Miss!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tidy-up-your-screens-distorted-edges-now/"><u>Tidy Up Your Screen's Distorted Edges Now</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unleash-potential-new-nvidia-geforce-210-driver-for-windows-pcs/"><u>Unleash Potential: New NVIDIA GeForce 210 Driver for Windows PCs</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-zte-nubia-flip-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your ZTE Nubia Flip 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-comprehensive-study-editmagics-power-edition-for-2024/"><u>[New] Comprehensive Study EditMagic's Power Edition for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-holistic-iphone-use-images-and-videos-fused-together/"><u>[Updated] Holistic iPhone Use Images & Videos Fused Together</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-optimize-large-videos-for-smooth-sharing-on-facebook-step-by-step-guide/"><u>1. Optimize Large Videos for Smooth Sharing on Facebook: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/5pmc6zat44go6kej5yop5bqm44ks6kal55u044gx44gm44cb44ki44kk6imv44ge5yuv55s75l2t6ait44g45zcr44gr44gf44oi44oq44of44oz44kw5oqa6kgt44gu5b655bqv6kej6kqs/"><u>時間と解像度を見直して、より良い動画体験へ向けたトリミング技術の徹底解説</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-narratives-transforming-text-with-gpt-for-epic-dandd-experiences/"><u>AI Narratives: Transforming Text with GPT for Epic D&D Experiences</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-dark-screens-on-mobile-devices/"><u>Correcting Dark Screens on Mobile Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dispel-sims-invisible-launching/"><u>Dispel Sims' Invisible Launching</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicate-buffering-for-smooth-videos/"><u>Eradicate Buffering for Smooth Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-best-free-screencasting-solutions-for-everyone/"><u>In 2024, Best Free Screencasting Solutions for Everyone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-dns-failure-discover-4-effortless-solutions-for-restoring-connectivity/"><u>Overcome DNS Failure: Discover 4 Effortless Solutions for Restoring Connectivity</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-tear-free-display-technology/"><u>Resolve Tear-Free Display Technology</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solve-anthem-lags-quickly/"><u>Solve Anthem Lags Quickly</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/swiftly-adapt-video-formats-for-mac-pixels/"><u>Swiftly Adapt Video Formats for MAC Pixels</u></a></li>
 </ul></div>
 

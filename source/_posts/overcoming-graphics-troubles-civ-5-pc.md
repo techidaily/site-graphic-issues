@@ -1,7 +1,7 @@
 ---
 title: Overcoming Graphics Troubles, Civ 5-PC
-date: 2025-01-03T19:16:07.712Z
-updated: 2025-01-09T17:36:33.738Z
+date: 2025-01-13T00:12:09.173Z
+updated: 2025-01-15T20:38:43.616Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 
  If you ever encounter the**CIV 5 crashing** problem, don’t worry. Here’re 3 fixes that have helped other users resolve this issue. Read on and check them out…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 fixes for the CIV 5 crashing problem
 
  All the fixes below work in**Windows 10** . Just work your way down the list until the**CIV 5 crashing**  problem is resolved.
@@ -27,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 1. [**Verify your game integrity**](#F1)
 2. [**Update your graphics driver**](#F2)
 3. [**Install the latest DirectX**](#F3)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Verify your game integrity
 
@@ -43,14 +43,14 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c136840152ca.jpg)
 3. Click  **LOCAL FILES**  \> **VERIFY INTEGRITY OF GAME CACHE** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Wait until the game cache verification finishes and relaunch Steam.
 5. Open CIV 5 and hopefully the CIV 5 crashing problem has been fixed.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -64,6 +64,10 @@ Here’s how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137382eec5e.jpg)
 3. Click **Update All** to automatically download and install the correct version of **ALL** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373a8eb61b.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
@@ -83,13 +87,13 @@ Here’s how to do it:
 2. Check out your **DirectX version** in the first page of the report.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1396a57e334.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **To update the DirectX to the latest version on your computer:**
@@ -97,10 +101,6 @@ Here’s how to do it:
 1. On your keyboard, press **the**   **Windows logo key**  and type **check** . Then click **Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 2. Click **Check for updates** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
@@ -128,21 +128,19 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-content-curation-youtube-vs-tiktok-showdown/"><u>[New] 2024 Approved Content Curation YouTube Vs. TikTok Showdown</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-decoding-vimeo-where-creative-videos-meet/"><u>[New] In 2024, Decoding Vimeo Where Creative Videos Meet</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-intense-review-the-gecata-game-watcher/"><u>[New] Intense Review The Gecata Game Watcher</u></a></li>
-<li><a href="https://extra-information.techidaily.com/acid-pro-revisited-exploring-equivalent-tools-for-2024/"><u>ACID Pro Revisited Exploring Equivalent Tools for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/corrected-com-interface-error-windows-update/"><u>Corrected COM Interface Error, Windows Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/driver-error-overcome-display-ready/"><u>Driver Error Overcome - Display Ready</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/easy-steps-to-remove-unwanted-display-wobblyness/"><u>Easy Steps to Remove Unwanted Display Wobblyness</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/error-solved-excel-2000-file-is-not-in-recognizable-format-stellar-by-stellar-guide/"><u>Error Solved Excel 2000 file is not in recognizable format | Stellar</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-4-ways-to-mirror-apple-iphone-12-mini-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Mirror Apple iPhone 12 mini to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-the-obstacles-in-youtubes-chroma-key-setup/"><u>Overcoming the Obstacles in YouTube's Chroma Key Setup</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-video-driver-problem-43/"><u>Overcoming Video Driver Problem #43</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stable-windows-11-screen-view/"><u>Stable Windows 11 Screen View</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-clear-vision-crusade-fighting-off-flickers/"><u>The Clear Vision Crusade: Fighting Off Flickers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ideographers-toolkit-for-easy-downloads-for-2024/"><u>Top Videographers' Toolkit for Easy Downloads for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-fixes-for-missing-binkw32dll-files-in-windows-systems/"><u>Ultimate Fixes for Missing Binkw32.dll Files in Windows Systems</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/unlocking-the-potential-in-depth-skype-call-recordings/"><u>Unlocking the Potential In-Depth Skype Call Recordings</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-top-5-podcast-apps-for-listening-to-podcasts-on-an-iphone/"><u>[New] 2024 Approved Top 5 Podcast Apps for Listening to Podcasts on an iPhone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ioss-leading-edge-the-top-5-emulators-for-psp-games-for-2024/"><u>[New] IOS's Leading Edge The Top 5 Emulators for PSP Games for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-vrecorder-ez-instal-your-step-by-step/"><u>[New] VRecorder EZ-Instal Your Step-by-Step</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-dx12-crash-in-halos-launch-sequence/"><u>[RESOLVED] DX12 Crash in Halo's Launch Sequence</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-tackle-missing-thumbnails-on-youtube-shorts/"><u>[Updated] 2024 Approved How to Tackle Missing Thumbnails on YouTube Shorts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connecting-airpods-to-an-hp-laptop-made-simple/"><u>Connecting AirPods to an HP Laptop Made Simple</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-8t-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 8T To Phone | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/next-level-gaming-new-gpu-drivers-on-w11-from-amd-radeon-hd-6950/"><u>Next Level Gaming - New GPU Drivers on W11, From AMD Radeon HD 6950</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/prevent-and-resolve-windows-11-installation-error-code-c1900101/"><u>Prevent and Resolve Windows 11 Installation Error Code C1900101</u></a></li>
+<li><a href="https://video-capture.techidaily.com/quick-setup-downloading-and-configuring-vrecord/"><u>Quick Setup Downloading & Configuring VRecord</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-art-issue-sorted-for-windows-users/"><u>Screen Art Issue Sorted for Windows Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stable-gaming-avoid-rtx-3080-issues/"><u>Stable Gaming: Avoid RTX 3080 Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-file-organization-windows-11s-folder-annotations-guide/"><u>Streamlining File Organization: Windows 11'S Folder Annotations Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-protective-covers-for-google-pixel-phones/"><u>Top-Rated Protective Covers for Google Pixel Phones</u></a></li>
 </ul></div>
 

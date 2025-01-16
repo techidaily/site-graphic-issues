@@ -1,7 +1,7 @@
 ---
 title: "Resolved: AMD GPU Missing in Windows 11 Setup"
-date: 2025-01-02T22:21:54.427Z
-updated: 2025-01-10T06:59:19.089Z
+date: 2025-01-13T02:40:03.911Z
+updated: 2025-01-15T16:14:00.993Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/855361452192f3b7b7e7e407da45b95275a5f560d
 2. [**Reinstall the AMD graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Solution 1: Update the AMD graphics driver
@@ -41,19 +41,23 @@ thumbnail: https://thmb.techidaily.com/855361452192f3b7b7e7e407da45b95275a5f560d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd041846a45f.jpg)
 3. Click the**Update** button next to your AMD graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
     
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd041e7c6c5d.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**support@drivereasy.com** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Solution 2: Reinstall the AMD graphics driver
@@ -65,15 +69,11 @@ thumbnail: https://thmb.techidaily.com/855361452192f3b7b7e7e407da45b95275a5f560d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0466830d79.jpg)
 3. Expand**Display adapters** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0472246a2b.jpg)
 4. Right-click on your AMD graphics device, then select**Uninstall device** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Windows may prompt you to confirm the uninstallation. Check the**Delete the driver software for this device** checkbox and click**OK** .
@@ -104,19 +104,24 @@ Just have a try now!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-channel-conclusion-mastery-makers-and-templates-for-best-practices/"><u>[Updated] In 2024, Channel Conclusion Mastery - Makers & Templates for Best Practices</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-alternative-game-capture-software-no-more-fbx-dependence/"><u>2024 Approved Alternative Game Capture Software No More FBX Dependence</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-top-audio-interfaces-unveiled-the-podcasters-must-have-list/"><u>2024 Approved Top Audio Interfaces Unveiled The Podcaster's Must-Have List</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/apex-legends-efficient-enjoyable-experience/"><u>Apex Legends: Efficient, Enjoyable Experience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/become-a-viral-meme-magician-with-9gag-techniques-for-2024/"><u>Become a Viral Meme Magician with 9GAG Techniques for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/exploring-hidden-gems-the-most-astonishing-aspects-of-apple-vision-pro-uncovered/"><u>Exploring Hidden Gems: The Most Astonishing Aspects of Apple Vision Pro Uncovered</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Vivo S17? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/maintaining-high-quality-avi-video-content-while-reducing-size-tips-and-tricks-for-windows-10-users/"><u>Maintaining High-Quality AVI Video Content While Reducing Size: Tips and Tricks for Windows 10 Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/methodical-approach-to-cease-lenovo-screenshake/"><u>Methodical Approach to Cease Lenovo Screenshake</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/missing-fullscreen-window-on-monitor-with-win11/"><u>Missing Fullscreen Window on Monitor with Win11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/no-number-necessary-signing-up-for-chatgpt-telegram-whatsapp-with-alternative-methods/"><u>No-Number Necessary: Signing Up for ChatGPT, Telegram, WhatsApp with Alternative Methods</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/quick-and-easy-apods-episodes-access-on-gadgets/"><u>Quick and Easy APods Episodes Access on Gadgets</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/realigning-monitor-horizontal-edges/"><u>Realigning Monitor Horizontal Edges</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ui-graphics-fix-windows-system-restored/"><u>UI Graphics Fix: Windows System Restored</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flixfortress-over-a-hundred-channels-of-fortitude/"><u>[New] In 2024, FlixFortress Over a Hundred Channels of Fortitude</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-lowering-sound-gradually-a-logic-pro-method/"><u>[New] Lowering Sound Gradually A Logic Pro Method</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-virtual-makeup-mavens-top-youtube-creators/"><u>[New] Virtual Makeup Mavens Top YouTube Creators</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-prime-gold-toned-text-interactive-3d-sites-reviewed/"><u>[Updated] Prime Gold-Toned Text Interactive 3D Sites Reviewed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-instagram-writers-and-broadcasters-podcast-sharing-explained/"><u>2024 Approved Instagram’ Writers & Broadcasters Podcast Sharing Explained</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bounce-back-savable-displays-settings-win-710-troubleshooting-guide-fix-provided/"><u>Bounce Back Savable Displays Settings: Win 7/10 Troubleshooting Guide [Fix Provided]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/device-driver-issue-43-solved/"><u>Device Driver Issue #43 Solved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct-aid-no-display-just-gpu-functionality/"><u>Direct Aid: No Display, Just GPU Functionality</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easy-steps-to-eradicate-fallout-4-crashes-on-computer/"><u>Easy Steps to Eradicate Fallout 4 Crashes on Computer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enabling-custom-resolution-in-nvidia-settings/"><u>Enabling Custom Resolution in NVIDIA Settings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-top-8-collaborative-affordable-android-video-mosaics-for-2024/"><u>Exploring the Top 8 Collaborative, Affordable Android Video Mosaics for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/horizontal-orientation-issue-on-portable-pc/"><u>Horizontal Orientation Issue on Portable PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-v-purse-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Honor V Purse</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-widescreen-layout-discrepancies-in-win10-devices/"><u>Rectifying Widescreen Layout Discrepancies in Win10 Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-reflective-window-mistake-in-windows-11/"><u>Resolving Reflective Window Mistake in Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/stream-your-webcam-in-real-time-using-vlc-software/"><u>Stream Your Webcam in Real Time Using VLC Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tag-heuer-calibre-e4-with-golf-mode-an-exclusive-review-of-the-stylish-and-functional-wearable-for-golf-enthusiasts-on-zdnet/"><u>Tag Heuer Calibre E4 with Golf Mode - An Exclusive Review of the Stylish and Functional Wearable for Golf Enthusiasts on ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-power-of-the-fujitsu-scansnap-ix1600-a-review-for-efficient-office-document-handling/"><u>Unveiling the Power of the Fujitsu ScanSnap iX1600: A Review for Efficient Office Document Handling</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-fall-crisis-brightened-screens-now/"><u>Win10 Fall Crisis: Brightened Screens Now</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Win11 Shows Half-Screen, Not Full - Fix Here
-date: 2025-01-03T17:24:17.080Z
-updated: 2025-01-10T08:06:08.146Z
+date: 2025-01-08T16:52:10.257Z
+updated: 2025-01-15T21:56:11.323Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
 
  Many people have a full screen issue, such as**the monitor is not displaying full screen** ,**Windows 10 is playing games in full screen mode** , or**full screen is not working** at all. If you have the similar issue, don’t worry. You can fix it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix full screen problems
 
  Here are the solutions to try. You shouldn’t have to try them all; just work your way down the list until everything’s working again.
@@ -35,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check the settings your application
@@ -45,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
  In addition to full screen settings,**check if there are resolution settings in that application** . For example, video games in PC always enable users to change the screen resolution to match their demands. So also give it a check.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust the display settings in your computer settings
 
@@ -58,10 +58,6 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-481.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-482.png)
@@ -69,6 +65,10 @@ Here’s what you need to do:
  4) Under the**Display resolution** section, ensure to choose the proper**resolution** for your monitor. In my case I choose the recommended resolution**1920 x 1200** for my monitor.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-483.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or you can switch to different resolutions and see if it resolves your problem.
 
@@ -78,12 +78,16 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-485.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the 100% option doesn’t work, switch it to different scale settings and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-486.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Still under the**Scale and layout** section, click**Advanced scaling** settings.
@@ -94,15 +98,15 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-488.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) Now restart your computer and see if your monitor displays the full screen.
 
  If your problem still persists, don’t worry. Move to the next solution.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
 
@@ -123,6 +127,10 @@ Here’s what you need to do:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-489.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to your graphics card to automatically download the latest drivers (you can do this with the**FREE** version). Then install the drivers on your computer.
 
@@ -150,17 +158,9 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-492.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Compatibility** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-493.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Check the box next to**Run this program in compatibility mode for** , then click**Apply** and**OK** to save.
 
@@ -200,24 +200,24 @@ Still no luck? Okay, there is one more thing to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-assessment-of-various-camera-types-for-videos/"><u>[New] Assessment of Various Camera Types for Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-essential-photography-top-10-watermark-software-for-2024/"><u>[New] Essential Photography Top 10 Watermark Software for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-elite-gamers-capturing-solutions/"><u>[New] In 2024, Elite Gamers' Capturing Solutions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/note-windows-devices-need-amd-video-drivers/"><u>[NOTE] Windows Devices Need AMD Video Drivers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-social-media-snipping-an-easy-method-for-capturing-twitters-gifs/"><u>[Updated] 2024 Approved Social Media Snipping An Easy Method for Capturing Twitter’s GIFs</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-fix-your-fb-account-post-hack-recovery-guide/"><u>[Updated] Fix Your FB Account Post-Hack Recovery Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-professional-captions-with-top-online-aids-and-platforms-for-2024/"><u>Crafting Professional Captions with Top Online Aids and Platforms for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/efficient-techniques-for-eradicating-youtubes-green-screen-hiccups/"><u>Efficient Techniques for Eradicating YouTube's Green Screen Hiccups</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhance-your-call-quality-with-these-zoom-tech-fixes-for-today/"><u>Enhance Your Call Quality with These Zoom Tech Fixes for Today</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-unidentified-graphics-device/"><u>Fix: Unidentified Graphics Device</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixcomputerscreensideup-issue/"><u>FixComputerScreensideUp Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-touchscreen-malfunction-on-lenovo/"><u>Overcoming Touchscreen Malfunction on Lenovo</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/perfecting-greenscreen-effects-on-video-platforms-like-youtube/"><u>Perfecting Greenscreen Effects on Video Platforms Like YouTube</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/safeguarding-personal-information-tips-for-securely-integrating-chatgpt-into-your-job-tasks/"><u>Safeguarding Personal Information: Tips for Securely Integrating ChatGPT Into Your Job Tasks</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/sourav-joshis-income-tactics-the-future-of-monetizing-content-for-2024/"><u>Sourav Joshi's Income Tactics The Future of Monetizing Content for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/turbocharge-video-playback-speed/"><u>Turbocharge Video Playback Speed</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-honor-80-pro-straight-screen-edition-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Honor 80 Pro Straight Screen Edition Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-7-display-correction-steps/"><u>Windows 7 Display Correction Steps</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/windows-pc4/"><u>Windows PC上最好的免费文件传输工具：4款选项</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-directx12-setback-for-launch-of-halo-infinite/"><u>[FIX] DirectX12 Setback for Launch of Halo Infinite</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-premium-zero-cost-live-capture-program/"><u>[New] In 2024, Premium Zero-Cost Live Capture Program</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-ultimate-virtual-worlds-for-party-gaming-for-2024/"><u>10 Ultimate Virtual Worlds for Party Gaming for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/accelerate-gaming-and-workflow-with-updated-intelligent-graphic-drivers/"><u>Accelerate Gaming & Workflow with Updated Intelligent Graphic Drivers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-strategy-shift-bid-farewell-to-apple-pay-later-welcome-upcoming-financial-solution-silicon-valley-herald/"><u>Apple's Strategy Shift: Bid Farewell to Apple Pay Later, Welcome Upcoming Financial Solution | Silicon Valley Herald</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursor-alone-in-windows-10/"><u>Cursor Alone in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-malfunction-no-detected-card/"><u>Display Malfunction: No Detected Card</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-video-performance-after-win11-update/"><u>Enhanced Video Performance After Win11 Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-spatial-sound-in-windows-11/"><u>How to Enable Spatial Sound in Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-xiaomi-14-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Xiaomi 14 Pro Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-gt-10-pro-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix GT 10 Pro Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overturn-pc-monitoring-in-win7/"><u>Overturn PC Monitoring in Win7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectified-device-creation-mishap/"><u>Rectified Device Creation Mishap</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reinforcing-surface-pro-7s-visual-fortitude/"><u>Reinforcing Surface Pro 7'S Visual Fortitude</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-interruptions-in-win11s-live-streaming/"><u>Tackling Interruptions in Win11's Live Streaming</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1732515762283-top-techniques-to-accelerate-your-computers-performance-insights-from-yl-computing/"><u>Top Techniques to Accelerate Your Computer's Performance - Insights From YL Computing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trouble-with-oculus-link-here-are-6-swift-ways-to-resolve-black-screen-errors/"><u>Trouble with Oculus Link? Here Are 6 Swift Ways to Resolve Black Screen Errors</u></a></li>
 </ul></div>
 

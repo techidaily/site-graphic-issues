@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Windows 10 Advanced UI Settings Not Showed"
-date: 2025-01-08T04:37:26.995Z
-updated: 2025-01-10T01:08:27.372Z
+date: 2025-01-12T19:13:27.816Z
+updated: 2025-01-15T21:17:34.323Z
 tags:
   - win11
   - win10
@@ -20,14 +20,14 @@ thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01
 
  Windows 10 users have reported that the**Advanced display settings is missing** from Windows 10 display settings, especially after Windows 10 Creators Update (v1703) update. If you have the same issue, don’t worry. There is something you can do.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. [Update your graphics card driver](#m1)
 2. [Find the Display settings via Display Adapter Properties](#m2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics card driver
 
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-392.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to your graphics card to download the correct version of its driver, then manually install it.
@@ -62,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01
 4) Restart your computer to take effect.
 
  Now head to the display settings in your Windows 10 computer and see if the Advanced Display Settings is there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Find the Display settings via Display Adapter Properties
 
@@ -75,20 +79,20 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-394.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Display** on the left.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-395.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to change the size of your text and apps, click**Advanced scaling settings** or**Scale and layout** , then you should be able to customize your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-396.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to change your screen resolution, click the drop-down menu of**Display resolution** , and choose the appropriate resolution you want.
@@ -98,10 +102,6 @@ Here’s how to do it:
  If you want to modify the color management, type**Calibrate display color** in the search box in Settings, and open the**Color Management pane** , then you can configure the display color settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-399.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  So that’s it. If you have any questions relevant to advanced display settings in Windows 10, feel free to leave your comment below and we’ll see what more we can do.
 
@@ -122,20 +122,21 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-ultimate-guide-to-self-starting-facebook-videos/"><u>[New] In 2024, The Ultimate Guide to Self-Starting Facebook Videos</u></a></li>
-<li><a href="https://article-posts.techidaily.com/action-seekers-dream-the-ultimate-review-of-sj-cam-s6/"><u>Action Seeker's Dream The Ultimate Review of SJ-CAM S6</u></a></li>
-<li><a href="https://some-tips.techidaily.com/banish-email-overload-effortlessly-using-this-single-strategy-learn-how-latest-guide/"><u>Banish Email Overload Effortlessly Using This Single Strategy - Learn How Latest Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correcting-missing-display-options-on-gpu/"><u>Correcting Missing Display Options on GPU</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/experience-the-wonders-of-pandora-newly-optimized-avatar-version-for-pc-launches-today/"><u>Experience the Wonders of Pandora – Newly Optimized Avatar Version for PC Launches Today</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-steelseries-arctis-99x-microphone-issues-ultimate-troubleshooting-guide/"><u>Fixing SteelSeries Arctis 9/9X Microphone Issues - Ultimate Troubleshooting Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-youtubes-greenscreen-mishaps-effectively/"><u>Overcoming YouTube's Greenscreen Mishaps Effectively</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pioneering-the-future-workplace-through-virtual-tech-for-2024/"><u>Pioneering the Future Workplace Through Virtual Tech for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/probleme-beim-ausstieg-von-onedrive-auf-windows-nativen-systemen-losungswege-mit-vier-strategien/"><u>Probleme Beim Ausstieg Von OneDrive Auf Windows Nativen Systemen - Lösungswege Mit Vier Strategien</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-comprehensive-guide-to-starting-a-podcast-on-budget/"><u>The Comprehensive Guide to Starting a Podcast On-Budget</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-non-playable-youtube-content-effective-solutions-for-common-problems/"><u>Troubleshooting Non-Playable YouTube Content: Effective Solutions for Common Problems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-tips-overcoming-the-windows-10-black-screen-dilemma-after-an-upgrade/"><u>Troubleshooting Tips: Overcoming the Windows 10 Black Screen Dilemma After an Upgrade</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/uncover-the-simple-trick-to-identifying-your-screens-pixel-dimensions-a-quick-guide/"><u>Uncover the Simple Trick to Identifying Your Screen's Pixel Dimensions: A Quick Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/uniting-forces-nvidia-and-windows-10s-graphical-ally/"><u>Uniting Forces: Nvidia & Windows 10'S Graphical Ally</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/vulkan-runtime-libraries-what-is-it-and-what-to-do-about-it/"><u>Vulkan RunTime Libraries – What Is It and What to Do About It?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-post-crash-display-support-revived/"><u>[Fixed] Post-Crash Display Support Revived</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-the-world-of-photo-videos-your-pixiz-companion/"><u>[New] Explore the World of Photo-Videos Your Pixiz Companion</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-unveil-clear-photos-from-iphone-with-our-free-red-eye-corrector-guide-for-2024/"><u>[New] Unveil Clear Photos From iPhone with Our FREE Red-Eye Corrector Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-a-detailed-guide-to-extract-and-save-audio-from-popular-video-sharing-sites-for-2024/"><u>[Updated] A Detailed Guide to Extract and Save Audio From Popular Video Sharing Sites for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unmatched-camera-and-recording-app-selection-on-iphones-and-androids/"><u>[Updated] Unmatched Camera & Recording App Selection on iPhones and Androids</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-go-global-quickly-optimal-tags-to-escalate-your-youtube-snippets/"><u>2024 Approved Go Global Quickly Optimal Tags to Escalate Your YouTube Snippets</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/achieve-peak-performance-nvidias-latest-1060-driver-update/"><u>Achieve Peak Performance: Nvidia's Latest 1060 Driver Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/anthem-load-faster-now/"><u>Anthem Load Faster Now</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/finding-your-lost-pdfs-solutions-when-theyre-missing-from-the-recycle-bin/"><u>Finding Your Lost PDFs: Solutions When They're Missing From the Recycle Bin</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/flip-monitor-angle-fix-for-windows-7/"><u>Flip Monitor Angle: Fix for Windows 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revamped-visual-customization-for-win11-users/"><u>Revamped Visual Customization for Win11 Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secure-optimal-results-the-latest-intel-gpu-drivers-for-windows-pcs/"><u>Secure Optimal Results: The Latest Intel GPU Drivers for Windows PCs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/simple-steps-to-resolve-wwe-2k2e-pc-crashes/"><u>Simple Steps to Resolve WWE 2K2e PC Crashes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-5-techniques-to-seamlessly-transform-h265-videos-into-unlimited-size-h264-files/"><u>Top 5 Techniques to Seamlessly Transform H.265 Videos Into Unlimited-Size H.264 Files</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tv-displaying-no-signal-hdmi-link-issues/"><u>TV Displaying No Signal: HDMI Link Issues</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/understanding-video-compression-a-thorough-explanation-from-wonderfox/"><u>Understanding Video Compression: A Thorough Explanation From WonderFox</u></a></li>
 </ul></div>
 

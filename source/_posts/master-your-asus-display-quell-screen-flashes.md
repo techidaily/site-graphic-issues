@@ -1,7 +1,7 @@
 ---
 title: "Master Your ASUS Display: Quell Screen Flashes"
-date: 2025-01-03T08:32:58.674Z
-updated: 2025-01-09T22:40:08.931Z
+date: 2025-01-13T23:09:25.110Z
+updated: 2025-01-15T19:35:08.974Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/10f872fb8ad2749e476bdef7761907e1144c3760c
 ## Master Your ASUS Display: Quell Screen Flashes
 
  If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. It’s often not hard to fix at all…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Fixes For ASUS Laptop Screen Flickering In Windows 11, 10, & 7
 
@@ -52,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/10f872fb8ad2749e476bdef7761907e1144c3760c
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
@@ -64,16 +60,24 @@ thumbnail: https://thmb.techidaily.com/10f872fb8ad2749e476bdef7761907e1144c3760c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 2. Click**Advanced settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
 4. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update or delete incompatible apps
@@ -104,19 +108,11 @@ thumbnail: https://thmb.techidaily.com/10f872fb8ad2749e476bdef7761907e1144c3760c
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if the ASUS laptop screen flickering issue has been solved.
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](mailto:support@drivereasy.com) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -128,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/10f872fb8ad2749e476bdef7761907e1144c3760c
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortectdetects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -156,20 +156,24 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-effortlessly-elusive-facial-shadows-harnessing-the-power-of-motion-blur-in-photos-with-picsart-for-2024/"><u>[New] Effortlessly Elusive Facial Shadows Harnessing the Power of Motion Blur in Photos with Picsart for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-quieting-beats-step-by-step/"><u>2024 Approved Quieting Beats Step-by-Step</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-nexiq-usb-link-2-drivers-easy-tutorial/"><u>Download and Install Nexiq USB-Link 2 Drivers - Easy Tutorial</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-anomaly-resolved-video-output-restored/"><u>GPU Anomaly Resolved: Video Output Restored</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-sonic-layers-in-reels-weaving-audio-into-visuals/"><u>In 2024, Sonic Layers in Reels Weaving Audio Into Visuals</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/macrium-reflect-free-affidabilita-e-proposte-innovative/"><u>Macrium Reflect Free - Affidabilità E Proposte Innovative</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reducing-graphic-driver-latency-in-win-1087/"><u>Reducing Graphic Driver Latency in WIN 10/8/7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reformatting-big-display-on-win11/"><u>Reformatting Big Display on Win11</u></a></li>
-<li><a href="https://games-able.techidaily.com/repairing-steams-disconnected-friend-network/"><u>Repairing Steam's Disconnected Friend Network</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-display-driver-anomalies-of-r9-gpu-in-windows-10/"><u>Resolved Display Driver Anomalies of R9 GPU in Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-smooth-windows-10-display/"><u>Restoring Smooth Windows 10 Display</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/smiles-in-screens-make-with-kapwing/"><u>Smiles in Screens Make with Kapwing</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-comprehensive-guide-to-choosing-the-right-tv-streamer-app-of-2024/"><u>The Comprehensive Guide to Choosing the Right TV Streamer App of 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-graphics-cards-focus-on-functionality/"><u>Troubleshooting Graphics Cards: Focus on Functionality</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-upcoming-pay-transparency-changes-and-their-effect-on-employees-zdnet-analysis/"><u>Understanding Upcoming Pay Transparency Changes and Their Effect on Employees | ZDNet Analysis</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-turbo-speed-photo-browser-for-windows-10/"><u>[New] 2024 Approved Turbo Speed Photo Browser for Windows 10</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-path-to-exceptional-editing-with-kinemaster/"><u>[Updated] 2024 Approved The Path to Exceptional Editing with Kinemaster</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/best-practices-for-video-game-archiving-on-playstation-4/"><u>Best Practices for Video Game Archiving on PlayStation 4</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct-and-uncomplicated-gpu-fixes/"><u>Direct and Uncomplicated GPU Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-driver-fixed-post-crash/"><u>Display Driver Fixed Post-Crash</u></a></li>
+<li><a href="https://some-tips.techidaily.com/early-release-anticipated-launch-of-new-macbooks-in-the-following-week-revealed-by-insider-source-zdnet/"><u>Early Release: Anticipated Launch of New MacBooks in the Following Week Revealed by Insider Source - ZDNet</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/swapping-ideas-best-replacements-1-7-for-2024/"><u>Film Swapping Ideas Best Replacements #1-7 for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/high-quality-bmw-1-series-e87-hd-backgrounds-for-your-device-premium-image-collection-by-yl-computing/"><u>High-Quality BMW 1 Series (E87) HD Backgrounds for Your Device - Premium Image Collection by YL Computing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-play-mkv-movies-on-samsung-galaxy-a05-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do I play MKV movies on Samsung Galaxy A05?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-unveiling-the-mystery-of-free-graphic-imagery/"><u>In 2024, Unveiling the Mystery of Free Graphic Imagery</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-tapscreen-not-responding-resolution-achieved/"><u>Lenovo TapScreen Not Responding, Resolution Achieved</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-storage-the-ultimate-guide-to-file-deleting-in-win11/"><u>Maximizing Storage: The Ultimate Guide to File Deleting in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/navigating-to-safety-windows-8s-safe-mode-and-graphics-card-uninstallation/"><u>Navigating to Safety: Windows 8'S Safe Mode & Graphics Card Uninstallation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quelling-quick-flash-queries/"><u>Quelling Quick-Flash Queries</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reclaim-your-video-resolving-zoom-camera-malfunctions-of-2024/"><u>Reclaim Your Video: Resolving Zoom Camera Malfunctions of 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restorenormalcomputerview/"><u>RestoreNormalComputerView</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-at-tome-hardware-haven/"><u>The Ultimate Resource for Tech Enthusiasts at Tom'e Hardware Haven</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-solution-to-windows-10-glare/"><u>Unveiling Solution to Window's 10 Glare</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-shadowed-cursor-emerges/"><u>Win11 Shadowed, Cursor Emerges</u></a></li>
 </ul></div>
 

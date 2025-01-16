@@ -1,7 +1,7 @@
 ---
 title: Mastery Over Lenovo Display Glitches
-date: 2025-01-09T08:53:56.486Z
-updated: 2025-01-10T02:26:14.730Z
+date: 2025-01-08T17:34:17.095Z
+updated: 2025-01-16T01:13:49.928Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/b97d0ebad54511b61b45570cc2aa70ceb4b57e438
 3. **[Troubleshoot hardware issues](#c)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Update your drivers
@@ -47,18 +47,18 @@ thumbnail: https://thmb.techidaily.com/b97d0ebad54511b61b45570cc2aa70ceb4b57e438
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597858796d417.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click the**Update** button next to each driver to automatically download the correct version of this driver (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Update your BIOS
 
@@ -74,21 +74,21 @@ To update the BIOS of your Lenovo laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795c2f6d56b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Click the**download** button to download the BIOS update package.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795ce5b8c59.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Open the**executable (.exe) file** you have downloaded. Follow the on-screen instructions to install the BIOS update to your computer.
 
@@ -125,18 +125,16 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-why-do-my-photoshoot-videos-grind-to-a-halt/"><u>[New] 2024 Approved Why Do My Photoshoot Videos Grind to a Halt?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-opening-and-playing-srt-on-pcmac/"><u>[New] Expert Tips Opening and Playing SRT on PC/Mac</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hand-held-balance-for-sharp-images/"><u>[Updated] In 2024, Hand-Held Balance for Sharp Images</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/essential-skills-for-youtube-success-8-free-online-courses-for-2024/"><u>Essential Skills for YouTube Success 8 Free Online Courses for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-t2x-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo T2x 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-quick-start-guide-to-your-channels-easy-sign-up-button/"><u>In 2024, Quick-Start Guide to Your Channel's Easy Sign Up Button</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidias-swift-fix-on-opengl-driver-trouble/"><u>NVIDIA's Swift Fix on OpenGL Driver Trouble</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/post-update-win10-flawless-streaming-guide/"><u>Post-Update Win10: Flawless Streaming Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revive-system-efficiency-upgrading-graphics-driver-on-windows/"><u>Revive System Efficiency: Upgrading Graphics Driver on Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swift-remedy-tarkov-and-amd-glitches-cleared/"><u>Swift Remedy: Tarkov and AMD Glitches Cleared</u></a></li>
-<li><a href="https://fox-links.techidaily.com/unveiling-secrets-phantoms-slow-motion-techniques/"><u>Unveiling Secrets Phantom's Slow Motion Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-blackberry-shines-as-the-premier-choice-for-professionals/"><u>Why BlackBerry Shines as the Premier Choice for Professionals</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818200918-win10s-hybrid-graphics-configuration-now-working-smoothly/"><u>Win10’s Hybrid Graphics Configuration - Now Working Smoothly!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-streamlining-ad-revenue-post-monetization-yt-tips-and-tricks/"><u>[Updated] Streamlining Ad Revenue Post-Monetization YT Tips & Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-win11-dns-server-settings-quick-guide/"><u>Configuring Win11 DNS Server Settings Quick Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/framed-facets-guide-to-the-best-apps-and-websites-for-image-framing/"><u>Framed Facets Guide to the Best Apps and Websites for Image Framing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-lenovo-x1-carbon-driver-software-for-windows-107-users/"><u>Get the Latest Lenovo X1 Carbon Driver Software for Windows 10/7 Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gfxui-crash-on-win-successful-solution-found/"><u>GFXUI Crash on Win - Successful Solution Found</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-asus-laptop-black-screen-easily/"><u>How To Fix Asus Laptop Black Screen Easily</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-pathfinding-your-way-from-adsense-to-accounts-aplenty/"><u>In 2024, Pathfinding Your Way From AdSense to Accounts Aplenty</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/kernel-issue-overcome-nvlddmkm-driver-operational/"><u>Kernel Issue Overcome: Nvlddmkm Driver Operational</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-remedy-for-buffering-woes/"><u>Quick Remedy for Buffering Woes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reactivating-flaky-asus-webcam-features/"><u>Reactivating Flaky ASUS Webcam Features</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/top-picks-for-your-android-the-current-best-facebook-videos-downloaders-ranked-for-2024/"><u>Top Picks for Your Android - The Current Best Facebook Videos Downloaders Ranked for 2024</u></a></li>
 </ul></div>
 

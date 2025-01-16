@@ -1,7 +1,7 @@
 ---
 title: Switchable Card Setup Mastery for NVIDIA & Intel on Win10
-date: 2025-01-06T04:51:18.858Z
-updated: 2025-01-09T21:39:17.742Z
+date: 2025-01-14T00:06:59.763Z
+updated: 2025-01-15T22:21:23.084Z
 tags:
   - win11
   - win10
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If prompted for confirmation of the uninstall, click **OK** to confirm.
@@ -64,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 7) Put the battery back and reconnect your AC adapter.
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
 
@@ -91,10 +87,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  3: Change switchable graphics mode
 
  Right-click the blank space of the desktop. Select **NVIDIA Control Panel**  to switch between two graphics manually under **Manage 3D Settings** \> **Preferred Graphics Processor** .
@@ -102,7 +94,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4: Disable Fast Startup
@@ -112,7 +104,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
@@ -123,9 +115,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-fast-startup-recommended-600x454.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,16 +142,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-blueprint-making-inspiring-lifestyle-broadcasts/"><u>[New] 2024 Approved Blueprint Making Inspiring Lifestyle Broadcasts</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-independent-filming-freedoms-agreement/"><u>[Updated] 2024 Approved Independent Filming Freedoms Agreement</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-anticipating-virtual-realities-top-5-new-playstation-vr-games/"><u>[Updated] Anticipating Virtual Realities Top 5 New PlayStation VR Games</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amd-and-win10-teamwork-detection-driver-now-functional/"><u>AMD & Win10 Teamwork: Detection Driver Now Functional</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-the-ease-of-disk-management-access-on-win-1011/"><u>Discover the Ease of Disk Management Access on Win 10/11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/driver-update-success-code-22/"><u>Driver Update Success - Code 22</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-windows-10s-nvidiaintel-switchable-card-issue/"><u>Fixing Windows 10'S Nvidia/Intel Switchable Card Issue</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722893934272-keyboard-failure-heres-how-to-get-it-typing-again/"><u>Keyboard Failure? Here’s How to Get It Typing Again!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-intel-r-switchable-graphics-card-problem-on-windows-10-solved/"><u>NVIDIA/ Intel (R) Switchable Graphics Card Problem on Windows 10 [SOLVED]</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-robocop-legacy-rogue-city-game-crashes-on-windows/"><u>Troubleshooting Tips: Resolving Issues with RoboCop: Legacy – Rogue City Game Crashes on Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-the-secrets-top-10-surprising-emoji-tidbits-revealed/"><u>Unlock the Secrets: Top 10 Surprising Emoji Tidbits Revealed</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-accelerate-your-contents-view-count-1kplus-in-time/"><u>[New] 2024 Approved Accelerate Your Content's View Count 1K+ in Time</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-clear-image-purchases-no-more-watermarks/"><u>[New] 2024 Approved Clear Image Purchases No More Watermarks</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-crafted-by-professionals-best-free-mobile-editors-for-android/"><u>[New] In 2024, Crafted by Professionals Best Free Mobile Editors for Android</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-file-imports-into-windows-11-with-ease/"><u>[New] Mastering File Imports Into Windows 11 with Ease</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-live-gaming-snapshot-with-fraps-analysis/"><u>[Updated] In 2024, Live Gaming Snapshot with Fraps Analysis</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pro-photographers-choices-ranking-the-top-6-4k-dslrs/"><u>2024 Approved Pro Photographers’ Choices Ranking the Top 6 4K DSLRs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/htened-exercits-discovering-the-most-inspiring-yogis-online/"><u>Enlightened Exercits - Discovering the Most Inspiring Yogis Online</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/get-the-newest-drivers-for-nvidias-gtx-1060/"><u>Get the Newest Drivers for Nvidia's GTX 1060</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-missing-windows-11-full-screen-on-monitor/"><u>How to Fix Missing Windows 11 Full Screen on Monitor</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reviving-silent-gpu-fans-to-life/"><u>Reviving Silent GPU Fans to Life</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-black-screen-issue-after-win11-fall-update/"><u>Solving Black Screen Issue After Win11 Fall Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-apex-glitches-head-on/"><u>Tackling Apex Glitches Head-On</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-vivo-s17-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Vivo S17 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/trim-oversized-display-settings-in-win-10/"><u>Trim Oversized Display Settings in WIN 10</u></a></li>
 </ul></div>
 

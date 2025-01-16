@@ -1,7 +1,7 @@
 ---
 title: Vanquish Invisible Launching in Sims Town
-date: 2025-01-03T04:22:34.467Z
-updated: 2025-01-09T22:32:48.368Z
+date: 2025-01-10T16:21:40.268Z
+updated: 2025-01-15T19:38:22.337Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/7f38f48d6c1e2e7dd4ffc2cf3530de002749e2e66
 ## Vanquish Invisible Launching in Sims Town
 
  Trying to play**The Sims 4** but all it loads is a**white screen** ? You’re not alone. But don’t worry, it’s often not hard to fix at all…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for The Sims 4 White Screen
 
@@ -48,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/7f38f48d6c1e2e7dd4ffc2cf3530de002749e2e66
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -56,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/7f38f48d6c1e2e7dd4ffc2cf3530de002749e2e66
 5) Launch The Sims 4 to see if it can run smoothly this time. If yes, then congrats and enjoy the game! If it still loads a white screen, please move on to **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Repair The Sims 4 in Origin
 
@@ -80,10 +80,6 @@ Here is how to do it:
 5) Launch The Sims 4 and see if it loads properly. If yes, then great! If it’s still displaying the white screen, please move on to **Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Start The Sims 4 in Windowed mode
 
@@ -113,6 +109,10 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-292.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**ORIGIN-IN-GAME** then turn_off_ the toggle for**Enable Origin in-Game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-293-1024x529.png)
@@ -120,6 +120,10 @@ Here are the steps:
  3) Check to see if The Sims 4 white screen issue is resolved. If it still persists, please try**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and The Sims 4
 
@@ -131,13 +135,13 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the program list, locate **Origin** , then right-click on it and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Locate **The Sims 4** and uninstall it too.
 
@@ -170,21 +174,17 @@ Here is how to check if your computer spec has met the requirements:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-957.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Check your **operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-960.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Display** **1**  tab, and then check your graphics card’s information. (If you are using two graphics card, you should check on the **Display 2** tab for the information about your graphics card too)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-959.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If one of the specs fails to meet the requirement, you might want to consider upgrading your PC. If your PC meets all of them, then the white screen error on The Sims 4 may not be related with your computer hardware at all.
 
@@ -211,17 +211,22 @@ Here is how to check if your computer spec has met the requirements:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-enhance-and-clean-up-youtube-footage-borderless-tutorial/"><u>[New] In 2024, Enhance and Clean Up YouTube Footage Borderless Tutorial</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/5-must-consider-aspects-before-investing-in-virtual-reality/"><u>5 Must-Consider Aspects Before Investing in Virtual Reality</u></a></li>
-<li><a href="https://program-issues.techidaily.com/accelerating-ubisoft-connect-transfer-rates-tips-and-tricks/"><u>Accelerating Ubisoft Connect Transfer Rates - Tips & Tricks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/error-43-on-graphics-solved/"><u>Error 43 on Graphics Solved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/hasten-clear-video-transmission/"><u>Hasten Clear Video Transmission</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-xiaomi-redmi-12-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Xiaomi Redmi 12 to Roku | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-through-windows-error-maze-expert-advice-on-correcting-the-persistent-code-28-glitches/"><u>Navigating Through Window's Error Maze: Expert Advice on Correcting the Persistent Code 28 Glitches</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resetting-lost-window-on-pc-windows/"><u>Resetting Lost Window on PC [WINDOWS]</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/stunning-game-of-thrones-image-collection-for-pc-and-mobile-yl-software-graphics/"><u>Stunning Game of Thrones Image Collection for PC and Mobile - YL Software Graphics</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-the-latest-hardware/"><u>Tom's Tech Review: In-Depth Analysis of the Latest Hardware</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unveiling-the-solution-to-stabilize-amd-radeon-r9-on-win10/"><u>Unveiling the Solution to Stabilize AMD Radeon R9 on Win10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-claude-ai-and-why-should-you-use-it/"><u>What Is Claude AI and Why Should You Use It?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-beware-the-risk-in-fake-followers-on-youtube-for-2024/"><u>[New] Beware The Risk in Fake Followers on YouTube for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-unseen-watchers-manual-how-to-stay-anonymous-on-instagram-live/"><u>[New] In 2024, Unseen Watcher’s Manual How to Stay Anonymous on Instagram Live</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-rhythmic-resonance-incor-written-by-assistant/"><u>[Updated] 2024 Approved Rhythmic Resonance Incor Written by Assistant</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-ace-collection-of-elite-3d-blu-ray-equipment/"><u>[Updated] The Ace Collection of Elite 3D Blu-Ray Equipment</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boosted-graphics-latest-w11-geforce-210-drivers-rollout/"><u>Boosted Graphics: Latest W11 GeForce 210 Drivers Rollout</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bringing-back-available-screen-options-with-nvidia/"><u>Bringing Back Available Screen Options with NVidia</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-space-utilization-on-your-windows-11-drive-no-file-removal-max-156-chars/"><u>Efficient Space Utilization on Your Windows 11 Drive (No File Removal, Max 156 Chars)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-the-art-of-customizing-your-youtube-channel-url/"><u>In 2024, Mastering the Art of Customizing Your YouTube Channel URL</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-y36i-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo Y36i FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/interpreting-comfailure-in-windows-environments/"><u>Interpreting COMFailure in Windows Environments</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-gpu-activation-a-success-story-in-win11/"><u>Laptop GPU Activation: A Success Story in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/permanent-solution-to-asus-monitor-flicker/"><u>Permanent Solution to ASUS Monitor Flicker</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-lenovo-unresponsive-touchscreen/"><u>Resolving Lenovo Unresponsive Touchscreen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simplified-resolution-strategies-gpus-alone/"><u>Simplified Resolution Strategies: GPUs Alone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/syncing-icloud-notes-with-linux-a-comprehensive-guide-zdnet/"><u>Syncing iCloud Notes with Linux: A Comprehensive Guide | ZDNet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tech-tips-keeping-intel-graphic-drivers-current-on-windows/"><u>Tech Tips: Keeping Intel Graphic Drivers Current on Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-potential-exploring-the-advantages-of-apples-expanded-iphone-nfc-for-app-developers-and-users-alike-zdnet-reviews/"><u>Unlocking Potential: Exploring the Advantages of Apple's Expanded iPhone NFC for App Developers and Users Alike | ZDNET Reviews</u></a></li>
 </ul></div>
 

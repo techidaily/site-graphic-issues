@@ -1,7 +1,7 @@
 ---
 title: What Is My Screen Resolution? One Step to Find Out!
-date: 2025-01-07T00:06:47.744Z
-updated: 2025-01-10T05:55:56.116Z
+date: 2025-01-13T22:34:11.438Z
+updated: 2025-01-15T19:50:49.053Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ Check out this post and you’ll know in a heartbeat! 🙂
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b87ac0c1fb10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **I’m using Windows 8/7:** 
 
 1. Right-click on**the empty area** of your desktop and click**Screen resolution** .  
@@ -45,19 +49,19 @@ Check out this post and you’ll know in a heartbeat! 🙂
 2. Check your screen resolution in**Resolution** ! Now you can select from the drop-down menu to change the screen resolution the way you’d like it to.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b87ad6d7e8a9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. How can I prevent my PC from having display issues
@@ -79,11 +83,7 @@ Check out this post and you’ll know in a heartbeat! 🙂
 3. You can upgrade to [**the Pro version**](https://tools.techidaily.com/drivereasy/download/)  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
@@ -109,21 +109,20 @@ Check out this post and you’ll know in a heartbeat! 🙂
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-a-comprehensive-list-of-8-budget-friendly-srt-services/"><u>[New] A Comprehensive List of 8 Budget-Friendly SRT Services</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-repair-glitches-in-instagram-likescomments/"><u>[Updated] In 2024, Repair Glitches in Instagram Likes/Comments</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-future-of-android-gaming-its-all-in-kinemaster-review/"><u>[Updated] The Future of Android Gaming? It's All in KineMaster Review</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-free-fb-hd-videos-step-by-step/"><u>2024 Approved Free FB HD Videos Step-by-Step</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-hiding-identity-on-instagram-live-secure-viewing-tips/"><u>2024 Approved Hiding Identity on Instagram Live Secure Viewing Tips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/activate-gpu-on-laptop-windows-1011-fixes/"><u>Activate GPU on Laptop: Windows 10/11 Fixes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clear-bright-winscreen/"><u>Clear, Bright WinScreen</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ending-blank-screens-in-win11/"><u>Ending Blank Screens in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-windows-ui-context-menu-with-disk-space-insight-tool/"><u>Enhancing Windows UI: Context Menu with Disk Space Insight Tool</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-enable-and-manage-picture-in-picture-on-your-android-screen/"><u>How to Enable & Manage Picture-in-Picture on Your Android Screen</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-smart-8-plus-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix Smart 8 Plus Device</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-graphics-hurdles-with-direct3d-achieved-max-gpu-speed/"><u>Resolved Graphics Hurdles with Direct3D, Achieved Max GPU Speed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/uninterrupted-videos-at-your-fingertips/"><u>Uninterrupted Videos at Your Fingertips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/vanishing-polaris-video-card-fixed/"><u>Vanishing Polaris Video Card Fixed</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Honor 100 Pro? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-1011-re-enabling-graphics-card-functions/"><u>Windows 10/11: Re-Enabling Graphics Card Functions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-noble-mic-necessities-for-youtube-newbies-on-the-cheap/"><u>[New] 2024 Approved Noble Mic Necessities for YouTube Newbies on the Cheap</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-a-symphony-of-sounds-no-cost-software-for-personalized-voice-modification/"><u>[New] In 2024, A Symphony of Sounds No-Cost Software for Personalized Voice Modification</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-real-time-instagram-friends-departure-tracking/"><u>[New] In 2024, Real-Time Instagram Friends Departure Tracking</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-windows-prime-video-communication-tools-1-8-for-2024/"><u>[New] Windows' Prime Video Communication Tools, #1-8 for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-essential-android-tools-5-leading-ps2-emulator-apps/"><u>[Updated] 2024 Approved Essential Android Tools 5 Leading PS2 Emulator Apps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-stay-ahead-adapting-your-approach-for-instagrams-evolved-feed/"><u>[Updated] 2024 Approved Stay Ahead Adapting Your Approach for Instagram’s Evolved Feed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unceasing-video-archiving-consortia-for-2024/"><u>[Updated] Unceasing Video Archiving Consortia for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bluescreen-overhaul-wins-dxgkrnlsys-fix/"><u>BlueScreen Overhaul: Win's dxgkrnl.sys Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-pcs-potential-to-handle-intel-driver-setup/"><u>Boost PC's Potential to Handle Intel Driver Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-windows-10-refresh-disturbances/"><u>Eliminating Windows 10 Refresh Disturbances</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-audio-interfaces-unveiled-the-podcasters-must-have-list/"><u>In 2024, Top Audio Interfaces Unveiled The Podcaster's Must-Have List</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/make-display-settings-save-in-win-7-and-10-against-all-odds-solution-achieved/"><u>Make Display Settings Save in WIN 7 & 10 Against All Odds [Solution Achieved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simplified-solutions-no-display-on-graphics-cards/"><u>Simplified Solutions, No Display on Graphics Cards</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/by-step-youtube-image-enlargement-technique-for-2024/"><u>Step-by-Step Youtube Image Enlargement Technique for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubled-streams-no-more-on-updated-win10/"><u>Troubled Streams No More on Updated Win10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Flashing LCD on HP Systems
-date: 2025-01-03T23:48:43.816Z
-updated: 2025-01-09T19:51:08.312Z
+date: 2025-01-09T19:49:29.068Z
+updated: 2025-01-16T02:49:41.082Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/7b61f24c759b4bb707c98e4d5ba6ea429d7484a4e
 ## Troubleshooting Flashing LCD on HP Systems
 
  Screen flickering or blinking on your HP laptop? Don’t panic, it’s often not hard to fix at all…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for HP laptop flickering or blinking
 
@@ -55,16 +59,12 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -74,6 +74,10 @@ Here is how to do it:
 5) Check to see if the laptop screen flickering issue is resolved. If yes, then congrats! If the problem remains, please move on to **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Change the screen refresh rate
 
@@ -103,18 +107,18 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Adjust the screen resolution one by one in the drop-down menu and see if there’s one that solves the screen flickering problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
@@ -127,10 +131,6 @@ Here is how to do it:
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -158,17 +158,21 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-how-to-optimize-video-engagement-through-resizing-thumbnails-on-youtube/"><u>[New] In 2024, How to Optimize Video Engagement Through Resizing Thumbnails on YouTube</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-artisans-guide-to-aesthetic-photographic-adjustments/"><u>[New] The Artisan's Guide to Aesthetic Photographic Adjustments</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-no-cost-camera-screenshot-tool-reviews-and-selections-for-2024/"><u>[Updated] No-Cost Camera Screenshot Tool Reviews & Selections for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/best-solar-lighting-choices-for-202-a-comprehensive-guide-from-consumer-reports/"><u>Best Solar Lighting Choices for 202#: A Comprehensive Guide From Consumer Reports</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/captivating-customer-revelation-for-2024/"><u>Captivating Customer Revelation for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-a2plus-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi A2+?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-missing-windows-11-full-screen-on-monitor/"><u>How to Fix Missing Windows 11 Full Screen on Monitor</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-laughmaker-begin-your-content-creation-journey/"><u>In 2024, LaughMaker Begin Your Content Creation Journey</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-not-recognizing-fullscreen-windows-on-win10/"><u>Monitor Not Recognizing Fullscreen Windows on Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimizing-media-player-functionality-for-new-win11/"><u>Optimizing Media Player Functionality for New Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-netflix-stutter-after-upgraded-windows/"><u>Resolving Netflix Stutter After Upgraded Windows</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/snap-sharing-made-simple-camera-roll-to-social-now-for-2024/"><u>Snap Sharing Made Simple Camera Roll to Social Now for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-essential-tips-for-operating-ez-grabber-for-2024/"><u>[New] Essential Tips for Operating EZ Grabber for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-silent-scripting-the-leading-list-of-offline-transcription-software-for-2024/"><u>[Updated] Silent Scripting The Leading List of Offline Transcription Software for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-guide-restoring-functionality-to-a-frozen-apple-watch-touch-panel/"><u>A Guide: Restoring Functionality to a Frozen Apple Watch Touch Panel</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/beyond-full-hd-understanding-4ks-wonders/"><u>Beyond Full HD: Understanding 4K's Wonders</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebook-video-marketing-top-20-strategies-to-watch/"><u>Facebook Video Marketing Top 20 Strategies to Watch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-glitch-fixed-gpu-back-on-track-nvidia/"><u>Graphics Glitch Fixed, GPU Back on Track (NVIDIA)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-stop-asus-laptop-screen-flickering-fix-guide/"><u>How To Stop ASUS Laptop Screen Flickering Fix Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-apple-iphone-13-pro-fixed-drfone-by-drfone-virtual-ios/"><u>iSpoofer is not working On Apple iPhone 13 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817511063-lenovo-shadows-be-gone/"><u>Lenovo Shadows Be Gone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lighting-the-way-after-fall-update-woes/"><u>Lighting the Way After Fall Update Woes</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-ideas-on-using-filmora-green-screen/"><u>New In 2024, Best Ideas on Using Filmora Green Screen</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/safely-remove-confidential-data-from-your-iphone-with-our-advanced-wiping-software/"><u>Safely Remove Confidential Data From Your iPhone with Our Advanced Wiping Software</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/uncover-the-excellence-of-the-owc-mercury-pro-a-top-tier-drive-reviewed/"><u>Uncover the Excellence of the OWC Mercury Pro: A Top-Tier Drive Reviewed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unleash-potential-new-nvidia-geforce-210-driver-for-windows-pcs/"><u>Unleash Potential: New NVIDIA GeForce 210 Driver for Windows PCs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-the-secret-to-a-streamlined-tiktok-bio-with-linktree/"><u>Unlocking the Secret to a Streamlined TikTok Bio with Linktree</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgrade-to-high-performance-graphics-software-for-gtx-1060/"><u>Upgrade to High-Performance Graphics Software for GTX 1060</u></a></li>
 </ul></div>
 
