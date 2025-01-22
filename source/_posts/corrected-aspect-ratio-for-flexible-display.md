@@ -1,7 +1,7 @@
 ---
 title: Corrected Aspect Ratio for Flexible Display
-date: 2025-01-14T19:40:16.794Z
-updated: 2025-01-15T18:43:56.696Z
+date: 2025-01-20T21:31:19.815Z
+updated: 2025-01-21T23:02:00.873Z
 tags:
   - win11
   - win10
@@ -36,7 +36,7 @@ This is the easiest way to rotate your laptop screen:
 You can also change your screen orientation in your display settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Restore your laptop screen in your display settings
@@ -47,21 +47,17 @@ To rotate your screen in your system display settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd043209191b.jpg)
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This should restore your laptop screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### BONUS TIP: Prevent your screen orientation from changing itself
@@ -78,11 +74,15 @@ This should restore your laptop screen.
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer.
 
@@ -105,16 +105,20 @@ This should restore your laptop screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-snapchat-enhancement-the-power-of-spotlight-feature/"><u>[New] Snapchat Enhancement The Power of Spotlight Feature</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-best-screen-recorder-for-everyday-users/"><u>[Updated] 2024 Approved Best Screen Recorder for Everyday Users</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-bridging-shadows-and-highlights-the-lightroom-hdr-methodology/"><u>[Updated] In 2024, Bridging Shadows and Highlights The Lightroom HDR Methodology</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/accessing-hidden-screen-settings-in-nvidia/"><u>Accessing Hidden Screen Settings in Nvidia</u></a></li>
-<li><a href="https://win-dash.techidaily.com/amd-radeon-r9-360-fresh-drivers-and-updates-for-windows-10-users/"><u>AMD Radeon R9 360: Fresh Drivers and Updates for Windows 10 Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-horizontal-lines-on-laptop-screen-quickly-and-easily/"><u>How To Fix Horizontal Lines On Laptop Screen. Quickly & Easily!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/kernel-fix-graphic-error-22-no-more/"><u>Kernel Fix: Graphic Error 22 No More</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ring-the-monetized-space-a-buyers-primer/"><u>Mastering the Monetized Space A Buyer's Primer</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-error-code-0x80004004-on-windows-defender-a-guide/"><u>Solving Error Code 0X80004004 on Windows Defender: A Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/step-up-in-performance-amd-hd-6950-w11-drivers-update/"><u>Step-Up in Performance - AMD HD 6950 W11 Drivers Update</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-chatgpt-errors-identify-and-resolve-top-6-problems/"><u>Troubleshooting ChatGPT Errors: Identify and Resolve Top 6 Problems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-streamers-blueprint-achieving-peak-performance-on-macos/"><u>[Updated] 2024 Approved The Streamer's Blueprint Achieving Peak Performance on macOS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-preserving-every-moment-of-your-switch-gaming-for-2024/"><u>[Updated] Preserving Every Moment of Your Switch Gaming for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-softening-volume-windowsmac-audio-tips-for-2024/"><u>[Updated] Softening Volume Windows/Mac Audio Tips for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-effortlessly-record-macos-content-and-display/"><u>2024 Approved Effortlessly Record macOS Content & Display</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-lenovo-screens-that-dim-suddenly/"><u>Addressing Lenovo Screens That Dim Suddenly</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/assessing-the-powerline-capabilities-of-the-tp-link-av1300-range-extender/"><u>Assessing the Powerline Capabilities of the TP-Link AV1300 Range Extender</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/comprehensive-tutorial-on-transferring-your-outlook-contacts-into-a-pst-format/"><u>Comprehensive Tutorial on Transferring Your Outlook Contacts Into a PST Format</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/finding-the-ultimate-cam-choice-post-manycam/"><u>Finding the Ultimate Cam Choice Post-ManyCam</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphic-engine-start-up-halted/"><u>Graphic Engine Start Up Halted</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/handling-gpu-failures-amidst-active-computers/"><u>Handling GPU Failures Amidst Active Computers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-y36-lock-screen-password-by-drfone-android/"><u>How To Change Vivo Y36 Lock Screen Password?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/intels-graphics-drivers-the-latest-windows-update-guide/"><u>Intel's Graphics Drivers: The Latest Windows Update Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/msi-b350-toms-tomahawk-graphics-card-drivers-for-optimal-performance-on-windows-operating-systems/"><u>MSI B350 TOM'S TOMAHAWK Graphics Card Drivers for Optimal Performance on Windows Operating Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-hardware-limitations-for-driver-install/"><u>Overcoming Hardware Limitations for Driver Install</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/repaired-loading-functionality-of-amd-on-win10/"><u>Repaired Loading Functionality of AMD on Win10</u></a></li>
 </ul></div>
 

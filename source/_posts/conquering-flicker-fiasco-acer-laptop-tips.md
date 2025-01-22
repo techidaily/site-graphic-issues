@@ -1,7 +1,7 @@
 ---
 title: "Conquering Flicker Fiasco: Acer Laptop Tips"
-date: 2025-01-09T01:38:39.549Z
-updated: 2025-01-15T20:03:23.577Z
+date: 2025-01-16T21:32:06.928Z
+updated: 2025-01-21T21:58:36.456Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/33277df87367d0cdbce49fd32569ab0c6e35402a2
 ## Conquering Flicker Fiasco: Acer Laptop Tips
 
  If you ever run into the **Acer laptop screen flickering** issue, don’t worry. It’s often not hard to fix at all…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3 Fixes For Acer Laptop Screen Flickering In Windows
 
@@ -54,9 +50,17 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed3e49449b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Check to see if your **Acer laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [**Fix 2**](#F2) .
 
@@ -66,21 +70,17 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Advanced settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Check to see if your **Acer laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](#F2) [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
 
@@ -112,7 +112,7 @@ Here is how to change the screen refresh rate:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All t** o automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -120,7 +120,7 @@ Here is how to change the screen refresh rate:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -153,21 +153,21 @@ Here is how to change the screen refresh rate:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-professional-grade-8-filters-for-live-feeds/"><u>[New] In 2024, Professional-Grade 8 Filters for Live Feeds</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-facebook-to-your-screen-top-5-downloader-apps/"><u>[Updated] Facebook to Your Screen Top 5 Downloader Apps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/beginners-blueprint-for-earnings-in-periscope-livestreams/"><u>Beginner's Blueprint for Earnings in Periscope Livestreams</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-guide-and-analysis-of-the-netgear-nighthawk-x6-ac3200-top-choice-for-swift-connectivity/"><u>Comprehensive Guide & Analysis of the Netgear Nighthawk X6 AC3200 - Top Choice for Swift Connectivity</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enabling-intel-driver-on-limited-specs-machine/"><u>Enabling Intel Driver on Limited Specs Machine</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-displays-surface-pro-7-sync-issues/"><u>Fixing Displays: Surface Pro 7 Sync Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/improving-display-contrast-on-lenovo-models/"><u>Improving Display Contrast on Lenovo Models</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-s17e-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo S17e Phones with/without a PC</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-microsofts-safe-mode-only-constraint/"><u>Navigating Through Microsoft's Safe Mode Only Constraint</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-alternatives-to-virtualdub-best-video-processing-software/"><u>New Alternatives to VirtualDub Best Video Processing Software</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-best-solarmovie-alternatives-watch-movies-online/"><u>New Best SolarMovie Alternatives-Watch Movies Online</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-hdmi-link-between-notebook-and-television/"><u>Restoring HDMI Link Between Notebook & Television</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revived-infinity-sapphire-probe/"><u>Revived Infinity Sapphire Probe</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-flickering-monitors-on-desktops/"><u>Stop Flickering Monitors on Desktops</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/streamline-screen-saving-solutions-for-win-710-problems-solved/"><u>Streamline Screen Saving: Solutions for Win 7/10 Problems [Solved]</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-motorola-moto-g34-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Motorola Moto G34 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-proven-techniques-to-enhance-engagement-and-interaction/"><u>[New] 2024 Approved Proven Techniques to Enhance Engagement and Interaction</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-masterclass-in-creating-dynamic-facebook-slideshows/"><u>[New] In 2024, Masterclass in Creating Dynamic Facebook Slideshows</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-relentless-joy-in-9-full-length-holiday-spectacles-free-online/"><u>[New] Relentless Joy in 9 Full-Length Holiday Spectacles, Free Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-free-nba-action-at-home-the-best-15-ways-to-watch-games-online/"><u>[Updated] In 2024, Free NBA Action at Home The Best 15 Ways to Watch Games Online</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bring-back-your-asus-notebooks-colorful-side/"><u>Bring Back Your Asus Notebook's Colorful Side</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-genius-widecam-f100-a-closer-look-at-image-quality-and-acoustic-issues/"><u>Comprehensive Review of the Genius WideCam F100: A Closer Look at Image Quality and Acoustic Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/drive-performance-to-new-heights-geforce-210-wins11-update/"><u>Drive Performance to New Heights: GeForce 210 Wins11 Update</u></a></li>
+<li><a href="https://techtrends.techidaily.com/eliminate-that-humsong-from-your-subwoofers-with-these-simple-fixes/"><u>Eliminate That Humsong From Your Subwoofers with These Simple Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-fixed-nonresponsive-interactive-display/"><u>Lenovo Fixed Nonresponsive Interactive Display</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/mastering-pc-hd-video-viewing-and-editing-with-windows-hdr-support/"><u>Mastering PC HD Video Viewing & Editing with Windows HDR Support</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-nokia-130-music-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Nokia 130 Music – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-display-after-upgrade/"><u>No Display After Upgrade</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/skylines-of-cities-in-depth-game-review-and-insights/"><u>Skylines of Cities: In-Depth Game Review and Insights</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-the-process-of-reviving-your-intellgraphics-in-win7/"><u>Unveiling the Process of Reviving Your IntellGraphics in Win7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-and-nvidia-reconciled-issue-resolved/"><u>Win11 & NVIDIA Reconciled Issue Resolved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zoom-in-on-clear-windows/"><u>Zoom in on Clear Windows</u></a></li>
 </ul></div>
 

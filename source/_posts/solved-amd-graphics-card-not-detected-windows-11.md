@@ -1,7 +1,7 @@
 ---
 title: "[Solved] AMD Graphics Card Not Detected Windows 11"
-date: 2025-01-14T18:49:06.638Z
-updated: 2025-01-16T02:32:53.563Z
+date: 2025-01-19T05:38:44.046Z
+updated: 2025-01-21T16:54:40.875Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 2. [**Reinstall the AMD graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Solution 1: Update the AMD graphics driver
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 3. Click the**Update** button next to your AMD graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
     
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Solution 2: Reinstall the AMD graphics driver
@@ -66,14 +66,14 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 3. Expand**Display adapters** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0472246a2b.jpg)
 4. Right-click on your AMD graphics device, then select**Uninstall device** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Windows may prompt you to confirm the uninstallation. Check the**Delete the driver software for this device** checkbox and click**OK** .
@@ -104,17 +104,20 @@ Just have a try now!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-clearer-streams-youtube-video-borderless-adjustment/"><u>[New] In 2024, Clearer Streams YouTube Video Borderless Adjustment</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-master-the-art-of-social-media-video-capture-with-5-leaders-for-2024/"><u>[New] Master the Art of Social Media Video Capture with 5 Leaders for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-unifying-media-files-from-desktop-to-iphone-for-2024/"><u>[New] Unifying Media Files From Desktop to iPhone for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-budget-savvy-gopro-upgrades-for-starters/"><u>[Updated] 2024 Approved Budget Savvy GoPro Upgrades for Starters</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adjustment-for-small-win-10-interface/"><u>Adjustment for Small WIN 10 Interface</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/boost-image-size-retain-resolution-for-2024/"><u>Boost Image Size, Retain Resolution for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-honor-90-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Honor 90 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhanced-display-precision-on-windows-11/"><u>Enhanced Display Precision on Windows 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-lenovo-thinkphone-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Lenovo ThinkPhone? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-brings-better-performance-to-windows-11-geforce-210/"><u>NVIDIA Brings Better Performance to Windows 11, GeForce 210</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/post-update-windows-10-say-goodbye-to-streaming-issues/"><u>Post-Update Windows 10 - Say Goodbye to Streaming Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackling-expanded-viewport-on-windows-10-devices/"><u>Tackling Expanded Viewport on Windows 10 Devices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-generating-podcast-identity-the-top-ai-naming-software/"><u>[New] 2024 Approved Generating Podcast Identity The Top AI Naming Software</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-no-pay-maximum-fun-20-custom-lut-sets-for-dji-miniair-users-for-2024/"><u>[New] No Pay, Maximum Fun 20 Custom LUT Sets for DJI Mini/Air Users for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-digital-domain-decision-which-platform-for-your-videos/"><u>[Updated] 2024 Approved Digital Domain Decision Which Platform for Your Videos?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-effortless-video-uploads-with-ios-the-complete-youtube-guide/"><u>[Updated] 2024 Approved Effortless Video Uploads with iOS The Complete YouTube Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-essential-list-10-best-zero-price-desktop-recorder-apps/"><u>[Updated] 2024 Approved Essential List 10 Best Zero-Price Desktop Recorder Apps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-sideways-screens-on-windows-10/"><u>Correcting Sideways Screens on Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminating-graphic-swap-errors-a-win11-fix/"><u>Eliminating Graphic Swap Errors: A Win11 Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-lcd-wobbling-issues-computers/"><u>Fix LCD Wobbling Issues (Computers)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-recover-deleted-files-on-windows-10-the-easy-way/"><u>How to Recover Deleted Files on Windows 10: The Easy Way</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/mastering-zoom-for-effective-fb-live-broadcasts/"><u>Mastering Zoom for Effective FB Live Broadcasts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rapid-repair-amd-graphics-bug-in-tarkov/"><u>Rapid Repair: AMD Graphics Bug in Tarkov</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-the-freeze-start-winning-with-fallout-4/"><u>Stop the Freeze, Start Winning with Fallout 4</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-full-screen-customization-in-win11/"><u>Unlocking Full Screen Customization in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817435202-upgrade-your-pc-graphics-amds-hd-6950-update-now/"><u>Upgrade Your PC Graphics: AMD's HD 6950 Update Now</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-itel-p40-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Itel P40 Device</u></a></li>
 </ul></div>
 

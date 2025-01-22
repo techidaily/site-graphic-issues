@@ -1,7 +1,7 @@
 ---
 title: "Kernel Conflict Addressed: Error 22"
-date: 2025-01-11T18:06:40.539Z
-updated: 2025-01-15T16:49:28.172Z
+date: 2025-01-20T04:42:17.038Z
+updated: 2025-01-21T20:34:23.303Z
 tags:
   - win11
   - win10
@@ -21,13 +21,17 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
  If you accidentally disable your graphics device, or your system for some unknown reason causes it to be disabled, it seems mission impossible to enable your device again, because you see nothing but a black screen, having no idea how to navigate to Device Manager to enable your display adapter. But don’t worry, all you need to do now is try [**Fix 1**](#f1) , which is kind of a trial-and-error approach but can also be a real fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Two fixes for graphics device driver error code 22
 
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Use your keyboard to navigate to Device Manager
 
@@ -45,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 
 Be careful you don’t mistype, or press the wrong keys!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Reset BIOS by removing the CMOS battery
 
  If attempts with Fix 1 produce no results, to fix your disabled graphics device, you may need to remove the CMOS battery to reset BIOS to its default settings. It requires some skills. You can follow the instructions below:
@@ -57,19 +65,11 @@ Be careful you don’t mistype, or press the wrong keys!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Example – CMOS battery on a desktop PC
 
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Example – CMOS battery on a laptop
 
@@ -81,11 +81,7 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus tip
@@ -104,6 +100,10 @@ Example – CMOS battery on a laptop
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98dadf4599b.jpg)
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
@@ -129,20 +129,24 @@ Example – CMOS battery on a laptop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-ultimate-playbook-cutting-edge-methods-for-remarkable-mobizen-recordings/"><u>[New] 2024 Approved Ultimate Playbook Cutting-Edge Methods for Remarkable Mobizen Recordings</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-mastering-complex-video-effects-and-transitions-in-gopro-studio-for-2024/"><u>[New] Mastering Complex Video Effects and Transitions in GoPro Studio for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-10-best-live-tv-streaming-services-with-comparison/"><u>[Updated] 10 Best Live TV Streaming Services - With Comparison</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-precision-in-preservation-expert-techniques-for-skype-call-recordings/"><u>[Updated] 2024 Approved Precision in Preservation Expert Techniques for Skype Call Recordings</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-honorable-highlights-elite-endorsements-for-snapping-alert-songs/"><u>[Updated] Honorable Highlights Elite Endorsements for Snapping Alert Songs</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-lightning-fast-photo-tweaks-in-windows-11/"><u>[Updated] In 2024, Lightning-Fast Photo Tweaks in Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/broadcast-without-delay-immediate-monitor-signal-restoration/"><u>Broadcast Without Delay: Immediate Monitor Signal Restoration</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhancing-lenovo-laptop-backlighting/"><u>Enhancing Lenovo Laptop Backlighting</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-common-issues-with-the-paradox-game-launcher-practical-tips-for-success/"><u>Fixing Common Issues with the Paradox Game Launcher - Practical Tips for Success</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mouse-sighting-blacked-out-windows-11-fix/"><u>Mouse Sighting: Blacked Out Windows 11 Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-windows-fix-remove-outdated-graphics-cards/"><u>Quick Windows Fix: Remove Outdated Graphics Cards</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reclaiming-default-display-settings-on-windows-710-success-achieved/"><u>Reclaiming Default Display Settings on Windows 7/10 - Success [Achieved]</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-tecno-pova-5-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Tecno Pova 5 Phones</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/video-output-stabilized-22-resolved/"><u>Video Output Stabilized: #22 Resolved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zero-signal-on-your-laptop-screen-how-to/"><u>Zero Signal on Your Laptop Screen - How To?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-use-luts-in-adobe-after-effect/"><u>[New] How to Use LUTs in Adobe After Effect</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-live-from-the-cloud-effective-dji-drone-broadcasting-tips-for-2024/"><u>[New] Live From the Cloud Effective DJI Drone Broadcasting Tips for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-open-access-to-the-masters-oeuvre/"><u>[New] Open Access to the Masters' Oeuvre</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-10-best-zoom-alternatives-deskop-and-mobile/"><u>[Updated] 2024 Approved 10 Best Zoom Alternatives [Deskop & Mobile]</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-digital-artists-10-favorite-background-switchers/"><u>2024 Approved Digital Artists' 10 Favorite Background Switchers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/darkened-vision-new-graphics-patch/"><u>Darkened Vision - New Graphics Patch</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/die-neueste-winx-dvd-ripper-platina-testen-sie-das-aktualisierte-update/"><u>Die Neueste WinX-DVD-Ripper Platina: Testen Sie Das Aktualisierte Update!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-erratic-behavior-of-hp-monitors/"><u>Fixing Erratic Behavior of HP Monitors</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-magic-5-lite-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic 5 Lite Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-strategies-to-evade-content-flagging/"><u>In 2024, Strategies to Evade Content Flagging</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-save-game-errors-civ-5/"><u>Overcoming Save Game Errors, Civ 5</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-y36-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo Y36 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-fallout-4-stability-issues-for-pc-gamers/"><u>Resolved: Fallout 4 Stability Issues for PC Gamers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/say-goodbye-to-pixelated-playback/"><u>Say Goodbye to Pixelated Playback</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shield-no-more-flicker-in-windows-11/"><u>Shield: No More Flicker in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-screen-flashback-on-lenovo-laptops/"><u>Stop Screen Flashback on Lenovo Laptops</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stopping-the-spotlight-swings-on-acer-displays/"><u>Stopping the Spotlight Swings on Acer Displays</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212053341-unstuck-with-screen-mirroring-on-windows-10-fix-the-device-connection-issue-here/"><u>Unstuck with Screen Mirroring on Windows 10? Fix the Device Connection Issue Here!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-secrets-to-combat-flickering-display/"><u>Unveiling Secrets to Combat Flickering Display</u></a></li>
 </ul></div>
 

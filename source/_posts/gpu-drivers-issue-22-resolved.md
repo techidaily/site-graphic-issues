@@ -1,7 +1,7 @@
 ---
 title: "GPU Drivers: Issue #22 Resolved"
-date: 2025-01-13T17:23:41.485Z
-updated: 2025-01-16T01:24:33.127Z
+date: 2025-01-20T16:46:21.422Z
+updated: 2025-01-21T16:46:00.071Z
 tags:
   - win11
   - win10
@@ -20,13 +20,17 @@ thumbnail: https://thmb.techidaily.com/fcc2142966c5b1ee29ff8b93fc6fb55850db39c56
 
  If you accidentally disable your graphics device, or your system for some unknown reason causes it to be disabled, it seems mission impossible to enable your device again, because you see nothing but a black screen, having no idea how to navigate to Device Manager to enable your display adapter. But don’t worry, all you need to do now is try [**Fix 1**](#f1) , which is kind of a trial-and-error approach but can also be a real fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Two fixes for graphics device driver error code 22
 
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Use your keyboard to navigate to Device Manager
@@ -57,6 +61,10 @@ Be careful you don’t mistype, or press the wrong keys!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Example – CMOS battery on a desktop PC
 
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).
@@ -64,7 +72,7 @@ Example – CMOS battery on a desktop PC
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Example – CMOS battery on a laptop
@@ -73,12 +81,12 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus tip
 
@@ -97,16 +105,8 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98dadf4599b.jpg)
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
@@ -129,18 +129,22 @@ Example – CMOS battery on a laptop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fixed-enhanced-visual-customization-missing-in-win11/"><u>[Fixed] Enhanced Visual Customization Missing in Win11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-transforming-images-with-ease-learn-snapseed-today/"><u>[Updated] Transforming Images with Ease Learn Snapseed Today</u></a></li>
-<li><a href="https://facebook.techidaily.com/accessing-facebooks-secrets-a-roadmap-to-transparency-center-use/"><u>Accessing Facebook's Secrets: A Roadmap to Transparency Center Use</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/computerscreenupsidedown-fix/"><u>ComputerScreenUpsideDown Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-boot-up-fails/"><u>Graphics Boot-Up Fails</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-lava-blaze-2-5g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Lava Blaze 2 5G</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Nubia Z50 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-asus-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Asus Phone without Google Account?</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-for-rectifying-non-operational-tab-keys/"><u>Methods for Rectifying Non-Operational Tab Keys</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-fcp-x-effects-made-simple-a-step-by-step-tutorial-for-2024/"><u>New FCP X Effects Made Simple A Step-by-Step Tutorial for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rejuvenating-your-systems-visual-experience-through-driver-update-win7/"><u>Rejuvenating Your System's Visual Experience Through Driver Update (Win7)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swift-solutions-for-warped-display-lines-in-devices/"><u>Swift Solutions for Warped Display Lines in Devices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/trim-excess-space-on-win-10-display/"><u>Trim Excess Space on WIN 10 Display</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-best-book-trailers-for-impact/"><u>[New] 2024 Approved Best Book Trailers for Impact</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-learn-the-basics-of-digital-distortion/"><u>[New] Learn the Basics of Digital Distortion</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-mastering-the-science-of-quantum-hdr-for-2024/"><u>[New] Mastering the Science of Quantum HDR for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-tips-and-tricks-mastering-voiceover-on-tiktok/"><u>[New] Tips and Tricks Mastering Voiceover on TikTok</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-lone-listeners-conundrum-cure-method/"><u>[Updated] In 2024, Lone Listener's Conundrum Cure Method</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/aligning-monitor-edges-vertically/"><u>Aligning Monitor Edges Vertically</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/anthems-quick-performance-fix/"><u>Anthem's Quick Performance Fix</u></a></li>
+<li><a href="https://article-posts.techidaily.com/captivating-comedy-crafted-step-by-step-meme-tutorial/"><u>Captivating Comedy Crafted Step-by-Step Meme Tutorial</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cure-loopy-screen-lines-on-laptops-efficiently/"><u>Cure Loopy Screen Lines on Laptops Efficiently</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/damping-down-display-dynamics-in-acer-systems/"><u>Damping Down Display Dynamics in Acer Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-issue-dark-screens/"><u>Graphics Issue: Dark Screens</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/how-to-restore-unintentionally-erased-main-partition-on-windows-10/"><u>How to Restore Unintentionally Erased Main Partition on Windows 10</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quelling-quick-flash-on-your-acer-screen/"><u>Quelling Quick Flash on Your Acer Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-physics-problems-civilization-v-pc/"><u>Resolving Physics Problems, Civilization V PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-factors-behind-chatgpts-unprecedented-rise-as-a-global-phenomenon/"><u>Top 5 Factors Behind ChatGPT's Unprecedented Rise as a Global Phenomenon</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-blackout-error-solved/"><u>Windows 10 Blackout Error Solved</u></a></li>
 </ul></div>
 

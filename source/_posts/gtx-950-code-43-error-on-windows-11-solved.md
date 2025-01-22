@@ -1,7 +1,7 @@
 ---
 title: GTX 950 Code 43 Error on Windows 11 [Solved]
-date: 2025-01-13T03:02:32.931Z
-updated: 2025-01-16T01:44:20.034Z
+date: 2025-01-14T21:03:31.118Z
+updated: 2025-01-21T20:16:55.770Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 **c** . Windows cannot recognize faulty hardware either, so please make sure that your display card is in good conditions. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Option 1: Clean re-install NVIDIA 950
 
  To perform a clean re-install of your graphics card driver, you may need some help from tools like CCleaner or Display Driver Uninstaller. In this post, we choose**Display Driver Uninstaller** . 
@@ -53,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded. 
@@ -87,25 +87,21 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##   **Option 2: Update Windows 10** 
 
  1) On your keyboard, press**Start** button, and then choose**Setting** icon. In the Setting window, click**Update & security** . 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click the**Check for updates** button to see if there are any new updates available. 
 
@@ -114,6 +110,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  3) If new updates are available, just download and then update them as instructed. 
 
  4) Restart your computer after the update. Then check to see if the code 43 still remains. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
 
@@ -126,7 +126,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   **Option 4: Reinstall Windows 10** 
@@ -155,18 +155,20 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-prodigious-picks-exceptional-laptops-for-uhd-editing-for-2024/"><u>[New] Prodigious Picks Exceptional Laptops for UHD Editing for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-essential-review-of-mp4-capture-tools-for-2024/"><u>[Updated] Essential Review of MP4 Capture Tools for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-starting-from-scratch-video-gear-insights/"><u>[Updated] Starting From Scratch Video Gear Insights</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-oppo-find-x7-ultra-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Oppo Find X7 Ultra</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-13-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 13 In Different Conditionsin</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-distraction-a-guide-to-prevent-monitor-flickering/"><u>No More Distraction: A Guide to Prevent Monitor Flickering</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimizing-microsofts-driver-for-windows/"><u>Optimizing Microsoft's Driver for Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-graphic-user-interface-windows-error/"><u>Resolved Graphic User Interface Windows Error</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/toms-tech-hub-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Hub - Unveiling the Latest in Computer Hardware</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/transforming-scenes-with-ease-your-gopro-time-lapse-guide/"><u>Transforming Scenes with Ease Your GoPro Time-Lapse Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unseen-maxwell-technology-on-windows-pc/"><u>Unseen Maxwell Technology on Windows PC</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-superior-alert-sound-pick-optimal-websites/"><u>[Updated] In 2024, Superior Alert Sound Pick Optimal Websites</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-videohub-app-critique-compendium/"><u>2024 Approved VideoHub App Critique Compendium</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-for-modifying-access-codes-to-your-personal-space-on-social-media-giant-x/"><u>Comprehensive Tutorial for Modifying Access Codes to Your Personal Space on Social Media Giant - X</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/control-excessive-win-10-display-size/"><u>Control Excessive WIN 10 Display Size</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-disabled-on-win1011-laptops-a-guide/"><u>GPU Disabled on Win10/11 Laptops: A Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-display-troubles-seeing-beyond-the-black/"><u>Lenovo Display Troubles: Seeing Beyond the Black</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/novices-nexus-grasping-frame-rates-and-aspect-ratios-for-2024/"><u>Novice's Nexus Grasping Frame Rates and Aspect Ratios for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-rtx-troubleshooting-guide/"><u>NVIDIA RTX Troubleshooting Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-lenovo-tv-like-screen-darkening/"><u>Overcoming Lenovo TV-Like Screen Darkening</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reduce-window-size-on-win-10-pc/"><u>Reduce Window Size on WIN 10 PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/squash-nvidia-driver-disruption/"><u>Squash Nvidia Driver Disruption</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-xiaomi-13t-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Xiaomi 13T Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transforma-tus-datos-de-sonido-sin-costo-usando-la-funcionalidad-online-de-conversion-ram-a-mp3-de-movavi/"><u>Transforma Tus Datos De Sonido Sin Costo Usando La Funcionalidad Online De Conversión RAM a MP3 De Movavi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-film-making-camera-lineup-best-of-all-levels/"><u>Ultimate Film-Making Camera Lineup Best of All Levels</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-pause-auto-updates-no-more-prompts/"><u>Windows Pause Auto-Updates: No More Prompts!</u></a></li>
 </ul></div>
 

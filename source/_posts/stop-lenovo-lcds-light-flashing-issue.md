@@ -1,7 +1,7 @@
 ---
 title: Stop Lenovo LCD's Light Flashing Issue
-date: 2025-01-12T19:39:10.491Z
-updated: 2025-01-16T02:18:39.699Z
+date: 2025-01-18T05:50:56.579Z
+updated: 2025-01-21T23:23:50.508Z
 tags:
   - win11
   - win10
@@ -43,22 +43,14 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597858796d417.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click the**Update** button next to each driver to automatically download the correct version of this driver (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Update your BIOS
 
@@ -75,7 +67,7 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
@@ -86,14 +78,22 @@ To update the BIOS of your Lenovo laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795ce5b8c59.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Open the**executable (.exe) file** you have downloaded. Follow the on-screen instructions to install the BIOS update to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Restart your laptop and see if the screen of your laptop recovers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Troubleshoot hardware issues
@@ -125,24 +125,24 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-reducing-noise-sensitivity-in-logic-pro-mixes/"><u>[New] Reducing Noise Sensitivity in Logic Pro Mixes</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-ultimate-selection-of-apps-to-tame-your-feed/"><u>2024 Approved The Ultimate Selection of Apps to Tame Your Feed</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/boosting-user-experience-through-innovative-engagement-tools/"><u>Boosting User Experience Through Innovative Engagement Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/combatting-ps5-intermittent-connection-issues/"><u>Combatting PS5 Intermittent Connection Issues</u></a></li>
-<li><a href="https://win-forum.techidaily.com/convertissez-votre-ogg-vorbis-en-video-avi-sans-frais-en-ligne-utiliser-movavi-pour-un-changement-facile/"><u>Convertissez Votre Ogg Vorbis en Vidéo AVI Sans Frais En Ligne - Utiliser Movavi Pour Un Changement Facile</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/critical-gpu-not-detected-alert/"><u>Critical: GPU Not Detected Alert</u></a></li>
-<li><a href="https://win-tips.techidaily.com/crystal-clear-hd-wallpapers-of-marvels-black-widow-and-winter-soldier-yl-software-exclusive-series/"><u>Crystal Clear HD Wallpapers of Marvel’s Black Widow & Winter Soldier - YL Software Exclusive Series</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cursors-comeback-in-black-screen-win11/"><u>Cursor's Comeback in Black Screen Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/efficient-approach-to-resolving-c1900101-install-issue/"><u>Efficient Approach to Resolving C1900101 Install Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fast-fixes-for-nvidia-gpu-without-screen-attachment/"><u>Fast Fixes for NVIDIA GPU Without Screen Attachment</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-create-a-digital-signature-and-certificate-for-excel-2007-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to create a digital signature and certificate for Excel 2007 files</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-silence-sputtering-screens/"><u>How to Silence Sputtering Screens</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-expert-audio-enhancement-toolkit/"><u>In 2024, Expert Audio Enhancement Toolkit</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-stellaris-overview-mastering-space-exploration-and-empires/"><u>In-Depth Stellaris Overview: Mastering Space Exploration & Empires</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/powerful-updates-new-drivers-for-amds-hd-6950-gfx/"><u>Powerful Updates: New Drivers for AMD's HD 6950 GFX</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restored-screen-continuity-in-dell-mini-pc/"><u>Restored Screen Continuity in Dell Mini-PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/straightforward-screens-with-win11-fix/"><u>Straightforward Screens with Win11 Fix</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-blade-blh4100-rc-helicopter-ready-to-launch-and-perfect-for-outdoor-enthusiasts/"><u>The Blade BLH4100 RC Helicopter - Ready-to-Launch and Perfect for Outdoor Enthusiasts!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ui-graphics-recovered-on-win-seamless-interaction/"><u>UI Graphics Recovered on Win - Seamless Interaction</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-fastest-time-lapse-capturing-system-5/"><u>[New] Fastest Time-Lapse Capturing System #5</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-clubbing-essentials-top-rated-dj-template-vids/"><u>[Updated] 2024 Approved Clubbing Essentials Top-Rated DJ Template Vids</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-innovative-drone-designs-always-on-your-side/"><u>[Updated] 2024 Approved Innovative Drone Designs Always on Your Side</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-mastering-the-art-of-google-podcast-upload/"><u>[Updated] Mastering the Art of Google Podcast Upload</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726221056706-mp4wav/"><u>快適に音質を維持してMP4ファイルをWAV形式に変換 - 無料で!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjusting-win11-monitor-size-issue/"><u>Adjusting Win11 Monitor Size Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bridge-the-gap-running-intel-driver-in-low-end-pcs/"><u>Bridge the Gap: Running Intel Driver in Low-End PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conquered-recurring-monitor-blanks-now-stable/"><u>Conquered Recurring Monitor Blanks, Now Stable</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enabling-advanced-display-settings-on-nvidia-graphics/"><u>Enabling Advanced Display Settings on NVIDIA Graphics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ending-windows-10-anomalous-refresh/"><u>Ending Window's 10 Anomalous Refresh</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/finding-the-hidden-shadowstack-chipset/"><u>Finding the Hidden Shadowstack Chipset</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-xiaomi-redmi-note-12-proplus-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Xiaomi Redmi Note 12 Pro+ 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-convert-flawlessly-leading-software-for-high-res-videos/"><u>In 2024, Convert Flawlessly Leading Software for High-Res Videos</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-reno-8t-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo Reno 8T Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-asus-rog-phone-7s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Asus ROG Phone 7s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/portable-computing-orientation-set-right/"><u>Portable Computing - Orientation Set Right</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tips-to-run-intel-graphics-in-low-end-systems/"><u>Tips to Run Intel Graphics in Low-End Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-runtime-errors-fixing-error-0xc00000e9-with-ease/"><u>Troubleshooting Windows Runtime Errors – Fixing Error 0xC00000E9 with Ease</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zero-down-time-fix-stutter-today/"><u>Zero Down Time: Fix Stutter Today</u></a></li>
 </ul></div>
 

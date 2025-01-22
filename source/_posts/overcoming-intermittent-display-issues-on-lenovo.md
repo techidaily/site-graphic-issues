@@ -1,7 +1,7 @@
 ---
 title: Overcoming Intermittent Display Issues on Lenovo
-date: 2025-01-10T00:35:17.675Z
-updated: 2025-01-15T18:39:47.407Z
+date: 2025-01-14T21:57:46.292Z
+updated: 2025-01-22T04:38:37.745Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/878d220757d7d14313871f9b10cde72f7c661f389
 3. **[Troubleshoot hardware issues](#c)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Update your drivers
@@ -46,18 +46,18 @@ thumbnail: https://thmb.techidaily.com/878d220757d7d14313871f9b10cde72f7c661f389
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597858796d417.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click the**Update** button next to each driver to automatically download the correct version of this driver (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859a7e365f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’ve updated your driver with Driver Easy but your problem persists, please contact Driver Easy’s support team at <support@drivereasy.com> for advice. You should attach the URL of this article so they can help you better.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Update your BIOS
@@ -75,7 +75,7 @@ To update the BIOS of your Lenovo laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795b8f49038.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Select**Drivers & Software** and click **BIOS/UEFI** to expand this category. Then click the**eye-shape button** next to the latest BIOS update.
@@ -86,13 +86,13 @@ To update the BIOS of your Lenovo laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795ce5b8c59.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)**  Open the**executable (.exe) file** you have downloaded. Follow the on-screen instructions to install the BIOS update to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795da0904c0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Restart your laptop and see if the screen of your laptop recovers.
 
@@ -125,18 +125,17 @@ You can troubleshoot these hardware issues on your own:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-top-entry-editor-for-seamless-edits-across-all-platforms/"><u>[New] 2024 Approved Top Entry Editor for Seamless Edits Across All Platforms</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-pixel-perfect-free-mobile-photography-booster/"><u>[New] In 2024, Pixel Perfect Free Mobile Photography Booster</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-elite-soundstage-storytelling-scripts-for-2024/"><u>[Updated] Elite Soundstage Storytelling Scripts for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-speeding-up-slide-show-video-performance/"><u>[Updated] Speeding Up Slide Show Video Performance</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clearing-the-fallen-windows-screen-issue/"><u>Clearing the Fallen Windows Screen Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dial-down-the-disruption-solve-windows-7-display-shimmies/"><u>Dial Down the Disruption: Solve Windows 7 Display Shimmies</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gfxui-win-error-resolved-effortless-user-experience/"><u>GFXUI Win Error Resolved: Effortless User Experience</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-tecno-pop-7-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Tecno Pop 7 Pro Quickly? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-zero-5g-2023-turbo-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Zero 5G 2023 Turbo to Outlook | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818327806-no-more-win-graphics-failure/"><u>No More Win Graphics Failure</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/pinpointing-the-premier-top-10-pc-vr-headset-models-of-2-written-by-dr-jane-smith-on-january-15-2023/"><u>Pinpointing the Premier Top 10 PC VR Headset Models of 2 Written by Dr. Jane Smith on January 15, 2023</u></a></li>
-<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-vivo-t2x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-game-rig-razers-low-latency-high-performance-basilisk/"><u>Ultimate Game Rig - Razer's Low Latency, High Performance Basilisk</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-video-recording-extraordinaire-top-3-smartphones-of-the-year-for-2024/"><u>[New] Video Recording Extraordinaire Top 3 Smartphones of the Year for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-optimizing-audience-retention-through-engaging-shorts/"><u>[Updated] Optimizing Audience Retention Through Engaging Shorts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ensuring-clear-screens-with-win11-fixes/"><u>Ensuring Clear Screens with Win11 Fixes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-enhanced-efficiency-with-raspberry-pi-zero-2-ws-latest-upgrade-boosting-speed-by-over-five-times-for-just-15-insights-from-zdnet/"><u>Experience Enhanced Efficiency with Raspberry Pi Zero 2 W's Latest Upgrade, Boosting Speed by Over Five Times for Just $15 - Insights From ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-improve-your-network-speed-and-lower-ping-in-battle-royale-games/"><u>Expert Tips to Improve Your Network Speed & Lower Ping in Battle Royale Games</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-windows-gui-restoring-normal-gfx-functionality/"><u>Fixed Windows GUI: Restoring Normal GFX Functionality</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-vivo-y77t-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Vivo Y77t FRP Bypass</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/limit-win-10-display-extensiveness/"><u>Limit WIN 10 Display Extensiveness</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-gpu-glitches-without-freeze-outages/"><u>Overcoming GPU Glitches Without Freeze Outages</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-graphics-error-reported/"><u>System Graphics Error Reported</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transforming-rookie-marketers-into-pros-with-these-five-hacks/"><u>Transforming Rookie Marketers Into Pros with These Five Hacks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/visual-learning-tips-for-video-editing-in-schools-for-2024/"><u>Visual Learning Tips for Video Editing in Schools for 2024</u></a></li>
 </ul></div>
 

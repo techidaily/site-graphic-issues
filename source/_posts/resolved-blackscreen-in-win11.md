@@ -1,7 +1,7 @@
 ---
 title: Resolved BlackScreen in Win11
-date: 2025-01-09T02:30:09.917Z
-updated: 2025-01-16T02:56:05.983Z
+date: 2025-01-19T20:29:09.083Z
+updated: 2025-01-22T06:14:06.516Z
 tags:
   - win11
   - win10
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 1: Remove battery & long-press power button (laptops only)**
@@ -78,7 +78,7 @@ If you’re on a laptop:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 3: Disable fast startup**
@@ -97,10 +97,6 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100da71f1.jpg)
@@ -111,12 +107,16 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410125bde7.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Under “Shutdown settings”, uncheck**Turn on fast startup (recommended)** then click**Save changes** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_58341019b216b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -134,14 +134,14 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834101f060b1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Under “Display adapters”, you’ll see more than one graphics card. Right-click on the integrated graphics card (usually an Intel or AMD graphics card). Click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410251d274.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Restart your PC.
@@ -149,10 +149,6 @@ If you’re on a laptop:
  If you’re not sure which one is the integrated graphics one, disable one by one and see if the problem is resolved.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Log in using a different user account
 
@@ -201,7 +197,7 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a859df68c.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Type **net user administrator /active:yes** and press the **Enter** key on your keyboard.
@@ -214,6 +210,10 @@ If you’re on a laptop:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 6: Reset your PC**
 
  The final solution you can try is to reset your PC. This will reinstall Windows entirely. If you’re not comfortable with resetting your PC, we recommend you contact your PC manufacturer for further assistance.
@@ -224,14 +224,14 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834163ae52.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Click **Update & security**  .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834c5df865.png)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click **Recovery** .  
 
@@ -261,24 +261,16 @@ If you’re on a laptop:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-gaming-evolution-top-7-stardew-valley-enhancements-7-for-2024/"><u>[New] Gaming Evolution Top 7 Stardew Valley Enhancements (#7) for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-avoiding-compression-larger-youtube-videos/"><u>[Updated] 2024 Approved Avoiding Compression Larger YouTube Videos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-perfect-upside-down-and-sideways-iphone-images/"><u>[Updated] In 2024, Perfect Upside-Down & Sideways iPhone Images</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/achieve-flawless-viewing-with-simple-line-adjustments/"><u>Achieve Flawless Viewing with Simple Line Adjustments</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/customizing-your-system-tray-icons-a-comprehensive-guide-powered-by-yl-software-solutions/"><u>Customizing Your System Tray Icons: A Comprehensive Guide - Powered by YL Software Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/disable-airpod-connection-sharing-across-different-apple-gadgets/"><u>Disable AirPod Connection Sharing Across Different Apple Gadgets</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818099251-fixed-the-flashing-problems-for-good/"><u>Fixed the Flashing Problems for Good!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-performance-flaws-for-software-installation-needs/"><u>Fixing Performance Flaws for Software Installation Needs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/guidelines-to-enable-amd-freesync/"><u>Guidelines to Enable AMD FreeSync</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-elden-rings-launch-problem-starting-with-a-black-display/"><u>How to Overcome Elden Ring’s Launch Problem - Starting with a Black Display</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-free-end-credits-excellence-top-6-tutorials/"><u>In 2024, Free End Credits Excellence Top 6 Tutorials</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-the-science-of-effective-spotify-promotions/"><u>In 2024, The Science of Effective Spotify Promotions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/missing-pixelshader-detected-solved/"><u>Missing PixelShader Detected [Solved]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectifying-inverted-screens-display-windows-11/"><u>Rectifying Inverted Screens Display: Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-msdn-battery-concerns-in-win-os-versions/"><u>Resolving MSDN Battery Concerns in WIN OS Versions</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/retrieve-accidentally-deleted-images-beyond-the-recycle-bin-a-step-by-step-guide/"><u>Retrieve Accidentally Deleted Images Beyond the Recycle Bin: A Step-by-Step Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stabilize-minecraft-correcting-cards-issue/"><u>Stabilize Minecraft: Correcting Cards Issue</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-troubleshooting-tips-for-fixing-dsounddll-file-not-found-issues/"><u>Ultimate Troubleshooting Tips for Fixing 'dSound.dll' File Not Found Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-unresolved-display-setting-issue-fixed/"><u>Windows 11: Unresolved Display Setting Issue (Fixed)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjusting-monitor-scale-in-win11/"><u>Adjusting Monitor Scale in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/device-drivers-error-43-sorted/"><u>Device Drivers' Error #43 Sorted</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicate-incessant-led-glare/"><u>Eradicate Incessant LED Glare</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-civ-5-system-crashes/"><u>Fixing Civ 5 System Crashes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y17s-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-14-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi 14</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-essential-iphone-screen-recording-manual/"><u>In 2024, The Essential iPhone Screen Recording Manual</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-top-picks-the-best-10-recorders-for-podcasting/"><u>In 2024, Top Picks The Best 10 Recorders for Podcasting</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-a18-music-recovery-recover-deleted-music-from-oppo-a18-by-fonelab-android-recover-music/"><u>Oppo A18 Music Recovery - Recover Deleted Music from Oppo A18</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ui-graphics-issue-in-windows-successful-fix-applied/"><u>UI Graphics Issue in Windows: Successful Fix Applied</u></a></li>
 </ul></div>
 

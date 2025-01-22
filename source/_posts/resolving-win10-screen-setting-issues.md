@@ -1,7 +1,7 @@
 ---
 title: Resolving Win10 Screen Setting Issues
-date: 2025-01-12T01:13:59.488Z
-updated: 2025-01-15T18:36:37.434Z
+date: 2025-01-16T17:37:17.639Z
+updated: 2025-01-22T04:25:31.767Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 2. **[Uninstall graphics driver and reinstall](#F2)**
 3. **[Turn on GPU Scaling](#F3)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -40,15 +44,15 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -70,16 +74,12 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -87,6 +87,10 @@ Here is how to do it:
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3:**Turn on GPU Scaling**
 
@@ -102,10 +106,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
@@ -113,7 +113,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
@@ -148,16 +148,18 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-master-artistic-freedom-with-the-top-10-mac-drawings/"><u>[New] Master Artistic Freedom with the Top 10 Mac Drawings</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-powerdirectors-latest-revolution-compre-point-by-point-review-and-tutorial/"><u>2024 Approved PowerDirector's Latest Revolution Compre Point-by-Point Review & Tutorial</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/conquering-netflix-buffering-in-updated-windows-11-os/"><u>Conquering Netflix Buffering in Updated Windows 11 OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/diagnosing-and-repairing-the-wireless-keyboard-failure-in-microsofts-operating-system/"><u>Diagnosing and Repairing the Wireless Keyboard Failure in Microsoft's Operating System</u></a></li>
-<li><a href="https://article-posts.techidaily.com/framed-facets-guide-to-the-best-apps-and-websites-for-image-framing-for-2024/"><u>Framed Facets Guide to the Best Apps and Websites for Image Framing for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-install-or-update-corsair-k55-driver-easy-guide/"><u>How to Install or Update Corsair K55 Driver - Easy Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/improve-anthem-loading-times/"><u>Improve Anthem Loading Times</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/melody-meets-momentum-harmonizing-sound-with-imagery-for-2024/"><u>Melody Meets Momentum Harmonizing Sound with Imagery for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-signal-new-graphics-card/"><u>No Signal - New Graphics Card</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/offline-windows-11-installation-made-simple/"><u>Offline Windows 11 Installation Made Simple</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimizing-visual-fluidity-through-supported-freesync/"><u>Optimizing Visual Fluidity Through Supported FreeSync</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/god-of-war-polishing-combat-intuition/"><u>'God of War': Polishing Combat Intuition</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/arrating-numbers-making-millions-from-your-micro-vlogs-for-2024/"><u>[New] Narrating Numbers Making Millions From Your Micro-Vlogs for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-cutting-edge-captures-top-10-online-video-recorders/"><u>[Updated] In 2024, Cutting-Edge Captures Top 10 Online Video Recorders</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-art-and-science-of-buying-profitable-yt-content-for-2024/"><u>[Updated] The Art and Science of Buying Profitable YT Content for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-the-best-virtualdub-replacements-for-video-editing/"><u>2024 Approved The Best Virtualdub Replacements for Video Editing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210167418-9781647010034-be-good-to-people-be-good-to-yourself/"><u>Be Good to People Be Good to Yourself | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-breakthrough-apple-eyes-ai-enabled-domestic-robotics-spotlighting-two-game-changing-devices-as-reported-by-zdnet/"><u>Innovative Breakthrough?: Apple Eyes AI-Enabled Domestic Robotics, Spotlighting Two Game-Changing Devices as Reported by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reasons-to-worry-about-unauthorized-individuals-discovering-your-ip-address/"><u>Reasons to Worry About Unauthorized Individuals Discovering Your IP Address.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-your-gameplay-in-anthem/"><u>Streamline Your Gameplay in Anthem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swap-screen-positioning-on-windowed-pcs/"><u>Swap Screen Positioning on Windowed PCs</u></a></li>
+<li><a href="https://article-files.techidaily.com/video-cam-gurus-top-picks/"><u>Video Cam Gurus Top Picks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/your-clear-vision-free-of-flickers-intrusion/"><u>Your Clear Vision, Free of Flicker's Intrusion</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zoom-perfectionists-manual-reviving-faulty-cameras/"><u>Zoom Perfectionist's Manual - Reviving Faulty Cameras</u></a></li>
 </ul></div>
 

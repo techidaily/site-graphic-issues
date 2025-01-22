@@ -1,7 +1,7 @@
 ---
 title: "Techniques to End Shaking Displays: HP Laptops"
-date: 2025-01-13T17:26:54.303Z
-updated: 2025-01-15T20:07:24.669Z
+date: 2025-01-20T21:37:18.597Z
+updated: 2025-01-21T23:46:53.820Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/ccd36b11fe822cf8edc40f8a572a80b6d8bbf0e62
 ## Techniques to End Shaking Displays: HP Laptops
 
  Screen flickering or blinking on your HP laptop? Don’t panic, it’s often not hard to fix at all…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes for HP laptop flickering or blinking
 
@@ -59,10 +55,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
@@ -74,6 +66,10 @@ Here is how to do it:
 5) Check to see if the laptop screen flickering issue is resolved. If yes, then congrats! If the problem remains, please move on to **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Change the screen refresh rate
 
@@ -92,7 +88,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In **Resolution** , click the drop-down menu and make sure **the recommended resolution** is selected.
@@ -100,7 +96,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
@@ -111,15 +107,19 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Adjust the screen resolution one by one in the drop-down menu and see if there’s one that solves the screen flickering problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
- 3) Check to see if your laptop screen flickering or blinking issue is resolved.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
 ### Fix 4: Repair corrupted system files
 
@@ -158,18 +158,22 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/uide-on-transforming-youtube-videos-into-mp3-using-safe-procedures/"><u>[New] Guide on Transforming YouTube Videos Into MP3 Using Safe Procedures</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-dell-laptop-screen-flickering/"><u>[SOLVED] Dell Laptop Screen Flickering</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-honor-100-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adjustment-needed-overly-expansive-win-10-monitor/"><u>Adjustment Needed: Overly Expansive WIN 10 Monitor</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-dolby-atmos-playback-issues-on-windows-10/"><u>Fixing Dolby Atmos Playback Issues on Windows 10</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-oppo-reno-11-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Oppo Reno 11 5G Phone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-efficiently-log-your-overwatch-battles/"><u>In 2024, Efficiently Log Your Overwatch Battles</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-professional-steps-for-high-quality-powerpoint-replays/"><u>In 2024, Professional Steps for High-Quality PowerPoint Replays</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-taking-control-importing-snapchat-snaps-to-your-phones-gallery/"><u>In 2024, Taking Control Importing Snapchat Snaps to Your Phone's Gallery</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimizing-large-screen-size-on-win11-pc/"><u>Optimizing Large Screen Size on Win11 PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/secure-saving-of-display-configurations-in-win-7-10-editions-settled/"><u>Secure Saving of Display Configurations in WIN 7-10 Editions [Settled]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/uncomplicated-repair-routines-no-video-connection/"><u>Uncomplicated Repair Routines, No Video Connection</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/god-of-war-perfecting-the-fury/"><u>'God of War': Perfecting the Fury</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-how-to-pick-a-vr-gear-is-mobile-mobility-more-attractive-than-cable-connections-in-2024/"><u>[New] How to Pick a VR Gear Is Mobile Mobility More Attractive Than Cable Connections, In 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-leveraging-technology-for-flawless-youtube-cc-and-subtitled-videos/"><u>[New] Leveraging Technology for Flawless YouTube CC & Subtitled Videos</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-radeon-r9-crashes-win11-edition/"><u>Addressing Radeon R9 Crashes: Win11 Edition</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banishing-black-screens-on-twitch-streams/"><u>Banishing Black Screens on Twitch Streams</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/calibrating-oversized-resolution-in-win11/"><u>Calibrating Oversized Resolution in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/efficient-strategies-to-combat-loading-lag/"><u>Efficient Strategies to Combat Loading Lag</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-to-restore-incoming-call-functionality-on-your-samsung-galaxy-watch/"><u>Expert Tips to Restore Incoming Call Functionality on Your Samsung Galaxy Watch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fail-to-initialize-graphical-engine/"><u>Fail to Initialize Graphical Engine</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-lava-blaze-pro-5g-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Lava Blaze Pro 5G.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-benqs-visionary-approach-to-4k-monitors-unraveled-by-the-bl2711u-review/"><u>In 2024, BenQ's Visionary Approach to 4K Monitors, Unraveled by the BL2711U Review</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimal-repair-strategies-for-gpus-only/"><u>Optimal Repair Strategies for GPUs Only</u></a></li>
+<li><a href="https://fox-links.techidaily.com/pro-capture-not-just-point-and-shoot-mastering-the-hero5-black/"><u>Pro Capture, Not Just Point-and-Shoot Mastering the Hero5 Black</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722960680232-simplify-your-life-update-your-canon-printerscameras-on-windows-today/"><u>Simplify Your Life: Update Your Canon Printers/Cameras on Windows Today!</u></a></li>
+<li><a href="https://win-hot.techidaily.com/step-by-step-guide-transferring-files-between-directories-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Transferring Files Between Directories on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-screen-adjustment-mastery/"><u>Win10 Screen Adjustment Mastery</u></a></li>
 </ul></div>
 

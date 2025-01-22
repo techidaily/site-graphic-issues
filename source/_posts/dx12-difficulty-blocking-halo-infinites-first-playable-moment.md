@@ -1,7 +1,7 @@
 ---
 title: DX12 Difficulty Blocking Halo Infinite's First Playable Moment
-date: 2025-01-11T21:32:42.925Z
-updated: 2025-01-16T00:18:49.132Z
+date: 2025-01-19T06:45:24.732Z
+updated: 2025-01-22T01:56:06.130Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 
  Halo Infinite is a great game but it is really annoying when you get a DirectX12 error and can’t launch the game. Don’t worry, you’re not alone. This post has gathered fixes to solve the error and help you play the game. Read on to find how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Download DX12 file](#fix)
@@ -26,15 +30,15 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 4. [Edit your file name](#fix3)
 5. [Repair system files](#fix4)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Download DX12 file
 
  Before moving to any complicated fixes, make sure you’ve downloaded and installed the latest DX12 files.
 
  If not, go to the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the latest version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
 
@@ -70,12 +74,20 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Restart your computer for the changes to take effect, then relaunch Halo Infinite.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Check your PC specification
 
@@ -110,16 +122,8 @@ You need to check 2 elements:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 
@@ -135,6 +139,10 @@ If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 
 If this fix doesn’t work, move to the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Repair system files
 
  If your system files are missing or broken, you’ll encounter various issues including the game not launching issue. When none of the methods have fixed the issue, running **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  to check the system files could make a difference. It will deal with issues related to system errors, critical system files for you.
@@ -148,18 +156,10 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That’s all about the DirectX 12 incompatible graphics adapter error that stops you from playing the game. Hope this post would help. If you have any suggestions or working methods, you’re welcome to leave a comment below.
 
@@ -178,20 +178,24 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/god-of-war-simplifying-complex-moves/"><u>'God of War': Simplifying Complex Moves</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-system-prerequisites-for-running-big-sur-on-macs/"><u>[New] In 2024, System Prerequisites for Running Big Sur on Macs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-often-do-youtubers-receive-income-in-2024/"><u>[Updated] How Often Do YouTubers Receive Income, In 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unveiling-the-secrets-of-auto-played-youtube-content-on-facebook-platform/"><u>[Updated] In 2024, Unveiling the Secrets of Auto-Played YouTube Content on Facebook Platform</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/determining-your-pcs-eligibility-essential-minimum-and-recommended-specs-for-playing-fortnite/"><u>Determining Your PC's Eligibility: Essential Minimum and Recommended Specs for Playing Fortnite</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ending-switchable-gpu-woes-nvidiaintel-fix-on-win10/"><u>Ending Switchable GPU Woes: Nvidia/Intel Fix on Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/error-corrected-in-display-driver-recovery-achieved/"><u>Error Corrected in Display Driver: Recovery Achieved</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-criteria-top-7-considerations-for-an-effective-bot-service/"><u>Essential Criteria: Top 7 Considerations for an Effective Bot Service</u></a></li>
-<li><a href="https://win-premium.techidaily.com/how-to-identify-and-eliminate-tracking-cookies-caused-by-adware/"><u>How to Identify & Eliminate Tracking Cookies Caused by Adware</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-lenovo-thinkphone-frp-bypass-by-drfone-android/"><u>In 2024, About Lenovo ThinkPhone FRP Bypass</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/latest-win11-enhancements-for-visual-customization/"><u>Latest Win11 Enhancements for Visual Customization</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-non-displaying-full-screen-in-windows-11-pcs/"><u>Resolve: Non-Displaying Full Screen in Windows 11 PCs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-microsoft-teams-microphone-expert-fixes-for-windows-11-and-windows-10-pcs/"><u>Revive Your Microsoft Teams Microphone - Expert Fixes for Windows 11 and Windows 10 PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-video-driver-issue-43-quickly/"><u>Solved Video Driver Issue #43 Quickly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshoot-vertical-edges-misalignment-in-laptop-screens/"><u>Troubleshoot Vertical Edges Misalignment in Laptop Screens</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-biggest-fifa-visuals-youtube-insights-graphed/"><u>[Updated] 2024 Approved Biggest FIFA Visuals YouTube Insights Graphed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-elevate-your-photography-with-polarrs-complete-features/"><u>[Updated] In 2024, Elevate Your Photography with Polarr's Complete Features</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-harnessing-the-power-camera-techniques-in-ios-11/"><u>[Updated] In 2024, Harnessing the Power Camera Techniques in iOS 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-unveiling-strategies-how-apple-could-surpass-competitors-like-microsoft-and-google-at-the-upcoming-wwdc-2eek-insights/"><u>1. Unveiling Strategies: How Apple Could Surpass Competitors Like Microsoft & Google at the Upcoming WWDC 2Eek - Insights</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-best-mac-tools-excluding-standard-bandicam/"><u>2024 Approved Best Mac Tools Excluding Standard Bandicam</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/altering-screen-size-on-windows-11-an-achieved-solution/"><u>Altering Screen Size on Windows 11: An Achieved Solution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boosting-windows-drivers-ms-graphics-fixes/"><u>Boosting Windows Drivers, MS Graphics Fixes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cured-amd-ray-tracing-issue/"><u>Cured AMD Ray Tracing Issue</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/cutting-edge-ways-to-tailor-your-igtv-content-size-for-2024/"><u>Cutting-Edge Ways to Tailor Your IGTV Content Size for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-artificial-intelligence-simulating-talks-between-humans-and-chatbots/"><u>Exploring Artificial Intelligence: Simulating Talks Between Humans and Chatbots</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/herramientas-gratuitas-para-recortar-grabaciones-sonoras-y-descargarlas-facilmente-desde-cualquier-dispositivo-conectado-a-internet/"><u>Herramientas Gratuitas Para Recortar Grabaciones Sonoras Y Descargarlas Fácilmente Desde Cualquier Dispositivo Conectado a Internet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-5-best-hd-hunting-cameras-reviewed/"><u>In 2024, 5 Best HD Hunting Cameras Reviewed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/kernel-issue-overcome-monitor-recovered/"><u>Kernel Issue Overcome: Monitor Recovered</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimizing-win11-monitor-size/"><u>Optimizing Win11 Monitor Size</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818245271-saving-screen-configuration-job-well-done/"><u>Saving Screen Configuration, Job Well Done</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-out-windows-graphics-with-proper-card/"><u>Smooth Out Windows Graphics with Proper Card</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-resolution-of-windows-11-gpu-issue/"><u>Successful Resolution of Windows 11 GPU Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unblemished-visuals-on-windows-11-pc/"><u>Unblemished Visuals on Windows 11 PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/winning-the-battle-against-chrome-freezing-tips-for-windows-11-users/"><u>Winning the Battle Against Chrome Freezing - Tips for Windows 11 Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhancing Combat Efficiency in 'God of War'
-date: 2025-01-12T20:11:33.502Z
-updated: 2025-01-15T20:23:46.749Z
+date: 2025-01-16T02:06:10.535Z
+updated: 2025-01-21T19:04:07.589Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 * [Fix 5: Repair system files](#block-628daa0c-75c9-4796-b5ca-d131e3878f6e)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check the system requirements
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 | Graphics  | NVIDIA GTX 960 (4 GB) or AMD R9 290X (4 GB)                          |
 | DirectX   | Version 11 (DirectX feature level 11\_1 required)                    |
 | Storage   | 70 GB available space                                                |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -76,6 +72,10 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s3.jpg)
 3. On the left, select **LOCAL FILES** . Then click **Verify integrity of game files** .. and wait for the process to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-game-files.jpg)
 4. Restart God of War and check if the issue persists.
 
@@ -91,15 +91,15 @@ If this doesn’t fix the problem, take a look at the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once you’ve installed all the system updates, restart your computer and test the gameplay.
 
 If the latest updates don’t work for you, try the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Repair system files
 
@@ -118,13 +118,13 @@ If the latest updates don’t work for you, try the next method.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -147,22 +147,22 @@ If the latest updates don’t work for you, try the next method.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-art-of-inverted-investigation-finding-true-sources-on-instagram-photos/"><u>[Updated] In 2024, The Art of Inverted Investigation Finding True Sources on Instagram Photos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-video-potential-the-art-of-youtube-live-360-streaming-for-2024/"><u>[Updated] Unlocking Video Potential The Art of YouTube Live 360 Streaming for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-motorola-moto-g24-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Motorola Moto G24 Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-to-fixing-nvidia-opengl-issue-in-windows-11/"><u>Comprehensive Guide to Fixing NVIDIA OpenGL Issue in Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convert-mov-files-to-mp4-for-free-easy-online-tool-compatible-with-mac-and-windows-10/"><u>Convert MOV Files to MP4 for Free: Easy Online Tool Compatible with Mac & Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eclipse-ended-for-windows-11-fall-patch-fixes/"><u>Eclipse Ended for Windows 11 - Fall Patch Fixes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-hp-laptop-screen-flickering-or-blinking-issues/"><u>How To Fix HP Laptop Screen Flickering Or Blinking Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/improving-windows-graphics-via-basic-driver-tweaks/"><u>Improving Windows Graphics via Basic Driver Tweaks</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-crafting-shocking-news-titles-expert/"><u>In 2024, Crafting Shocking News Titles Expert</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Infinix GT 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/proven-elements-for-optimal-bot-assisted-support-systems/"><u>Proven Elements for Optimal Bot-Assisted Support Systems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectifying-computers-oversight-of-gpu/"><u>Rectifying Computer's Oversight of GPU</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-network-issues-in-civ-5/"><u>Resolving Network Issues in CIV 5</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-backward-screen-on-windows-11/"><u>Troubleshooting Backward Screen on Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-bsod-how-to-resolve-asmthchisys-system-crashes/"><u>Troubleshooting BSOD: How to Resolve 'AsmThChiSys' System Crashes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-display-firmware-update/"><u>Window's 10 Display Firmware Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-invisible-fullscreen-window/"><u>Windows 10: Invisible Fullscreen Window?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-steps-for-a-smooth-experience-with-the-windows-11-photos-app/"><u>[New] 2024 Approved Steps for a Smooth Experience with the Windows 11 Photos App</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essence-of-video-editing-filmoras-ten-wonders/"><u>[New] The Essence of Video Editing Filmora's Ten Wonders</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-10-student-friendly-history-yt-series/"><u>2024 Approved Top 10 Student-Friendly History YT Series</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/activating-disabled-freesync-on-amd-gpus/"><u>Activating Disabled FreeSync on AMD GPUs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazon-echo-show-10-third-generation-an-unmatched-portable-smart-display-for-your-home/"><u>Amazon Echo Show 10 (Third Generation) - An Unmatched Portable Smart Display for Your Home</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/efficiently-enhance-vr-experience-update-intel-3000-on-windows-11/"><u>Efficiently Enhance VR Experience - Update Intel 3000 on Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-lines-on-laptop-straighten-horizontal-borders/"><u>Fix Lines on Laptop - Straighten Horizontal Borders</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-disabled-gpu-settings-on-windows-devices-win1011/"><u>Fixing Disabled GPU Settings on Windows Devices (Win10/11)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/heal-displays-with-smooth-transitions/"><u>Heal Displays with Smooth Transitions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xlsm-files-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign .xlsm files online</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-lava-yuva-2-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Lava Yuva 2 Pro to New Phone | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-drivers-tdr-error-corrected/"><u>NVIDIA Drivers: TDR Error Corrected</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-install-of-directx-on-your-pc-with-windows-11-or-10-effortless-downloads/"><u>Quick Install of DirectX on Your PC with Windows 11 or 10: Effortless Downloads</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-steps-for-enabling-spatial-sound-in-windows-11-and-10-systems/"><u>Solution Steps for Enabling Spatial Sound in Windows 11 and 10 Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/taming-the-tempestuous-screens-in-vista-or-win7/"><u>Taming the Tempestuous Screens in Vista or Win7</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-honor-v-purse-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Honor V Purse Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-blue-screen-issue-fixed/"><u>Windows 10 Blue Screen Issue Fixed</u></a></li>
 </ul></div>
 

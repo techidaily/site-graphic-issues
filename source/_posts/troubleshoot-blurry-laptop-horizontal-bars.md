@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Blurry Laptop Horizontal Bars
-date: 2025-01-11T01:41:56.205Z
-updated: 2025-01-15T18:05:53.419Z
+date: 2025-01-21T01:09:51.090Z
+updated: 2025-01-21T21:04:55.988Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 
  If you ever have horizontal lines on your laptop screen, don’t worry. It’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for horizontal lines on Windows 10, 8.1 and 7 issue
 
  Here are 3 fixes that have helped other users resolve the horizontal lines on laptop screen issue. You may not have to try all of them; just work your way down the list until the problem is resolved.
@@ -25,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 1. **[Update your graphics driver](#F1)**
 2. **[Adjust the screen resolution](#F2)**
 3. **[Gently wipe the screen with cotton balls](#F3)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -41,26 +49,18 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also click Update to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and see if the horizontal lines on screen issue has been fixed. If yes, then great! But if the problem persists, move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Adjust the screen resolution
 
@@ -76,13 +76,13 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In**Resolution** , click the drop-down menu and make sure the**recommended resolution** is selected. Then see if the horizontal lines disappear.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### I’m using Windows 8 or 7
 
@@ -90,15 +90,15 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Adjust the screen resolution and see if the horizontal lines disappear.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Gently wipe the screen with cotton balls
 
@@ -130,18 +130,20 @@ Featured image by rawpixel.com from Pexels
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-comprehensive-study-editmagics-power-edition-for-2024/"><u>[New] Comprehensive Study EditMagic's Power Edition for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-holistic-iphone-use-images-and-videos-fused-together/"><u>[Updated] Holistic iPhone Use Images & Videos Fused Together</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1-optimize-large-videos-for-smooth-sharing-on-facebook-step-by-step-guide/"><u>1. Optimize Large Videos for Smooth Sharing on Facebook: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/5pmc6zat44go6kej5yop5bqm44ks6kal55u044gx44gm44cb44ki44kk6imv44ge5yuv55s75l2t6ait44g45zcr44gr44gf44oi44oq44of44oz44kw5oqa6kgt44gu5b655bqv6kej6kqs/"><u>時間と解像度を見直して、より良い動画体験へ向けたトリミング技術の徹底解説</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-narratives-transforming-text-with-gpt-for-epic-dandd-experiences/"><u>AI Narratives: Transforming Text with GPT for Epic D&D Experiences</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correcting-dark-screens-on-mobile-devices/"><u>Correcting Dark Screens on Mobile Devices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dispel-sims-invisible-launching/"><u>Dispel Sims' Invisible Launching</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eradicate-buffering-for-smooth-videos/"><u>Eradicate Buffering for Smooth Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-best-free-screencasting-solutions-for-everyone/"><u>In 2024, Best Free Screencasting Solutions for Everyone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-dns-failure-discover-4-effortless-solutions-for-restoring-connectivity/"><u>Overcome DNS Failure: Discover 4 Effortless Solutions for Restoring Connectivity</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-tear-free-display-technology/"><u>Resolve Tear-Free Display Technology</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solve-anthem-lags-quickly/"><u>Solve Anthem Lags Quickly</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/swiftly-adapt-video-formats-for-mac-pixels/"><u>Swiftly Adapt Video Formats for MAC Pixels</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-saturate-scenes-with-circular-edge-dilution-photosuite/"><u>[New] Saturate Scenes with Circular Edge Dilution PhotoSuite</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagram-upload-recycling-101/"><u>[Updated] 2024 Approved Instagram Upload Recycling 101</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-childhood-to-cash-flow-young-kajis-youtube-economic-surge-for-2024/"><u>[Updated] From Childhood to Cash Flow Young Kaji’s YouTube Economic Surge for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-silence-the-algorithmic-intrusions-on-ig/"><u>2024 Approved Silence the Algorithmic Intrusions on IG</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/brilliant-displays-how-to-stop-screen-flickering/"><u>Brilliant Displays: How to Stop Screen Flickering</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mg2522-driver-update-how-to-get-it-now/"><u>Canon MG2522 Driver Update: How to Get It Now</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-duty-dispute-whatsapp-sues-over-it-rule-impacts/"><u>Digital Duty Dispute: WhatsApp Sues Over IT Rule Impacts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-amd-driver-on-win10-after-initial-loading-error/"><u>Fixed AMD Driver on Win10 After Initial Loading Error</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-direct3d-lag-enhanced-rendering-unlocked/"><u>No More Direct3D Lag: Enhanced Rendering Unlocked</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-and-intel-synchro-on-win10-end-of-switchable-graphics-woes/"><u>NVIDIA & Intel Synchro on Win10: End of Switchable Graphics Woes</u></a></li>
+<li><a href="https://facebook.techidaily.com/playful-proximity-in-the-virtual-world/"><u>Playful Proximity in the Virtual World</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/refreshdisplayinvertedcorrection/"><u>RefreshDisplayInvertedCorrection</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-switchable-graphics-issue-on-windows-11/"><u>Resolving Switchable Graphics Issue on Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-of-gif-animation-explained/"><u>The Art of GIF Animation Explained</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tracing-the-msi-graphics-card-omission/"><u>Tracing the MSI Graphics Card Omission</u></a></li>
 </ul></div>
 

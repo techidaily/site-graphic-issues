@@ -1,7 +1,7 @@
 ---
 title: "[Resolved] MHW Crash Code 12 - Graphics Armageddon Ended"
-date: 2025-01-11T00:12:25.750Z
-updated: 2025-01-15T21:11:57.437Z
+date: 2025-01-15T18:06:06.316Z
+updated: 2025-01-21T16:37:41.729Z
 tags:
   - win11
   - win10
@@ -20,11 +20,19 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 
  If you keep getting the**Err 12: Graphics device crashed** while playing**Monster Hunter World** , you’re certainly not alone. While this can be quite irritating, most of the time it is only a driver issue that can be fixes pretty easily…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for err12: Graphics Device Crashed error
 
 1. **[Update your graphics driver (nearly always fixes the problem)](#F1)**
 2. **[Roll back your graphics driver](#F2)**
 3. **[Repair system files](#RE)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver (nearly always fixes the problem)
 
@@ -41,22 +49,22 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Start another game in Monster Hunter World to see if the crashes disappear. If yes, then congrats and enjoy your game! But if the issue persists, don’t worry. There are a few more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Roll back your graphics driver
 
@@ -79,7 +87,7 @@ Here’s how to do it:
  5) Restart your computer, then play a game again and see if the error in Monster Hunter World has been resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Repair system files
@@ -119,19 +127,11 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -163,19 +163,22 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-engaging-audiences-in-real-time-periscope-tips-for-2024/"><u>[New] Engaging Audiences in Real-Time Periscope Tips for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-maximizing-efficiency-video-capturing-in-adobe-presenter-for-2024/"><u>[New] Maximizing Efficiency Video Capturing in Adobe Presenter for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-enhance-video-quality-by-cutting-out-background-sounds-for-2024/"><u>[Updated] Enhance Video Quality by Cutting Out Background Sounds for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-six-simple-ways-to-ease-vr-headset-nausea/"><u>[Updated] Six Simple Ways to Ease VR Headset Nausea</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-balancing-main-footage-with-b-roll-to-avoid-overkill/"><u>2024 Approved Balancing Main Footage with B-Roll to Avoid Overkill</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-the-social-network-crossroad-instagram-and-tiktok/"><u>2024 Approved Navigating the Social Network Crossroad Instagram & TikTok</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-outputs-in-devices-with-realtek-sound-cards/"><u>Fixing Silent Outputs in Devices with Realtek Sound Cards</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/game-freeze-identify-incorrect-video-drivers/"><u>Game Freeze? Identify Incorrect Video Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/managing-oversized-windows-11-resolution/"><u>Managing Oversized Windows 11 Resolution</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcome-sims-screen-blankness/"><u>Overcome Sims Screen Blankness</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-direct3d-launch-failure/"><u>Overcoming Direct3D Launch Failure</u></a></li>
-<li><a href="https://techidaily.com/remove-realme-lock-screen-without-password-realme-by-drfone-android-unlock-android-unlock/"><u>Remove Realme Lock Screen without Password(Realme )</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reoriented-notebook-display-for-comfort/"><u>Reoriented Notebook Display for Comfort</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/sideways-monitor-conversion-complete/"><u>Sideways Monitor Conversion Complete</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-10-cheeky-tunes-turned-parodies/"><u>[Updated] 2024 Approved 10 Cheeky Tunes Turned Parodies</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-youtubers-playbook-achieving-content-stardom/"><u>[Updated] The YouTuber's Playbook Achieving Content Stardom</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722164395200-chatgpt-vs-bing-ai-showdown-discover-the-10-main-disparities-that-set-them-apart/"><u>ChatGPT Vs. Bing AI Showdown: Discover the 10 Main Disparities That Set Them Apart!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correction-of-screen-boundary-alignment/"><u>Correction of Screen Boundary Alignment</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-initialization-disrupted/"><u>Display Initialization Disrupted</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-samsung-usb-drivers-compatible-with-windows-11-quick-and-simple-steps/"><u>Download Samsung USB Drivers Compatible with Windows 11 – Quick and Simple Steps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/end-upside-down-screen-problems-in-windows-10/"><u>End Upside-Down Screen Problems in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-non-functional-mic-on-steelseries-arctis-5-headset-solution/"><u>Fixing the Non-Functional Mic on SteelSeries Arctis 5 Headset - SOLUTION</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/grell-tws1x-wireless-earbuds-evaluation-outstanding-audio-quality-hindered-by-design-flaws-tech-insights/"><u>Grell TWS1X Wireless Earbuds Evaluation - Outstanding Audio Quality Hindered by Design Flaws | Tech Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/msi-and-asrock-now-offer-intel-cpu-stability-fixes-asus-rog-board-owners-get-early-beta-patch/"><u>MSI and ASRock Now Offer Intel CPU Stability Fixes; Asus ROG Board Owners Get Early Beta Patch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/refinement-of-visual-settings-in-latest-win11-update/"><u>Refinement of Visual Settings in Latest Win11 Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reinitiating-your-gpus-spinning-fans/"><u>Reinitiating Your GPU's Spinning Fans</u></a></li>
+<li><a href="https://app-tips.techidaily.com/resending-deleted-messages-in-microsoft-outlook-a-step-by-step-guide-techradar/"><u>Resending Deleted Messages in Microsoft Outlook: A Step-by-Step Guide - TechRadar</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/switching-gpu-issues-nvidiaintel-on-win10-fixed/"><u>Switching GPU Issues: Nvidia/Intel on Win10 - Fixed!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unmasking-the-invisible-dx-hiccup-in-legion-of-lol/"><u>Unmasking the Invisible DX Hiccup in Legion of LoL</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817865704-update-intel-graphics-3000-driver-for-windows-11-easily/"><u>Update Intel Graphics 3000 Driver for Windows 11. Easily!</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Vivo V30 Pro? | Dr.fone</u></a></li>
 </ul></div>
 
