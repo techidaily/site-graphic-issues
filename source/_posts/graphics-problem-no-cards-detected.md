@@ -1,7 +1,7 @@
 ---
 title: "Graphics Problem: No Cards Detected"
-date: 2025-01-26T18:07:48.420Z
-updated: 2025-01-29T16:16:29.161Z
+date: 2025-02-05T00:06:53.660Z
+updated: 2025-02-09T21:52:51.253Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
  Your graphics card isn’t detected by your computer? This is quite irritating and you’re certainly not the only one who faces this issue. Many Windows users are reporting it. But the good news is you can fix it. This article gives you 5 solutions to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -42,12 +42,16 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 2. **Type devmgmt.msc and click OK to open Device Manager.**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Type **devmgmt.msc** and click **OK** to open Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-32-37.jpg)
 3. **Click the Scan button.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click the**Scan button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-32-47.jpg)
@@ -71,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-33-03.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the **Update**  button next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -82,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-33-11.jpg)
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](mailto:support@drivereasy.com)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Uninstall recent Windows updates
 
@@ -92,16 +96,12 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-24.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-29.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click**Programs** .
 
@@ -111,15 +111,15 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-38.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Right-click a recent update, and then click**Uninstall** .
 
  Repeat this process to uninstall other updates. Check if your problem is resolved every time you finish uninstalling a update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_15-40-42.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If your problem persists, check the fix below.
 
@@ -132,6 +132,10 @@ If your problem persists, check the fix below.
 **1)** Turn off your computer, and then disconnect the**power cord** from the power supply.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-514.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Open your computer case.
 
@@ -161,10 +165,6 @@ Here is where a graphics card is usually located.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-495.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Go to the manufacturer’s support website and search for the latest update for your BIOS.
 
 **5)** Download the update file and follow the on-screen instructions to install it.
@@ -193,22 +193,20 @@ Here is where a graphics card is usually located.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/missing-necessary-drivers-for-amd-video-card-on-pcs/"><u>[MISSING] Necessary Drivers for AMD Video Card on PCs</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-beat-bringers-guide-integrating-melody-into-vimeo-videos/"><u>[New] In 2024, The Beat Bringers' Guide Integrating Melody Into Vimeo Videos</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-analyzing-the-impact-of-burst-on-live-action-shoots-for-2024/"><u>[Updated] Analyzing the Impact of Burst on Live-Action Shoots for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banish-blinky-monitor-phenomenon/"><u>Banish Blinky Monitor Phenomenon</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-7-streaming-tools-for-mac-users/"><u>Best 7 Streaming Tools for Mac Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/colorful-consequences-fix-for-lenovo-screen/"><u>Colorful Consequences - Fix for Lenovo Screen</u></a></li>
-<li><a href="https://extra-information.techidaily.com/discovering-the-essential-secrets-of-morphvox/"><u>Discovering the Essential Secrets of MorphVOX</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/facile-conversion-de-fichiers-jp2-en-format-jpg-gratuit-en-ligne-utiliser-movavi-pour-une-solution-rapide/"><u>Facile Conversion De Fichiers JP2 en Format JPG Gratuit en Ligne - Utiliser Movavi Pour Une Solution Rapide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-device-driver-error-code-43-solved/"><u>Graphics Device Driver Error Code 43 [SOLVED]</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-xiaomi-redmi-13c-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Xiaomi Redmi 13C to New Phone | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-tecno-spark-20c-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Tecno Spark 20C Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/minecraft-woes-fix-bad-driver-issues/"><u>Minecraft Woes: Fix Bad Driver Issues</u></a></li>
-<li><a href="https://extra-support.techidaily.com/optimal-data-recorder-for-sony-a7c-model-for-2024/"><u>Optimal Data Recorder for Sony A7C Model for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-direct3d-setback-achieved-gpu-power-up/"><u>Resolved Direct3D Setback, Achieved GPU Power-Up</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revamp-your-visual-experience-update-intel-gfx-driver-on-windows-10/"><u>Revamp Your Visual Experience - Update Intel GFX Driver on Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/surface-pro-7s-flicker-fixation-manual/"><u>Surface Pro 7'S Flicker Fixation Manual</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rief-overview-of-the-quickest-chroma-key-tricks-for-2024/"><u>[New] Brief Overview of the Quickest Chroma Key Tricks for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-optimize-zoom-audio-in-2-steps-to-enhance-hearing-experience/"><u>[Updated] Optimize Zoom Audio in 2 Steps to Enhance Hearing Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-avi-images-to-graphics-a-complete-filmora-walkthrough/"><u>2024 Approved From AVI Images to Graphics A Complete Filmora Walkthrough</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-grading-made-simple-3-ways-to-amplify-your-pics/"><u>2024 Approved Grading Made Simple 3 Ways to Amplify Your Pics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/aligning-monitor-edges-vertically/"><u>Aligning Monitor Edges Vertically</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/anthems-quick-performance-fix/"><u>Anthem's Quick Performance Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cure-loopy-screen-lines-on-laptops-efficiently/"><u>Cure Loopy Screen Lines on Laptops Efficiently</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-enhanced-linux-mint-experience-in-version-211-a-superior-choice-for-your-desktopzdnet-review/"><u>Discover the Enhanced Linux Mint Experience in Version 21.1 - A Superior Choice for Your Desktop![ZDNet Review]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/drop-old-drivers-windows-techniques-to-uninstall/"><u>Drop Old Drivers: Windows Techniques to Uninstall</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-issue-dark-screens/"><u>Graphics Issue: Dark Screens</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/questionable-decisions-illuminated-in-sonys-nw-ws623/"><u>Questionable Decisions Illuminated in Sony's NW-WS623</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/retrieve-lost-screen-configuration-saving-in-win-7-and-10-fixable/"><u>Retrieve Lost Screen Configuration Saving in WIN 7 & 10 [Fixable]</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-noise-free-zone-step-by-step-guide-to-refining-audio-quality-with-audacity-and-filmorapro/"><u>The Noise-Free Zone Step-by-Step Guide to Refining Audio Quality with Audacity and FilmoraPro</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-undetected-gpu-in-computers/"><u>Troubleshooting: Undetected GPU in Computers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unlock-mysteries-select-top-puzzle-houses-for-2024/"><u>Unlock Mysteries Select Top Puzzle Houses for 2024</u></a></li>
 </ul></div>
 

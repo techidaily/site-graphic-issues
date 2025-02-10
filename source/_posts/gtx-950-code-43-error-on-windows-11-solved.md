@@ -1,7 +1,7 @@
 ---
 title: GTX 950 Code 43 Error on Windows 11 [Solved]
-date: 2025-01-26T16:10:18.551Z
-updated: 2025-01-29T17:28:54.394Z
+date: 2025-02-06T21:31:36.641Z
+updated: 2025-02-10T02:02:28.706Z
 tags:
   - win11
   - win10
@@ -47,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you. 
@@ -68,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded. 
@@ -87,15 +83,15 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420461c87a5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged NVIDIA driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   **Option 2: Update Windows 10** 
 
@@ -104,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click the**Check for updates** button to see if there are any new updates available. 
@@ -112,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) If new updates are available, just download and then update them as instructed. 
@@ -128,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 **Warning** : Please do make sure that you are fully aware of what you are to do before you choose to update your BIOS. Unrecoverable errors are the last thing we want to see. 
 
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   **Option 4: Reinstall Windows 10** 
 
@@ -155,24 +155,20 @@ thumbnail: https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902ff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-essential-sandbox-experiences-for-gamers/"><u>[New] Essential Sandbox Experiences for Gamers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-understanding-and-adhering-to-twitters-video-standards/"><u>[Updated] In 2024, Understanding and Adhering to Twitter's Video Standards</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-ultimate-tutorial-for-musical-harmony-in-your-facebook-feed-for-2024/"><u>[Updated] The Ultimate Tutorial for Musical Harmony in Your Facebook Feed for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/an-insiders-look-at-the-stellar-performance-and-visual-clarity-of-the-4k-hdr10plus-smart-tv-the-samsung-qn55q60rafxza/"><u>An Insider's Look at the Stellar Performance and Visual Clarity of the 4K HDR10+ Smart TV - The Samsung QN55Q60RAFXZA</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correct-misalignment-in-laptop-viewing-area/"><u>Correct Misalignment in Laptop Viewing Area</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correct-screen-misalignment-for-sharper-viewing/"><u>Correct Screen Misalignment for Sharper Viewing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-error-corrected-improved-gpu-support-unlocked/"><u>Direct3D Error Corrected: Improved GPU Support Unlocked</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/directx12-roadblock-halo-infinite-not-starting-up/"><u>DirectX12 Roadblock: Halo Infinite Not Starting Up</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-low-brightness-lenovo-monitors/"><u>Fixing Low-Brightness Lenovo Monitors</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/flicker-free-zone-swift-solution-to-monitor-failure/"><u>Flicker Free Zone: Swift Solution to Monitor Failure</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-scavengers-crashing-on-your-pc-a-step-by-step-guide/"><u>How To Fix Scavengers Crashing On Your PC: A Step-By-Step Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-music-service-migration-keeping-playlists-intact/"><u>In 2024, Music Service Migration Keeping Playlists Intact</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/instantly-strip-outdated-graphic-cards-windows-style/"><u>Instantly Strip Outdated Graphic Cards, Windows Style</u></a></li>
-<li><a href="https://extra-information.techidaily.com/leveraging-azure-ai-for-audio-to-text-translation/"><u>Leveraging Azure AI for Audio to Text Translation</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/nieuwe-strategieen-voor-het-verplaatsen-van-gegevens-na-een-bestandsdeling-op-een-sd-module/"><u>Nieuwe Strategieën Voor Het Verplaatsen Van Gegevens Na Een Bestandsdeling Op Een SD-Module</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-error-corrected-display-fully-operational/"><u>Nvidia Error Corrected, Display Fully Operational</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/prime-deals-alert-snap-up-the-discounted-749-apple-m2-macbook-air-for-octobers-shopping-extravaganza-featured-on-zdnet/"><u>Prime Deals Alert! Snap Up the Discounted $749 Apple M2 MacBook Air for October's Shopping Extravaganza - Featured on ZDNet</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/streamlining-intel-graphics-in-windows/"><u>Streamlining Intel Graphics in Windows</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-infinix-hot-40-frp-by-drfone-android/"><u>The Updated Method to Bypass Infinix Hot 40 FRP</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-chortlechamber-personalize-everyday-humor-online/"><u>[New] 2024 Approved ChortleChamber Personalize Everyday Humor Online</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-vloggers-guide-to-choosing-camera-essentials-the-top-9-accessories/"><u>[New] 2024 Approved Vloggers' Guide to Choosing Camera Essentials - The Top 9 Accessories</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-from-followers-to-earnings-instagrams-complete-guide/"><u>[Updated] In 2024, From Followers to Earnings Instagram's Complete Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-complete-guide-to-navigating-the-trustedinstaller-gateway-in-windows-11/"><u>A Complete Guide to Navigating the TrustedInstaller Gateway in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dispelled-the-shadow-direct-x-mystery-in-league-solved/"><u>Dispelled the Shadow: Direct X Mystery in League Solved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicating-glare-methods-to-stop-monitor-flashing/"><u>Eradicating Glare: Methods to Stop Monitor Flashing</u></a></li>
+<li><a href="https://win11.techidaily.com/flip-and-turn-images-6-easy-techniques-on-your-win11-pc/"><u>Flip and Turn Images: 6 Easy Techniques on Your Win11 PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-disabled-on-win1011-laptops-a-guide/"><u>GPU Disabled on Win10/11 Laptops: A Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-zoom-mastery-achieving-precision-in-google-meet-sessions/"><u>In 2024, Zoom Mastery Achieving Precision in Google Meet Sessions</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-linux-into-hyper-v-on-windows-systems/"><u>Integrating Linux Into Hyper-V on Windows Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptops-graphics-capabilities-fully-engaged/"><u>Laptop's Graphics Capabilities Fully Engaged</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mend-pixel-misalignment-issues/"><u>Mend Pixel Misalignment Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-rtx-troubleshooting-guide/"><u>NVIDIA RTX Troubleshooting Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reduce-window-size-on-win-10-pc/"><u>Reduce Window Size on WIN 10 PC</u></a></li>
 </ul></div>
 

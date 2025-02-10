@@ -1,7 +1,7 @@
 ---
 title: End the Frustrating PC Crash of Fallout 4
-date: 2025-01-22T16:19:22.387Z
-updated: 2025-01-29T16:16:40.502Z
+date: 2025-02-07T23:52:11.946Z
+updated: 2025-02-10T02:09:24.560Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 
  The reasons causing Fallout 4 crashing can be different, as some players have Fallout 4 crashing on loading, and some have Fallout 4 crashing after a few minutes. But generally speaking, the Fallout 4 crashes because of the video resolution, the graphics card issues or because of the hardware issues (ensure that **your computer meets the minimum requirements to play Fallout 4**).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix Fallout 4 crash on startup?
 
 1. [**Install the latest patch**](#Way1)
@@ -43,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
  Therefore, you should check the latest patch for Fallout 4 in your computer, and install the latest patch to keep your game up to date.
 
  After updating, restart your computer, and open Fallout 4 to see if the crashing issues have been fixed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **2\. Set the graphics options to low**
 
@@ -70,16 +62,24 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af033e1bbdc0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**   button next to a flagged graphics device to automatically download the correct version of their driver (you can do this with the **FREE**   version). Then install it in your computer.
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa10ea1b4f5e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer and open your Fallout 4.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **4\. Temporarily disable the antivirus program**
@@ -94,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 
 If the issue persists, try the following method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **5\. Configure settings in your Fallout 4**
 
  Sometimes the improper settings in your Fallout 4 can lead to the crash problem. You should check the settings below:
@@ -108,6 +104,10 @@ If the issue persists, try the following method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd59344ec9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Uncheck**Enable Intro Video** (or check**Disable Intro Video**) in your Fallout 4 settings.
 
  4) Uncheck Enable **God rays** in your Fallout 4 settings.
@@ -115,7 +115,7 @@ If the issue persists, try the following method.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd817e89a3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Save the settings and restart your Fallout 4 to see if it works now.
@@ -141,20 +141,18 @@ Save the settings and restart your Fallout 4 to see if it works now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fixed-windows-blurry-screen-quickly-and-easily/"><u>[Fixed] Windows Blurry Screen | Quickly & Easily</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-from-boring-to-breathtaking-insta-video-tips-for-2024/"><u>[New] From Boring to Breathtaking Insta Video Tips for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-metaverse-musings-top-30-quotes-for-immersive-living-for-2024/"><u>[New] Metaverse Musings Top 30 Quotes for Immersive Living for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-samsung-galaxy-s23-ultra-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Samsung Galaxy S23 Ultra Phone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/choosing-the-optimal-power-source-for-advanced-drones/"><u>Choosing the Optimal Power Source for Advanced Drones</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-how-windows-11-seamlessly-pairs-with-onedrive-for-enhanced-cloud-storage-solutions/"><u>Discover How Windows 11 Seamlessly Pairs With OneDrive for Enhanced Cloud Storage Solutions</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/te-your-views-degrees-of-rotation-on-youtube-a-2023-guide/"><u>Elevate Your Views Degrees of Rotation on YouTube - A 2023 Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/o-get-more-video-views-on-youtube-for-2024/"><u>How To Get More Video Views on YouTube for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-s23plus-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on S23+</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lighting-up-windows-11s-dark-side-after-creators/"><u>Lighting Up Windows 11'S Dark Side After Creator's</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/prevent-rtx-3080-game-errors/"><u>Prevent RTX 3080 Game Errors</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/proactive-approach-to-update-intel-gfx-software-win7/"><u>Proactive Approach to Update Intel Gfx Software (Win7)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revive-no-signal-port-without-frustration/"><u>Revive No-Signal Port Without Frustration</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smooth-transition-new-driver-for-win11-and-intel-graphic-card/"><u>Smooth Transition: New Driver for Win11 & Intel Graphic Card</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/step-by-step-restoring-color-on-asus-gadgets/"><u>Step-by-Step: Restoring Color on Asus Gadgets</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-step-by-step-guide-to-optimizing-fb-in-stream-advertising-for-2024/"><u>[Updated] Step-by-Step Guide to Optimizing FB In-Stream Advertising for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-bold-strategy-with-unintended-consequences-when-southwest-airlines-altered-its-approach-to-clientele-satisfaction/"><u>A Bold Strategy with Unintended Consequences: When Southwest Airlines Altered Its Approach to Clientele Satisfaction</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjusting-computer-screen-edge-balance/"><u>Adjusting Computer Screen Edge Balance</u></a></li>
+<li><a href="https://fox-within.techidaily.com/chiang-kai-sheks-defining-actions-in-shaping-china-insights-from-yl-software-and-expertise-perspective/"><u>Chiang Kai-Shek’s Defining Actions in Shaping China – Insights From YL Software & Expertise Perspective</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/corrected-screen-tilt-in-netbook-fix/"><u>Corrected Screen Tilt in Netbook Fix</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicate-ghost-horizontal-lines-quickly/"><u>Eradicate Ghost Horizontal Lines Quickly</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/1716098050308-facebook-videos-vertical-or-horizontal-in-2024/"><u>Facebook Videos Vertical or Horizontal, In 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-avi-video-concatenators-top-10-tools-for-smooth-joining-for-2024/"><u>Free AVI Video Concatenators Top 10 Tools for Smooth Joining for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/get-ready-to-game-better-updated-amd-hd-6950-drivers/"><u>Get Ready to Game Better: Updated AMD HD 6950 Drivers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-poco-c55-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Poco C55 Without PUK Codes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/init-graphics-loop-disrupted/"><u>Init Graphics Loop Disrupted</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/noteworthy-14-innovative-text-movements-for-2024/"><u>Noteworthy 14 Innovative Text Movements for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/260439-9781101220054-the-haunting-of-the-presidents/"><u>The Haunting of the Presidents | Free Book</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolve Post-Update Black Screen Issue on Windows 10
-date: 2025-01-27T19:41:57.277Z
-updated: 2025-01-29T17:49:44.619Z
+date: 2025-02-06T21:21:17.725Z
+updated: 2025-02-09T22:49:08.539Z
 tags:
   - win11
   - win10
@@ -35,19 +35,11 @@ A quick fix to your black screen problem would be:
 * If you have a keyboard connected, press the   **Windows logo![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ecde832800.png)**  
 **key+Ctrl+Shift + B**  .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * If you’re in tablet mode, simultaneously press the**volume-up and volume-down buttons** three times within 2 seconds.
 
  If Windows is responsive, a short beep will sound and the screen will blink or dim while Windows attempts to refresh the screen.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Fix 2: Unplug unnecessary USB equipment
 
@@ -59,10 +51,6 @@ A quick fix to your black screen problem would be:
 If this produces no results, you can move on to Fix 3.  
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Fix 3: Update your graphics card driver
 
@@ -87,7 +75,7 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baeff329fa9a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -103,6 +91,10 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf2297bbde3.jpg)
 3. Click the**File** tab, then**Run new task** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf1e439d185.png)
 4. Type **services.msc** and**check** the box under it, then click**OK** .  
 
@@ -110,7 +102,7 @@ If this produces no results, you can move on to Fix 3.
 5. In the pop-up**Services** window, double click**App Readiness** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf1fe95df39.jpg)
@@ -122,7 +114,7 @@ If this produces no results, you can move on to Fix 3.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Fix 5: Log in using a different user account
@@ -150,16 +142,28 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf399963b71.jpg)
 5. Log into this account and check to see if the black screen issue is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### How to activate the original Windows administrator account
 
 1. Type**cmd** in the Windows search box, right click**Command Prompt** , then select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf346d3db95.jpg)
 2. Type **net user administrator /active:yes** and press**Enter** on your keyboard.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf34a620994.jpg)
 3. **Restart** your computer and you’ll be able to log into Windows with the administrator account.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Fix 6: Reset your PC
 
@@ -170,21 +174,17 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf28e24ef9b.jpg)
 3. Click**Update & security** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf296951c32.jpg)
 4. In the left pane, click**Recovery** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf29ac5f25f.jpg)
 5. In the**Reset this PC** area, click the**Get started** button. Then follow the on-screen instructions to reset your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf2a31232f4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -208,22 +208,24 @@ If this produces no results, you can move on to Fix 3.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/god-of-war-unlocking-full-potential/"><u>'God of War': Unlocking Full Potential</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-accessing-your-twitter-history/"><u>2024 Approved Accessing Your Twitter History</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-enhancement-reached-after-acceleration-fix/"><u>Direct3D Enhancement Reached After Acceleration Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/easy-guide-to-clearing-laptop-display-skew/"><u>Easy Guide to Clearing Laptop Display Skew</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-horizontal-screen-deformities-fast/"><u>Fix Horizontal Screen Deformities Fast</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Vivo Y36i? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-xr21-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Nokia XR21 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-play-7t-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-make-a-mark-with-minimal-fuss-simplified-video-editing-on-windows-10/"><u>In 2024, Make a Mark with Minimal Fuss Simplified Video Editing on Windows 10</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/income-from-video-how-to-profit-on-vimeo-platform-for-2024/"><u>Income From Video How to Profit on Vimeo Platform for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/microsofts-top-recommended-audio-driver-software-for-windows-users-download/"><u>Microsoft's Top Recommended Audio Driver Software for Windows Users (Download)</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/steps-for-securely-accessing-and-saving-mcgraw-hills-medical-educational-content/"><u>Steps for Securely Accessing and Saving McGraw-Hill's Medical Educational Content</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/streamlined-geforce-210-for-windows-11-release/"><u>Streamlined GeForce 210 for Windows 11 Release</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/system-security-enhanced-step-wise-deletion-of-graphics-drivers-on-win8/"><u>System Security Enhanced: Step-Wise Deletion of Graphics Drivers on WIN8</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/turnrightview-on-computer/"><u>TurnRightView on Computer</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/wingraphicsdevicecreationfix-resolved-issue/"><u>WinGraphicsDeviceCreationFix - Resolved Issue</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-affordable-hd-action-cameras-for-extreme-exposure/"><u>[New] In 2024, Affordable HD Action Cameras for Extreme Exposure</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-ultimate-handbook-for-vr-travelers/"><u>[New] In 2024, The Ultimate Handbook for VR Travelers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-enhancing-moments-tips-for-creating-captivating-slow-motion-on-android/"><u>[Updated] 2024 Approved Enhancing Moments Tips for Creating Captivating Slow Motion on Android</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-novice-to-pro-your-snapseed-journey-starts-here/"><u>[Updated] From Novice to Pro Your Snapseed Journey Starts Here</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-essential-steps-for-skype-capture-via-obs/"><u>[Updated] In 2024, Essential Steps for Skype Capture via OBS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correct-monitor-rotation-for-win7/"><u>Correct Monitor Rotation for Win7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/decoding-and-correcting-youtubes-chroma-key-issues/"><u>Decoding and Correcting YouTube's Chroma Key Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-tarkov-graphics-hiccups-for-amd/"><u>Eliminate Tarkov Graphics Hiccups for AMD</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-online-3g2-video-naar-mp4-metvormen-movavi/"><u>Gratis Online 3G2-Video Naar MP4 Metvormen - Movavi</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-itel-a60s-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Itel A60s Phones with/without a PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Motorola Moto E13? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-synchronizing-podcast-drops-with-audience-behavior/"><u>In 2024, Synchronizing Podcast Drops with Audience Behavior</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/integrate-intel-graphics-direct-windows-11-update-guide/"><u>Integrate Intel Graphics: Direct Windows 11 Update Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-glitches-nvidia-and-intel-graphics-on-win10-syncing-flawlessly/"><u>No More Glitches! NVIDIA & Intel Graphics on Win10 Syncing Flawlessly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-video-glitches-on-upgraded-windows-10/"><u>No More Video Glitches on Upgraded Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/putting-a-stop-to-pulsating-patterns-in-acer-screens/"><u>Putting a Stop to Pulsating Patterns in Acer Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-update-process-for-enhanced-visual-experience-on-win10/"><u>Swift Update Process for Enhanced Visual Experience on Win10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-poco-f5-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Poco F5 5G</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-laptop-gpu-identified-correctly/"><u>Windows 11 Laptop GPU Identified Correctly</u></a></li>
 </ul></div>
 

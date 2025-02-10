@@ -1,7 +1,7 @@
 ---
 title: "Conquering Flicker Fiasco: Acer Laptop Tips"
-date: 2025-01-25T18:49:01.886Z
-updated: 2025-01-29T17:00:55.940Z
+date: 2025-02-07T22:54:48.556Z
+updated: 2025-02-09T21:14:49.424Z
 tags:
   - win11
   - win10
@@ -50,12 +50,16 @@ Here is how to change the screen refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed3e49449b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Check to see if your **Acer laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [**Fix 2**](#F2) .
@@ -67,20 +71,20 @@ Here is how to change the screen refresh rate:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Advanced settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Monitor** tab, select **60 Hertz** in **Screen refresh rate** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5edc0f0b9cb.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Check to see if your **Acer laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try [](#F2) [](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](#F2)** .
 
@@ -98,7 +102,7 @@ Here is how to change the screen refresh rate:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -114,10 +118,6 @@ Here is how to change the screen refresh rate:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **Update All t** o automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -153,24 +153,14 @@ Here is how to change the screen refresh rate:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-enhancing-video-reach-convert-yt-to-igtv/"><u>[New] Enhancing Video Reach Convert YT to IGTV</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-elevate-your-earnings-on-social-media-youtube-mastery-on-the-networking-powerhouse/"><u>[New] In 2024, Elevate Your Earnings on Social Media YouTube Mastery on the Networking Powerhouse</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-mastering-ppt-recording-essential-tips-for-2024/"><u>[New] Mastering PPT Recording Essential Tips for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-comprehensive-guide-to-obtaining-visual-assets-for-2024/"><u>[Updated] Comprehensive Guide to Obtaining Visual Assets for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/asus-lcd-glare-no-more-your-guide-to-a-clearer-view/"><u>ASUS LCD Glare No More: Your Guide to a Clearer View</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bluescreen-dxgkrnlsys-crash-in-windows/"><u>BlueScreen: dxgkrnl.sys Crash in Windows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/bridging-gaps-between-vision-and-execution-in-filmora-editing/"><u>Bridging Gaps Between Vision and Execution in Filmora Editing</u></a></li>
-<li><a href="https://article-tips.techidaily.com/cartoony-conversion-chronicles-top-windowsmac-imaging-software-for-2024/"><u>Cartoony Conversion Chronicles Top Windows/Mac Imaging Software for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/corrected-resolving-setup-error-for-nvidia/"><u>Corrected: Resolving Setup Error for NVIDIA</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correcting-screen-upside-down-error-windows-11/"><u>Correcting Screen Upside-Down Error: Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/drivers-issue-code-43-now-fixed/"><u>Drivers' Issue Code 43 Now Fixed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/effortless-edge-refinement-on-your-laptop-display/"><u>Effortless Edge Refinement on Your Laptop Display</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-12-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi 12 5G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/illuminate-the-blackness-in-twitch-streaming/"><u>Illuminate the Blackness in Twitch Streaming</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/repaired-comintegration-fault-winos-update-successful/"><u>Repaired ComIntegration Fault, WinOS Update Successful</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-nokia-c12-plus-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Nokia C12 Plus? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-iphone-8-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From iPhone 8 Making It Possible</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/update-intel-graphics-3000-driver-for-windows-10-easily/"><u>Update Intel Graphics 3000 Driver for Windows 10. Easily</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/be-milestone-mastery-breaking-into-the-millions/"><u>Youtube Milestone Mastery Breaking Into the Millions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-mastering-the-art-of-fixing-android-and-ios-videos-in-fb-messaging-for-2024/"><u>[Updated] Mastering the Art of Fixing Android & iOS Videos in FB Messaging for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/du-recorder-features-and-review/"><u>Du Recorder Features and Review</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-screenshots-fix-stopped-inconsistent-flashing/"><u>Laptop Screenshots Fix: Stopped Inconsistent Flashing</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/safe-mode-protocol-and-gpu-driver-removal-in-windows-8/"><u>Safe Mode Protocol & GPU Driver Removal in Windows 8</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sound-sleuths-unite-free-beats-tracking-tools/"><u>Sound Sleuths Unite! Free Beats-Tracking Tools</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stabilized-amd-radeon-r9-performance-with-w10-drivers-armor/"><u>Stabilized AMD Radeon R9 Performance with W10 Drivers Armor</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-win11-flickering-distraction/"><u>Stop Win11 Flickering Distraction</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-frozen-display-resolved/"><u>Windows 10 Frozen Display - Resolved</u></a></li>
 </ul></div>
 

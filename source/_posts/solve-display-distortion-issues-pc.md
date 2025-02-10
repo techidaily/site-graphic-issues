@@ -1,7 +1,7 @@
 ---
 title: Solve Display Distortion Issues (PC)
-date: 2025-01-25T18:51:39.440Z
-updated: 2025-01-29T18:23:47.651Z
+date: 2025-02-08T22:10:55.406Z
+updated: 2025-02-09T21:33:58.654Z
 tags:
   - win11
   - win10
@@ -28,12 +28,20 @@ thumbnail: https://thmb.techidaily.com/b89ffcd4bf4187d5ce782fa255f3d31e70eba20fb
 
  Another possible cause is problem device drivers. You may be having the issue because of the wrong or out-of-date drivers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix my tearing screen?
 
 There are two fixes you can try:
 
 1. [**Up** **date your drivers**](#a)
 2. [**Turn on V-Sync**](#b)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Update your drivers
 
@@ -49,16 +57,12 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713a84159a4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the **Update** button next to each driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713ba9d0320.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Turn on V-Sync
@@ -79,23 +83,19 @@ There are two fixes you can try:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7296764b7d0.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### For**Intel** graphics users
 
 **1)** Open**Intel HD Graphics Control Panel** and then click**3D** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72b91a58300.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**Custom Settings** . Then under Vertical Sync, click**Driver Settings** or**ON** . After that click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72bade8ef5d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### For**AMD** graphics users
 
@@ -106,7 +106,7 @@ There are two fixes you can try:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c14e895a8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a72c1a5a7775.png)
@@ -131,20 +131,20 @@ There are two fixes you can try:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fixed-nvidia-drivers-post-malfunction-restored/"><u>[Fixed] Nvidia Drivers Post-Malfunction Restored</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-steps-to-restore-visual-clarity-to-youtube-videos/"><u>[New] 2024 Approved Steps to Restore Visual Clarity to YouTube Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/2024s-ultimate-selection-of-magsafe-battery-packs-in-depth-analysis-and-ratings-from-industry-authorities-zdnet/"><u>2024'S Ultimate Selection of MagSafe Battery Packs: In-Depth Analysis and Ratings From Industry Authorities | ZDNET</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/editing-screen-edge-symmetry/"><u>Editing Screen Edge Symmetry</u></a></li>
-<li><a href="https://blog-min.techidaily.com/free-ultimate-guide-to-the-11-most-effective-mp4-editors-for-pcs-and-macbooks/"><u>Free Ultimate Guide to the 11 Most Effective MP4 Editors for PCs and MacBooks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/get-rid-of-graphics-cards-quickly-on-windows-os/"><u>Get Rid of Graphics Cards Quickly on Windows OS</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-unlock-free-sound-effects-for-your-fcp-projects-top-resources-and-tutorials/"><u>In 2024, Unlock Free Sound Effects for Your FCP Projects Top Resources & Tutorials</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/new-update-overwatch-graphics-compatible/"><u>New Update: Overwatch Graphics Compatible</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-blank-window-in-windows-10/"><u>Overcoming Blank Window in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-display-issues-with-missing-touch-or-stylus-functionality/"><u>Overcoming Display Issues with Missing Touch or Stylus Functionality</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-direct3d-launch-issues/"><u>Resolving Direct3D Launch Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/setting-new-preferred-pdf-reader-in-windows/"><u>Setting New Preferred PDF Reader in Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successful-engagement-of-direct3d/"><u>Successful Engagement of Direct3D</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-the-guide-to-learning-all-the-details-about-voice-cloning-for-2024/"><u>Updated The Guide to Learning All the Details About Voice Cloning for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-disable-snippet-view-in-youtube-for-full-content-for-2024/"><u>[New] Disable Snippet View in YouTube for Full Content for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-assessment-of-vlcs-digital-screen-monitoring/"><u>[Updated] 2024 Approved Assessment of VLC’s Digital Screen Monitoring</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-cutting-edge-mobile-apps-for-stellar-intros/"><u>[Updated] 2024 Approved Cutting-Edge Mobile Apps for Stellar Intros</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-tailored-minecraft-filming-techniques-for-gamers-for-2024/"><u>[Updated] Tailored Minecraft Filming Techniques for Gamers for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-smooth-video-extraction-via-funimate/"><u>2024 Approved The Ultimate Guide to Smooth Video Extraction via Funimate</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-the-action-the-fastest-most-effective-home-filmmaking-tricks/"><u>Capture the Action The Fastest, Most Effective Home Filmmaking Tricks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/corrected-nvidia-installer-error-handled/"><u>Corrected: NVIDIA Installer Error Handled</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/invertdisplayorientation-advice/"><u>InvertDisplayOrientation Advice</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-now-fully-capable-with-active-gpu-in-win11/"><u>Laptop Now Fully Capable with Active GPU in Win11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/navigating-youtube-markets-the-quest-for-a-targeted-niche/"><u>Navigating YouTube Markets The Quest for a Targeted Niche</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/opengl-glitch-detected-now-fixed-with-nvidias-help/"><u>OpenGL Glitch Detected, Now Fixed with NVIDIA's Help</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-compatibility-boost-win11-plus-intel-gpus/"><u>Quick Compatibility Boost: Win11 + Intel GPUs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-display-synchronization-problems-pc/"><u>Resolve Display Synchronization Problems (PC)</u></a></li>
+<li><a href="https://facebook.techidaily.com/safeguard-against-unknown-users-in-your-tech-world/"><u>Safeguard Against Unknown Users in Your Tech World</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-overcoming-twitchs-dark-display/"><u>Troubleshooting: Overcoming Twitch's Dark Display</u></a></li>
 </ul></div>
 

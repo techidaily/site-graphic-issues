@@ -1,7 +1,7 @@
 ---
 title: Successful Resolution of Graphics Switching Problem
-date: 2025-01-25T17:21:56.739Z
-updated: 2025-01-29T17:16:57.363Z
+date: 2025-02-03T03:57:39.571Z
+updated: 2025-02-09T22:36:55.873Z
 tags:
   - win11
   - win10
@@ -24,13 +24,13 @@ thumbnail: https://thmb.techidaily.com/0a6fdf457b7ae04c7271bb5ef452861b60d681e9f
 
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What does switchable graphics mean?
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I fix my problem switchable graphic cards?
 
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/0a6fdf457b7ae04c7271bb5ef452861b60d681e9f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Shut down your laptop.
 
 3) Disconnect AC adapter if it is connected.
@@ -68,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/0a6fdf457b7ae04c7271bb5ef452861b60d681e9f
 7) Put the battery back and reconnect your AC adapter.
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2: Update graphics drivers
 
@@ -89,6 +81,10 @@ There are two ways you can get the right drivers for your video cards: manually 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -96,7 +92,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db5786b60.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3: Change switchable graphics mode
@@ -105,6 +101,10 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4: Disable Fast Startup
 
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
@@ -112,7 +112,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
@@ -142,18 +142,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-a-compreited-list-of-top-5-iphone-apps-revolutionizing-podcasts/"><u>[New] A Compreited List of Top 5 iPhone Apps Revolutionizing Podcasts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-10-best-video-player-apps-for-iphone-and-ipad/"><u>[New] In 2024, 10 Best Video Player Apps for iPhone and iPad</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-decoding-youtubes-thumbnail-impact-on-traffic/"><u>[Updated] Decoding YouTube's Thumbnail Impact on Traffic</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amd-and-win10-teamwork-detection-driver-now-functional/"><u>AMD & Win10 Teamwork: Detection Driver Now Functional</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-11-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone 11? Find the Best Solution Here</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/driver-update-success-code-22/"><u>Driver Update Success - Code 22</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-windows-10s-nvidiaintel-switchable-card-issue/"><u>Fixing Windows 10'S Nvidia/Intel Switchable Card Issue</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How to Change Location on TikTok to See More Content On your Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-best-8-stability-tools-for-high-definition-cameras/"><u>In 2024, Best 8 Stability Tools for High-Definition Cameras</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/new-horizons-in-gaming-radeon-hd-6950-drivers-on-win10/"><u>New Horizons in Gaming: Radeon HD 6950 Drivers on Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-intel-r-switchable-graphics-card-problem-on-windows-10-solved/"><u>NVIDIA/ Intel (R) Switchable Graphics Card Problem on Windows 10 [SOLVED]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectified-error-comservices-issue-on-windows/"><u>Rectified Error: COMServices Issue on Windows</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-elevate-your-ad-game-a-deep-dive-into-spotify-promotion/"><u>[New] Elevate Your Ad Game A Deep Dive Into Spotify Promotion</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-magic-behind-the-lens-iphone-xs-groundbreayer-camera-tech/"><u>[New] The Magic Behind the Lens IPhone X's Groundbreayer Camera Tech</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-youtubes-algorithm-title-and-tag-optimization-for-2024/"><u>[Updated] Unlocking YouTube's Algorithm Title & Tag Optimization for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clearing-up-green-mistakes-on-video-platforms/"><u>Clearing Up Green Mistakes on Video Platforms</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-installing-canon-mp280-printer-drivers-on-windows-1087/"><u>Easy Guide: Installing Canon MP280 Printer Drivers on Windows 10/8/7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improving-god-of-war-mechanics-for-fun/"><u>Improving 'God of War' Mechanics for Fun</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/optimal-video-recording-for-instructors/"><u>Optimal Video-Recording for Instructors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedying-portable-monitors-opaque-screen/"><u>Remedying Portable Monitors' Opaque Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/repaired-amd-directx-error/"><u>Repaired AMD DirectX Error</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-unusual-display-configuration/"><u>Resolved Unusual Display Configuration</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/slow-and-steady-wins-the-game-top-10-video-players-for-slow-motion/"><u>Slow and Steady Wins the Game Top 10 Video Players for Slow Motion</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-fixes-for-when-your-iphone-refuses-to-send-smsmms-messages/"><u>Top 10 Fixes for When Your iPhone Refuses to Send SMS/MMS Messages</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-rated-dj-templates-free-access-for-music-makers-for-2024/"><u>Top-Rated DJ Templates Free Access for Music Makers for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgrade-instructions-intel-3000-plus-windows-11-drivers/"><u>Upgrade Instructions: Intel 3000 + Windows 11 Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-dark-screen-fix-mouse-appears/"><u>Win11 Dark Screen Fix: Mouse Appears</u></a></li>
 </ul></div>
 

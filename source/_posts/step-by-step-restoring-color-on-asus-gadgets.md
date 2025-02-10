@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Restoring Color on Asus Gadgets"
-date: 2025-01-28T18:00:20.228Z
-updated: 2025-01-29T17:10:36.536Z
+date: 2025-02-06T19:26:27.740Z
+updated: 2025-02-10T04:04:06.759Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/1ecbe0134963fa333301ade42400de327d03477a1
 7. **[Fix corrupted system files](#ADD)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Reset the display mode
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/1ecbe0134963fa333301ade42400de327d03477a1
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Hard reset your Asus laptop
@@ -81,6 +81,10 @@ Here is how to do it:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
@@ -103,7 +107,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Disable fast startup
@@ -122,16 +126,16 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
 4. Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes** and close the window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-568.png)
 5. Restart your computer and check if your laptop screen displays properly.
 
  Still got a black screen? Please try **Fix 6** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Perform a system restore
 
@@ -145,24 +149,20 @@ So you can try disabling fast startup to see if it does the trick:
 3. Read the on-screen descriptions about what a system restore will do and will not do and click **Next** to continue.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 4. Tick **the box**  for **Show more restore points** and select the **restore point** that you want to use to revert your computer to and click **Next** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
 5. Follow the on-screen instructions to complete the system restore process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Restart your computer to see if the black screen issue has been fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Fix corrupted system files
 
@@ -201,18 +201,20 @@ Once the repair is finished, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-mastering-your-content-on-vimeo-free-plus-or-pro-in-2024/"><u>[New] Mastering Your Content on Vimeo Free, Plus or Pro, In 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-how-to-post-a-video-from-youtube-on-instagram/"><u>[Updated] 2024 Approved How to Post a Video From YouTube on Instagram</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-leveraging-multiple-channels-to-boost-online-visibility/"><u>[Updated] 2024 Approved Leveraging Multiple Channels to Boost Online Visibility</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dawn-for-dark-lenovo-displays/"><u>Dawn for Dark Lenovo Displays</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminating-graphic-swap-errors-in-win11/"><u>Eliminating Graphic Swap Errors in Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/game-smoothness-on-latest-rtx-graphics/"><u>Game Smoothness on Latest RTX Graphics</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/handhinas-and-lenses-for-journey-shots-for-2024/"><u>Handhinas and Lenses for Journey Shots for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-iphone-14-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off iPhone 14 without Password</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/joining-the-world-of-live-broadcasts-a-roku-primer-for-2024/"><u>Joining the World of Live Broadcasts A Roku Primer for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/missing-graphic-support-resolve-fast/"><u>Missing Graphic Support, Resolve Fast</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/steadying-stuttering-screens-acer-fixes-guide/"><u>Steadying Stuttering Screens: Acer Fixes Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/strategic-approaches-broadcasting-live-sports-with-precision-for-2024/"><u>Strategic Approaches Broadcasting Live Sports with Precision for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-how-to-create-stunning-mosaic-photo-collage/"><u>[New] In 2024, How to Create Stunning Mosaic Photo Collage</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2023-endless-ears-on-facebook-downloads/"><u>[Updated] 2023 Endless Ears on Facebook Downloads</u></a></li>
+<li><a href="https://blog-min.techidaily.com/wmv-mp4-movavi/"><u>網路上自由下載 WMV到 MP4 - 使用Movavi格式適配器</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/alleviating-absence-of-aesthetic-screen-features/"><u>Alleviating Absence of Aesthetic Screen Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-google-wi-fi-the-perfect-choice-for-seamless-wireless-connectivity/"><u>Comprehensive Review of Google Wi-Fi: The Perfect Choice for Seamless Wireless Connectivity</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-bargains-with-oodles-complimentary-community-ads/"><u>Discover Bargains with Oodle's Complimentary Community Ads</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easier-display-customization-solved-on-windows-11/"><u>Easier Display Customization - Solved on Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-step-by-step-guide-for-updating-intels-graphic-drivers-in-windows/"><u>Effortless Step-by-Step Guide for Updating Intel's Graphic Drivers in WIndows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-inverted-windows-7-display/"><u>Fix Inverted Windows 7 Display</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-xr-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone XR without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimize-win10s-vision-upgrade-intel-graphic-drivers-today/"><u>Optimize Win10's Vision: Upgrade Intel Graphic Drivers Today</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-fix-to-apex-crash-here-we-come/"><u>Quick Fix to Apex Crash, Here We Come</u></a></li>
+<li><a href="https://win-dash.techidaily.com/windows-10-webcam-troubles-learn-how-to-update-the-drivers-easily/"><u>Windows 10 Webcam Troubles? Learn How to Update the Drivers Easily!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-toolbar-integrating-disk-space-insight-widgets/"><u>Windows Toolbar: Integrating Disk Space Insight Widgets</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zero-wait-solutions-to-monitor-disconnection-issues/"><u>Zero-Wait Solutions to Monitor Disconnection Issues</u></a></li>
 </ul></div>
 

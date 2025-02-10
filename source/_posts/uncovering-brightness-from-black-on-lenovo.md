@@ -1,7 +1,7 @@
 ---
 title: Uncovering Brightness From Black on Lenovo
-date: 2025-01-24T17:03:34.489Z
-updated: 2025-01-29T18:42:34.758Z
+date: 2025-02-04T17:47:45.271Z
+updated: 2025-02-09T20:16:26.988Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f77
 
  If you turn on your**Lenovo laptop** only for it to show nothing but a**black screen** , don’t panic. It’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Lenovo Laptop Black Screen in Windows 11, 10 and 8
 
  Here are 6 fixes that have helped other users resolve the Lenovo Laptop Black Screen problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f77
 5. **[Disable fast startup](#F5)**
 6. **[Perform a system restore](#F6)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reset the display mode
 
  Sometimes the black screen is only a glitch when the operating system loses its connection to the screen display. So whenever this happens, the first thing you can try is to press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , the**Ctrl** key, the**Shift** key, and**B** at the same time. This will reset the connection so that the operating system regains the display.
@@ -36,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f77
  Once finished, check to see if you get the normal display back on your Lenovo laptop. If yes, then great! If it still gives you the black screen, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Hard reset your Lenovo laptop
 
@@ -63,10 +75,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your graphics driver
 
  You’ll need to log into your computer to perform this fix and the following ones. If you can’t log into your computer, boot your laptop into **[Safe Mode](https://tools.techidaily.com/drivereasy/download/) with network** , then follow the instructions below.
@@ -87,10 +95,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -98,6 +102,10 @@ Here is how to do it:
 5) Check to see if the black screen on your Lenovo laptop issue has been resolved. If yes, then great! If the black screen persists, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Restart the explorer.exe process
 
@@ -109,17 +117,9 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/taskmanager12-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Restart your laptop to see if the black screen issue has been eliminated. If it’s still no joy, please move on to**Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable fast startup
 
@@ -135,13 +135,13 @@ So you can try disabling fast startup to see if it does the trick:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-566.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-567.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Un-tick **the box** for **Turn on fast startup (Recommended)** , click **Save changes,** and close the window.
 
@@ -166,20 +166,20 @@ So you can try disabling fast startup to see if it does the trick:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-572.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Read the on-screen descriptions about what a system restore will do and will not do and click**Next** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-573.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3)_Tick_ **the box** for**Show more restore points** and select the **restore point** that you want to use to revert your computer to and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-574.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Follow the on-screen instructions to complete the system restore process.
 
@@ -207,21 +207,20 @@ So you can try disabling fast startup to see if it does the trick:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-getting-the-most-out-of-your-game-with-fraps/"><u>[New] 2024 Approved Getting the Most Out of Your Game with Fraps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-fixed-obs-audio-capture-issue/"><u>[New] Fixed OBS Audio Capture Issue</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-pinnacle-workshop-25-critique/"><u>[New] Pinnacle Workshop 25 Critique</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unlock-your-editing-potential-the-ultimate-guide-to-background-erasure-in-ps/"><u>[New] Unlock Your Editing Potential The Ultimate Guide to Background Erasure in PS</u></a></li>
-<li><a href="https://discover-best.techidaily.com/efficiently-tidy-your-space-with-xpower-a-2-electric-air-blaster-a-comprehensive-review/"><u>Efficiently Tidy Your Space with XPOWER A-2 Electric Air Blaster - A Comprehensive Review</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/experience-uninterrupted-apex-gameplay/"><u>Experience Uninterrupted Apex Gameplay</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/facebook-video-downloader-and-mp3-maker-for-the-modern-age-for-2024/"><u>Facebook Video Downloader & MP3 Maker for the Modern Age for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harnessing-gpt-for-emotional-support-and-connection/"><u>Harnessing GPT for Emotional Support and Connection</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mute-monitor-mayhem-with-ease/"><u>Mute Monitor Mayhem with Ease</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-laptop-screen-what-are-my-options/"><u>No Laptop Screen: What Are My Options?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-blackout-with-radeon/"><u>Screen Blackout with Radeon</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/system-alert-gpu-not-recognized-2020/"><u>System Alert: GPU Not Recognized [2020]</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/time-is-money-the-best-facebook-schedulers-reviewed-for-2024/"><u>Time Is Money The Best Facebook Schedulers Reviewed for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818151303-unleash-peak-performance-windows-10-update-with-amd-graphics/"><u>Unleash Peak Performance: Windows 10 Update with AMD Graphics</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10-display-enhancements-now-accessible-and-visible/"><u>Win10 Display Enhancements: Now Accessible & Visible</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-broadcasting-facebook-videos-through-your-tv-setup/"><u>[New] In 2024, Broadcasting Facebook Videos Through Your TV Setup</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-star-clusters-in-social-media-landscape/"><u>[Updated] In 2024, Star Clusters in Social Media Landscape</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastery-in-making-the-perfect-match-of-drones-and-propellers/"><u>[Updated] Mastery in Making the Perfect Match of Drones and Propellers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-vivo-y02t-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Vivo Y02T Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicating-dark-desktop-issue-win10-style/"><u>Eradicating Dark Desktop Issue - Win10 Style</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-startup-not-successful/"><u>Graphics Startup: Not Successful</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-vivo-v27-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Vivo V27 Pro</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-kodi-remote-x-wmps-easy-alternative/"><u>In 2024, Kodi Remote X WMP's Easy Alternative</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-pushing-boundaries-with-high-speed-video-discovering-polaroids-xs/"><u>In 2024, Pushing Boundaries with High-Speed Video - Discovering Polaroid's XS</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-y17s-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo Y17s Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-through-predictions-whats-coming-at-the-forthcoming-google-event-with-exclusive-insights/"><u>Navigating Through Predictions - What's Coming at the Forthcoming Google Event with Exclusive Insights</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reversed-fluctuating-visibility-on-dell-laptop-screens/"><u>Reversed Fluctuating Visibility on Dell Laptop Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solutions-for-lenovo-display-glare-issue/"><u>Solutions for Lenovo Display Glare Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successfully-integrated-laptop-gpu-on-windows-11/"><u>Successfully Integrated: Laptop GPU on Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/video-card-error-43-sorted-out/"><u>Video Card Error 43 Sorted Out</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Flashing LCD on HP Systems
-date: 2025-01-22T18:09:05.957Z
-updated: 2025-01-29T16:29:08.474Z
+date: 2025-02-04T21:59:34.631Z
+updated: 2025-02-09T21:16:52.843Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/7b61f24c759b4bb707c98e4d5ba6ea429d7484a4e
  Screen flickering or blinking on your HP laptop? Don’t panic, it’s often not hard to fix at all…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes for HP laptop flickering or blinking
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/7b61f24c759b4bb707c98e4d5ba6ea429d7484a4e
 2. [**Update your display driver**](#F2)
 3. [**Change the screen refresh rate**](#F3)
 4. **[Repair corrupted system files](#ADD)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
 
@@ -60,7 +64,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -91,17 +95,9 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c67b31715b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In **Resolution** , click the drop-down menu and make sure **the recommended resolution** is selected.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
@@ -118,7 +114,7 @@ Here is how to do it:
  3) Check to see if your laptop screen flickering or blinking issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
@@ -131,6 +127,10 @@ Here is how to do it:
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -158,21 +158,20 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-iphone-screen-recording-made-simple-for-2024/"><u>[New] Iphone Screen Recording Made Simple for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-streamlining-the-process-of-saving-ps3-gaming-moments/"><u>[New] Streamlining the Process of Saving PS3 Gaming Moments</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-online-seminar-tagline-creator/"><u>2024 Approved Expert Online Seminar Tagline Creator</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-se-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone SE After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-review-on-apples-compact-music-hub-the-homepod-mini-with-siri-integration/"><u>Expert Review on Apple's Compact Music Hub – The HomePod Mini with Siri Integration</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/guide-on-how-to-bypass-the-c1900101-problem/"><u>Guide on How to Bypass the C1900101 Problem</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fcps-premier-selection-the-top-10-editing-plugins/"><u>In 2024, FCP's Premier Selection The Top 10 Editing Plugins</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/keep-your-pc-running-post-gpu-crashes-with-these-fixes/"><u>Keep Your PC Running Post-GPU Crashes with These Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-browsing-security-with-win-11-ms-defender-guard/"><u>Optimize Browsing Security with Win 11 MS Defender Guard</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-asus-lcd-glitches-for-smooth-viewing/"><u>Overcoming ASUS LCD Glitches for Smooth Viewing</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/repatriacion-de-servidores-windows-server-2008-r22012-r2-mediante-cmd/"><u>Repatriación De Servidores Windows Server 2008 R2/2012 R2 Mediante CMD</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-available-display-preferences-on-nvidia/"><u>Restoring Available Display Preferences on NVIDIA</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-resurrection-quick-steps-to-reclaim-signal/"><u>Screen Resurrection: Quick Steps to Reclaim Signal</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-nubia-red-magic-8s-proplus-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Nubia Red Magic 8S Pro+ for Streaming | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unblock-sims-screensaver-snag/"><u>Unblock Sims Screensaver Snag</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-no-more-flickering-displays/"><u>Win11 No More Flickering Displays</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-premier-platforms-identifying-the-finest-ps2-emulation-tools-for-android/"><u>[Updated] In 2024, Premier Platforms Identifying the Finest PS2 Emulation Tools for Android</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortlessly-enhance-your-systems-graphics-speed-upgrade-intel-drivers-in-windows/"><u>Effortlessly Enhance Your System's Graphics Speed, Upgrade Intel Drivers in WIndows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevating-visuals-with-hdr-excellence-in-photoshop/"><u>Elevating Visuals with HDR Excellence in Photoshop</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhance-your-livestreams-with-manycam-top-notch-software-for-digital-webcams-and-remote-recording/"><u>Enhance Your Livestreams with ManyCam: Top-Notch Software for Digital Webcams and Remote Recording</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/from-black-to-bright-on-lenovo-laptops/"><u>From Black to Bright on Lenovo Laptops</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/get-ready-to-play-updated-windows-11-driver-for-amd-radeon-hd-6950/"><u>Get Ready to Play: Updated Windows 11 Driver for AMD Radeon HD 6950</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-capture-unbroken-webspace/"><u>In 2024, Capture Unbroken Webspace</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-tough-times-with-tech-prowess-the-enduring-need-for-open-source-and-linux-skills/"><u>Navigating Tough Times with Tech Prowess: The Enduring Need for Open Source and Linux Skills</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/outsmart-sims-monochrome-maze/"><u>Outsmart Sims' Monochrome Maze</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/regain-control-of-displays-savings-on-windows-versions-7-10-fixed/"><u>Regain Control of Displays Savings on Windows Versions 7-10 [Fixed]</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-infinix-zero-30-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Infinix Zero 30 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/transitioning-qbittorrent-to-another-system-step-by-step-guide/"><u>Transitioning qBittorrent to Another System: Step-by-Step Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlock-clear-zoom-video-2024s-camera-repair-guide/"><u>Unlock Clear Zoom Video - 2024'S Camera Repair Guide</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-echoes-within-formats-mp4s-guide-to-effortless-audio-retrieval-techniques-for-2024/"><u>Updated Echoes Within Formats MP4s Guide to Effortless Audio Retrieval Techniques for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/yl-software-unveils-why-the-great-wall-of-china-holds-historical-importance/"><u>YL Software Unveils Why the Great Wall of China Holds Historical Importance</u></a></li>
 </ul></div>
 

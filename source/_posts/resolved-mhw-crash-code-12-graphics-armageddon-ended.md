@@ -1,7 +1,7 @@
 ---
 title: "[Resolved] MHW Crash Code 12 - Graphics Armageddon Ended"
-date: 2025-01-27T17:40:24.352Z
-updated: 2025-01-29T18:35:58.548Z
+date: 2025-02-08T04:13:59.696Z
+updated: 2025-02-10T02:10:49.957Z
 tags:
   - win11
   - win10
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
  If you keep getting the**Err 12: Graphics device crashed** while playing**Monster Hunter World** , you’re certainly not alone. While this can be quite irritating, most of the time it is only a driver issue that can be fixes pretty easily…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes for err12: Graphics Device Crashed error
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 1. **[Update your graphics driver (nearly always fixes the problem)](#F1)**
 2. **[Roll back your graphics driver](#F2)**
 3. **[Repair system files](#RE)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver (nearly always fixes the problem)
 
@@ -48,9 +44,17 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -71,10 +75,6 @@ Here’s how to do it:
  2) Double-click on**Display adapters** (aka.**Graphics card** , **Video card**). Then double-click on**your graphics card** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-216.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the **Driver** tab > **Roll Back Driver** \> **OK** .
 
@@ -123,15 +123,15 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -163,24 +163,17 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-the-untold-elements-of-instagram-story-engagement-for-2024/"><u>[New] The Untold Elements of Instagram Story Engagement for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-stop-buffer-tweet-vids-in-chromium-browser-for-2024/"><u>[Updated] Stop Buffer Tweet Vids in Chromium Browser for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-unlocking-image-potential-the-importance-of-luts/"><u>[Updated] Unlocking Image Potential The Importance of LUTs</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-essential-youtube-beauty-influencers-10-creators-to-watch/"><u>2024 Approved Essential YouTube Beauty Influencers 10 Creators to Watch</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-iphone-image-editing-mastering-photo-cropping-tools/"><u>2024 Approved IPhone Image Editing Mastering Photo Cropping Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apples-newest-earpods-with-usb-c-the-unexpected-addition-to-my-prime-day-haul-insights/"><u>Apple's Newest EarPods with USB-C: The Unexpected Addition to My Prime Day Haul – Insights</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-glitch-cleared-giving-you-smooth-performance-boost/"><u>Direct3D Glitch Cleared, Giving You Smooth Performance Boost</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/elevate-your-graphics-with-new-nvidia-win11-drivers/"><u>Elevate Your Graphics with New NVIDIA Win11 Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/elevating-the-television-experience-with-4k-pixels/"><u>Elevating the Television Experience with 4K Pixels</u></a></li>
-<li><a href="https://facebook.techidaily.com/five-regretful-moments-that-reflect-facebooks-user-relationship-history/"><u>Five Regretful Moments That Reflect Facebook’s User Relationship History</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-handle-and-fix-the-critical-process-died-error-on-windows-pcs/"><u>How to Correctly Handle and Fix the Critical Process Died Error on Windows PCs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Meizu 21 Pro? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quell-windows-11-flashing-phenomenon/"><u>Quell Windows 11 Flashing Phenomenon</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revive-and-enhance-zoom-calls-with-this-camera-repair-guide/"><u>Revive and Enhance Zoom Calls with This Camera Repair Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screeninversionproblem-fixes/"><u>ScreenInversionProblem Fixes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/system-alert-dealt-with-nvidia-screen-functional/"><u>System Alert Dealt With: Nvidia Screen Functional</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackle-faulty-drivers-for-game-stability/"><u>Tackle Faulty Drivers for Game Stability</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-display-settings-enhancement/"><u>Windows 11 Display Settings Enhancement</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/iscover-8-essential-sites-for-pristine-green-screen-images-for-2024/"><u>[New] Discover 8 Essential Sites for Pristine Green Screen Images for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-uncomplicated-approach-incorporating-flippy-sounds-into-your-windows-setup/"><u>[Updated] Uncomplicated Approach Incorporating Flippy Sounds Into Your Windows Setup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-initialization-disrupted/"><u>Display Initialization Disrupted</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/economical-elegance-comparing-the-motorola-one-and-apples-iconic-design/"><u>Economical Elegance: Comparing the Motorola One and Apple's Iconic Design</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/encountered-liquid-damage-on-iphone-charger-end-explore-solution-strategies-with-zdnet/"><u>Encountered Liquid Damage on iPhone Charger End? Explore Solution Strategies with ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-still-to-moving-adding-animated-effects-to-your-text-ig-stories/"><u>From Still to Moving Adding Animated Effects to Your Text IG Stories</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-time-taming-learn-youtube-video-length-cuts/"><u>In 2024, Time Taming Learn YouTube Video Length Cuts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reinitiating-your-gpus-spinning-fans/"><u>Reinitiating Your GPU's Spinning Fans</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/switching-gpu-issues-nvidiaintel-on-win10-fixed/"><u>Switching GPU Issues: Nvidia/Intel on Win10 - Fixed!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/uncharted-territory-5-advanced-gpt-functions-for-enthusiasts/"><u>Uncharted Territory: 5 Advanced GPT Functions for Enthusiasts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817865704-update-intel-graphics-3000-driver-for-windows-11-easily/"><u>Update Intel Graphics 3000 Driver for Windows 11. Easily!</u></a></li>
 </ul></div>
 

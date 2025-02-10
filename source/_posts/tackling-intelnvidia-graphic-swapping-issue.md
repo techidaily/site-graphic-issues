@@ -1,7 +1,7 @@
 ---
 title: Tackling Intel/Nvidia Graphic Swapping Issue
-date: 2025-01-24T19:52:06.960Z
-updated: 2025-01-29T17:33:09.803Z
+date: 2025-02-04T16:00:32.121Z
+updated: 2025-02-10T04:44:06.803Z
 tags:
   - win11
   - win10
@@ -24,17 +24,9 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What does switchable graphics mean?
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How do I fix my problem switchable graphic cards?
 
@@ -52,12 +44,16 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/ok.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Shut down your laptop.
 
@@ -101,6 +97,10 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4: Disable Fast Startup
 
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
@@ -108,7 +108,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the left side of the pane, select**Choose what the power button does** .
@@ -120,7 +120,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Scroll down a little bit and**unckeck** the option**Turn on fast startup (recommended)** . Then press**Save changes** and exit.
@@ -142,22 +142,21 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/it-explanation-of-dxgkrnlsys-bluescreen/"><u>[IT] Explanation of dxgkrnl.sys BlueScreen</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-facebook-fam-bites-in-snapchat-spotlight/"><u>[New] Facebook Fam Bites in Snapchat Spotlight</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-become-a-freelance-transcriber-tips-and-tricks-for-youtube-content/"><u>[New] In 2024, Become a Freelance Transcriber Tips and Tricks for YouTube Content</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-innovations-in-office-layout-for-enhanced-productivity/"><u>[New] In 2024, Innovations in Office Layout for Enhanced Productivity</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-a-comprehensible-approach-to-personal-branding-in-the-youtube-sphere/"><u>[Updated] A Comprehensible Approach to Personal Branding in the YouTube Sphere</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-charting-the-course-to-cash-how-much-does-pewdopeep-make/"><u>2024 Approved Charting the Course to Cash How Much Does PewDoPeep Make?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/angled-monitor-repair-for-sideways-viewing/"><u>Angled Monitor Repair for Sideways Viewing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/easing-video-delays-after-upgrading-to-win11/"><u>Easing Video Delays After Upgrading to Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/easy-to-fix-you-are-not-currently-using-a-display-attached-to-an-nvidia-gpu/"><u>Easy To Fix You Are Not Currently Using a Display Attached to an NVIDIA GPU.</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminate-eye-exhaustion-cure-for-monitor-flickering/"><u>Eliminate Eye Exhaustion: Cure for Monitor Flickering</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-correct-a-pcs-oversight-of-its-vga-hardware/"><u>How to Correct a PC's Oversight of Its VGA Hardware</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-lenovo-thinkphone-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Lenovo ThinkPhone Phone that is Locked?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/improving-screen-extension-on-windows-10-systems/"><u>Improving Screen Extension on Windows 10 Systems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/opengl-and-tdr-alert-overcome-thanks-to-nvidia/"><u>OpenGL & TDR Alert Overcome - Thanks to NVIDIA!</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-complete-guide-to-unsubscribe-from-steam/"><u>The Complete Guide to Unsubscribe From Steam</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-strategy-for-controlling-auto-execution-software-at-boot-leveraging-revouninstaller/"><u>The Ultimate Strategy for Controlling Auto-Execution Software at Boot - Leveraging RevoUninstaller</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-20-artificial-intelligence-photo-editing-apps-by-movavi/"><u>Top 20 Artificial Intelligence Photo Editing Apps by Movavi</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/chieving-financial-gain-with-youtube-shorts-essentials-opportunities-and-earning-prospects/"><u>[New] Achieving Financial Gain with Youtube Shorts Essentials, Opportunities & Earning Prospects</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-leading-the-field-in-remotely-recorded-content-creation/"><u>[New] In 2024, Leading the Field in Remotely Recorded Content Creation</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/1717952355173-new-in-2024-twitch-vs-youtube-an-in-depth-comparative-analysis/"><u>[New] In 2024, Twitch Vs. YouTube An In-Depth Comparative Analysis</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/sold-out-advanced-visual-configurations-in-windows/"><u>[SOLD-OUT]: Advanced Visual Configurations in Windows</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-becoming-a-pro-in-video-game-broadcasts/"><u>[Updated] 2024 Approved Becoming a Pro in Video Game Broadcasts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/complete-instructions-for-performing-an-emergency-restart-and-entering-iphones-safe-mode/"><u>Complete Instructions for Performing an Emergency Restart and Entering iPhone's Safe Mode</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-escape-rapid-cure-for-amd-and-tarkov-hiccup/"><u>Effortless Escape: Rapid Cure for AMD & Tarkov Hiccup</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhance-your-systems-visual-experience-by-reviving-graphics-win7/"><u>Enhance Your System's Visual Experience by Reviving Graphics (Win7)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-resolving-installer-snags-for-nvidia/"><u>Fixed: Resolving Installer Snags for Nvidia</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-get-past-c1900101-hurdle-in-installing-windows-10/"><u>How to Get Past C1900101 Hurdle in Installing Windows 10</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-nokia-g22-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Nokia G22 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimize-stream-quality-instantly/"><u>Optimize Stream Quality Instantly!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/pushing-performance-overcoming-non-supported-freesync/"><u>Pushing Performance: Overcoming Non-Supported FreeSync</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revitalize-your-writers-block-with-5-ai-generators/"><u>Revitalize Your Writer's Block with 5 AI Generators</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-gameplay-interruptions-in-code-vein-expert-advice-on-thawing-out-frozen-frames/"><u>Stop Gameplay Interruptions in Code Vein: Expert Advice on Thawing Out Frozen Frames</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-10-dvd-cprm/"><u>Windows 10対応 DVD CPRM解除自由プログラム - 最適推薦</u></a></li>
 </ul></div>
 

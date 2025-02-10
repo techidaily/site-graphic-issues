@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Blurry Laptop Horizontal Bars
-date: 2025-01-23T19:10:56.580Z
-updated: 2025-01-29T16:41:05.583Z
+date: 2025-02-06T04:37:46.898Z
+updated: 2025-02-09T23:57:59.029Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 2. **[Adjust the screen resolution](#F2)**
 3. **[Gently wipe the screen with cotton balls](#F3)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or its out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -40,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
@@ -53,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
  4) Restart your computer and see if the horizontal lines on screen issue has been fixed. If yes, then great! But if the problem persists, move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Adjust the screen resolution
 
@@ -76,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c683faa667.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### I’m using Windows 8 or 7
 
  1) Right-click on the empty area of your desktop screen and click Screen resolution.
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Adjust the screen resolution and see if the horizontal lines disappear.
@@ -91,13 +91,13 @@ thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72884ff0e75.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Gently wipe the screen with cotton balls
@@ -130,22 +130,18 @@ Featured image by rawpixel.com from Pexels
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-the-social-media-gurus-handbook-accelerating-your-path-to-viral-success-on-instagram/"><u>[New] The Social Media Guru's Handbook Accelerating Your Path to Viral Success on Instagram</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troublesome-unsupported-graphics-cards-by-winoses/"><u>[TROUBLESOME] Unsupported Graphics Cards by WinOSes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/bizarre-vertical-reversal-in-insta-videos-a-glitch/"><u>Bizarre Vertical Reversal in Insta Videos – A Glitch?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/effortless-intel-3000-driver-fix-for-windows-10-users/"><u>Effortless Intel 3000 Driver Fix for Windows 10 Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ending-windows-10-screen-flip-mishap/"><u>Ending Windows 10 Screen Flip Mishap</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhance-performance-upgrade-intel-3000-on-windows-11/"><u>Enhance Performance: Upgrade Intel 3000 on Windows 11</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/guide-complet-suppression-definitive-de-lhistorique-des-fichiers-sur-windows-11/"><u>Guide Complet : Suppression Définitive De L'historique Des Fichiers Sur Windows 11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/guilty-gear-strive-postponed-heres-everything-you-need-to-know-about-its-new-release-date/"><u>Guilty Gear Strive Postponed? Here's Everything You Need to Know About Its New Release Date</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/integrating-the-latest-intel-gpu-software-on-windows/"><u>Integrating the Latest Intel GPU Software on Windows</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y27-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y27 5GFRP Lock</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/real-time-fix-for-jittery-videos/"><u>Real-Time Fix for Jittery Videos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectifying-radeon-r9-driver-errors-in-windows-11/"><u>Rectifying Radeon R9 Driver Errors in Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/remediation-of-cominterface-error-windows-edition/"><u>Remediation of COMInterface Error, Windows Edition</u></a></li>
-<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-p40-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of P40</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/resolving-computer-malfunctions-essential-steps-when-your-system-freezes-according-to-yl-software-experts/"><u>Resolving Computer Malfunctions: Essential Steps When Your System Freezes, According to YL Software Experts</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/scholarly-streams-10-best-ed-tutorials-yt/"><u>Scholarly Streams 10 Best Ed Tutorials YT</u></a></li>
-<li><a href="https://extra-support.techidaily.com/sharpen-your-shots-canon-offers-freepaid-lut-edits-for-2024/"><u>Sharpen Your Shots Canon Offers Free/Paid LUT Edits for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-nvidia-control-panel-access-denied/"><u>[Solved] NVIDIA Control Panel Access Denied</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-audio-enhancement-strategies-using-premiere-pro/"><u>[Updated] Audio Enhancement Strategies Using Premiere Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003781149-2024s-top-tricks-for-a-smooth-dota-2-experience-stop-lag-once-and-for-good/"><u>2024'S Top Tricks for a Smooth Dota 2 Experience: Stop Lag Once and For Good</u></a></li>
+<li><a href="https://win-forum.techidaily.com/activate-your-revoappmanager-a-comprehensive-walkthrough-using-revouninstaller/"><u>Activate Your RevoAppManager - A Comprehensive Walkthrough Using RevoUninstaller</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ceasing-the-chaos-stop-lenovo-screen-anomalies/"><u>Ceasing the Chaos: Stop Lenovo Screen Anomalies</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fine-tuning-oversized-win11-screen/"><u>Fine-Tuning Oversized Win11 Screen</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/high-quality-goku-black-and-zamasu-desktop-wallpapers-by-yl-computing-best-seo/"><u>High-Quality Goku Black & Zamasu Desktop Wallpapers by YL Computing - Best SEO</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Oppo K11x? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-x-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone X to PC | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725290175682-iphone-dvd/"><u>IPhone用 DVDファイル導入方法がわかった！無料ガイド</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unexpected-laptop-screen-shutdown-what-to-do/"><u>Unexpected Laptop Screen Shutdown - What to Do?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-clear-vision-flawless-screens/"><u>Win11 - Clear Vision, Flawless Screens</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-cant-change-resolution-solved/"><u>Windows 10 Can’t Change Resolution [SOLVED]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Hybrid Card Problem for Switchable Graphics
-date: 2025-01-27T17:23:24.640Z
-updated: 2025-01-29T20:02:00.910Z
+date: 2025-02-09T00:07:44.809Z
+updated: 2025-02-10T00:57:43.286Z
 tags:
   - win11
   - win10
@@ -24,13 +24,13 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
  (**\***  The brand name of your graphics cards might be different from mine. But the methods apply to laptops with switchable graphics cards generally.)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What does switchable graphics mean?
 
  The switchable graphics feature allows you to switch between using the Intel® graphics and a discrete graphics controller in a computer. For example, you can switch between the enhanced battery life of the Intel graphics while running on laptop battery power and the performance capabilities of the discrete graphics controller while the laptop is plugged into AC power. You can check on the manufacturer website of your laptop to see whether your computer and your operating system support switchable graphics.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I fix my problem switchable graphic cards?
 
@@ -41,11 +41,19 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
  Step 3: [**Change switchable graphics mode**](#m4)
  Step 4:**[Disable Fast Startup](#m5)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1: Perform a hard reset
 
 1) G o to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Expand **Display adapters**  , right-click the faulty graphics card driver and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/uninstall-display-adapters.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If prompted for confirmation of the uninstall, click **OK** to confirm.
 
@@ -65,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
 8) Power on your laptop to the normal mode. See if the switchable graphics function well again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2: Update graphics drivers
 
  One of the biggest reasons for your not working well graphics cards is outdated, missing or faulty drivers. The solution to this is quite easy, though: just update your graphics card driver to the most recent correct version would do the magic.
@@ -82,7 +94,7 @@ There are two ways you can get the right drivers for your video cards: manually 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a44db475937d.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
@@ -97,27 +109,15 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/manage-3d-settings-preferred-graphics-processor.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4: Disable Fast Startup
 
  1) Press the**Start** button, then choose**Control Panel** . In the view of**Small icons** , select**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the left side of the pane, select**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/choose-what-the-power-button-does.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Then click**Change settings that are currently unavailable** . You might need to type in your username and password to get the administrator permission.
 
@@ -142,18 +142,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-explore-the-10-most-powerful-drawing-tools-on-chrome-os/"><u>[Updated] Explore the 10 Most Powerful Drawing Tools on Chrome OS</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/ensuring-perfect-fit-how-to-check-hardware-and-software-alignment-for-your-pc-expert-advice-by-yl-computing/"><u>Ensuring Perfect Fit: How to Check Hardware and Software Alignment for Your PC - Expert Advice by YL Computing</u></a></li>
-<li><a href="https://media-tips.techidaily.com/fast-and-simple-steps-transforming-your-avi-videos-into-mp4-for-better-quality-streaming/"><u>Fast and Simple Steps: Transforming Your AVI Videos Into MP4 for Better Quality Streaming</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-realme-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Realme Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-samsung-galaxy-s23-fe-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Samsung Galaxy S23 FE Phone Now with These Tips</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-transform-your-twitter-usage-best-unfollower-tools-reviewed/"><u>In 2024, Transform Your Twitter Usage Best Unfollower Tools Reviewed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/kernel-bug-bypassed-22/"><u>Kernel Bug Bypassed - #22</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectifying-horizontal-displacement-errors/"><u>Rectifying Horizontal Displacement Errors</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resetting-display-settings-failures-on-windows-7-and-10-fix-complete/"><u>Resetting Display Settings Failures on Windows 7 & 10 [Fix Complete]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-error-amds-load-failure-on-win10-addressed/"><u>Resolved Error: AMD's Load Failure on Win10 Addressed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-random-screen-flashing-on-dell-computers/"><u>Resolved: Random Screen Flashing on Dell Computers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-obscured-post-fix-install/"><u>Screen Obscured Post-Fix Install</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-easily-edit-avi-files-on-your-windows-8-pc-a-beginners-guide/"><u>Updated In 2024, Easily Edit AVI Files on Your Windows 8 PC A Beginners Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-navigating-through-non-displaying-thumbnails-on-your-shorts/"><u>[New] In 2024, Navigating Through Non-Displaying Thumbnails on Your Shorts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-secrets-to-profitability-on-youtube-shorts-fundamentals-and-future-earnings/"><u>[New] In 2024, Secrets to Profitability on YouTube Shorts Fundamentals & Future Earnings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-ranked-apps-for-video-conferencing-and-collaboration/"><u>[New] Top-Ranked Apps for Video Conferencing and Collaboration</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-stretched-screen-issues-for-windows-10/"><u>[Solved] Stretched Screen Issues for Windows 10</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-how-to-harness-youtubes-creative-commons-in-video-making/"><u>[Updated] How to Harness YouTube's Creative Commons in Video Making</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-science-behind-sharing-memes-unveiled/"><u>2024 Approved The Science Behind Sharing Memes Unveiled</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cure-fallout-4-crashes-easily-for-gamers/"><u>Cure Fallout 4 Crashes Easily for Gamers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-angle-correction-for-clear-vision/"><u>Effortless Angle Correction for Clear Vision</u></a></li>
+<li><a href="https://win-trending.techidaily.com/is-it-time-to-upgrade-your-laptops-screen-expert-advice-from-yl-computing/"><u>Is It Time To Upgrade Your Laptop's Screen? Expert Advice From YL Computing</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-10-best-free-security-camera-software/"><u>New 2024 Approved 10 Best Free Security Camera Software</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-lenovo-non-touch-problem/"><u>Overcoming Lenovo Non-Touch Problem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/precise-repair-swift-solution-to-amds-tarkov-glitch/"><u>Precise Repair: Swift Solution to AMD's Tarkov Glitch</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quelling-windows-10-screen-blink/"><u>Quelling Windows 10 Screen Blink</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-graphics-glitch-in-windowsminecraft/"><u>Resolve Graphics Glitch in Windows/Minecraft</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-gameplay-interruptions-overcoming-stability-problems-in-metro-exodus-for-windows-users/"><u>Stop Gameplay Interruptions - Overcoming Stability Problems in Metro Exodus for Windows Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-lacks-necessary-amd-graphics-software/"><u>Windows Lacks Necessary AMD Graphics Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726225141928-movavi/"><u>스타일리티 업그림에 깊이를 더하는 Movavi 라인 클로저: 사진 자르기 도구 조합</u></a></li>
 </ul></div>
 

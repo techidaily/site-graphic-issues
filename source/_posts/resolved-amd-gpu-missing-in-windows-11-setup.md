@@ -1,7 +1,7 @@
 ---
 title: "Resolved: AMD GPU Missing in Windows 11 Setup"
-date: 2025-01-25T17:31:46.406Z
-updated: 2025-01-29T19:39:40.637Z
+date: 2025-02-07T16:12:57.170Z
+updated: 2025-02-09T23:58:19.228Z
 tags:
   - win11
   - win10
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/855361452192f3b7b7e7e407da45b95275a5f560d
 3. Click the**Update** button next to your AMD graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
     
@@ -47,13 +47,13 @@ thumbnail: https://thmb.techidaily.com/855361452192f3b7b7e7e407da45b95275a5f560d
 **Note:** If you need assistance, please contact Driver Easy’s support team at**support@drivereasy.com** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Solution 2: Reinstall the AMD graphics driver
@@ -66,14 +66,14 @@ thumbnail: https://thmb.techidaily.com/855361452192f3b7b7e7e407da45b95275a5f560d
 3. Expand**Display adapters** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0472246a2b.jpg)
 4. Right-click on your AMD graphics device, then select**Uninstall device** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Windows may prompt you to confirm the uninstallation. Check the**Delete the driver software for this device** checkbox and click**OK** .
@@ -104,18 +104,22 @@ Just have a try now!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-flat-to-fantastic-animated-text-transformations/"><u>[New] 2024 Approved From Flat to Fantastic Animated Text Transformations</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/37004679-new-streamline-your-thumbnail-design-journey-today/"><u>[New] Streamline Your Thumbnail Design Journey Today!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/boost-windows-10s-canon-printer-operation-success-rate/"><u>Boost Windows 10'S Canon Printer Operation Success Rate</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/flip-the-switch-restoring-screen-brightness-on-asus/"><u>Flip the Switch: Restoring Screen Brightness on Asus</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ghostwire-tokyo-stability-guide-preventing-your-pc-from-keeping-on-crashing/"><u>Ghostwire: Tokyo Stability Guide – Preventing Your PC From Keeping on Crashing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphic-device-debugged-43-fix/"><u>Graphic Device Debugged #43 Fix</u></a></li>
-<li><a href="https://win-blog.techidaily.com/guide-resolve-fifa-22-pc-compatibility-and-performance-issues/"><u>Guide: Resolve FIFA 22 PC Compatibility and Performance Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/improved-graphics-amd-hd-6950-driver-for-windows-11-released/"><u>Improved Graphics: AMD HD 6950 Driver for Windows 11 Released</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-tecno-spark-go-2024-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Tecno Spark Go (2024) Location | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-driver-recognition-for-older-amd-adapters-on-windows/"><u>No Driver Recognition for Older AMD Adapters on Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tdr-alert-fixed-nvidia-drivers-stabilize-graphics/"><u>TDR Alert Fixed: NVIDIA Drivers Stabilize Graphics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-to-remove-black-display-on-pc-webcam/"><u>Tips to Remove Black Display on PC Webcam</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlock-low-end-system-potential-with-intel-graphics/"><u>Unlock Low-End System Potential with Intel Graphics</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-elevating-zoom-quality-best-practices-for-google-meet/"><u>2024 Approved Elevating Zoom Quality Best Practices for Google Meet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/combatting-screenscape-irregularities-in-pro-7/"><u>Combatting Screenscape Irregularities in Pro 7</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-13-mini-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 13 mini</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fine-tuning-screen-border-placement/"><u>Fine-Tuning Screen Border Placement</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-zte-blade-a73-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from ZTE Blade A73 5G Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-world-of-fpv-drone-propellers/"><u>In 2024, Navigating the World of FPV Drone Propellers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-numbers-game-estimating-income-from-viral-content/"><u>In 2024, The Numbers Game Estimating Income From Viral Content</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-kobo-forma-the-e-reader-committed-to-enhancing-your-reading-experience/"><u>In Depth Analysis of Kobo Forma: The E-Reader Committed to Enhancing Your Reading Experience</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/invertedviewresolution/"><u>InvertedViewResolution</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-mastering-sound-integrating-audio-with-visuals-in-film-production/"><u>New In 2024, Mastering Sound Integrating Audio with Visuals in Film Production</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-the-widows-11-setup-challenge-error-c1900101/"><u>Overcoming the WIDows 11 Setup Challenge: Error C1900101</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectified-non-standard-laptop-display-layout/"><u>Rectified Non-Standard Laptop Display Layout</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-your-pc-install-todays-latest-nvidia-driver-release/"><u>Revive Your PC – Install Today's Latest Nvidia Driver Release.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-error-no-more-code-22-solved/"><u>Screen Error No More: Code 22 Solved</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-reinstallation-of-amd-driver-on-windows-10/"><u>Successful Reinstallation of AMD Driver on Windows 10</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/unveiling-windows-control-panel-a-comprehensive-guide-to-power-settings-yl-computing/"><u>Unveiling Windows Control Panel: A Comprehensive Guide to Power Settings - YL Computing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-to-fullscreen-but-monitor-wont-comply/"><u>Windows 11 to Fullscreen, But Monitor Won't Comply</u></a></li>
 </ul></div>
 

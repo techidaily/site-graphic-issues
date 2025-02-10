@@ -1,7 +1,7 @@
 ---
 title: Recovery From Cursor Freeze in Windows
-date: 2025-01-28T16:37:36.515Z
-updated: 2025-01-29T18:01:27.425Z
+date: 2025-02-04T20:04:49.430Z
+updated: 2025-02-10T00:07:44.471Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ If you’re on a laptop:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 2: Update your graphics drivers**
 
  It’s quite likely that your black screen problem is caused by an outdated, corrupt or incorrect video driver. As updating your drivers is quite an easy task (and something you should do, anyway, for the general health of your computer), it should be one of the first fixes you try.
@@ -84,32 +88,36 @@ If you’re on a laptop:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410000c57d.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) View by “Small icons” and click**Power Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100832c9c.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Choose what the power button does** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5834100da71f1.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583410125bde7.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Under “Shutdown settings”, uncheck**Turn on fast startup (recommended)** then click**Save changes** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_58341019b216b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -122,7 +130,7 @@ If you’re on a laptop:
  2) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **R**  at the same time to invoke the run box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Type**devmgmt.msc** and click**OK** .  
@@ -137,10 +145,6 @@ If you’re on a laptop:
  If you’re not sure which one is the integrated graphics one, disable one by one and see if the problem is resolved.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Log in using a different user account
 
@@ -172,6 +176,10 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a2074051b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Other people** in the left pane and click**Add someone else to this PC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a33db93b2.jpg)
@@ -192,15 +200,15 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a65a0d820104.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Restart your computer and you’ll be able to log in to Windows with the administrator account.
 
  4) Create and test a new user account as described above.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 6: Reset your PC**
 
@@ -212,17 +220,13 @@ If you’re on a laptop:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834163ae52.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Click **Update & security**  .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_580834c5df865.png)
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click **Recovery** .  
@@ -231,16 +235,12 @@ If you’re on a laptop:
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Under ‘Reset this PC’, click**Get started** . Then follow the on-screen instructions to reset your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba2ceb096a6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -261,18 +261,24 @@ If you’re on a laptop:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-altering-visuals-in-teams-calls-timely-setup-adjustments/"><u>[New] In 2024, Altering Visuals in Teams Calls Timely Setup Adjustments</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-optimizing-zoom-video-fidelity-comprehensible-guides/"><u>[Updated] 2024 Approved Optimizing Zoom Video Fidelity Comprehensible Guides</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-puredownload-free-youtube-file-acquisition/"><u>[Updated] 2024 Approved PureDownload Free YouTube File Acquisition</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-leveraging-windows-11-features-for-top-notch-gaming-capture-for-2024/"><u>[Updated] Leveraging Windows 11 Features for Top-Notch Gaming Capture for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/a-step-by-step-process-for-twitch-streamers-for-2024/"><u>A Step-by-Step Process for Twitch Streamers for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banishing-blue-screen-solve-wdf-crashes-on-winos/"><u>Banishing Blue Screen: Solve WDF Crashes on WinOS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clearing-up-unresponsive-black-screen-cursor/"><u>Clearing Up Unresponsive Black Screen, Cursor</u></a></li>
-<li><a href="https://win-help.techidaily.com/convert-and-download-hd-tv-episodes-and-full-movies-as-mp4movavi/"><u>Convert and Download HD TV Episodes & Full Movies as MP4/MOV/AVI</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eradicating-plex-streaming-faults-in-windows-11/"><u>Eradicating Plex Streaming Faults in Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-r9-graphics-drivers-for-windows-10-users/"><u>Fixing R9 Graphics Drivers for Windows 10 Users</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-streamlining-youtube-sharing-with-google-account-accessibility/"><u>In 2024, Streamlining YouTube Sharing with Google Account Accessibility</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/new-graphics-card-black-screen-or-no-display/"><u>New Graphics Card Black Screen or No Display</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-tier-luxury-meets-functionality-the-ultimate-titanium-apple-watch-band-reviewed-by-zdnet/"><u>Top-Tier Luxury Meets Functionality: The Ultimate Titanium Apple Watch Band Reviewed by ZDNet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-microsoft-basic-render-driver-issues-in-windows-111087/"><u>[FIXED] Microsoft Basic Render Driver Issues in Windows 11/10/8/7</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-serenade-supreme-top-10-tunes-for-a-forever-commitment/"><u>[New] Serenade Supreme Top 10 Tunes for a Forever Commitment</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/breaking-free-from-blacked-out-display/"><u>Breaking Free From Blacked-Out Display</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-methods-to-transform-dvd-video-content-into-mp4-format-on-windows-11-and-macos-top-10-tactics/"><u>Easy Methods to Transform DVD Video Content Into MP4 Format on Windows 11 & macOS [Top 10 Tactics]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enabling-the-nvenc-codec-with-handbrake-step-by-step-guide/"><u>Enabling the NVENC Codec with HandBrake - Step-by-Step Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-windows-11-video-issues-post-upgrade-resolved/"><u>Fixing Windows 11 Video Issues Post-Upgrade [Resolved]</u></a></li>
+<li><a href="https://win-forum.techidaily.com/free-online-conversion-transforming-m4b-audiobooks-into-m4a-format-with-ease/"><u>Free Online Conversion: Transforming M4B Audiobooks Into M4A Format with Ease</u></a></li>
+<li><a href="https://video-capture.techidaily.com/get-your-groove-on-quick-tips-for-securely-acquiring-house-music-tracks-as-mp3-files-top-strategies-explained/"><u>Get Your Groove On: Quick Tips for Securely Acquiring House Music Tracks as MP3 Files - Top Strategies Explained</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-cards-missing-action-needed/"><u>Graphics Cards Missing, Action Needed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hassle-free-fixes-for-gpus-without-displays/"><u>Hassle-Free Fixes for GPUs Without Displays</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-quicknetflix-screenshots-a-mac-users-guide/"><u>In 2024, QuickNetflix Screenshots A Mac User's Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-what-lurks-behind-the-curtain-of-missing-video-suggestions/"><u>In 2024, What Lurks Behind the Curtain of Missing Video Suggestions?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-tecno-spark-go-2024-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Tecno Spark Go (2024)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/missing-gpu-support-amd-and-windows-oses/"><u>Missing GPU Support: AMD and Windows OSes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-chatgpt-pitfalls-strategies-to-address-the-six-most-prevalent-errors/"><u>Navigating ChatGPT Pitfalls: Strategies to Address the Six Most Prevalent Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedying-gpu-issues-with-continuous-system-use/"><u>Remedying GPU Issues with Continuous System Use</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-10-video-konvertierung-programme-fur-windows-11-sicheres-und-schnelles-umwandeln/"><u>Top 10 Video Konvertierung Programme Für Windows 11 - Sicheres Und Schnelles Umwandeln</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-how-to-fix-screen-not-showing-full-window/"><u>Windows 10: How to Fix Screen Not Showing Full Window?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/xilinx-gpu-error-cleared-back-to-service/"><u>Xilinx GPU: Error Cleared, Back to Service</u></a></li>
 </ul></div>
 

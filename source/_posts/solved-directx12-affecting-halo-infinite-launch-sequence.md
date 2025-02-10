@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] DirectX12 Affecting Halo Infinite Launch Sequence"
-date: 2025-01-22T18:12:14.318Z
-updated: 2025-01-29T17:57:15.558Z
+date: 2025-02-08T04:51:50.649Z
+updated: 2025-02-09T19:12:44.278Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 
  Halo Infinite is a great game but it is really annoying when you get a DirectX12 error and can’t launch the game. Don’t worry, you’re not alone. This post has gathered fixes to solve the error and help you play the game. Read on to find how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Download DX12 file](#fix)
@@ -25,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 3. [Check your PC specs](#fix2)
 4. [Edit your file name](#fix3)
 5. [Repair system files](#fix4)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Download DX12 file
 
@@ -66,20 +74,16 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
  Restart your computer for the changes to take effect, then relaunch Halo Infinite.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Check your PC specification
 
@@ -112,7 +116,7 @@ You need to check 2 elements:
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
@@ -122,10 +126,6 @@ You need to check 2 elements:
  Also, you can check your VRAM on the left panel.
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Edit your file name
 
@@ -139,10 +139,6 @@ If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 
 If this fix doesn’t work, move to the next one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Repair system files
 
  If your system files are missing or broken, you’ll encounter various issues including the game not launching issue. When none of the methods have fixed the issue, running **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  to check the system files could make a difference. It will deal with issues related to system errors, critical system files for you.
@@ -155,6 +151,10 @@ If this fix doesn’t work, move to the next one.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
@@ -178,20 +178,20 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-essential-tips-for-successful-home-based-podcasts-for-2024/"><u>[Updated] Essential Tips for Successful Home-Based Podcasts for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-navigating-windows-10-features-for-seamless-video-editing/"><u>[Updated] In 2024, Navigating Windows 10 Features for Seamless Video Editing</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-optimizing-performance-best-practices-for-fast-loading-times/"><u>2024 Approved Optimizing Performance Best Practices for Fast Loading Times</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-personal-usage-dilemma-selecting-the-ideal-video-sharing-app/"><u>2024 Approved Personal Usage Dilemma Selecting the Ideal Video Sharing App</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-screen-anomalies-on-windows-7/"><u>Addressing Screen Anomalies on Windows 7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/elevate-your-win10-experience-new-driver-release-for-radeon-hd-6950/"><u>Elevate Your Win10 Experience: New Driver Release for Radeon HD 6950</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ending-the-flicker-a-compreenas-guide-for-asus-displays/"><u>Ending the Flicker: A Compreenas Guide for ASUS Displays</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-android-communication-breakdown-no-more-failed-calls/"><u>Fixing Android Communication Breakdown: No More Failed Calls</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-eradication-made-simple-on-windows-pcs/"><u>Graphics Eradication Made Simple on Windows PCs</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-transferring-tracks-a-guide-to-offline-youtube-for-ios-users/"><u>In 2024, Transferring Tracks A Guide to Offline YouTube for iOS Users</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719575254325-mondly-champion-of-language-learning-germany-resonates/"><u>Mondly: Champion of Language Learning - Germany Resonates</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-direct3d-shortcomings-for-unmatched-gaming-performance/"><u>Overcoming Direct3D Shortcomings for Unmatched Gaming Performance</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-c1900101-error-during-windows-11-setup/"><u>Resolving C1900101 Error During Windows 11 Setup</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/top-picks-for-professional-4k-reflective-tech/"><u>Top Picks for Professional 4K Reflective Tech</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-policies-on-windows-discover-3-vital-approaches/"><u>Unlock Policies on Windows: Discover 3 Vital Approaches</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-demystifying-advanced-video-coding-techniques/"><u>[New] Demystifying Advanced Video Coding Techniques</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-leading-brands-in-top-15-4k-recording-for-2024/"><u>[New] Leading Brands in Top 15 4K Recording for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-learn-to-keep-unwanted-suggestions-away-from-ig-for-2024/"><u>[New] Learn to Keep Unwanted Suggestions Away From IG for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-wdfviolation-blue-screen-error-on-windows-111087/"><u>[SOLVED] WDF_Violation Blue Screen Error on Windows 11/10/8/7</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-elevate-youtube-video-quality-minimize-distractions/"><u>[Updated] Elevate YouTube Video Quality, Minimize Distractions</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-integrating-cg-centrals-luts-into-vfx-production-flows/"><u>[Updated] Integrating CG Central's Luts Into VFX Production Flows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-picks-the-finest-photo-frame-software/"><u>Expert Picks The Finest Photo Frame Software</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-lava-blaze-pro-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Lava Blaze Pro 5G Phone that is Locked?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-choreographing-attractive-podcast-briefs/"><u>In 2024, Choreographing Attractive Podcast Briefs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/leading-av-creators-digital-edition-list/"><u>Leading AV Creators Digital Edition List</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lost-connection-found-solution-quick-signal-restoration/"><u>Lost Connection, Found Solution: Quick Signal Restoration</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-rtx-no-visual-feedback/"><u>New RTX No Visual Feedback</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-clearance-mouse-on-win11/"><u>Screen Clearance - Mouse on Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-monitors-silence-combat-visual-shudder/"><u>The Monitor's Silence: Combat Visual Shudder</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/winos-blueerror-resolve-complications-with-wdf-drivers/"><u>WinOS BlueError: Resolve Complications with WDF Drivers</u></a></li>
 </ul></div>
 

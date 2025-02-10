@@ -1,7 +1,7 @@
 ---
 title: Resolving the 'GTX 43 Code' Issue on NVIDIA GeForce 950 Under Windows 10 Operating System
-date: 2025-01-26T18:59:15.465Z
-updated: 2025-01-29T16:59:01.717Z
+date: 2025-02-02T22:03:13.060Z
+updated: 2025-02-09T18:14:34.825Z
 tags:
   - win11
   - win10
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
@@ -56,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
 
@@ -70,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded. 
 
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942041be93b6.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   **Option 2: Update Windows 10** 
@@ -108,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) If new updates are available, just download and then update them as instructed. 
@@ -116,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
  4) Restart your computer after the update. Then check to see if the code 43 still remains. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Option 3: Update BIOS**
@@ -155,20 +155,21 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-tricks-to-flawless-screen-casting-on-mobile-and-desktop/"><u>[New] Tricks to Flawless Screen Casting on Mobile and Desktop</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-explore-the-best-0-image-editing-tools-on-smartphones-today/"><u>[Updated] Explore the Best $0 Image Editing Tools on Smartphones Today</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817511865-banish-frame-lag-swift-hassle-free-fixes/"><u>Banish Frame Lag: Swift, Hassle-Free Fixes!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banishing-blinking-light-from-asus-devices-simply/"><u>Banishing Blinking Light From ASUS Devices Simply</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/lating-your-digital-footprint-understanding-views-and-income-from-youtube-for-2024/"><u>Calculating Your Digital Footprint Understanding Views & Income From YouTube for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/conquer-flickering-screen-issues-on-asus-computers/"><u>Conquer Flickering Screen Issues on ASUS Computers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/guide-to-overcoming-non-detection-of-vga-hardware/"><u>Guide to Overcoming Non-Detection of VGA Hardware</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/how-to-fix-the-dead-space-remake-failed-launch-error-ultimate-tips-for-game-lovers/"><u>How to Fix the Dead Space Remake Failed Launch Error - Ultimate Tips for Game Lovers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-uninstall-graphics-driver-in-windows-quickly-and-easily/"><u>How To Uninstall Graphics Driver in Windows. Quickly & Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keyboard-incoherency/"><u>Keyboard Incoherency</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/power-up-displayport-with-a-click/"><u>Power Up DisplayPort with a Click</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/revolutionizing-video-quality-with-nikon-j5-for-2024/"><u>Revolutionizing Video Quality with Nikon J5 for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-the-potential-of-media-imports-in-windows-10/"><u>Unlocking the Potential of Media Imports in Windows 10</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-fcpx-essentials-adding-a-skin-smoothing-effect-from-scratch/"><u>Updated 2024 Approved FCPX Essentials Adding a Skin Smoothing Effect From Scratch</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/value-assessment-for-tech-enthusiasts-a-critical-review-of-the-dell-inspiron-n3671-desktop/"><u>Value Assessment for Tech Enthusiasts: A Critical Review of the Dell Inspiron N3671 Desktop</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-achieving-flawless-gameplay-optimizing-your-switch-pro-experience-on-steam/"><u>[Updated] Achieving Flawless Gameplay Optimizing Your Switch Pro Experience on Steam</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-hidden-dangers-of-high-follower-bloat-avoidance-tactics/"><u>2024 Approved The Hidden Dangers of High-Follower Bloat Avoidance Tactics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bypassed-direct3d-delays-unleash-full-gpu-capabilities-now/"><u>Bypassed Direct3D Delays - Unleash Full GPU Capabilities Now</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/diagnose-and-repair-gpu-detection-failure/"><u>Diagnose & Repair: GPU Detection Failure</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-favorites-to-none-how-to-clear-out-your-liked-songs-on-spotify/"><u>From Favorites To None: How to Clear Out Your Liked Songs on Spotify</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/glide-over-and-adjust-vertical-lines-on-monitors/"><u>Glide Over and Adjust Vertical Lines on Monitors</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 13 Pro 3 Ways To Unlock</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-vivo-v27-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Vivo V27</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/maximizing-team-productivity-with-snap-camera-integration/"><u>Maximizing Team Productivity with Snap Camera Integration</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-kodi-freeze-in-new-win11-release/"><u>Overcoming Kodi Freeze in New Win11 Release</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/perfect-your-video-calls-essential-10-free-recording-solutions-for-slack/"><u>Perfect Your Video Calls Essential 10 Free Recording Solutions for Slack</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedying-blurry-ui-elements-in-far-cry/"><u>Remedying Blurry UI Elements in Far Cry</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-reflective-screen-woes/"><u>Resolving Reflective Screen Woes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackle-frozen-screen-in-social-settings/"><u>Tackle Frozen Screen in Social Settings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/uncover-the-best-in-pc-gear-with-toms-hardware-insights/"><u>Uncover the Best in PC Gear with Tom’s Hardware Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-google-pixel-fold-2-anticipated-costs-launch-timeline-and-features-latest-buzz/"><u>Upcoming Google Pixel Fold 2: Anticipated Costs, Launch Timeline & Features – Latest Buzz!</u></a></li>
 </ul></div>
 

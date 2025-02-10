@@ -1,7 +1,7 @@
 ---
 title: Eradicate Windows 11 Display Glitches
-date: 2025-01-26T19:51:44.628Z
-updated: 2025-01-29T18:17:29.327Z
+date: 2025-02-03T20:32:05.441Z
+updated: 2025-02-10T03:32:08.483Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Change the monitor refresh rate
 
  A refresh rate is the number of times in a second that images are refreshed. Generally a higher refresh rate produces a smoother picture and less screen flickering or flashing issue. So we might have to change the monitor refresh rate to find the most suited one for your PC monitor.
@@ -48,7 +44,7 @@ Here is how to change the monitor refresh rate:
 3. Click**Display adapter properties for Display 1** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15652a5261.jpg)
@@ -59,6 +55,10 @@ Here is how to change the monitor refresh rate:
  Does that work for your issue? If yes, then great! But if it doesn’t change a thing, you should try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -74,6 +74,10 @@ Here is how to change the monitor refresh rate:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594e371b13c.jpg)
@@ -86,10 +90,6 @@ Here is how to change the monitor refresh rate:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Disable Problem Reports and Solution Control Panel Support and Windows Error Reporting Service
 
 **Problem Reports and Solution Control Panel Support**  and**Windows Error Reporting Service** are the two Windows services that sometimes interfere with Windows and trigger the screen flashing problem. So we can disable them and see if it does the trick.
@@ -100,18 +100,18 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be169a3983d5.png)
 2. Scroll down to **Problem Reports and Solution Control Panel Support** , right-click on it and click**Stop** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16a01b5afa.jpg)
 3. Scroll down to**Windows Error Reporting Service** , right-click on it and click**Stop** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be16ad7ae8af.jpg)
 4. Check if the**screen is flashing** problem has been resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -145,10 +145,6 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact [](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
 5) Restart your computer for the changes to take effect.
@@ -168,6 +164,10 @@ Here’s how to use Fortect to repair system files on your PC:
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -196,22 +196,20 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/amd-radeon-hd-6950-graphics-drivers-update-on-windows-10/"><u>AMD Radeon HD 6950 Graphics Drivers Update on Windows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boosting-performance-fixes-for-unsupported-freesync/"><u>Boosting Performance: Fixes for Unsupported FreeSync</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dell-laptop-screen-stability-achieved-after-fix/"><u>Dell Laptop Screen Stability Achieved After Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enabled-win-graphics-functionality/"><u>Enabled Win Graphics Functionality</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-samsung-galaxy-f54-5g-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Samsung Galaxy F54 5G?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/image-magic-top-10-frame-enhancement-tools-online/"><u>Image Magic Top 10 Frame-Enhancement Tools Online</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-google-pixel-7a-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Google Pixel 7a to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-f23-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo F23 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Realme C55? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-display-normalized-flickering-no-more/"><u>Laptop Display Normalized: Flickering No More</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/asts-wealth-estimated-net-worth/"><u>Mr. Beast's Wealth Estimated Net Worth</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818243705-no-more-laptop-screen-flickers-problem-solved/"><u>No More Laptop Screen Flickers, Problem Solved!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-tecno-spark-go-2023-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Tecno Spark Go (2023) Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/schnell-und-einfach-wird-ihr-ssd-bootfahig-unter-windows-7-11-gemacht/"><u>Schnell Und Einfach Wird Ihr SSD Bootfähig Unter Windows 7-11 Gemacht!</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-use-face-id-to-pay-for-itunes-and-app-store-purchases-on-iphone-14-pro-by-drfone-ios-unlock-ios-unlock/"><u>The way to Use Face ID to Pay for iTunes & App Store Purchases on iPhone 14 Pro</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/uncovering-brightness-from-black-on-lenovo/"><u>Uncovering Brightness From Black on Lenovo</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10-screen-size-set-rightly/"><u>Win10 Screen Size Set Rightly</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-answers-to-questions-related-to-filmora/"><u>[New] In 2024, Answers to Questions Related to Filmora</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-capturing-contentment-a-practical-guide-to-daily-vlogging/"><u>[New] In 2024, Capturing Contentment A Practical Guide to Daily Vlogging</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mastering-character-voice-modification-techniques-in-free-fire-no-cost-for-2024/"><u>[New] Mastering Character Voice Modification Techniques in Free Fire (No Cost!) For 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-uncharted-territories-the-ultimate-guide-to-iphone-vr-games/"><u>2024 Approved Uncharted Territories The Ultimate Guide to iPhone VR Games</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-zd-soft-screen-recorder-key-features-and-review/"><u>2024 Approved ZD Soft Screen Recorder Key Features and Review</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-realme-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Realme</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminated-visual-glitches-in-dell-ultrabook/"><u>Eliminated Visual Glitches in Dell Ultrabook</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/essential-guide-to-taming-lenovo-screen-flicker/"><u>Essential Guide to Taming Lenovo Screen Flicker</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-driver-not-detecting-device/"><u>Graphics Driver Not Detecting Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-play-8t-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Honor Play 8T PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-unavailable-screen-options-barrier/"><u>Overcoming Unavailable Screen Options Barrier</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solutions-to-stabilize-hp-screen-flashes/"><u>Solutions to Stabilize HP Screen Flashes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-bug-spikes-on-civilization-v/"><u>Solving Bug Spikes on Civilization V</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stopping-volatile-visuals-in-lenovo-devices/"><u>Stopping Volatile Visuals in Lenovo Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-infinix-smart-8-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Infinix Smart 8 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

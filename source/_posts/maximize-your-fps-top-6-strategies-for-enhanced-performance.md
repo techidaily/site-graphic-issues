@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your FPS: Top 6 Strategies for Enhanced Performance"
-date: 2025-01-27T17:45:26.053Z
-updated: 2025-01-29T18:42:49.567Z
+date: 2025-02-06T21:11:10.374Z
+updated: 2025-02-09T20:15:16.871Z
 tags:
   - win11
   - win10
@@ -39,11 +39,11 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Choose the **High performance** option.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4f0b203f9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Tip 2: Adjust your PC for best performance
 
@@ -52,26 +52,18 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and**Pause** at the same time and click**Advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ae294970c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. In **Advanced** , click **Settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98b285ef51d.jpg)
 3. Click **Adjust for best performance** \> **Apply** \> **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c50b65a2ed.jpg)
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ###  Tip 3: Update your graphics driver
 
@@ -92,14 +84,10 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Tip 4: Do a disk clean-up 
@@ -117,10 +105,14 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/07/img_5b3ee452eec59.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Tip 5: Defrag your hard drive
@@ -130,19 +122,27 @@ If you’re constantly bothered by the game stuttering with FPS drops while play
 1. On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png) and **R**   at the same time. Then type **dfrgui.exe**   in the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88ba248c03c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Click to select **a drive**   and click **Analyze** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b88bcf4ad7f9.jpg)  
  Note that the **Analyze** button for an SSD (**Solid State Drive**) is grayed out simply because the drive doesn’t need/have spinning parts to find all the pieces of information, hence no time lag.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait until the analysis completes and **the fragmentation percentage**   of the selected drive will be displayed on **Current status** .
 3. Click **Optimize**   if Windows tell you to optimize the drive. Usually the recommended percentage is 5% or higher.
 4. Wait until the Windows defragments the drive successfully and **restart**   your computer.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Tip 6: Install the latest patch
 
@@ -172,18 +172,20 @@ Don’t forget to restart your PC to check the results.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/god-of-war-streamlining-complexity/"><u>'God of War': Streamlining Complexity</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-optimize-your-watch-time-on-instagram-videos/"><u>[New] In 2024, Optimize Your Watch Time on Instagram Videos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-selecting-the-right-audio-for-your-unboxing-projects/"><u>[Updated] 2024 Approved Selecting the Right Audio for Your Unboxing Projects</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-secret-pathway-to-premium-pristine-pictures/"><u>2024 Approved The Secret Pathway to Premium, Pristine Pictures</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/blinking-void-after-graphics-patch/"><u>Blinking Void After Graphics Patch</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/first-film-crews-guide-to-gopro-add-ons-for-2024/"><u>First Film Crew's Guide to GoPro Add-Ons for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-metaverse-persona-design-a-beginners-compreraniary-guide/"><u>In 2024, Metaverse Persona Design A Beginner's Compreraniary Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-asus-rog-phone-7-ultimate-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Asus ROG Phone 7 Ultimate</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-upside-down-displays-on-win7/"><u>Resolve Upside-Down Displays on Win7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solve-non-detections-of-gpu-in-computer-systems/"><u>Solve Non-Detections of GPU in Computer Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-secrets-to-windows-calls-recording/"><u>Unveiling the Secrets to Windows Calls Recording</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/update-to-optimized-geforce-graphics-software/"><u>Update to Optimized GeForce Graphics Software</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/visuals-missing-no-graphics-support-found/"><u>Visuals Missing: No Graphics Support Found</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-transform-your-imagery-with-ar-and-accessible-luts/"><u>[Updated] In 2024, Transform Your Imagery with AR & Accessible LUTs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amds-graphics-evolution-upgraded-hd-6950-windows-10-driver/"><u>AMD's Graphics Evolution: Upgraded HD 6950 Windows 10 Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicating-worn-out-text-appearance-in-fc6/"><u>Eradicating Worn-Out Text Appearance in FC6</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guiding-users-through-compatibility-challenges-with-intel-gpu/"><u>Guiding Users Through Compatibility Challenges with Intel GPU</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-v27e-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo V27e to Mac? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-nokia-g310-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Nokia G310? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/instantaneous-device-disposal-graphics-cards-uninstallation/"><u>Instantaneous Device Disposal - Graphics Cards Uninstallation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-mx150-not-showing-up-resolved/"><u>Nvidia MX150 Not Showing Up [Resolved]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reinstating-default-display-settings-on-gpu/"><u>Reinstating Default Display Settings on GPU</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-c1900101-windows-installation-hurdle/"><u>Tackling C1900101 Windows Installation Hurdle</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-samsung-galaxy-a34-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Samsung Galaxy A34 5G Location | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-family-friendly-christian-films-for-downloading-and-enjoying-with-children/"><u>Top Family-Friendly Christian Films for Downloading & Enjoying With Children</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/understanding-cloud-pricing-models-and-savings-strategies/"><u>Understanding Cloud Pricing Models & Savings Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-the-potential-of-chatgpt-in-8-key-ways-to-elevate-your-business/"><u>Unleash the Potential of ChatGPT in 8 Key Ways to Elevate Your Business</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
 </ul></div>
 

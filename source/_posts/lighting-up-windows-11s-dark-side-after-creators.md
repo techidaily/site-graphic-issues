@@ -1,7 +1,7 @@
 ---
 title: Lighting Up Windows 11'S Dark Side After Creator's
-date: 2025-01-24T19:41:15.312Z
-updated: 2025-01-29T16:06:33.135Z
+date: 2025-02-04T21:49:43.545Z
+updated: 2025-02-09T18:12:27.274Z
 tags:
   - win11
   - win10
@@ -20,32 +20,32 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 
 If you’ve upgraded to Windows 10 Fall Creators Update and you find that your PC runs into a black screen, you’re not alone. Many Windows 10 users are reporting this problem. But no worries, it’s possible to fix. Here in this post, we provide you with 3 fixes. You don’t need to try them all; just work your way down until you find the one works for you.   **Method 1:[Unplug your external devices](#m1)**   **Method 2:[Reinstall display card driver](#m2)**   **Method 3:[Update display card driver](#m3)** **IMPORTANT:**  You’ll need to be logged into Windows on the problem computer to try any of these solutions. If you can’t log into Windows, power on and off your PC 3 times to perform a hard reboot and [restart it in Safe Mode](https://tools.techidaily.com/drivereasy/download/) , then try these solutions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Unplug your external devices
 
  Sometimes, your PC’s external devices can be the cause of the black screen problems, for example, when you have too many external devices plugged in. Unplug all your external devices and then plug them back on one by one. This helps you determine which device is causing the problem. Once you find out the faulty device, you need to contact its manufacturer and see if they can provide support.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Reinstall display card driver
 
 **Note**: You should do the uninstall in [**Safe Mode**](https://tools.techidaily.com/drivereasy/download/). Faulty display card drivers can be the cause of this problem as well. You can reinstall the correct display card driver to your system and get this problem solved: 1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5811a625cdad7.png) and**R**at the same time. Type **devmgmt.msc** and press **Enter**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c24493dcfb1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Expand **Display adapters**. Double-click your display driver. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/display-adapters-expand.jpg)  3) Click **Driver** and **Uninstall** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/uninstall-display-adpater.jpg)  4) Click **Yes** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/confirm-device-uninstall.png) 5) Restart your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update display card driver
@@ -59,7 +59,7 @@ If the above method doesn’t help, you need to check if there is newer version 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c2460315f83.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -77,18 +77,20 @@ If the above method doesn’t help, you need to check if there is newer version 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-expertly-curated-windows-video-editors-guide/"><u>[Updated] 2024 Approved Expertly Curated Windows Video Editors Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-diy-iphone-audio-memos-step-by-step/"><u>[Updated] In 2024, DIY iPhone Audio Memos Step by Step</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-professional-camera-techniques-for-superior-igtv-videos/"><u>[Updated] In 2024, Mastering Professional Camera Techniques for Superior IGTV Videos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/affordable-style-meets-functionality-in-the-moto-g-stylus-a-comprehensive-review/"><u>Affordable Style Meets Functionality in the Moto G Stylus - A Comprehensive Review</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/conquer-your-screen-space-integrating-video-within-video/"><u>Conquer Your Screen Space Integrating Video Within Video</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-create-and-manage-your-pinned-threads-in-insta-chats-effectively/"><u>How To Create & Manage Your Pinned Threads in Insta-Chats Effectively</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-apple-iphone-6-by-drfone-ios/"><u>How To Unlink Apple ID From Apple iPhone 6</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/preserve-illustrations-saving-pngs-while-converting-docx-files/"><u>Preserve Illustrations: Saving PNGs While Converting DocX Files</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/samsung-galaxy-fit2-a-small-sized-powerful-gadget-for-health-and-fitness-enthusiasts/"><u>Samsung Galaxy Fit2: A Small-Sized, Powerful Gadget for Health and Fitness Enthusiasts</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/step-by-step-guide-to-restore-windows-11-taskbar-functionality/"><u>Step-by-Step Guide to Restore Windows 11 Taskbar Functionality</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-art-of-converting-faded-photos-into-dynamic-videos/"><u>The Art of Converting Faded Photos Into Dynamic Videos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-complete-review-of-gimp-affordable-versatile-image-editor-across-multiple-devices/"><u>The Complete Review of GIMP: Affordable, Versatile Image Editor Across Multiple Devices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unboxing-the-accessible-and-chic-moto-g-smartphone-featuring-a-stylus/"><u>Unboxing the Accessible and Chic Moto G Smartphone Featuring a Stylus</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-enhancing-engagement-the-ultimate-guide-for-tiktok-unboxings-for-2024/"><u>[New] Enhancing Engagement The Ultimate Guide for TikTok Unboxings for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-expert-strategies-in-nvidia-screen-capturing/"><u>[Updated] 2024 Approved Expert Strategies in NVIDIA Screen Capturing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-mememakerpro-share-your-giggles/"><u>[Updated] 2024 Approved MemeMakerPro Share Your Giggles</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-tools-for-sub-to-srt-transition-rated-8-through-17/"><u>[Updated] Best Tools for Sub to SRT Transition, Rated #8 Through #17</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-guide-to-cost-effective-2024-cloud-services/"><u>[Updated] Ultimate Guide to Cost-Effective 2024 Cloud Services</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjusting-windows-10-screen-res/"><u>Adjusting Windows 10 Screen Res</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/disabling-bsod-fix-wdf-violations-on-windows/"><u>Disabling BSOD: Fix WDF Violations on Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-google-pixel-7a-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Google Pixel 7a</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oppo-a79-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Oppo A79 5G Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-rtx-3080-glitchy-games/"><u>How to Fix RTX 3080 Glitchy Games</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/masterful-guide-to-windows-8s-safe-boot-plus-graphics-driver-uninstallation/"><u>Masterful Guide to Windows 8'S Safe Boot + Graphics Driver Uninstallation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/optimize-site-analytics-with-cookiebot-power-solutions/"><u>Optimize Site Analytics with Cookiebot Power Solutions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-sos-rapid-response-for-no-connection-woes/"><u>Screen SOS: Rapid Response for No Connection Woes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-flickering-in-lenovo-lcd-monitors/"><u>Stop Flickering in Lenovo LCD Monitors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/uninterrupted-streaming-now-post-win10s-revamp/"><u>Uninterrupted Streaming Now, Post Win10's Revamp</u></a></li>
 </ul></div>
 

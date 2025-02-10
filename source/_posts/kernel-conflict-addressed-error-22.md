@@ -1,7 +1,7 @@
 ---
 title: "Kernel Conflict Addressed: Error 22"
-date: 2025-01-22T17:47:11.877Z
-updated: 2025-01-29T20:08:34.087Z
+date: 2025-02-03T19:26:37.873Z
+updated: 2025-02-10T05:24:36.060Z
 tags:
   - win11
   - win10
@@ -20,13 +20,17 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 
  If you accidentally disable your graphics device, or your system for some unknown reason causes it to be disabled, it seems mission impossible to enable your device again, because you see nothing but a black screen, having no idea how to navigate to Device Manager to enable your display adapter. But don’t worry, all you need to do now is try [**Fix 1**](#f1) , which is kind of a trial-and-error approach but can also be a real fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Two fixes for graphics device driver error code 22
 
 1. [**Use your keyboard to navigate to Device Manager**](#f1)
 2. [**Remove the CMOS battery to reset BIOS**](#f2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Use your keyboard to navigate to Device Manager
@@ -57,15 +61,15 @@ Be careful you don’t mistype, or press the wrong keys!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Example – CMOS battery on a desktop PC
 
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Example – CMOS battery on a laptop
 
@@ -73,15 +77,11 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 * Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus tip
@@ -101,12 +101,12 @@ Example – CMOS battery on a laptop
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98dadf4599b.jpg)
 3. Click the**Update** button next to your graphics card to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or c lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98db371ab1b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
@@ -129,19 +129,20 @@ Example – CMOS battery on a laptop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-backward-glance-decoding-youtube-video-reversals/"><u>[Updated] 2024 Approved Backward Glance Decoding YouTube Video Reversals</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-ideal-screen-re-recorders-for-youtube-performances/"><u>2024 Approved Ideal Screen Re-Recorders for YouTube Performances</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-advancements-predicting-job-replacements/"><u>AI Advancements: Predicting Job Replacements?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1721923306768-dont-fall-for-the-google-bard-scam-its-dangerous/"><u>Don't Fall for the Google Bard Scam, It's Dangerous</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dying-light-audio-malfunction-repaired-step-by-step-solutions/"><u>Dying Light Audio Malfunction Repaired: Step-by-Step Solutions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhance-your-fortnite-experience-by-resolving-stutter-and-buffer-issues-on-desktopslaptops/"><u>Enhance Your Fortnite Experience by Resolving Stutter and Buffer Issues on Desktops/Laptops</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722898816642-faster-net-at-home-troubleshooting-techniques-for-quick-fixes/"><u>Faster Net at Home? Troubleshooting Techniques for Quick Fixes!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-techniques-to-construct-fictional-universes-with-chatgpt/"><u>Innovative Techniques to Construct Fictional Universes with ChatGPT</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-make-a-movie-like-a-pro-easy-tips-and-tricks/"><u>New Make a Movie Like a Pro Easy Tips and Tricks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-freezing-resolve-escape-from-tarkov-pc-game-crashes-now/"><u>No More Freezing: Resolve Escape From Tarkov PC Game Crashes Now!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/save-40-on-cutting-edge-alexa-smart-glasses-in-amazons-spectacular-spring-blowout-zdnet/"><u>Save $40 on Cutting-Edge Alexa Smart Glasses in Amazon's Spectacular Spring Blowout - ZDNet</u></a></li>
-<li><a href="https://discover-community.techidaily.com/step-by-step-guide-converting-youtube-flv-videos-into-a-format-compatible-with-your-kindle-fire/"><u>Step-by-Step Guide: Converting YouTube FLV Videos Into a Format Compatible with Your Kindle Fire</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-deathloop-from-crashing-on-your-computer-easy-fixes-revealed/"><u>Stop Deathloop From Crashing on Your Computer - Easy Fixes Revealed!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/top-8-artificial-intelligence-mobile-applications-android-and-ios-downloads/"><u>Top 8 Artificial Intelligence Mobile Applications: Android & iOS Downloads</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-worth-of-sns-hdr-an-in-depth-comparison-study/"><u>[New] 2024 Approved The Worth of SNS HDR An In-Depth Comparison Study</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-master-android-flip-digital-content-sequence/"><u>[New] Master Android Flip Digital Content Sequence</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-20-visionary-metaverse-projects-with-educational-value/"><u>2024 Approved 20 Visionary Metaverse Projects with Educational Value</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/game-on-amds-hd-6950-drivers-now-available-for-w11/"><u>Game On! AMD's HD 6950 Drivers Now Available for W11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-disruption-device-unavailable/"><u>Graphics Disruption: Device Unavailable</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-oppo-a58-4g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Oppo A58 4G Phone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/jumpstart-your-apex-playtime-with-precision-fixes/"><u>Jumpstart Your Apex Playtime with Precision Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/level-up-your-gameplay-combat-sudden-fps-dips-irregular-hiccups-and-sporadic-lags-in-real-time-gaming-environments/"><u>Level Up Your Gameplay: Combat Sudden FPS Dips, Irregular Hiccups & Sporadic Lags in Real-Time Gaming Environments</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-streaming-hiccups-in-new-windows-11/"><u>Overcoming Streaming Hiccups in New Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/precision-adjustment-fix-screen-horizontal-lines/"><u>Precision Adjustment - Fix Screen Horizontal Lines</u></a></li>
+<li><a href="https://windows11.techidaily.com/subtle-enhancements-stealthy-menu-edits-windows-edition/"><u>Subtle Enhancements: Stealthy Menu Edits, Windows Edition</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/transitioning-to-ultra-high-definition-with-4k/"><u>Transitioning to Ultra High-Definition with 4K</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/winos-bluescreen-resolution-tackle-wdf-errors/"><u>WinOS BlueScreen Resolution: Tackle WDF Errors</u></a></li>
 </ul></div>
 

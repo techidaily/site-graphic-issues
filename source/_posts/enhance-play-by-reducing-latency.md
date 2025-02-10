@@ -1,7 +1,7 @@
 ---
 title: Enhance Play by Reducing Latency
-date: 2025-01-25T17:30:03.747Z
-updated: 2025-01-29T16:44:04.865Z
+date: 2025-02-06T18:52:24.786Z
+updated: 2025-02-10T03:28:13.591Z
 tags:
   - win11
   - win10
@@ -42,7 +42,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-8-1024x303.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Go to **SETTINGS > Graphics Settings** .
@@ -91,6 +91,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2\. Disable CPU Core Parking
 
  Core parking is a utility in Windows that helps save power by scaling the number of logical processors in use based on the workload. If enabled, it can cause your CPU to be in a sleep state and decrease the performance of your CPU.
@@ -101,10 +105,6 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-33.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the **Boot** tab, select your **Windows system** , and click **Advanced options** …  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-34.png)
@@ -114,7 +114,7 @@ So you can follow the steps below to disable CPU core parking:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-35.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) In the**System Configuration** window, click**OK** .  
@@ -124,6 +124,10 @@ So you can follow the steps below to disable CPU core parking:
  5)**Make sure you’ve saved your work on your computer** and click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-37.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 3\. Update your graphics driver
 
@@ -139,16 +143,12 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can click**Update** to do it for free if you like, but it’s partly manual.
@@ -175,17 +175,9 @@ So you can follow the steps below to disable CPU core parking:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-14.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
@@ -194,6 +186,10 @@ So you can follow the steps below to disable CPU core parking:
  5) On your keyboard, press the**Windows logo key** and**R** , then type**desk.cpl** and press**Enter** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-15.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Scroll down to**Multiple displays** and click**Advanced display settings** .  
 
@@ -206,6 +202,10 @@ So you can follow the steps below to disable CPU core parking:
  8)**Total Available Graphics Memor** y shows how much GPU memory your computer has and**Dedicated Video Memor** y shows how much dedicated GPU memory your computer has (if there’s a dedicated graphics card installed).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-20.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  9) Click**OK** to exit.
 
@@ -232,17 +232,22 @@ So you can follow the steps below to disable CPU core parking:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fix-directx12-setback-for-launch-of-halo-infinite/"><u>[FIX] DirectX12 Setback for Launch of Halo Infinite</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-drive-more-viewers-to-your-videos-top-growth-hacks/"><u>[New] 2024 Approved Drive More Viewers to Your Videos Top Growth Hacks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-from-raw-recordings-to-professional-vids-webcam-edition-for-2024/"><u>[New] From Raw Recordings to Professional Vids - Webcam Edition for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-revised-take-on-s3700-sony-bdp-review/"><u>2024 Approved Revised Take on S3700 Sony BDP Review</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhanced-video-performance-after-win11-update/"><u>Enhanced Video Performance After Win11 Update</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-honor-play-8t-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Honor Play 8T For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-here-are-the-best-gif-loop-maker-tools-for-you-to-give-expression-to-your-creativity/"><u>New 2024 Approved Here Are the Best GIF Loop Maker Tools for You to Give Expression to Your Creativity</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overturn-pc-monitoring-in-win7/"><u>Overturn PC Monitoring in Win7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reinforcing-surface-pro-7s-visual-fortitude/"><u>Reinforcing Surface Pro 7'S Visual Fortitude</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-correcting-code-41-errors-on-your-computer-dashboard/"><u>Troubleshooting and Correcting Code 41 Errors on Your Computer Dashboard</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ultimate-guide-steps-to-install-asus-atk0100-acpi-device-drivers/"><u>Ultimate Guide: Steps to Install ASUS ATK0100 ACPI Device Drivers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/understanding-control-over-sound-dampening-in-audacity/"><u>Understanding Control over Sound Dampening in Audacity</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-no-amd-graphics-driver-is-installed-on-windows-1110/"><u>[SOLVED] No AMD Graphics Driver Is Installed on Windows 11/10</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-maintaining-the-right-video-aspect-on-twitters/"><u>[Updated] 2024 Approved Maintaining the Right Video Aspect on Twitters</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-snapshotsculptor-ultimate-photo-mosaic-builder/"><u>[Updated] SnapshotSculptor Ultimate Photo Mosaic Builder</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-slow-motion-mobile-recording-solutions-iphoneandroid/"><u>2024 Approved Innovative Slow Motion Mobile Recording Solutions iPhone/Android</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/astral-data-redeemers/"><u>Astral Data Redeemers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audience-engagement-the-most-excellent-webcams-for-podcasts/"><u>Audience Engagement The Most Excellent Webcams for Podcasts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-lag-spikes-and-fps-drops-in-cod-black-ops-iv/"><u>Fixing Lag Spikes & FPS Drops in Cod: Black Ops IV</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/from-dark-to-dynamic-asus-laptop-resurrection-guide/"><u>From Dark to Dynamic: Asus Laptop Resurrection Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-error-43-resolved-and-fixed/"><u>GPU Error 43: Resolved and Fixed</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/leverage-advanced-analytics-with-our-cookiebot-integration-services-for-website-optimization/"><u>Leverage Advanced Analytics with Our Cookiebot Integration Services for Website Optimization</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/mastering-editing-skills-for-professional-facebook-reels-for-2024/"><u>Mastering Editing Skills for Professional Facebook Reels for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/maximize-visuals-on-win10-with-hd-6950-updates/"><u>Maximize Visuals on Win10 with HD 6950 Updates</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818372618-missing-graphic-support-resolve-fast/"><u>Missing Graphic Support, Resolve Fast!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/non-detection-of-video-adapter/"><u>Non-Detection of Video Adapter</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-buffer-issues-with-ease/"><u>Resolve Buffer Issues with Ease</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-large-screen-size-on-win11/"><u>Resolving Large Screen Size on Win11</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-new-world-slowdown-tips-for-faster-gaming-experience/"><u>Troubleshooting 'New World' Slowdown: Tips for Faster Gaming Experience</u></a></li>
 </ul></div>
 

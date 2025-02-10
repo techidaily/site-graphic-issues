@@ -1,7 +1,7 @@
 ---
 title: "Reversing High-DPI Lockup: Windows 11'S Fix"
-date: 2025-01-22T18:31:04.157Z
-updated: 2025-01-29T17:08:22.123Z
+date: 2025-02-04T23:49:40.929Z
+updated: 2025-02-09T16:24:11.115Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
  Can’t change the screen resolution on Windows 10 and now everything looks so blurry? You’re not alone – many Windows users have also been in the same situation. But don’t worry, it’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix can’t change resolution on Windows 10
 
  Here are three fixes that have helped other users resolve the_can’t change resolution on Windows 10_ problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -25,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 1. **[Update your graphics driver](#F1)**
 2. **[Uninstall graphics driver and reinstall](#F2)**
 3. **[Turn on GPU Scaling](#F3)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -74,23 +74,19 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test to see if the can’t change screen resolution problem is resolved. If yes, congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3:**Turn on GPU Scaling**
 
@@ -106,6 +102,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
@@ -113,7 +113,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
@@ -148,18 +148,24 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-auto-arcade-adventures-for-kids/"><u>[New] Auto Arcade Adventures for Kids</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-ignite-dreams-the-best-movies-to-energize-your-soul/"><u>2024 Approved Ignite Dreams The Best Movies to Energize Your Soul</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-to-overcoming-stability-problems-with-age-of-wonders-planetfall-for-pc-players/"><u>Comprehensive Guide to Overcoming Stability Problems with Age of Wonders: Planetfall for PC Players</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gfxui-crash-on-win-successful-solution-found/"><u>GFXUI Crash on Win - Successful Solution Found</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-address-and-solve-creating-issues-in-total-war-warhammer-ii/"><u>How to Address and Solve CREATING ISSUES in Total War: Warhammer II</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-asus-laptop-black-screen-easily/"><u>How To Fix Asus Laptop Black Screen Easily</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/kernel-issue-overcome-nvlddmkm-driver-operational/"><u>Kernel Issue Overcome: Nvlddmkm Driver Operational</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-audio-transformation-complete-morphvox-techniques/"><u>Mastering Audio Transformation Complete MorphVOX Techniques</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-remedy-for-buffering-woes/"><u>Quick Remedy for Buffering Woes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reactivating-flaky-asus-webcam-features/"><u>Reactivating Flaky ASUS Webcam Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-integrating-protonvpn-into-your-browsing-with-a-free-chrome-addon/"><u>Step-by-Step Guide: Integrating ProtonVPN Into Your Browsing with a Free Chrome Addon</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-ipad-mini-npowerhouse-in-a-small-package-a-comprehensive-review/"><u>Unveiling the iPad Mini nPowerhouse in a Small Package - A Comprehensive Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/upgrade-to-the-latest-iphone-discover-top-anker-chargers-tailored-for-new-models-tech-insights/"><u>Upgrade to the Latest iPhone? Discover Top Anker Chargers Tailored for New Models | Tech Insights</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-broadcast-your-play-obs-studio-techniques/"><u>[New] 2024 Approved Broadcast Your Play - OBS Studio Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-melodic-medium-finding-the-right-film-score/"><u>[New] Melodic Medium Finding the Right Film Score</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-in-depth-viewer-tool-for-chilled-pleasures/"><u>[Updated] In 2024, In-Depth Viewer Tool for Chilled Pleasures</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-mobile-mastery-the-leading-app-list-for-popularity-growth/"><u>2024 Approved Mobile Mastery The Leading App List for Popularity Growth</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-graphics-hardware-unsupported-in-older-windows-oses/"><u>AMD Graphics Hardware Unsupported in Older Windows OSes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-orbi-wi-fi-6-mesh-network-test-ensuring-speedy-connection-everywhere-in-the-home/"><u>Comprehensive Orbi Wi-Fi 6 Mesh Network Test: Ensuring Speedy Connection Everywhere in the Home</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ending-eye-strain-with-a-screen-stability-solution/"><u>Ending Eye-Strain with a Screen Stability Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-lsa-offline-security-alarm-in-windows/"><u>Eradicating LSA Offline Security Alarm in Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-xiaomi-redmi-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-screen-fix-responsive-again/"><u>Lenovo Screen Fix: Responsive Again</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-from-sketch-to-screen-top-cartoon-video-maker-apps-for-android-and-ios/"><u>New In 2024, From Sketch to Screen Top Cartoon Video Maker Apps for Android and iOS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-suitable-graphics-card-found-2020-fixes/"><u>No Suitable Graphics Card Found [2020 Fixes]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reenergize-your-gpus-spinning-partners/"><u>Reenergize Your GPU's Spinning Partners</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-transition-to-newest-intel-drivers-win10-style/"><u>Smooth Transition to Newest Intel Drivers, Win10 Style</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-intel-and-nvidia-graphic-swap-issue/"><u>Solving Intel & NVIDIA Graphic Swap Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamlining-microsofts-operating-system-interface/"><u>Streamlining Microsoft's Operating System Interface</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshoot-surface-pro-7s-flashing-display/"><u>Troubleshoot Surface Pro 7'S Flashing Display</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-the-full-potential-of-zoom-with-youtube-live-for-2024/"><u>Unlocking the Full Potential of Zoom with YouTube Live for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-ultimate-performance-in-your-playstation-4/"><u>Unlocking Ultimate Performance in Your PlayStation 4</u></a></li>
 </ul></div>
 

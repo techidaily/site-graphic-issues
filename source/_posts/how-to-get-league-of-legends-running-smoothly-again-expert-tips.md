@@ -1,7 +1,7 @@
 ---
 title: How to Get League of Legends Running Smoothly Again – Expert Tips
-date: 2025-01-27T16:40:15.384Z
-updated: 2025-01-29T19:50:29.314Z
+date: 2025-02-04T00:53:33.084Z
+updated: 2025-02-09T18:17:37.540Z
 tags:
   - win11
   - win10
@@ -82,15 +82,15 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -108,15 +108,15 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -133,18 +133,18 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -158,13 +158,13 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -188,14 +188,24 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-unleash-hd-vision-utilizing-youtube-for-clear-videos/"><u>[New] 2024 Approved Unleash HD Vision Utilizing YouTube for Clear Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-exclusive-list-of-asmr-apps-for-phones-for-2024/"><u>[New] Exclusive List of ASMR Apps for Phones for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-sonys-bdp-s6700-a-modernized-take/"><u>[Updated] Sony's BDP-S6700 A Modernized Take</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/breakthrough-on-sims-4-invisible-launching/"><u>Breakthrough on Sims 4 Invisible Launching</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/drivers-glitch-code-43-overcome/"><u>Drivers' Glitch Code 43 Overcome</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/ensuring-optimal-graphics-card-performance-a-guide-by-yl-computing-and-yl-software/"><u>Ensuring Optimal Graphics Card Performance: A Guide by YL Computing and YL Software</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-and-curing-screen-flashes-in-dell-computers/"><u>Fixing and Curing Screen Flashes in Dell Computers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-card-not-compatible-with-windows-11-fix/"><u>Nvidia Card Not Compatible with Windows 11 [Fix]</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-honor-x50-gt-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Honor X50 GT Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-must-have-3d-model-systems-in-animation/"><u>[New] 2024 Approved Must-Have 3D Model Systems in Animation</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-elite-action-cameras-best-15-handheld-choices/"><u>[New] Elite Action Cameras Best 15 Handheld Choices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-eternal-display-documentation-for-2024/"><u>[New] Eternal Display Documentation for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-sideways-screen-on-windows-10/"><u>Addressing Sideways Screen on Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/craft-unique-aesthetics-window-11-wallpapers-per-monitor/"><u>Craft Unique Aesthetics: Window 11 Wallpapers Per Monitor</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-glitch-fixed-error-22/"><u>Graphics Glitch: Fixed Error 22</u></a></li>
+<li><a href="https://win-able.techidaily.com/hell-let-loose-pc-performance-issues-now-solved-with-easy-steps/"><u>Hell Let Loose PC Performance Issues – Now Solved with Easy Steps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-eliminate-flickering-displays/"><u>How to Eliminate Flickering Displays</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-5-rapid-ways-to-access-obliviated-reddit-content/"><u>In 2024, 5 Rapid Ways to Access Obliviated Reddit Content</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-100-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor 100 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/interopservice-exception-rectified-in-windows/"><u>InteropService Exception Rectified in Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/inverted-screen-position-fixed-in-windows-10/"><u>Inverted Screen Position Fixed in Windows 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overwatch-update-graphical-incompatibility-fixed/"><u>Overwatch Update: Graphical Incompatibility Fixed</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-steps-for-mending-windows-hello-fingerprint-issues/"><u>Quick Steps for Mending Windows Hello Fingerprint Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-skype-audio-problems-repairing-microphone-functionality-on-windows-11/"><u>Resolve Your Skype Audio Problems: Repairing Microphone Functionality on Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-interface-malfunctions-in-windows-systems/"><u>Resolving Interface Malfunctions in Windows Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solutions-for-non-working-asus-cam/"><u>Solutions for Non-Working ASUS Cam</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-audio-issues-civ-5/"><u>Troubleshooting Audio Issues CIV 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-secrets-of-successful-games-lessons-from-helldivers-2s-adventure/"><u>Unlocking the Secrets of Successful Games: Lessons From Helldivers 2'S Adventure</u></a></li>
 </ul></div>
 

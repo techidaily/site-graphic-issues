@@ -1,7 +1,7 @@
 ---
 title: "[Fix] Windows 10 Black Screen After Update"
-date: 2025-01-26T17:12:48.253Z
-updated: 2025-01-29T17:42:51.516Z
+date: 2025-02-03T16:09:01.630Z
+updated: 2025-02-09T23:02:31.227Z
 tags:
   - win11
   - win10
@@ -35,15 +35,15 @@ A quick fix to your black screen problem would be:
 * If you have a keyboard connected, press the   **Windows logo![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ecde832800.png)**  
 **key+Ctrl+Shift + B**  .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * If you’re in tablet mode, simultaneously press the**volume-up and volume-down buttons** three times within 2 seconds.
 
  If Windows is responsive, a short beep will sound and the screen will blink or dim while Windows attempts to refresh the screen.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Fix 2: Unplug unnecessary USB equipment
 
@@ -74,15 +74,15 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baefed8a8fdd.jpg)
 4. Click the **Update** button next to your graphics driver to**automatically download** the correct version of the driver, then you can**manually install** it (you can do this with the**FREE** version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
     
  Or click **Update All** to**automatically download and install** the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baeff329fa9a.jpg)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Fix 4: Uninstall third party Windows theming software
 
@@ -95,22 +95,18 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf2297bbde3.jpg)
 3. Click the**File** tab, then**Run new task** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf1e439d185.png)
 4. Type **services.msc** and**check** the box under it, then click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf1f0e520b4.jpg)
 5. In the pop-up**Services** window, double click**App Readiness** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf1fe95df39.jpg)
 6. Make sure the**Startup type** is set to**Disabled** , and click**Apply** then**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf21d756e8f.jpg)
 7. **Restart** your PC to check if the problem is resolved.
@@ -118,7 +114,7 @@ If this produces no results, you can move on to Fix 3.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Fix 5: Log in using a different user account
@@ -140,15 +136,19 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf28e24ef9b.jpg)
 3. Click**Accounts** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf392ae53df.jpg)
 4. Click**Other people** , then**Add someone else to this PC** . And follow the on-screen instructions to create a new user account.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf399963b71.jpg)
 5. Log into this account and check to see if the black screen issue is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### How to activate the original Windows administrator account
 
@@ -159,11 +159,11 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf34a620994.jpg)
 3. **Restart** your computer and you’ll be able to log into Windows with the administrator account.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Fix 6: Reset your PC
 
@@ -177,12 +177,12 @@ If this produces no results, you can move on to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf296951c32.jpg)
 4. In the left pane, click**Recovery** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf29ac5f25f.jpg)
 5. In the**Reset this PC** area, click the**Get started** button. Then follow the on-screen instructions to reset your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf2a31232f4.jpg)
 
@@ -208,22 +208,18 @@ If this produces no results, you can move on to Fix 3.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ssential-tips-for-youtube-edits-with-sony-vegas-for-2024/"><u>[New] Essential Tips for YouTube Edits with Sony Vegas for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-relaxation-in-a-box-best-10-stress-busters/"><u>[New] Relaxation in a Box Best 10 Stress Busters</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-collagecraft-stitching-videos-for-instagram-on-iosandroid/"><u>[Updated] In 2024, CollageCraft Stitching Videos for Instagram on iOS/Android</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-finest-5-android-image-boosters/"><u>[Updated] In 2024, The Finest 5 Android Image Boosters</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adjusting-screen-horizon-alignment/"><u>Adjusting Screen Horizon Alignment</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/blackout-alert-driver-change/"><u>Blackout Alert: Driver Change</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oneplus-nord-ce-3-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass OnePlus Nord CE 3 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/effortlessly-upgrade-intels-gfx-in-windows-10/"><u>Effortlessly Upgrade Intels GFX in WIndows 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818083028-optimize-stream-quality-instantly/"><u>Optimize Stream Quality Instantly</u></a></li>
-<li><a href="https://fox-info.techidaily.com/perfectly-uploading-srt-files-a-comprehensively-reviewed-methodology-for-2024/"><u>Perfectly Uploading SRT Files A Comprehensively Reviewed Methodology for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/streamline-updating-win10s-intel-graphics-drivers/"><u>Streamline Updating Win10's Intel Graphics Drivers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-setting-up-post-timelines-on-twitter-with-x-tool/"><u>The Ultimate Guide to Setting Up Post Timelines on Twitter with X Tool</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-what-to-do-when-hamachi-stops-working/"><u>Troubleshooting Guide: What to Do When Hamachi Stops Working</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-non-spinning-gpu-fans/"><u>Troubleshooting Non-Spinning GPU Fans</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-amd-detection-error-now-fixed/"><u>Windows 10 AMD: Detection Error, Now Fixed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-xp-vista-no-drivers-for-amd-card-required/"><u>Windows XP, Vista - No Drivers for AMD Card Required</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/winx-mediatrans-pro-ultimate-pc-to-ios-device-transfer-solution-for-images-music-and-videos/"><u>WinX MediaTrans Pro - Ultimate PC to iOS Device Transfer Solution for Images, Music, and Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-xiaomi-13t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bringing-peace-to-your-win11-display/"><u>Bringing Peace to Your Win11 Display</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/building-captivating-instagram-feed-layouts/"><u>Building Captivating Instagram Feed Layouts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-unclear-font-in-fc6-gameplay/"><u>Correcting Unclear Font in FC6 Gameplay</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-setup-of-intel-nuc-drivers-quick-guide-to-flawless-installation/"><u>Effortless Setup of Intel NUC Drivers | Quick Guide to Flawless Installation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-failure-dark-screen/"><u>Graphics Failure: Dark Screen</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/high-end-drones-expert-buyers-choices-top-5/"><u>High-End Drones - Expert Buyers' Choices, Top 5</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-streaming-screens-using-netflixs-pip-mode/"><u>In 2024, Unveiling Streaming Screens Using Netflix's PIP Mode</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723808219192-seamless-direct3d-extraction-quick-effective-methods/"><u>Seamless Direct3D Extraction - Quick, Effective Methods</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-screenscape-for-win11-users/"><u>Smooth Screenscape for Win11 Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-gpu-errors-in-minecraft-on-pc/"><u>Stop GPU Errors in Minecraft on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-great-game-debate-sonys-console-versus-budget-pc/"><u>The Great Game Debate: Sony's Console Versus Budget PC</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-laptop-gpu-confirmation-successful/"><u>Win11 Laptop GPU Confirmation Successful</u></a></li>
 </ul></div>
 

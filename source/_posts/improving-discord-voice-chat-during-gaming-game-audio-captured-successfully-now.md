@@ -1,7 +1,7 @@
 ---
 title: "Improving Discord Voice Chat During Gaming: Game Audio Captured Successfully Now"
-date: 2025-01-22T16:57:11.724Z
-updated: 2025-01-29T19:42:49.133Z
+date: 2025-02-04T18:26:21.353Z
+updated: 2025-02-09T22:41:50.423Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ It’s annoying that your Discord is picking up game audio all of a sudden. But 
 * **Wrong connection type:** It’s recommended to plug your headphone into the correct USB port, instead of the USB port in your keyboard.
 * **Outdated audio drivers** : It’s possible that an outdated or corrupt audio driver is causing your Discord to pick up the game audio.
 * **Sound settings:** Another possible cause of Discord picking up game audio is that your microphone is not set as the default input device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix Discord audio issues?
 
@@ -55,10 +51,6 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/driver-1.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 
  4) Once the driver is updated, reboot your PC for the changes to take effect.
@@ -67,7 +59,7 @@ There’re mainly two ways for you to update an audio driver:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Change sound settings
@@ -78,6 +70,10 @@ There’re mainly two ways for you to update an audio driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Go to the**Recording** tab.
 
  3) Right-click**Stereo Mix** and select **Disable** , and make sure you have set your headphone as the default device.
@@ -85,7 +81,7 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Open Discord application, and go to**User Settings** .
@@ -95,10 +91,14 @@ There’re mainly two ways for you to update an audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord-settings-1200x320.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Many people get this ‘Discord picking up game’ issue because of incorrect sound settings. After following the steps above, you can test the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Reinstall Discord
 
@@ -137,22 +137,22 @@ There’re mainly two ways for you to update an audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-be-open-minded-listen-with-an-open-mind-without-preconceived-notions-or-biases-that-may-affect-understanding/"><u>[New] 2024 Approved Be Open-Minded Listen with an Open Mind, without Preconceived Notions or Biases that May Affect Understanding</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-efficiently-implementing-youtube-end-screens/"><u>[New] Efficiently Implementing Youtube End Screens</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-action-videography-face-off-gopro-and-garmin-for-2024/"><u>[Updated] Action Videography Face-Off GoPro & Garmin for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-how-to-post-twitter-videos-on-snapchat-for-2024/"><u>[Updated] How to Post Twitter Videos on Snapchat for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-evolution-of-dynamic-range-control-in-digital-photography/"><u>[Updated] The Evolution of Dynamic Range Control in Digital Photography</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-freeing-up-youtube-views-no-more-grey-lines/"><u>2024 Approved Freeing Up YouTube Views No More Grey Lines</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fusing-imagery-montage-mastery-essentials/"><u>2024 Approved Fusing Imagery Montage Mastery Essentials</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cure-video-drivers-mishap-in-minecraft-world/"><u>Cure Video Drivers Mishap in Minecraft World</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fallen-display-in-win10-creators-fix/"><u>Fallen Display in Win10 (Creator's Fix)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-device-driver-error-code-22-fixed/"><u>Graphics Device Driver Error Code 22 [FIXED]</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817589959-precision-in-problem-solving-save-now/"><u>Precision in Problem-Solving: Save Now!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/realign-vertical-lines-with-a-simple-tap/"><u>Realign Vertical Lines with a Simple Tap!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successful-direct3d-loading-now/"><u>Successful Direct3D Loading Now</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackling-the-shadowy-screen-twitch-fixes/"><u>Tackling The Shadowy Screen: Twitch Fixes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshoot-and-fix-warzone-20-pc-boot-problems-with-these-7-essential-tips/"><u>Troubleshoot and Fix Warzone 2.0 PC Boot Problems with These 7 Essential Tips</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211107348-9781667463513-ufos-in-der-bibel/"><u>UFOs in der Bibel | Free Book</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/xfx-driver-recovery-ensures-display-integrity/"><u>XFX Driver Recovery Ensures Display Integrity</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-exclusive-free-mcb-visual-tools/"><u>[New] 2024 Approved Exclusive Free MCB Visual Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-exclusive-guide-to-prime-livestream-sites/"><u>[New] 2024 Approved Exclusive Guide to Prime Livestream Sites</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovating-image-vision-mastering-hdr-in-photoshop/"><u>[New] Innovating Image Vision Mastering HDR in Photoshop</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-transform-your-instagram-vocal-identity-today-for-2024/"><u>[New] Transform Your Instagram Vocal Identity Today for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-drone-footage-enhancement-and-transformation-basics/"><u>[Updated] In 2024, Drone Footage Enhancement and Transformation Basics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fallout-4-stability-achieved-no-more-computer-issues/"><u>Fallout 4 Stability Achieved: No More Computer Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/full-screen-issue-windowed-display-on-monitor-with-win11/"><u>Full-Screen Issue: Windowed Display on Monitor with Win11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-poco-m6-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Poco M6 5G Phones</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-display-off-quick-fixes-and-tips/"><u>Laptop Display Off - Quick Fixes and Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-logitech-speaker-drivers-for-windows-download-now-pc-version-1178/"><u>Latest Logitech Speaker Drivers for Windows: Download Now - PC Version 11/7/8</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overhauling-obscured-screens-of-desktops-and-laptops/"><u>Overhauling Obscured Screens of Desktops and Laptops</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-connect-quest-reestablish-your-screens-signal/"><u>Quick-Connect Quest: Reestablish Your Screen's Signal</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-nubia-z50s-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Nubia Z50S Pro</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resetting-windows-11-resolution-settings-successfully/"><u>Resetting Windows 11 Resolution Settings Successfully</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-windows-10-video-hiccups-post-upgrade/"><u>Solving Windows 10 Video Hiccups Post-Upgrade</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/king-youtubes-potential-subscriber-triumph-tactics/"><u>Unlocking YouTube's Potential Subscriber Triumph Tactics</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgrading-nvidias-geforce-drivers/"><u>Upgrading Nvidia's GeForce Drivers</u></a></li>
 </ul></div>
 

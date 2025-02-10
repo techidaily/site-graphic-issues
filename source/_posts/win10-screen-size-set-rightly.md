@@ -1,7 +1,7 @@
 ---
 title: Win10 Screen Size Set Rightly
-date: 2025-01-26T17:20:19.164Z
-updated: 2025-01-29T19:22:26.348Z
+date: 2025-02-03T03:13:39.147Z
+updated: 2025-02-10T02:06:59.912Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/7145ec69591f6ebc68facf261c1d68971298e27f3
 ## Win10 Screen Size Set Rightly
 
  Can’t change the screen resolution on Windows 10 and now everything looks so blurry? You’re not alone – many Windows users have also been in the same situation. But don’t worry, it’s often not hard to fix at all…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix can’t change resolution on Windows 10
 
@@ -44,25 +40,21 @@ thumbnail: https://thmb.techidaily.com/7145ec69591f6ebc68facf261c1d68971298e27f3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if you can adjust the screen resolution properly. If yes, then great! If the issue remains, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Uninstall graphics driver and reinstall
 
@@ -75,20 +67,20 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-311.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Locate and right-click on **Display adapters** (aka. **Graphics card** , **Video card**), then click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-312.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Uninstall** in the pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f147059a0.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -110,6 +102,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81660bb9d4e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **For NVIDIA graphics card users:**
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
@@ -119,6 +115,10 @@ Here is how to do it:
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-224-1024x607.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) From the NVIDIA Control Panel navigation pane, double click to expand Display, then click Adjust Desktop Size and Position.
 
@@ -148,19 +148,24 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-simplified-mac-solution-audioplusscreen-capture-for-2024/"><u>[New] Simplified Mac Solution Audio+Screen Capture for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-prime-sound-alteration-apps-for-vloggers/"><u>[Updated] In 2024, Prime Sound Alteration Apps for Vloggers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-strategic-branding-techniques-for-higher-youtube-followings/"><u>[Updated] In 2024, Strategic Branding Techniques for Higher YouTube Followings</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/achieve-flawless-fast-video-playback/"><u>Achieve Flawless, Fast Video Playback</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/fortnite-review-a-fresh-take-on-the-popular-battle-royale-with-engaging-features/"><u>Fortnite Review - A Fresh Take on the Popular Battle Royale with Engaging Features</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-driver-fix-display-system-regained/"><u>Graphics Driver Fix: Display System Regained</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-8-plus-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your iPhone 8 Plus</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcome-bluescreen-error-wdf-incompatibility-fix/"><u>Overcome BlueScreen Error: WDF Incompatibility Fix</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reconfigure-display-mode-in-win10/"><u>Reconfigure Display Mode in Win10</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/sustaining-a-day-job-while-building-your-online-presence-for-2024/"><u>Sustaining a Day Job While Building Your Online Presence for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/tasteful-tactics-elevating-culinary-channel-monikers-for-2024/"><u>Tasteful Tactics Elevating Culinary Channel Monikers for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unveiling-the-solution-to-stabilize-amd-radeon-r9-on-win10/"><u>Unveiling the Solution to Stabilize AMD Radeon R9 on Win10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/video-system-repaired-driver-running-well/"><u>Video System Repaired: Driver Running Well</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/videographys-bright-side-5-must-have-apps/"><u>Videography's Bright Side 5 Must-Have Apps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-conquering-dxgkrnlsys-blue-screen/"><u>[System] Conquering dxgkrnl.sys Blue Screen</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-prime-your-vlogging-game-top-tier-mac-mp4-editors-reviewed/"><u>[Updated] 2024 Approved Prime Your Vlogging Game Top-Tier Mac MP4 Editors Reviewed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-tier-streaming-tech-ranking-5-top-conference-recorder-devices-for-2024/"><u>[Updated] Top-Tier Streaming Tech Ranking 5 Top Conference Recorder Devices for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amds-software-unsupported-on-older-version-of-windows/"><u>AMD's Software Unsupported on Older Version of Windows</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/t-transition-from-youtube-to-instagram-reels/"><u>Direct Transition From YouTube to Instagram Reels</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-launcher-no-more-setbacks/"><u>Direct3D Launcher: No More Setbacks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortlessly-energize-reconnect-and-reset-your-screen/"><u>Effortlessly Energize: Reconnect and Reset Your Screen</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-mouse-in-windows-11-screen-blanking/"><u>Fixed: Mouse in Windows 11 Screen Blanking</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-tackle-wrong-password-error-in-windows-11/"><u>How to Tackle 'Wrong Password' Error in Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/immerse-yourself-in-graphics-new-windows-10-driver-update/"><u>Immerse Yourself in Graphics: New Windows 10 Driver Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-driver-update-geforce-gtx-1060-drivers-download-and-update/"><u>Nvidia Driver Update | GeForce GTX 1060 Drivers Download and Update</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfect-drone-companions-for-skilled-pilots-top-5-for-2024/"><u>Perfect Drone Companions for Skilled Pilots (Top 5) for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/progopro-secrets-unveiled-for-2024/"><u>ProGoPro Secrets Unveiled for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/temporary-setback-re-establishing-connection-to-your-windows-smartscreen-security/"><u>Temporary Setback: Re-Establishing Connection to Your Windows SmartScreen Security</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/form-your-video-calls-google-meet-on-youtube-guide-for-2024/"><u>Transform Your Video Calls Google Meet on YouTube Guide for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unmatched-speed-in-revamping-intel-gfx-for-windows-users/"><u>Unmatched Speed in Revamping Intel GFX for WIndows Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-achieved-ideal-screen-res/"><u>Win10: Achieved Ideal Screen Res</u></a></li>
 </ul></div>
 

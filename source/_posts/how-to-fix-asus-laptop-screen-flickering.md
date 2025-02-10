@@ -1,7 +1,7 @@
 ---
 title: How To Fix ASUS Laptop Screen Flickering
-date: 2025-01-27T18:08:42.207Z
-updated: 2025-01-29T18:25:00.987Z
+date: 2025-02-08T22:11:59.612Z
+updated: 2025-02-09T16:35:05.609Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 
  If you ever run into the**ASUS laptop screen flickering** issue, don’t worry. It’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Fixes For ASUS Laptop Screen Flickering In Windows 11, 10, & 7
 
  Here are 4 fixes that have helped other users resolve the screen flickering on ASUS laptop issue. Just work your way down the list until you find the one that works for you.
@@ -32,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 4. **[Repair corrupted system files](#ADD)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 1: Change the screen refresh rate**  
@@ -55,22 +51,18 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/advanceddisplay.jpg)
 4. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed67824b26.jpg)
 5. Check to see if your**ASUS laptop screen flickering** problem has been resolved. If yes, then congrats! If the issue remains, please try **[Fix 2](#F2)** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **I’m using Windows 7:**
 
 1. Right-click on**the empty area** of your desktop screen and click**Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed6d79ee72.jpg)
 2. Click**Advanced settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed72308a6d.jpg)
 3. Click the**Monitor** tab, and select**60 Hertz** in **Screen refresh rate** . Then click**Apply** \>**OK** .  
@@ -90,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update these drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -104,19 +100,23 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All t** o automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/NVIDIA-GeForce-RTX-3090-Ti.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if the ASUS laptop screen flickering issue has been solved.
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](mailto:support@drivereasy.com) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -156,24 +156,21 @@ Once finished with the repair, check if the error has been resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-monthly-income-for-content-creators-on-youtube/"><u>[New] 2024 Approved Monthly Income for Content Creators on YouTube?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-charting-the-unknown-visual-facts-from-2017s-youtube-world/"><u>[New] In 2024, Charting the Unknown Visual Facts From 2017'S Youtube World</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/cambia-wma-a-formato-aiff-en-internet-gratuito-con-movavi/"><u>Cambia WMA a Formato AIFF en Internet Gratuito Con Movavi</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/decoded-secret-direct-x-mishap-in-league/"><u>Decoded Secret Direct X Mishap in League</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhancing-combat-efficiency-in-god-of-war/"><u>Enhancing Combat Efficiency in 'God of War'</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-recent-job-growth-impacts-tech-careers-insights-from-zdnet/"><u>How Recent Job Growth Impacts Tech Careers: Insights From ZDNet</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-simplest-online-tone-generators-our-top-picks/"><u>New In 2024, Simplest Online Tone Generators Our Top Picks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-setback-display-preservation-accomplished/"><u>No More Setback: Display Preservation Accomplished</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimizing-win11-with-new-geforce-210-drivers/"><u>Optimizing Win11 with New GeForce 210 Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-asus-monochrome-mishaps-a-guide/"><u>Overcoming Asus Monochrome Mishaps: A Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-c1900101-issue-for-windows-10-installation/"><u>Overcoming C1900101 Issue for Windows 10 Installation</u></a></li>
-<li><a href="https://games-able.techidaily.com/post-gtx-world-do-you-need-an-rtx-right-away/"><u>Post-GTX World: Do You Need an RTX Right Away?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectify-video-card-glitch-prevent-crash/"><u>Rectify Video Card Glitch, Prevent Crash</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/remedying-shadows-on-smartphone-screens/"><u>Remedying Shadows on Smartphone Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solve-display-distortion-issues-pc/"><u>Solve Display Distortion Issues (PC)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-correcting-ps4-nat-configuration-errors-and-enhancing-connectivity/"><u>Step-by-Step Solution for Correcting PS4 NAT Configuration Errors and Enhancing Connectivity</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-technicality-of-srgb-vs-rgb/"><u>The Technicality of Srgb vs Rgb</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-streamline-your-movie-watching-process-add-subtitles-to-wmp/"><u>[New] 2024 Approved Streamline Your Movie-Watching Process Add Subtitles to WMP</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-5-ultimate-camera-and-video-recording-apps-iphoneandroid-edition/"><u>[New] Top 5 Ultimate Camera & Video Recording Apps IPhone/Android Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transcription-made-simple-at-no-cost/"><u>[New] Transcription Made Simple At No Cost</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-maximizing-impact-partnering-with-influencers-on-youtube/"><u>[Updated] In 2024, Maximizing Impact Partnering with Influencers on YouTube</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-blank-screen-a-twitch-guide/"><u>Eliminate Blank Screen: A Twitch Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-wide-screen-functionality-in-win10-software/"><u>Enhancing Wide-Screen Functionality in Win10 Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-non-windows-apps-for-modern-computing/"><u>Essential Non-Windows Apps For Modern Computing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/making-amd-freesync-work-across-systems/"><u>Making AMD FreeSync Work Across Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastering-latency-reduction-in-anthem/"><u>Mastering Latency Reduction in Anthem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-the-shadowy-screen-on-your-asus-gadget/"><u>Overcome the Shadowy Screen on Your Asus Gadget</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-graphic-user-interface-windows-error/"><u>Resolved Graphic User Interface Windows Error</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solutions-for-a-dormant-gpu-fan/"><u>Solutions for a Dormant GPU Fan</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-vivo-y17s-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Vivo Y17s.</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-resolving-issues-with-your-iphones-icloud-backup-failure/"><u>Troubleshooting Steps: Resolving Issues with Your iPhone's iCloud Backup Failure</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/understanding-why-to-choose-an-m3-macbook-air/"><u>Understanding Why to Choose an M3 MacBook Air</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Diablo II: Resurrected Installation Issues Solved"
-date: 2025-01-27T16:47:36.932Z
-updated: 2025-01-29T18:13:35.484Z
+date: 2025-02-03T17:57:53.490Z
+updated: 2025-02-09T21:55:04.190Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 
  But don’t panic. You can fix it. In this post, we’ve put together 4 methods to resolve the Twitch audio issues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Twitch No Sound Issues
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 * [**Method 2: Fix Browser Issues**](https://tools.techidaily.com/drivereasy/download/)
 * [**Method 3: Update Your Audio Driver**](https://tools.techidaily.com/drivereasy/download/)
 * [**Method 4: Run Windows Audio Troubleshooter**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## First Things to Check
 
@@ -49,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/speaker-icon.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the volume is on, follow the instructions below to check if you set the right playback device.
 
 #### Set the right playback device
@@ -56,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 **1)** Right-click the **Volume Control icon** on the taskbar and select **Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-222.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Click the **Playback tab** .
 
@@ -69,19 +77,15 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-228.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click the **OK** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-230.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If the sound is still not available, try the fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1: Restart Your PC
 
@@ -90,10 +94,6 @@ If the sound is still not available, try the fixes below.
  A reboot wipes away the current state of the software. In case of losing data, please make sure you don’t have any unsaved documents open before restarting your device.
 
 If your issue persists after the reboot, then go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Fix Browser Issues
 
@@ -111,13 +111,13 @@ If your issue persists after the reboot, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_10-08-38.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Advanced tab** . Then, under the**Multimedia section** , make sure the box next to**Play sounds in web pages** is checked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_10-09-03.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click**OK** to save the changes.
 
@@ -143,10 +143,6 @@ If not, read on and try the next solution.
 
 If the sound isn’t coming back, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 3: Update Your Audio Driver
 
  One of the most common causes of audio problems on Windows devices is an outdated or a faulty audio driver.
@@ -170,7 +166,7 @@ If the sound isn’t coming back, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-02_17-05-55.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -179,6 +175,10 @@ If the sound isn’t coming back, try the next fix.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If the sound issue isn’t resolved, then move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Run Windows Audio Troubleshooter
 
@@ -219,20 +219,16 @@ If the sound isn’t coming back, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-raucous-revelations-top-10-scenarios-for-comedy-driven-videography/"><u>[Updated] In 2024, Raucous Revelations Top 10 Scenarios for Comedy-Driven Videography</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/a-step-bystep-approach-for-transforming-hefty-excel-datasets-edb-to-pst-without-data-degradation-or-downtime/"><u>A Step-Bystep Approach for Transforming Hefty Excel Datasets (EDB) to PST without Data Degradation or Downtime</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-reset-account-lockouts-after-failed-logins-in-windows-11/"><u>Adjusting Reset Account Lockouts After Failed Logins in Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/clear-screening-for-focused-online-participation/"><u>Clear Screening for Focused Online Participation</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/effective-search-techniques-with-ibasesearch-for-maximum-results/"><u>Effective Search Techniques with IBaseSearch for Maximum Results</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-card-problem-43-cleared-up/"><u>Graphics Card Problem 43 Cleared Up</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/illuminate-lenovo-lack-of-color/"><u>Illuminate Lenovo Lack of Color</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/latest-windows-10-tech-nvidia-geforce-update/"><u>Latest Windows 10 Tech: NVIDIA GeForce Update</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-rtx-3080-fixing-sudden-shutdowns/"><u>NVIDIA RTX 3080: Fixing Sudden Shutdowns</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-dlc-installation-crashes-civ-5/"><u>Overcoming DLC Installation Crashes Civ 5</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/photo-savvy-with-an-iphone-ideal-perspectives-uncovered-for-2024/"><u>Photo Savvy with an iPhone Ideal Perspectives Uncovered for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/scale-down-windows-monitor-size/"><u>Scale Down Windows Monitor Size</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stopping-lcd-flash-in-hp-devices/"><u>Stopping LCD Flash in HP Devices</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-insights-a-critical-review-of-tp-links-av1300-wireless-range-extender-does-it-deliver/"><u>Unveiling Insights: A Critical Review of TP-Link's AV1300 Wireless Range Extender - Does It Deliver?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-break-down-barriers-to-sound-convert-srt-with-ease-and-precision/"><u>[New] Break Down Barriers to Sound Convert SRT with Ease and Precision</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-the-flickering-windows-11-enigma/"><u>[RESOLVED] The Flickering Windows 11 Enigma</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-resurrecting-windows-photo-viewer-via-windows-10-simple-fixes/"><u>[Updated] Resurrecting Windows Photo Viewer via Windows 10 - Simple Fixes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-slidestream-creator-pro-macos/"><u>2024 Approved SlideStream Creator Pro (macOS)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/activate-a-sluggish-gpu-fan-with-ease/"><u>Activate a Sluggish GPU Fan with Ease</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-reflection-issue-in-windows-11-views/"><u>Addressing Reflection Issue in Windows 11 Views</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gamify-your-experience-with-chatgpt-check-out-these-6-engaging-titles/"><u>Gamify Your Experience with ChatGPT - Check Out These 6 Engaging Titles!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-poco-c50-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Poco C50 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-gpu-errors-retaining-system-accessibility/"><u>Tackling GPU Errors: Retaining System Accessibility</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-systems-need-amd-gpu-drivers-installed/"><u>Windows Systems Need AMD GPU Drivers Installed</u></a></li>
 </ul></div>
 

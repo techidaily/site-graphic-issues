@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot and Fix NVIDIA GTX 950 Error Code 43 in Windows 11: A Step-by-Step Solution"
-date: 2025-01-25T19:50:52.216Z
-updated: 2025-01-29T16:21:39.010Z
+date: 2025-02-06T00:06:58.134Z
+updated: 2025-02-09T19:38:11.834Z
 tags:
   - win11
   - win10
@@ -47,22 +47,22 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f9e8b4f19.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure that you have saved all your files and folders. Choose from the drop-down menu**Safe Mode (Recommended)** . Then hit the**Launch** button.
 
  This allows you to go to Safe Mode and then DDU will clean uninstall your graphics card driver for you. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fd6169da1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In the safe mode, click the**Clean and restart (Highly recommended)** button so DDU will start with the uninstall. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941fe0557eee.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Wait for the process to finish, and your PC will restart in normal mode. 
@@ -70,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
  5) Then go to NVIDIA drivers download website and search for GTX 950 driver for your device. After filling in the blanks, hit the**SEARCH** button to continue. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ffa76ae44.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then follow the on-screen instructions to get the driver downloaded. 
 
@@ -103,13 +107,13 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594207c6d9e1b.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Check for updates** button to see if there are any new updates available. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594208adac37c.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) If new updates are available, just download and then update them as instructed. 
 
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 **Warning** : Please do make sure that you are fully aware of what you are to do before you choose to update your BIOS. Unrecoverable errors are the last thing we want to see. 
 
  After you make the decision of updating your BIOS, go to the manufacturer website of your PC and see if the latest version of BIOS is available to download. Then follow the instructions to get your BIOS updated. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   **Option 4: Reinstall Windows 10** 
 
@@ -155,22 +155,21 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/advanced-display-tweaks-now-supported-by-windows-11/"><u>Advanced Display Tweaks Now Supported by Windows 11</u></a></li>
-<li><a href="https://os-tips.techidaily.com/boost-your-iphones-storage-capacity-with-high-speed-lightning-external-memory/"><u>Boost Your iPhone's Storage Capacity with High-Speed Lightning External Memory!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dx-error-in-lol-resolved-mystery/"><u>DX Error in LoL - Resolved Mystery</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-poco-x6-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Poco X6 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/epic-games-launcher-overcoming-the-challenging-no-sign-in-black-screen-problem/"><u>Epic Games Launcher - Overcoming the Challenging 'No Sign-In, Black Screen Problem'</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-driver-correction-error-22-settled/"><u>GPU Driver Correction: Error #22 Settled</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-8-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 8? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/innovative-concept-from-southwest-airlines-disappoints-the-promising-plan-that-went-awry/"><u>Innovative Concept From Southwest Airlines Disappoints: The Promising Plan That Went Awry</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-gameplay-hurdles-god-of-war/"><u>Overcoming Gameplay Hurdles: 'God of War'</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-guide-to-sharpening-distorted-monitors/"><u>Quick Guide to Sharpening Distorted Monitors</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectify-cards-issue-save-minecraft-session/"><u>Rectify Cards Issue, Save Minecraft Session</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/sprint-through-apex-with-ease/"><u>Sprint Through Apex with Ease</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-11-pro-max-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone 11 Pro Max Making It Possible</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-xiaomi-redmi-note-13-pro-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Xiaomi Redmi Note 13 Pro 5G to Gmail | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-troubleshooting-tips-for-downloading-and-updating-d-link-drivers-windows/"><u>Ultimate Troubleshooting Tips for Downloading and Updating D-Link Drivers (Windows)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/visual-output-disrupted-no-graphics-available/"><u>Visual Output Disrupted: No Graphics Available</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-celebrating-the-best-ten-music-video-lives/"><u>[New] 2024 Approved Celebrating the Best Ten Music Video Lives</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-unveiling-nikons-1j5-a-4k-video-masterpiece/"><u>[New] 2024 Approved Unveiling Nikon's 1J5 A 4K Video Masterpiece</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-unveiling-apples-powerhouses-the-m1-pro-and-m1-max-analysis/"><u>[New] In 2024, Unveiling Apple's Powerhouses The M1 Pro and M1 Max Analysis</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-excellence-in-image-making-via-premium-grid-makers/"><u>2024 Approved Excellence in Image Making via Premium Grid Makers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/achieved-successful-nvidia-setup-process/"><u>Achieved: Successful NVIDIA Setup Process</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjusting-window-11s-display-a-settled-problem/"><u>Adjusting Window 11'S Display: A Settled Problem</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cursory-windows-11-recovery-success/"><u>Cursory Windows 11 Recovery Success</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-adding-divisions-to-vimeos-media-shows/"><u>In 2024, Adding Divisions to Vimeo's Media Shows</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-unshackling-from-tiktoks-covert-bans/"><u>In 2024, Unshackling From TikTok's Covert Bans</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/newest-nvidia-rtx-2080-graphics-card-driver-software-for-win10-win7-and-win8/"><u>Newest Nvidia RTX 2080 Graphics Card Driver Software for Win10, Win7 & Win8</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-direct3d-startup-failures/"><u>Resolving Direct3D Startup Failures</u></a></li>
+<li><a href="https://win-web.techidaily.com/reviving-your-sql-data-a-guide-to-recovering-from-a-bak-backup-using-three-techniques/"><u>Reviving Your SQL Data: A Guide to Recovering From a .BAK Backup Using Three Techniques</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamlessly-adjust-screen-a-few-easy-steps/"><u>Seamlessly Adjust Screen: A Few Easy Steps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/success-overcoming-nvidia-setup-error/"><u>Success: Overcoming NVIDIA Setup Error</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlock-color-locked-in-asus-devices-with-ease/"><u>Unlock Color Locked in Asus Devices with Ease</u></a></li>
 </ul></div>
 
