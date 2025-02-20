@@ -1,7 +1,7 @@
 ---
 title: Asymmetric Screen Aligned on Notebooks
-date: 2025-01-10T01:07:54.792Z
-updated: 2025-01-15T20:24:48.605Z
+date: 2025-02-17T01:39:33.793Z
+updated: 2025-02-19T16:38:55.546Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
  Your laptop screen is turned sideways? Don’t worry… Although this is incredibly frustrating, you’re definitely not the only person to experience this problem. Lots of laptop users have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Restore your laptop screen with a keyboard shortcut
 
 This is the easiest way to rotate your laptop screen:
@@ -38,6 +42,10 @@ This is the easiest way to rotate your laptop screen:
  Hold down the**Ctrl** and**Alt** keys on your keyboard, then press the**up arrow key**  to restore your screen rotation.
 
 You can also change your screen orientation in your display settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Restore your laptop screen in your display settings
 
@@ -48,15 +56,11 @@ To rotate your screen in your system display settings:
 2. Click the**Orientation** drop-down menu, then select **Landscape**  .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd044764e5ec.jpg)
 3. Click**Keep Changes** or the **OK** button (if you’re on Windows 7).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 This should restore your laptop screen.
 
@@ -74,15 +78,11 @@ This should restore your laptop screen.
 3. Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03674f2903.jpg)  
  You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer.
 
@@ -105,21 +105,22 @@ This should restore your laptop screen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-essential-methods-6-steps-for-recording-minecraft-play/"><u>[New] In 2024, Essential Methods 6 Steps for Recording Minecraft Play</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-expedite-your-tiktok-videos-with-ease/"><u>[New] In 2024, Expedite Your TikTok Videos with Ease</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-skys-boldest-workhorses-top-10-drones-for-2024/"><u>[New] The Sky's Boldest Workhorses - Top 10 Drones for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-affordable-laptop-friendly-software-for-dvd-viewing/"><u>[Updated] Affordable, Laptop-Friendly Software for DVD Viewing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-action-cameras-on-wheels-top-5-picks-for-23-riders-for-2024/"><u>Best Action Cameras on Wheels – Top 5 Picks for '23 Riders for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/crystal-clear-windows-no-more-fuzz/"><u>Crystal-Clear Windows, No More Fuzz</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixed-monitor-not-displaying-full-screen-windows-11/"><u>Fixed: Monitor Not Displaying Full Screen Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/flat-screen-fix-for-asymmetrical-use/"><u>Flat-Screen Fix for Asymmetrical Use</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oneplus-ace-2v-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from OnePlus Ace 2V Devices</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/lgs-ultrafine-4k-display-unpacked-a-detailed-analysis-for-2024/"><u>LG's UltraFine 4K Display Unpacked A Detailed Analysis for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11-connectivity-with-5ghz-networks/"><u>Mastering Windows 11: Connectivity with 5GHz Networks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/permanently-put-a-stop-to-screen-shimmer/"><u>Permanently Put a Stop to Screen Shimmer</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/pixels-perfection-achieved-display-settings-saved/"><u>Pixels Perfection Achieved: Display Settings Saved</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/regulating-window-size-for-win11/"><u>Regulating Window Size for Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tailoring-god-of-war-for-exciting-gameplay/"><u>Tailoring 'God of War' For Exciting Gameplay</u></a></li>
-<li><a href="https://win11.techidaily.com/the-art-of-enlargement-win11-taskbar-icons-reimagined/"><u>The Art of Enlargement: Win11 Taskbar Icons Reimagined</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/god-of-war-mastering-combat-skills/"><u>'God of War': Mastering Combat Skills</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-asmr-quality-meets-economic-realities-for-2024/"><u>[Updated] ASMR Quality Meets Economic Realities for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-experience-the-next-level-of-virtual-reality-with-htcs-vive-headset-for-2024/"><u>[Updated] Experience the Next Level of Virtual Reality with HTC's Vive Headset for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-incentivizing-engagement-for-a-robust-subscription-base/"><u>[Updated] Incentivizing Engagement for a Robust Subscription Base</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-unleash-creativity-harnessing-gs-power-in-kinemaster/"><u>[Updated] Unleash Creativity Harnessing GS Power in KineMaster</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/aligning-screen-borders-uniformly/"><u>Aligning Screen Borders Uniformly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-launcher-bug-patched/"><u>Direct3D Launcher Bug Patched</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-problem-solved-now-gpus-work-at-maximum-speed/"><u>Direct3D Problem Solved: Now GPUs Work at Maximum Speed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-load-error-for-amd-on-win10-post-update/"><u>Fixed Load Error for AMD on Win10 Post-Update</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/improving-readability-of-text-in-far-cry-6/"><u>Improving Readability of Text in Far Cry 6</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-fix-for-d3dx9-error-a-step-by-step-solution/"><u>Master the Fix for 'D3dx9_지정되지 않음' Error – A Step-by-Step Solution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-trusty-reviews-at-toms-hardware/"><u>Navigating the World of Electronics with Trusty Reviews at Tom's Hardware</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-control-panel-missing-solved/"><u>NVIDIA Control Panel Missing [SOLVED]</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/optimize-your-streams-with-advanced-obs-techniques-android/"><u>Optimize Your Streams with Advanced OBS Techniques, Android</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-guide-resolving-asus-laptop-blackout-issues/"><u>Quick Guide: Resolving Asus Laptop Blackout Issues</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/the-art-of-keeping-tiktok-content-safe-on-devices-for-2024/"><u>The Art of Keeping TikTok Content Safe on Devices for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-secrets-to-restoring-sms-functionality-on-your-iphone-top-tips-revealed/"><u>Unlock The Secrets to Restoring SMS Functionality On Your iPhone - Top Tips Revealed!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: DX12 Difficulty Blocking Halo Infinite's First Playable Moment
-date: 2025-01-19T06:45:24.732Z
-updated: 2025-01-22T01:56:06.130Z
+date: 2025-02-14T17:23:29.703Z
+updated: 2025-02-20T07:27:09.380Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
  Halo Infinite is a great game but it is really annoying when you get a DirectX12 error and can’t launch the game. Don’t worry, you’re not alone. This post has gathered fixes to solve the error and help you play the game. Read on to find how.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
  Before moving to any complicated fixes, make sure you’ve downloaded and installed the latest DX12 files.
 
  If not, go to the [Microsoft website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the latest version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
 
@@ -85,10 +81,6 @@ To do so, first visit the website of your GPU manufacturer:
 
  Restart your computer for the changes to take effect, then relaunch Halo Infinite.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Check your PC specification
 
  Some gamers have reported that they’ve installed DirectX 12 and the latest graphics driver, but the error persists. If you’re in this situation, you need to check your PC specifications again.
@@ -122,6 +114,10 @@ You need to check 2 elements:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
 
@@ -140,7 +136,7 @@ If your Feature Level is lower than 12\_0, you’ll need a new GPU.
 If this fix doesn’t work, move to the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
@@ -155,6 +151,10 @@ If this fix doesn’t work, move to the next one.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
@@ -178,24 +178,21 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-biggest-fifa-visuals-youtube-insights-graphed/"><u>[Updated] 2024 Approved Biggest FIFA Visuals YouTube Insights Graphed</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-elevate-your-photography-with-polarrs-complete-features/"><u>[Updated] In 2024, Elevate Your Photography with Polarr's Complete Features</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-harnessing-the-power-camera-techniques-in-ios-11/"><u>[Updated] In 2024, Harnessing the Power Camera Techniques in iOS 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1-unveiling-strategies-how-apple-could-surpass-competitors-like-microsoft-and-google-at-the-upcoming-wwdc-2eek-insights/"><u>1. Unveiling Strategies: How Apple Could Surpass Competitors Like Microsoft & Google at the Upcoming WWDC 2Eek - Insights</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-best-mac-tools-excluding-standard-bandicam/"><u>2024 Approved Best Mac Tools Excluding Standard Bandicam</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/altering-screen-size-on-windows-11-an-achieved-solution/"><u>Altering Screen Size on Windows 11: An Achieved Solution</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boosting-windows-drivers-ms-graphics-fixes/"><u>Boosting Windows Drivers, MS Graphics Fixes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cured-amd-ray-tracing-issue/"><u>Cured AMD Ray Tracing Issue</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/cutting-edge-ways-to-tailor-your-igtv-content-size-for-2024/"><u>Cutting-Edge Ways to Tailor Your IGTV Content Size for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-artificial-intelligence-simulating-talks-between-humans-and-chatbots/"><u>Exploring Artificial Intelligence: Simulating Talks Between Humans and Chatbots</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/herramientas-gratuitas-para-recortar-grabaciones-sonoras-y-descargarlas-facilmente-desde-cualquier-dispositivo-conectado-a-internet/"><u>Herramientas Gratuitas Para Recortar Grabaciones Sonoras Y Descargarlas Fácilmente Desde Cualquier Dispositivo Conectado a Internet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-5-best-hd-hunting-cameras-reviewed/"><u>In 2024, 5 Best HD Hunting Cameras Reviewed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/kernel-issue-overcome-monitor-recovered/"><u>Kernel Issue Overcome: Monitor Recovered</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimizing-win11-monitor-size/"><u>Optimizing Win11 Monitor Size</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818245271-saving-screen-configuration-job-well-done/"><u>Saving Screen Configuration, Job Well Done</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smooth-out-windows-graphics-with-proper-card/"><u>Smooth Out Windows Graphics with Proper Card</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successful-resolution-of-windows-11-gpu-issue/"><u>Successful Resolution of Windows 11 GPU Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unblemished-visuals-on-windows-11-pc/"><u>Unblemished Visuals on Windows 11 PC</u></a></li>
-<li><a href="https://win-blog.techidaily.com/winning-the-battle-against-chrome-freezing-tips-for-windows-11-users/"><u>Winning the Battle Against Chrome Freezing - Tips for Windows 11 Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-clear-water-footage-pro-techniques-for-gopro-underwater-scenes/"><u>2024 Approved Clear Water Footage Pro Techniques for GoPro Underwater Scenes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/an-in-depth-examination-of-the-midland-lxt500vp3-featureful-but-underwhelming-radio-performance/"><u>An In-Depth Examination of the Midland LXT500VP3 - Featureful but Underwhelming Radio Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ceo-shift-in-ai-chatgpt-questioned/"><u>CEO Shift in AI, ChatGPT Questioned</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/driver-recovery-display-issue-cleared-by-nvidia/"><u>Driver Recovery: Display Issue Cleared by Nvidia</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-your-filmmaking-top-strategies-for-gopro-timelapses/"><u>Elevate Your Filmmaking Top Strategies for GoPro Timelapses</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expanded-device-support-youtubes-consistent-audio-levels-now-arriving/"><u>Expanded Device Support: YouTube's Consistent Audio Levels Now Arriving</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-poco-frp-by-drfone-android/"><u>How Can We Bypass Poco FRP?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-keep-your-pcs-intel-hardware-at-its-peak-performance/"><u>How to Keep Your PC's Intel Hardware at Its Peak Performance</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-oppo-reno-11-5g-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Oppo Reno 11 5G.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-strategies-for-skyrocketing-youtube-followers/"><u>In 2024, Strategies for Skyrocketing YouTube Followers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/push-past-white-screen-in-sims-world/"><u>Push Past White Screen in Sims World</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/speed-up-your-system-with-latest-nvidia-driver/"><u>Speed Up Your System with Latest Nvidia Driver</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/step-by-step-guide-restoring-unintentionally-erased-messages-in-the-recycling-area/"><u>Step-by-Step Guide: Restoring Unintentionally Erased Messages in the Recycling Area</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-blue-screen-freeze-fix-windows-wdf-drivers/"><u>Stop Blue Screen Freeze: Fix Windows WDF Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unmistakable-window-visibility/"><u>Unmistakable Window Visibility</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/wake-up-that-dormant-laptop-display/"><u>Wake Up That Dormant Laptop Display!</u></a></li>
 </ul></div>
 

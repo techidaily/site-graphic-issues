@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] DirectX12 Affecting Halo Infinite Launch Sequence"
-date: 2025-02-08T04:51:50.649Z
-updated: 2025-02-09T19:12:44.278Z
+date: 2025-02-13T22:03:59.993Z
+updated: 2025-02-19T20:08:35.585Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 
  Halo Infinite is a great game but it is really annoying when you get a DirectX12 error and can’t launch the game. Don’t worry, you’re not alone. This post has gathered fixes to solve the error and help you play the game. Read on to find how.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. [Download DX12 file](#fix)
@@ -31,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 5. [Repair system files](#fix4)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Download DX12 file
@@ -76,10 +72,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](mailto:support@drivereasy.com) .**
 
@@ -116,16 +108,24 @@ You need to check 2 elements:
 3. In the DirectX Diagnostic Tool, check the**DirectX Version** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-1.jpg)
 4. Go to the**Display 1** tab, and it will show you the version of Direct3D and the supported feature levels.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx12-2.jpg)  
  Also, you can check your VRAM on the left panel.
 
 If your Feature Level is lower than 12\_0, you’ll need a new GPU.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Edit your file name
 
@@ -152,12 +152,12 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -178,20 +178,19 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-demystifying-advanced-video-coding-techniques/"><u>[New] Demystifying Advanced Video Coding Techniques</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-leading-brands-in-top-15-4k-recording-for-2024/"><u>[New] Leading Brands in Top 15 4K Recording for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-learn-to-keep-unwanted-suggestions-away-from-ig-for-2024/"><u>[New] Learn to Keep Unwanted Suggestions Away From IG for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-wdfviolation-blue-screen-error-on-windows-111087/"><u>[SOLVED] WDF_Violation Blue Screen Error on Windows 11/10/8/7</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-elevate-youtube-video-quality-minimize-distractions/"><u>[Updated] Elevate YouTube Video Quality, Minimize Distractions</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-integrating-cg-centrals-luts-into-vfx-production-flows/"><u>[Updated] Integrating CG Central's Luts Into VFX Production Flows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expert-picks-the-finest-photo-frame-software/"><u>Expert Picks The Finest Photo Frame Software</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-lava-blaze-pro-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Lava Blaze Pro 5G Phone that is Locked?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-choreographing-attractive-podcast-briefs/"><u>In 2024, Choreographing Attractive Podcast Briefs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/leading-av-creators-digital-edition-list/"><u>Leading AV Creators Digital Edition List</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lost-connection-found-solution-quick-signal-restoration/"><u>Lost Connection, Found Solution: Quick Signal Restoration</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/new-rtx-no-visual-feedback/"><u>New RTX No Visual Feedback</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-clearance-mouse-on-win11/"><u>Screen Clearance - Mouse on Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-monitors-silence-combat-visual-shudder/"><u>The Monitor's Silence: Combat Visual Shudder</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/winos-blueerror-resolve-complications-with-wdf-drivers/"><u>WinOS BlueError: Resolve Complications with WDF Drivers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-become-a-skilled-concealer-of-in-game-voices-compre-points-on-altering-sounds-in-free-fire/"><u>[Updated] 2024 Approved Become a Skilled Concealer of In-Game Voices Compre Points on Altering Sounds in Free Fire</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-cheerful-media-extractor-analysis/"><u>[Updated] 2024 Approved Cheerful Media Extractor Analysis</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-a-comprehensive-tutorial-for-srt-filters-in-social-space/"><u>[Updated] In 2024, A Comprehensive Tutorial for SRT Filters in Social Space</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-mastering-switch-pro-controller-in-steam-gaming/"><u>[Updated] In 2024, Mastering Switch Pro Controller in Steam Gaming</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/conquered-initialization-obstacle/"><u>Conquered Initialization Obstacle</u></a></li>
+<li><a href="https://games-able.techidaily.com/effective-gaming-budget-management-on-playstation/"><u>Effective Gaming Budget Management on PlayStation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ending-switchable-gpu-woes-nvidiaintel-fix-on-win10/"><u>Ending Switchable GPU Woes: Nvidia/Intel Fix on Win10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-14-pro-max-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 14 Pro Max to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-command-attention-on-instagram-nine-paths-to-social-media-glory/"><u>In 2024, Command Attention on Instagram Nine Paths to Social Media Glory</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/latest-win11-enhancements-for-visual-customization/"><u>Latest Win11 Enhancements for Visual Customization</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-this-application-cannot-run-on-your-pc-error-a-step-by-step-guide-for-windows-11-users/"><u>Resolving 'This Application Cannot Run on Your PC' Error: A Step-by-Step Guide for Windows 11 Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-video-driver-issue-43-quickly/"><u>Solved Video Driver Issue #43 Quickly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshoot-vertical-edges-misalignment-in-laptop-screens/"><u>Troubleshoot Vertical Edges Misalignment in Laptop Screens</u></a></li>
 </ul></div>
 

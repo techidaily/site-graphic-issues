@@ -1,7 +1,7 @@
 ---
 title: Mending Disconnected Laptop and TV via HDMI
-date: 2025-02-03T22:01:52.584Z
-updated: 2025-02-09T18:30:48.893Z
+date: 2025-02-16T07:11:21.199Z
+updated: 2025-02-19T21:29:58.315Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/5bbb0b2b291780ca3cbfea599130f07779f3c6fbf
  Why is HDMI from laptop to TV not working? Usually, it’s the hardware faulty, so make sure your hardware devices are working properly. Another possible reason is that your TV is not recognized by your laptop. And you can try these solutions to fix your problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix HDMI laptop to TV not working
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/5bbb0b2b291780ca3cbfea599130f07779f3c6fbf
 3. [Update available drivers](#F3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Restart and reconnect your devices
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/5bbb0b2b291780ca3cbfea599130f07779f3c6fbf
 
 Now check and see if your laptop to TV by HDMI works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Configure your Display Settings
 
  When HDMI from your laptop to TV doesn’t work, one of the possible reasons is the incorrect display settings on your laptop. So it’s always a good idea to check your laptop’s display settings:
@@ -64,10 +68,6 @@ The difference between each mode is as follows:
 * **Extend** — Using both monitors to display an extended desktop.
 * **Second screen/Projector only** — using only the second monitor.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c453c1dab187.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Experiment with each mode and select the option that is the best match for your needs. If your display settings are correct, you will be able to see images on the screen connected via HDMI.
 
@@ -91,7 +91,7 @@ The difference between each mode is as follows:
 3. Click the**Update** button next to the flagged device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it on your computer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
@@ -99,7 +99,7 @@ The difference between each mode is as follows:
 4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Connect your TV to your laptop via HDMI and see if it’s working now.
@@ -124,24 +124,17 @@ The difference between each mode is as follows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-iconic-acting-peek-vimeo/"><u>[New] 2024 Approved Iconic Acting Peek - Vimeo</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-advanced-strategies-for-precise-vr-gameplay-recording/"><u>[Updated] 2024 Approved Advanced Strategies for Precise VR Gameplay Recording</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-video-space-understanding-64128gb-limits/"><u>[Updated] 2024 Approved Video Space Understanding 64/128GB Limits</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-top-gamers-screen-guide-best-monitors-at-4k-quality/"><u>2024 Approved Top Gamers' Screen Guide Best Monitors at 4K Quality</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/best-screen-recording-software-top-10-list-for-2024/"><u>Best Screen Recording Software Top 10 List for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/breaking-down-the-differences-between-advanced-neo-qled-and-oled-displays/"><u>Breaking Down the Differences Between Advanced Neo QLED & OLED Displays</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/driver-error-corrected-nvidias-screen-response-restored/"><u>Driver Error Corrected: Nvidia's Screen Response Restored</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-itel-s23plus-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/miniaturize-display-on-win-10-pc/"><u>Miniaturize Display on WIN 10 PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/minify-window-dimensions-in-win-10/"><u>Minify Window Dimensions in WIN 10</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/next-gen-graphics-the-latest-upgrade-to-windows-11s-geforce-210-drivers/"><u>Next-Gen Graphics: The Latest Upgrade to Windows 11'S GeForce 210 Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quench-flickering-in-windows-11-screens/"><u>Quench Flickering in Windows 11 Screens</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quick-remedies-reclaiming-your-screens-connection/"><u>Quick Remedies: Reclaiming Your Screen's Connection</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/sliding-into-saved-screen-setup-post-resolution/"><u>Sliding Into Saved Screen Setup Post-Resolution</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tarkov-patch-guide-fixed-amd-visual-issues/"><u>Tarkov Patch Guide: Fixed AMD Visual Issues</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-hidden-gems-a-comprehensive-guide-to-searching-for-images-on-facebook/"><u>Unveiling Hidden Gems: A Comprehensive Guide to Searching for Images on Facebook</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-ultimate-guide-to-mts-video-editing-top-5-software/"><u>Updated In 2024, The Ultimate Guide to MTS Video Editing Top 5 Software</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-black-screen-with-cursor-solved/"><u>Windows 10 Black Screen with Cursor [SOLVED]</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-quirky-quotables-tailoring-hilarious-content-for-brief-videography/"><u>[Updated] 2024 Approved Quirky Quotables Tailoring Hilarious Content for Brief Videography</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-erratic-illumination-in-acer-devices/"><u>Fixing Erratic Illumination in Acer Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-gpu-error-43-successfully/"><u>Fixing GPU Error 43 Successfully</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hdr-tech-review-auroras-place-among-leaders-for-2024/"><u>HDR Tech Review Aurora's Place Among Leaders for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-a-masterpiece-harnessing-the-power-of-windows-11s-paint-cocreator-for-ai-images/"><u>How to Make a Masterpiece: Harnessing the Power of Windows 11’S Paint Cocreator for AI Images</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-itel-a70-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-precision-playback-aligning-video-views-in-real-time/"><u>In 2024, Precision Playback Aligning Video Views in Real-Time</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/laugh-outloud-a-curation-of-the-funniest-tiktok-videos-and-joke-threads/"><u>Laugh Outloud A Curation of the Funniest TikTok Videos and Joke Threads</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectify-sims-screensaver-stop/"><u>Rectify Sims Screensaver Stop</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/selecting-a-prime-livestream-service-top-10-essentials-for-2024/"><u>Selecting a Prime Livestream Service Top 10 Essentials for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/mline-your-videos-10-best-flv-to-youtube-convertors/"><u>Streamline Your Videos 10 Best FLV to YouTube Convertors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/winos-resilience-handling-cominterface-errors-effectively/"><u>WinOS Resilience: Handling COMInterface Errors Effectively</u></a></li>
 </ul></div>
 

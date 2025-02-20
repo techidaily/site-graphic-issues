@@ -1,7 +1,7 @@
 ---
 title: ScreenInversionProblem Fixes
-date: 2025-01-05T00:03:11.406Z
-updated: 2025-01-10T08:25:01.236Z
+date: 2025-02-17T01:25:49.462Z
+updated: 2025-02-20T06:08:22.559Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
  Is your**computer screen upside down** suddenly, and you don’t know what you’ve down to cause it?
 
  Don’t worry. This is a common Windows screen issue, and many people have resolved the computer screen upside down issue with the solutions in this post. So read on and get your Windows screen back on track.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to do if my computer is screen upside down?
 
@@ -48,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e563d98db.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Go to**Hot Keys** and make sure it’s**enabled** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18e59b14930.jpg)
@@ -59,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
  3) Then try the keyboard shortcut combinations again to rotate your computer/laptop screen.
 
  This should help you fix the upside down screen. If not, don’t worry. We have other solutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Configure Display Settings
 
@@ -76,20 +80,20 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/12/win-11-display-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Scroll down and locate the**Display orientation** menu. Change the orientation to:**Landscape,** **Portrait** ,**Landscape** **(flipped)** , or **Portrait (flipped)** for your Windows screen, until it rotates to the right orientation.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/win-11-desktop-upside-down-orientation.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You may need to try different orientations until you’re satisfied. If you’re satisfied with the current orientation you selected, click**Keep changes** to save; if not, click**Revert** or just wait 15 seconds.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/06/win-11-desktop-upside-down-save-changes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **If you’re using Windows 8 and Windows 7**
@@ -102,23 +106,19 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b19127f11a3b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the drop down menu next to**Orientation** , and select**Portrait** ,**Landscape (flipped)** ,**Portrait (flipped)** , and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1912cecb794.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You’ll need to try each one to flip your computer screen to a proper orientation.
 
  If you’re satisfied with the current orientation you selected, click**Keep changes** to save; if not, click**Revert** or just wait 15 seconds.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b19130eb9613.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Still no luck? Don’t be upset. There’s one more thing to try…
 
@@ -173,22 +173,22 @@ There are two options to update drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-essential-guide-to-selecting-a-suitable-vimeo-subscription/"><u>[New] In 2024, Essential Guide to Selecting a Suitable Vimeo Subscription</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817870454-solved-apex-legends-crash-quickly-and-easily/"><u>[Solved] Apex Legends Crash | Quickly & Easily</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-captivating-viewers-youtubers-guide-to-dynamic-game-sessions/"><u>[Updated] 2024 Approved Captivating Viewers YouTubers’ Guide to Dynamic Game Sessions</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-convert-srt-free-top-10-web-subtitle-services/"><u>[Updated] Convert SRT Free Top 10 Web Subtitle Services</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-exploring-digital-film-coloring-methods/"><u>[Updated] In 2024, Exploring Digital Film Coloring Methods</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-outro-techniques-for-videos/"><u>[Updated] Mastering Outro Techniques for Videos</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-learn-to-convert-youtube-videos-into-text-no-cost/"><u>2024 Approved Learn to Convert YouTube Videos Into Text – No Cost!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/breakthrough-for-desktop-computing-amds-flagship-zen-5-processor-ryzen-9-9950x-outperforms-competitor-by-24-in-rendering-benchmark-assessment/"><u>Breakthrough for Desktop Computing: AMD’s Flagship Zen 5 Processor, Ryzen 9 9950X, Outperforms Competitor by 24% in Rendering Benchmark Assessment</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connect-online-with-leading-platforms-facebook-twitter-instagram-and-yt/"><u>Connect Online with Leading Platforms: Facebook, Twitter, Instagram & YT</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-blank-graphic-support-gone/"><u>Display Blank, Graphic Support Gone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/effortless-video-playback-post-windows-10-upgrade/"><u>Effortless Video Playback Post-Windows 10 Upgrade</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eradicate-the-persistent-asus-screen-squirm/"><u>Eradicate the Persistent ASUS Screen Squirm</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-gpu-capability-to-desktop-pcs-win1011/"><u>Restoring GPU Capability to Desktop PCs Win10/11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/saving-your-silent-laptops-visual-interface/"><u>Saving Your Silent Laptop's Visual Interface</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10-post-upgrade-stream-success-tips/"><u>Win10: Post-Upgrade Stream Success Tips</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-update-superior-display-settings-available/"><u>Windows 11 Update: Superior Display Settings Available</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-aurora-high-dynamic-range-review-pros-and-cons/"><u>[New] Aurora High-Dynamic Range Review – Pros & Cons</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-supreme-4k-tvs-for-the-ultimate-gaming-experience/"><u>[New] Supreme 4K TVs for the Ultimate Gaming Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tackling-massed-up-tiktoks-expert-edits-for-less-chaos/"><u>[New] Tackling Massed-Up TikToks Expert Edits for Less Chaos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-reaching-peak-youtube-potential-through-strategic-creator-studio-usage-for-2024/"><u>[Updated] Reaching Peak YouTube Potential Through Strategic Creator Studio Usage for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-thrifty-aetherspace-vault-massive-files-affordably/"><u>2024 Approved Thrifty Aetherspace Vault Massive Files Affordably</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clear-screens-ahead-no-more-black-windows/"><u>Clear Screens Ahead: No More Black Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/from-dark-to-bright-on-your-lenovo/"><u>From Dark to Bright on Your Lenovo</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gfx-failure-system-rejects-startup/"><u>GFX Failure: System Rejects Startup</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-motorola-moto-g73-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Motorola Moto G73 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mending-upgraded-windows-10-streaming/"><u>Mending Upgraded Windows 10 Streaming</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/preventing-phantom-panels-post-power-cycle/"><u>Preventing Phantom Panels Post-Power Cycle</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-on-how-to-access-and-utilize-the-wayback-machine-for-historical-web-data/"><u>Step-by-Step Instructions on How to Access and Utilize the Wayback Machine for Historical Web Data</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-browser-hiccups-in-windows-11-quick-fixes-for-chrome-stalls/"><u>Stop Browser Hiccups in Windows 11 - Quick Fixes for Chrome Stalls</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/taming-the-flickering-on-windows-11/"><u>Taming the Flickering on Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unexpected-laptop-screen-shutdown-what-to-do/"><u>Unexpected Laptop Screen Shutdown - What to Do?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-cant-change-resolution-solved/"><u>Windows 10 Can’t Change Resolution [SOLVED]</u></a></li>
 </ul></div>
 
